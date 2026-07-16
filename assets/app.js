@@ -78,39 +78,48 @@ const topStoriesTitleEl = document.getElementById("topStoriesTitle");
 const listSortToolsEl = document.getElementById("listSortTools");
 
 const SOURCE_KINDS = {
-  official_ai: { label: "官方", tone: "official" },
-  curated_media: { label: "精选媒体", tone: "aihub" },
-  aihot: { label: "AI HOT", tone: "hot" },
-  aibreakfast: { label: "日报", tone: "newsletter" },
-  followbuilders: { label: "Builders/X", tone: "builders" },
-  xapi: { label: "X API", tone: "builders" },
-  socialdata_x: { label: "X 搜索", tone: "builders" },
-  tikhub_douyin: { label: "抖音", tone: "creator" },
-  tikhub_xiaohongshu: { label: "小红书", tone: "creator" },
-  techurls: { label: "聚合", tone: "aggregate" },
-  buzzing: { label: "聚合", tone: "aggregate" },
-  iris: { label: "聚合", tone: "aggregate" },
-  bestblogs: { label: "博客", tone: "blogs" },
-  tophub: { label: "聚合", tone: "aggregate" },
-  zeli: { label: "聚合", tone: "aggregate" },
-  hackernews: { label: "HN", tone: "aggregate" },
-  aihubtoday: { label: "AI站点", tone: "aihub" },
-  aibase: { label: "AI站点", tone: "aihub" },
-  waytoagi: { label: "社区", tone: "builders" },
-  newsnow: { label: "聚合", tone: "aggregate" },
-  opmlrss: { label: "OPML", tone: "newsletter" },
+  // Official / regulator sources
+  iaea_news:      { label: "IAEA",     tone: "official" },
+  oecd_nea:       { label: "OECD/NEA", tone: "official" },
+  us_nrc:         { label: "US NRC",   tone: "regulator" },
+  asn_fr:         { label: "ASN",      tone: "regulator" },
+  doe_ne:         { label: "DOE-NE",   tone: "official" },
+  iter_org:       { label: "ITER",     tone: "official" },
+  // Nuclear media
+  wnn:            { label: "WNN",      tone: "media" },
+  nucnet:         { label: "NucNet",   tone: "media" },
+  ans_newswire:   { label: "ANS",      tone: "media" },
+  nei_magazine:   { label: "NEI",      tone: "media" },
+  neutronbytes:   { label: "NeutronBytes", tone: "media" },
+  // Industry / operators
+  cnnc_news:      { label: "中核",     tone: "industry" },
+  cgn_news:       { label: "中广核",   tone: "industry" },
+  rosatom:        { label: "Rosatom",  tone: "industry" },
+  edf_nuclear:    { label: "EDF",      tone: "industry" },
+  // Research
+  arxiv_nuclex:   { label: "arXiv",    tone: "research" },
+  arxiv_nuclth:   { label: "arXiv",    tone: "research" },
+  arxiv_insdet:   { label: "arXiv",    tone: "research" },
+  eurofusion:     { label: "EUROfusion", tone: "research" },
+  // General media / community
+  powermag:       { label: "POWER",    tone: "general" },
+  bjx_nuclear:    { label: "北极星",   tone: "aggregator" },
+  nucleartownhall:{ label: "Town Hall",tone: "aggregator" },
+  nuclear_net_cn: { label: "中国核网", tone: "aggregator" },
+  hn_nuclear:     { label: "HN",       tone: "community" },
+  reddit_nuclear: { label: "Reddit",   tone: "community" },
 };
 
 const SECTION_DEFS = [
-  { id: "hot", label: "热点", short: "热点", description: "跨来源聚合后的优先阅读列表" },
-  { id: "models", label: "模型", short: "模型", description: "模型发布、能力升级、评测与开源权重" },
-  { id: "products", label: "产品", short: "产品", description: "AI 应用、Agent、生成工具和用户产品更新" },
-  { id: "devtools", label: "开发者", short: "开发者", description: "编程工具、API、开源项目、推理与工程实践" },
-  { id: "hn", label: "HN热议", short: "HN", description: "Hacker News 过去 24 小时的 AI 关键词讨论与高互动 story" },
-  { id: "industry", label: "行业", short: "行业", description: "公司战略、融资收购、监管、芯片与产业变化" },
-  { id: "research", label: "研究", short: "研究", description: "论文、基准、方法、数据集与研究团队动态" },
-  { id: "creator", label: "自媒体", short: "自媒体", description: "一周内互动热度优先，24 小时新内容额外加分" },
-  { id: "community", label: "社区", short: "社区", description: "WaytoAGI、中文社区、AIbase、公众号和 Builders/X 信号" },
+  { id: "hot", label: "热点", short: "热点", description: "多源交叉验证的核能热点事件" },
+  { id: "policy", label: "政策法规", short: "政策", description: "核安全监管、许可证、法规、政府决策" },
+  { id: "newbuild", label: "新项目", short: "新项目", description: "新建核电站、SMR部署、项目里程碑" },
+  { id: "tech", label: "技术进展", short: "技术", description: "反应堆技术、核聚变、燃料循环、材料" },
+  { id: "fuel", label: "铀矿燃料", short: "燃料", description: "铀矿开采、浓缩、HALEU、燃料供应链" },
+  { id: "safety", label: "核安全", short: "安全", description: "运行事件、INES分级、经验反馈、辐射防护" },
+  { id: "research", label: "学术前沿", short: "学术", description: "arXiv预印本、期刊论文、会议报告" },
+  { id: "china", label: "国内核电", short: "国内", description: "中国核能行业动态、中核、中广核、国家电投" },
+  { id: "community", label: "社区讨论", short: "社区", description: "Reddit、HN核能话题、国际社区讨论" },
 ];
 
 const SECTION_BY_ID = Object.fromEntries(SECTION_DEFS.map((section) => [section.id, section]));
@@ -158,14 +167,14 @@ function setStats() {
   const okSites = Number(status?.successful_sites || 0);
   const health = totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}正常` : "加载中";
   const cards = [
-    ["AI", `${fmtNumber(state.totalAi || items.length)}条`],
+    ["核能", `${fmtNumber(state.totalAi || items.length)}条`],
     ["高优", `${fmtNumber(highCount)}条`],
     ["精选", `${fmtNumber(curatedCount)}条`],
     ["源", health],
   ];
   statsEl.setAttribute(
     "aria-label",
-    `过去 24 小时：AI 信号 ${fmtNumber(state.totalAi || items.length)} 条，高优先级 ${fmtNumber(highCount)} 条，精选 ${fmtNumber(curatedCount)} 条，源状态 ${totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常` : "加载中"}`,
+    `过去 24 小时：核能信号 ${fmtNumber(state.totalAi || items.length)} 条，高优先级 ${fmtNumber(highCount)} 条，精选 ${fmtNumber(curatedCount)} 条，源状态 ${totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常` : "加载中"}`,
   );
 
   const prefix = document.createElement("div");
@@ -225,7 +234,7 @@ function renderStickySummary() {
     state.signalLevelFilter ? signalLevel : "",
     query ? `搜索“${query}”` : "",
   ].filter(Boolean);
-  const mode = state.mode === "all" ? "全量" : "AI强相关";
+  const mode = state.mode === "all" ? "全量" : "核能强相关";
   stickySummaryTextEl.textContent = `${fmtNumber(filteredCount)} 条 · ${mode}${filters.length ? ` · ${filters.join(" · ")}` : ""}`;
 }
 
@@ -841,98 +850,47 @@ function matchesAny(text, patterns) {
 function itemSections(item) {
   const hay = itemHaystack(item);
   const contentHay = [
-    item.title,
-    item.title_zh,
-    item.title_en,
-    item.title_original,
-    item.source,
-    item.site_name,
-    item.site_id,
-    ...(Array.isArray(item.ai_signals) ? item.ai_signals : []),
+    item.title, item.title_zh, item.title_en, item.title_original,
+    item.source, item.site_name, item.site_id,
+    ...(Array.isArray(item.nuclear_signals) ? item.nuclear_signals : []),
   ].filter(Boolean).join(" ").toLowerCase();
   const sections = new Set();
-  const label = item.ai_label || "";
   const source = `${item.source || ""} ${item.site_name || ""}`.toLowerCase();
-  const hasExplicitModelTerm = matchesAny(contentHay, [
-    /gpt[-\s]?\d|claude|gemini|grok|llama|qwen|deepseek|mistral|kimi\s?k\d|glm|gemma|模型|model|weights|权重|多模态|视频生成|diffusion|sora|seedance|llm|大模型/,
-  ]);
-  const looksLikeToolOrProduct = matchesAny(hay, [
-    /skill|copilot|codex|cli|api|sdk|dashboard|workflow|tool|工具|助手|应用|插件|工作流|支付宝|浏览器|搜索/,
-  ]);
+  const tier = (item.source_tier || "").toLowerCase();
 
-  if (
-    hasExplicitModelTerm ||
-    (label === "model_release" && !looksLikeToolOrProduct)
-  ) sections.add("models");
+  // Policy / regulation
+  if (matchesAny(contentHay, [/nrc|regulation|regulator|license|licensing|permit|rule|rulemaking|inspection|compliance|enforcement|order|directive|法令|监管|许可|审批|法规|条例|政策/])
+      || tier === "regulator") sections.add("policy");
 
-  if (
-    label === "ai_product_update" ||
-    label === "agent_workflow" ||
-    label === "robotics" ||
-    matchesAny(hay, [
-      /app|product|agent|workflow|siri|copilot|chatgpt|perplexity|runway|suno|支付宝|产品|应用|智能体|机器人|浏览器|搜索|助手|生成工具|办公|教育/,
-    ])
-  ) sections.add("products");
+  // New build / construction
+  if (matchesAny(contentHay, [/construction|first concrete|groundbreaking|FCD|pouring|milestone|grid connection|synchronization|commissioning|commercial operation|开工|建设|浇筑|FCD|并网|商运|投产|核准|新机组/])
+  ) sections.add("newbuild");
 
-  if (
-    label === "developer_tool" ||
-    label === "developer_tooling" ||
-    label === "infra_compute" ||
-    matchesAny(hay, [
-      /github|cursor|codex|copilot|openrouter|api|sdk|mcp|cli|framework|inference|推理|开发者|开源|代码|编程|算力|芯片|nvidia|cloud|部署|benchmarking|token/,
-    ])
-  ) sections.add("devtools");
+  // Technology / reactors / fusion
+  if (matchesAny(contentHay, [/smr|small modular|advanced reactor|gen\s*iv|generation iv|htgr|pwr|bwr|phwr|fast reactor|molten salt|pebble bed|microreactor|fusion|tokamak|stellarator|plasma|tritium|deuterium|isotope|燃料|堆型|技术|设计|研发|示范/])
+      || tier === "research") sections.add("tech");
 
-  if (
-    item.site_id === "hackernews" ||
-    item.site_id === "zeli" ||
-    source.includes("hacker news") ||
-    source.includes("hackernews") ||
-    source.includes("hn algolia")
-  ) sections.add("hn");
+  // Uranium / fuel cycle
+  if (matchesAny(contentHay, [/uranium|enrichment|haleu|fuel cycle|fuel supply|conversion|fabrication|spent fuel|reprocessing|mining|铀|浓缩|燃料|开采|转化|制造/])
+  ) sections.add("fuel");
 
-  if (
-    label === "industry_business" ||
-    matchesAny(hay, [
-      /funding|raised|ipo|acquire|acquisition|lawsuit|regulation|policy|white house|pentagon|nvidia|salesforce|meta|microsoft|融资|收购|上市|监管|政策|裁员|估值|债券|芯片|公司|行业|政府|五角大楼|白宫/,
-    ])
-  ) sections.add("industry");
+  // Safety / incidents
+  if (matchesAny(contentHay, [/safety|incident|ines|event report|emergency|accident|containment|radiation protection|dose|release|安全|事件|事故|INES|应急|辐射防护|剂量|泄漏/])
+  ) sections.add("safety");
 
-  if (
-    label === "research_paper" ||
-    matchesAny(hay, [
-      /paper|arxiv|research|benchmark|eval|dataset|lmsys|rdi|berkeley|huggingface daily papers|论文|研究|基准|评测|数据集|训练|k-means|speculative decoding/,
-    ])
-  ) sections.add("research");
+  // Research / academic
+  if (matchesAny(contentHay, [/arxiv|journal|doi|paper|preprint|conference|symposium|proceedings|research|论文|期刊|预印本|研究|学报/])
+      || source.includes("arxiv")) sections.add("research");
 
-  if (
-    item.site_id === "tikhub_douyin" ||
-    item.site_id === "tikhub_xiaohongshu" ||
-    source.includes("douyin") ||
-    source.includes("xiaohongshu") ||
-    source.includes("小红书") ||
-    source.includes("抖音")
-  ) sections.add("creator");
+  // China nuclear
+  if (matchesAny(contentHay, [/cnnc|cgn|cgnpc|spic|华龙|国和|cap1400|cap1000|玲龙|燕龙|中核|中广核|国家电投|华能|中国核电|china nuclear/])
+      || source.includes("中核") || source.includes("中广核")) sections.add("china");
 
-  if (
-    item.site_id === "waytoagi" ||
-    item.site_id === "followbuilders" ||
-    item.site_id === "aibase" ||
-    source.includes("it之家") ||
-    source.includes("36氪") ||
-    source.includes("掘金") ||
-    source.includes("readhub") ||
-    source.includes("aibase") ||
-    source.includes("公众号") ||
-    source.includes("宝玉") ||
-    source.includes("小互") ||
-    source.includes("ayi") ||
-    matchesAny(hay, [
-      /waytoagi|社区|公众号|阿里|通义|千问|智谱|kimi|月之暗面|minimax|字节|火山|百度|腾讯|华为|蚂蚁|讯飞|国内|中文|开源中国|少数派|虎嗅/,
-    ])
-  ) sections.add("community");
+  // Community
+  if (matchesAny(contentHay, [/reddit|hacker news|hn|community|forum|讨论|论坛|社区/])
+      || tier === "community") sections.add("community");
 
-  if (!sections.size) sections.add("industry");
+  if (!sections.size) sections.add("hot");
   return sections;
 }
 
