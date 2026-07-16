@@ -1,1 +1,115 @@
-{"generated_at": "", "updates": [], "total": 0}
+{
+  "generated_at": "2026-07-16T14:21:16.993985+00:00",
+  "root_url": "https://news.ycombinator.com/",
+  "history_url": "https://www.reddit.com/r/nuclear/",
+  "updates_7d": [
+    {
+      "date": "2026-07-16",
+      "title": "A reactor with no fuel rods and no pellets runs on uranium dissolved into molten salt, a liquid…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uy49me/a_reactor_with_no_fuel_rods_and_no_pellets_runs/"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "National Nuclear Security Administration: Additional Actions Needed to Plan for Science, Techno…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uxtksa/national_nuclear_security_administration/"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Kudankulam nuclear power plant ‘data’ on dark web",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uxs29m/kudankulam_nuclear_power_plant_data_on_dark_web/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uxgj16/every_fusion_startup_that_has_raised_over_100m/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "EDF reactors could be used to... cool rivers",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uxdfi1/edf_reactors_could_be_used_to_cool_rivers/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Are American jobs in nuclear limited to US citizens?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1ux97ti/are_american_jobs_in_nuclear_limited_to_us/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "How to lie about radiation -",
+      "url": "https://www.reddit.com/r/nuclear/comments/1ux8qrm/how_to_lie_about_radiation/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reute…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1ux5zzm/files_relating_to_indias_largest_nuclear_power/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "How effective would nuclear energy be for Desalination? Could Salt Water be used for nuclear po…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1ux3spa/how_effective_would_nuclear_energy_be_for/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Building new Swiss nuclear power plant economically viable, report says",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uwzfjs/building_new_swiss_nuclear_power_plant/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "A new smart coating could improve the cleanup of nuclear wastewater",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uwzdn1/a_new_smart_coating_could_improve_the_cleanup_of/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "UPDATE- New Jersey to procure new nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uwwykm/update_new_jersey_to_procure_new_nuclear_power/"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "US startup moves closer to commercial nuclear fuel recycling plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uwsu3o/us_startup_moves_closer_to_commercial_nuclear/"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Oklo, the Earth's two-billion- year-old only known natural nuclear reactor [pdf]",
+      "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull59-2/5922627.pdf"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "France powers down several nuclear reactors due to extreme heat",
+      "url": "https://www.lemonde.fr/en/france/article/2026/07/12/france-powers-down-several-nuclear-reactors-due-to-extreme-heat_6755404_7.html"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Nuclear Fusion Ready for Commercialization?",
+      "url": "https://abc7news.com/post/inertia-worlds-1st-fusion-factory-lawrence-livermore-national-laboratory-aims-clean-energy-source-commercial-use/19482659/"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "China's Nuclear Sector Now Able to Build Fifty Reactors at a Time",
+      "url": "https://humanprogress.org/chinas-vast-nuclear-power-sector-now-able-to-build-50-reactors-at-a-time/"
+    }
+  ],
+  "updates_today": [
+    {
+      "date": "2026-07-16",
+      "title": "A reactor with no fuel rods and no pellets runs on uranium dissolved into molten salt, a liquid…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uy49me/a_reactor_with_no_fuel_rods_and_no_pellets_runs/"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "National Nuclear Security Administration: Additional Actions Needed to Plan for Science, Techno…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uxtksa/national_nuclear_security_administration/"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Kudankulam nuclear power plant ‘data’ on dark web",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uxs29m/kudankulam_nuclear_power_plant_data_on_dark_web/"
+    }
+  ],
+  "latest_date": "2026-07-16",
+  "count_7d": 17,
+  "count_today": 3,
+  "has_error": false,
+  "error": null,
+  "warning": null
+}
