@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 9,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null
     },
@@ -13,6 +13,14 @@
       "site_name": "Neutron Bytes",
       "ok": true,
       "item_count": 3,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 9,
       "duration_ms": 0,
       "error": null
     },
@@ -29,14 +37,6 @@
       "site_name": "arXiv nucl-th",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
       "duration_ms": 0,
       "error": null
     },
@@ -84,15 +84,7 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
-      "ok": true,
-      "item_count": 42,
+      "item_count": 140,
       "duration_ms": 0,
       "error": null
     },
@@ -113,26 +105,34 @@
       "error": null
     },
     {
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
+      "ok": true,
+      "item_count": 42,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 3085,
+      "duration_ms": 3206,
       "error": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 19,
-      "duration_ms": 6932,
+      "item_count": 13,
+      "duration_ms": 5947,
       "error": null
     }
   ],
   "successful_sites": 16,
   "failed_sites": [],
-  "fetched_raw_items": 190,
-  "items_before_topic_filter": 190,
+  "fetched_raw_items": 324,
+  "items_before_topic_filter": 324,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
