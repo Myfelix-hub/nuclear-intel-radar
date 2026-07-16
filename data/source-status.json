@@ -1,18 +1,26 @@
 {
   "sites": [
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
       "item_count": 3,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null
     },
@@ -45,14 +53,6 @@
       "site_name": "IAEA News",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
-      "ok": true,
-      "item_count": 20,
       "duration_ms": 0,
       "error": null
     },
@@ -97,14 +97,6 @@
       "error": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
-      "ok": true,
-      "item_count": 12,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "nei_magazine",
       "site_name": "Nuclear Eng. Int'l",
       "ok": true,
@@ -113,11 +105,19 @@
       "error": null
     },
     {
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": true,
+      "item_count": 12,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 3206,
+      "duration_ms": 2916,
       "error": null
     },
     {
@@ -125,7 +125,7 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 5947,
+      "duration_ms": 5727,
       "error": null
     }
   ],
