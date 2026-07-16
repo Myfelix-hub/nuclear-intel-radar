@@ -1939,7 +1939,7 @@ function impactLabels(item) {
   if (sections.has("research")) labels.push("研究");
   if (sections.has("models")) labels.push("模型团队");
   if (sections.has("community") || sections.has("hn")) labels.push("社区");
-  return labels.slice(0, 3).length ? labels.slice(0, 3) : ["AI 观察者"];
+  return labels.slice(0, 3).length ? labels.slice(0, 3) : ["核能观察者"];
 }
 
 function buildTopStoryCard(row, rank) {
@@ -2022,7 +2022,7 @@ function buildIntelCard(item, rank) {
   const score = scorePercent(item);
   const scoreEl = document.createElement("strong");
   scoreEl.className = `intel-score ${scoreTone(score)}`;
-  scoreEl.textContent = score ? `AI ${score}分` : "AI观察";
+  scoreEl.textContent = score ? `核能 ${score}分` : "核能观察";
   meta.append(rankEl, time, scoreEl);
 
   const title = document.createElement("a");
