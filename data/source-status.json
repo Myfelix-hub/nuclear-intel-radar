@@ -17,10 +17,10 @@
       "error": null
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 3,
+      "item_count": 9,
       "duration_ms": 0,
       "error": null
     },
@@ -33,10 +33,10 @@
       "error": null
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 9,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null
     },
@@ -109,7 +109,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 3760,
+      "duration_ms": 2909,
       "error": null
     },
     {
@@ -117,7 +117,7 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 5936,
+      "duration_ms": 5525,
       "error": null
     }
   ],
