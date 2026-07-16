@@ -9,6 +9,14 @@
       "error": null
     },
     {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 9,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
@@ -27,14 +35,6 @@
     {
       "site_id": "arxiv_insdet",
       "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
       "ok": true,
       "item_count": 9,
       "duration_ms": 0,
@@ -89,14 +89,6 @@
       "error": null
     },
     {
-      "site_id": "nuclear_net_cn",
-      "site_name": "中国核网",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "cgn_news",
       "site_name": "中广核",
       "ok": true,
@@ -105,11 +97,19 @@
       "error": null
     },
     {
+      "site_id": "nuclear_net_cn",
+      "site_name": "中国核网",
+      "ok": true,
+      "item_count": 9,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "fetch_hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 3485,
+      "duration_ms": 3760,
       "error": null
     },
     {
@@ -117,7 +117,7 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 5708,
+      "duration_ms": 5936,
       "error": null
     }
   ],
