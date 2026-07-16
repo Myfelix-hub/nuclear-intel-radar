@@ -1,44 +1,52 @@
-# AI News Radar Agent Notes
+# Nuclear Intel Radar — Agent Notes
 
 ## Scope
 
-This repo powers the public AI News Radar static site and Scout Skill source workflow.
-Use it for high-signal AI/tech news aggregation, OPML-based custom feeds,
-GitHub Actions refresh jobs, and GitHub Pages publishing.
+This repo powers the public Nuclear Intel Radar static site, a zero-server
+pipeline that aggregates global nuclear energy industry intelligence
+(IAEA, NRC, SMR developers, fusion, fuel cycle, operational events, policy).
 
 ## Working Rules
 
 - Keep changes small and reviewable.
-- Search the repo before changing source fetchers or output schemas.
-- Do not commit private feeds, secrets, tokens, cookies, or `.env` values.
-- Do not commit `feeds/follow.opml`; use `feeds/follow.example.opml` as the public template.
-- Prefer stable public RSS/Atom/OPML sources before adding custom scrapers.
-- Keep the reader-facing product simple: default to a curated AI-focused view, hide noisy or advanced source details behind existing filters/docs.
+- Search the repo before changing source fetchers or output schemas. The
+  source list, fetcher functions, and scoring weights live in
+  `scripts/update_news.py` and `scripts/nuclear_keywords.py`.
+- Do not commit private feeds, secrets, tokens, cookies, browser exports,
+  OPML files, or `.env` values.
+- Do not hand-edit files under `data/` — they are regenerated every 30
+  minutes by `.github/workflows/update-news.yml`.
+- Prefer stable public RSS/Atom feeds and first-party sources. Use Jina
+  Reader as fallback for sources without RSS. Custom scrapers only when
+  the source is high-signal and the markup is stable.
 
 ## Source Strategy
 
-Read `docs/SOURCE_COVERAGE.md` before adding or removing sources.
+Before adding or removing a source, check `data/source-status.json` for
+the last run's reachability and item count.
 
 Default source priority:
 
-1. Official RSS/Atom feeds and OPML collections.
-2. Stable public JSON APIs or static pages with timestamps.
-3. Curated newsletters or changelogs with public feeds.
-4. Manual/custom adapters only when the source is high-signal and stable.
+1. Official RSS/Atom feeds from industry bodies (IAEA, NRC, NucNet, WNN,
+   ANS Newswire, EUROfusion, DOE-NE).
+2. Vendor / OEM newsrooms with stable RSS (NuScale, TerraPower, X-energy,
+   Kairos, Oklo, BWXT, Rolls-Royce SMR, Holtec, AtkinsRéalis).
+3. National labs, regulators, and government agencies (CNNC, EDF, CGN,
+   Rosatom, JAEA, etc.) via RSS or official news pages.
+4. Trade media (POWER Magazine, Neutron Bytes, Nuclear Engineering Int'l).
+5. Community signals (HN Algolia, Reddit r/nuclear) — high noise, treat
+   with a stricter nuclear-relevance bar.
+6. Aggregators and Jina-based fallbacks for sources without RSS.
 
-Avoid account-bound timelines, broad personal social feeds, login-gated pages,
-and fragile bridges unless the user explicitly accepts the maintenance cost.
+Avoid sources that require login, cookies, CAPTCHA, or paid API keys for
+the public deployment. If a source is blocked by Cloudflare/GFW from
+mainland China, confirm it is reachable from the GitHub Actions runner
+before relying on it.
 
 ## Common Commands
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements-dev.txt
 python -m py_compile scripts/update_news.py
-python -m pytest -q
-python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml
-python -m http.server 8080
+python scripts/update_news.py --output-dir data --window-hours 72 --archive-days 21
+python -m http.server 8080   # then open http://localhost:8080
 ```
-
-For agent workflows, read `skills/ai-news-radar/SKILL.md`.
