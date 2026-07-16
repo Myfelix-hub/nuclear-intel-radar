@@ -695,10 +695,14 @@ def fetch_web_jina_sources(session: requests.Session, now: datetime) -> tuple[li
 
 
 def fetch_hn_nuclear(session: requests.Session, now: datetime) -> list[RawItem]:
-    """Search HN Algolia for nuclear-related posts in last 24h."""
+    """Search HN Algolia for nuclear-related posts in the recent window.
+
+    Nuclear topics are sparse on HN, so we look back 7 days rather than 24h
+    to keep the community feed populated.
+    """
     items: list[RawItem] = []
     seen_ids: set[str] = set()
-    cutoff = now - timedelta(hours=24)
+    cutoff = now - timedelta(days=7)
 
     for query in HN_ALGOLIA_QUERIES:
         try:
@@ -838,6 +842,18 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
             elapsed = (time.monotonic() - t0) * 1000
             all_statuses.append({"site_id": fn.__name__, "site_name": label,
                                   "ok": False, "item_count": 0, "duration_ms": round(elapsed), "error": str(e)[:200]})
+
+    # Patch community status records: replace fn.__name__ with the real site_id
+    # of the items they returned (or fallback site_id) so source-status.json
+    # shows hn_nuclear / reddit_nuclear consistently with latest-24h.json.
+    site_id_by_fn = {
+        "fetch_hn_nuclear": "hn_nuclear",
+        "fetch_reddit_nuclear": "reddit_nuclear",
+    }
+    for s in all_statuses:
+        sid = s.get("site_id")
+        if sid in site_id_by_fn:
+            s["site_id"] = site_id_by_fn[sid]
 
     return all_items, all_statuses
 
@@ -1058,11 +1074,44 @@ def main() -> int:
     (out / "latest-24h-all.json").write_text(json.dumps(all_payload, ensure_ascii=False, indent=2), encoding="utf-8")
     (out / "source-status.json").write_text(json.dumps(source_status_payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # Build community feed (HN + Reddit r/nuclear) — separate from news.
+    # Feeds use a 7d window because nuclear topics are sparse on community sites.
+    community_items = [
+        r for r in all_payload.get("items_all", [])
+        if r.get("site_id") in ("hn_nuclear", "reddit_nuclear")
+    ]
+    community_items.sort(key=lambda r: r.get("published_at") or "", reverse=True)
+
+    def _to_update(r: dict[str, Any]) -> dict[str, str]:
+        ts = r.get("published_at") or ""
+        date = ts[:10] if isinstance(ts, str) and len(ts) >= 10 else ""
+        return {"date": date, "title": r.get("title") or "", "url": r.get("url") or ""}
+
+    updates_7d = [_to_update(r) for r in community_items[:60]]
+    latest_date = updates_7d[0]["date"] if updates_7d else ""
+    updates_today = [u for u in updates_7d if u["date"] == latest_date] if latest_date else []
+
+    waytoagi_payload = {
+        "generated_at": payload.get("generated_at"),
+        "root_url": "https://news.ycombinator.com/",
+        "history_url": "https://www.reddit.com/r/nuclear/",
+        "updates_7d": updates_7d,
+        "updates_today": updates_today,
+        "latest_date": latest_date,
+        "count_7d": len(updates_7d),
+        "count_today": len(updates_today),
+        "has_error": False,
+        "error": None,
+        "warning": None if updates_7d else "本周暂无 HN / Reddit r/nuclear 更新",
+    }
+    (out / "waytoagi-7d.json").write_text(json.dumps(waytoagi_payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
     # Save archive
     save_archive(archive, archive_path, args.archive_days, now)
 
     print(f"  Output: {len(slim.get('items', []))} nuclear items → data/latest-24h.json")
     print(f"  Output: {len(all_payload.get('items_all', []))} all items → data/latest-24h-all.json")
+    print(f"  Output: {len(updates_7d)} community updates → data/waytoagi-7d.json")
     print("  Done.")
 
     return 0
