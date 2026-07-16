@@ -61,6 +61,7 @@ NUCLEAR_RSS_FEEDS: tuple[dict[str, str], ...] = (
     {"site_id": "arxiv_nuclth",   "site_name": "arXiv nucl-th",     "xml_url": "https://rss.arxiv.org/rss/nucl-th",                          "html_url": "https://arxiv.org/list/nucl-th/recent"},
     {"site_id": "arxiv_insdet",   "site_name": "arXiv ins-det",     "xml_url": "https://rss.arxiv.org/rss/physics.ins-det",                  "html_url": "https://arxiv.org/list/physics.ins-det/recent"},
     {"site_id": "eurofusion",     "site_name": "EUROfusion",        "xml_url": "https://www.euro-fusion.org/feed/",                          "html_url": "https://www.euro-fusion.org"},
+    {"site_id": "iaea_news",      "site_name": "IAEA News",         "xml_url": "https://www.iaea.org/feeds/news",                            "html_url": "https://www.iaea.org/newscenter"},
 )
 
 RSS_MAX_AGE_DAYS = 14
