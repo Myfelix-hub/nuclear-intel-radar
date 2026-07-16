@@ -903,7 +903,7 @@ summary:focus-visible {
   background: var(--surface);
 }
 
-/* 双色交替：WaytoAGI 版块用深一档的底色，与伯乐精选 / AI信号流形成节奏感 */
+/* 双色交替：WaytoAGI 版块用深一档的底色，与伯乐精选 / 核能信号流形成节奏感 */
 .waytoagi-wrap {
   background: var(--bg-alt);
   border-color: rgba(23, 23, 23, 0.12);
