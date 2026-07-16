@@ -1,6 +1,10 @@
 name: Update Nuclear News Snapshot
 
 on:
+  push:
+    branches: [master]
+    paths-ignore:
+      - 'data/**'
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
