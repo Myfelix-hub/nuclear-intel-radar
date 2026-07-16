@@ -8,14 +8,14 @@
       name="description"
       content="自动聚合全球核能/核电行业信息：IAEA、NRC、SMR、核聚变、铀矿燃料、运行事件、政策法规 — 多源交叉验证，零噪音。"
     />
-    <link rel="canonical" href="https://learnprompt.github.io/ai-news-radar/" />
+    <link rel="canonical" href="https://myfelix-hub.github.io/nuclear-intel-radar/" />
     <meta property="og:title" content="Nuclear Intel Radar｜核能信息雷达" />
     <meta
       property="og:description"
       content="自动聚合全球核能/核电行业信息：IAEA、NRC、SMR、核聚变、铀矿燃料、运行事件、政策法规。"
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://learnprompt.github.io/ai-news-radar/" />
+    <meta property="og:url" content="https://myfelix-hub.github.io/nuclear-intel-radar/" />
     <meta property="og:site_name" content="Nuclear Intel Radar" />
     <meta name="application-name" content="Nuclear Intel Radar" />
     <meta name="theme-color" content="#0D1B2A" />
@@ -40,7 +40,7 @@
       <header class="hero">
         <div class="hero-main">
           <div class="hero-headline">
-            <img class="hero-logo" src="./assets/logo.svg" alt="AI News Radar Logo" />
+            <img class="hero-logo" src="./assets/logo.svg" alt="Nuclear Intel Radar Logo" />
             <div>
               <p class="hero-tag">NUCLEAR INTEL RADAR</p>
               <h1>核能信息雷达</h1>
@@ -54,28 +54,28 @@
           <div class="hero-links" aria-label="项目入口">
             <a
               class="hero-link"
-              href="https://github.com/LearnPrompt/ai-news-radar"
+              href="https://github.com/Myfelix-hub/nuclear-intel-radar"
               target="_blank"
               rel="noopener noreferrer"
-            >接入 Agent</a>
+            >项目仓库</a>
           </div>
         </div>
 
         <section class="stats" id="stats"></section>
 
         <section class="section-nav-wrap" aria-label="内容栏目">
-          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
+          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="核能信息栏目"></div>
           <div class="section-summary" id="sectionSummary">正在整理栏目...</div>
         </section>
       </header>
 
       <section class="primary-controls">
-        <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" />
-        <div class="mode-hint" id="modeHint">AI强相关</div>
+        <input id="searchInput" type="search" placeholder="搜索核能信号 / 来源" />
+        <div class="mode-hint" id="modeHint">核能强相关</div>
       </section>
 
       <div class="sticky-summary-bar" aria-label="当前视图摘要">
-        <strong>AI News Radar</strong>
+        <strong>Nuclear Intel Radar</strong>
         <span id="stickySummaryText">正在整理 24 小时信号...</span>
       </div>
 
@@ -98,7 +98,7 @@
                 <option value="">全部来源</option>
                 <option value="official">官方 / 一手</option>
                 <option value="media">精选媒体 / 日报</option>
-                <option value="community">社区 / HN / Builders</option>
+                <option value="community">社区 / HN / Reddit</option>
                 <option value="rss">RSS / OPML</option>
                 <option value="aggregate">聚合源</option>
                 <option value="creator">自媒体</option>
@@ -125,9 +125,9 @@
               </select>
             </label>
             <div class="field">
-              <span>AI 相关度</span>
+              <span>核能相关度</span>
               <div class="mode-switch">
-                <button id="modeAiBtn" class="mode-btn active" type="button">AI强相关</button>
+                <button id="modeAiBtn" class="mode-btn active" type="button">核能强相关</button>
                 <button id="modeAllBtn" class="mode-btn" type="button">全量</button>
               </div>
             </div>
@@ -165,9 +165,9 @@
         <div id="bolePicksList" class="bole-board"></div>
       </section>
 
-      <section class="waytoagi-wrap">
+      <section class="waytoagi-wrap" hidden aria-label="社区动态">
         <div class="waytoagi-head">
-          <h2>社区更新 · WaytoAGI</h2>
+          <h2>社区动态 · HN / Reddit r/nuclear</h2>
           <div class="waytoagi-tools">
             <div class="waytoagi-switch">
               <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button">最近更新日</button>
@@ -182,10 +182,10 @@
 
       <section class="list-wrap">
         <div class="list-head">
-          <h2 id="listTitle">全量 AI 情报源</h2>
+          <h2 id="listTitle">全量核能情报源</h2>
           <div class="list-head-tools">
             <div class="list-sort-tools" id="listSortTools" role="group" aria-label="全量列表排序">
-              <button class="list-sort-btn active" type="button" data-sort="priority" title="综合来源权重、AI相关度、新鲜度与信号强度">综合</button>
+              <button class="list-sort-btn active" type="button" data-sort="priority" title="综合来源权重、核能相关度、新鲜度与信号强度">综合</button>
               <button class="list-sort-btn" type="button" data-sort="latest" title="按发布时间或发现时间倒序">最新</button>
               <button class="list-sort-btn" type="button" data-sort="ai" title="按高相关度信号倒序">高分</button>
               <button class="list-sort-btn" type="button" data-sort="source" title="按来源聚合度整理">来源</button>
