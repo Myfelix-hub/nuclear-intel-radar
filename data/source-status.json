@@ -17,14 +17,6 @@
       "error": null
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": true,
-      "item_count": 3,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "arxiv_insdet",
       "site_name": "arXiv ins-det",
       "ok": true,
@@ -41,10 +33,10 @@
       "error": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 16,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null
     },
@@ -53,6 +45,14 @@
       "site_name": "ANS Newswire",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 16,
       "duration_ms": 0,
       "error": null
     },
@@ -89,10 +89,10 @@
       "error": null
     },
     {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
+      "site_id": "nuclear_net_cn",
+      "site_name": "中国核网",
       "ok": true,
-      "item_count": 42,
+      "item_count": 9,
       "duration_ms": 0,
       "error": null
     },
@@ -105,10 +105,10 @@
       "error": null
     },
     {
-      "site_id": "nuclear_net_cn",
-      "site_name": "中国核网",
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
       "ok": true,
-      "item_count": 9,
+      "item_count": 42,
       "duration_ms": 0,
       "error": null
     },
@@ -117,22 +117,22 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 3074,
+      "duration_ms": 2821,
       "error": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 13,
-      "duration_ms": 5930,
+      "item_count": 0,
+      "duration_ms": 5339,
       "error": null
     }
   ],
   "successful_sites": 16,
   "failed_sites": [],
-  "fetched_raw_items": 324,
-  "items_before_topic_filter": 324,
+  "fetched_raw_items": 311,
+  "items_before_topic_filter": 311,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
