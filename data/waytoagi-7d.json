@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T18:36:30.037027+00:00",
+  "generated_at": "2026-07-17T20:11:00.874606+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,71 +7,6 @@
       "date": "2026-07-17",
       "title": "Experiments at the nation's only all-digital nuclear reactor",
       "url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "South Africa's Koeberg nuclear plant has 'contamination' events",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uyw83j/south_africas_koeberg_nuclear_plant_has/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "US firm unveils commercial plan for 10MWe reactor based on light-water tech",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uytrz7/us_firm_unveils_commercial_plan_for_10mwe_reactor/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uyqin5/files_relating_to_indias_largest_nuclear_power/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "India Is Running Three SMR Programmes Simultaneously. Each One Is a Different Market",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uypvkg/india_is_running_three_smr_programmes/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Cancer proximity to Nuclear Power Plants attributed to Fear",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uyi2vb/cancer_proximity_to_nuclear_power_plants/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Korea's molten salt nuclear-powered container ship design wins US approval",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uye7yk/koreas_molten_salt_nuclearpowered_container_ship/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "The deadline arrives: Checking in on the Reactor Pilot Program -- ANS | July 2, 2026",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uy4vrg/the_deadline_arrives_checking_in_on_the_reactor/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "How a third-generation Texas oilman transformed an organic farming company into a nuclear start…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uy4q0j/how_a_thirdgeneration_texas_oilman_transformed_an/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "A reactor with no fuel rods and no pellets runs on uranium dissolved into molten salt, a liquid…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uy49me/a_reactor_with_no_fuel_rods_and_no_pellets_runs/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "National Nuclear Security Administration: Additional Actions Needed to Plan for Science, Techno…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uxtksa/national_nuclear_security_administration/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Kudankulam nuclear power plant ‘data’ on dark web",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uxs29m/kudankulam_nuclear_power_plant_data_on_dark_web/"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "EDF reactors could be used to... cool rivers",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uxdfi1/edf_reactors_could_be_used_to_cool_rivers/"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "How to lie about radiation -",
-      "url": "https://www.reddit.com/r/nuclear/comments/1ux8qrm/how_to_lie_about_radiation/"
     },
     {
       "date": "2026-07-14",
@@ -94,31 +29,11 @@
       "date": "2026-07-17",
       "title": "Experiments at the nation's only all-digital nuclear reactor",
       "url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "South Africa's Koeberg nuclear plant has 'contamination' events",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uyw83j/south_africas_koeberg_nuclear_plant_has/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "US firm unveils commercial plan for 10MWe reactor based on light-water tech",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uytrz7/us_firm_unveils_commercial_plan_for_10mwe_reactor/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uyqin5/files_relating_to_indias_largest_nuclear_power/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "India Is Running Three SMR Programmes Simultaneously. Each One Is a Different Market",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uypvkg/india_is_running_three_smr_programmes/"
     }
   ],
   "latest_date": "2026-07-17",
-  "count_7d": 17,
-  "count_today": 5,
+  "count_7d": 4,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
