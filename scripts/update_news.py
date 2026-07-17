@@ -1249,6 +1249,11 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
     all_items.extend(jina_items)
     all_statuses.extend(jina_statuses)
 
+    # News listing sources (structured HTML, e.g. Rosatom)
+    listing_items, listing_statuses = fetch_web_news_listing_sources(session, now)
+    all_items.extend(listing_items)
+    all_statuses.extend(listing_statuses)
+
     # Community sources
     for label, fn in [("HN Nuclear", fetch_hn_nuclear), ("Reddit Nuclear", fetch_reddit_nuclear)]:
         t0 = time.monotonic()
