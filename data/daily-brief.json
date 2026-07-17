@@ -1,1 +1,147 @@
-{"generated_at": "", "window_hours": 72, "total_items": 0, "items": []}
+{
+  "generated_at": "2026-07-17T16:13:10.429384+00:00",
+  "window_hours": 72,
+  "total_items": 10,
+  "items": [
+    {
+      "story_id": "story-3bbfa2fe24e20a35",
+      "title": "http://www.nuclear.net.cn",
+      "representative_url": "http://www.nuclear.net.cn/portal.php",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "score": 0.0
+    },
+    {
+      "story_id": "story-2ae0559d60396e3b",
+      "title": "试验成功！漳州核电，快发电了！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "score": 0.0
+    },
+    {
+      "story_id": "story-09edd47f6ce41eb8",
+      "title": "中广核新能源江西分公司原总经理邓东被查！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17539",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "score": 0.0
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "score": 0.0
+    },
+    {
+      "story_id": "story-ae7f243428aa1ad7",
+      "title": "中核二三领导班子调整",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17544",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "score": 0.0
+    },
+    {
+      "story_id": "story-aff608d4f0b9f207",
+      "title": "4标杆！3优良！中广核在央企“科改行动”“双百行动”考核中再获佳绩 2026-06-11",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_541722a06453411dbc2bd1b4f8580f8a.shtml",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "score": 0.0
+    },
+    {
+      "story_id": "story-513cf6fa2139947b",
+      "title": "杨长利带队到中广核苏州院开展安全大检查 2026-06-13",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_987fedad72fe419984caf65404c53a6e.shtml",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "score": 0.0
+    },
+    {
+      "story_id": "story-5bb3a1855fd8f2ec",
+      "title": "中广核福建宁德核电5号机组穹顶一次吊装成功 2026-06-16",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_aced35c8a94240f5b1fe7db4e5ac1347.shtml",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "score": 0.0
+    },
+    {
+      "story_id": "story-87e864e0dcc467d1",
+      "title": "中广核党委召开党委（扩大）会议暨学习贯彻习近平党建思想会议 2026-06-18",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/23/content_5ca5e1bd73524f4f9feaf09a42f5ce1f.shtml",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "score": 0.0
+    },
+    {
+      "story_id": "story-45d93025b014d5ce",
+      "title": "中广核青海格尔木光热示范项目正式开工建设 2026-06-16",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/23/content_a35e4c19c77c4c978b547247c92bf4c4.shtml",
+      "first_published_at": "2026-07-17T16:13:10.429384+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.0,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "score": 0.0
+    }
+  ]
+}
