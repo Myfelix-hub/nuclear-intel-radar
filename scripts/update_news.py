@@ -73,6 +73,13 @@ NUCLEAR_RSS_FEEDS: tuple[dict[str, Any], ...] = (
          "https://www.iter.org/news/rss",
          "https://www.iter.org/feed",
      ], "via_jina": True},
+    # EDF — French nuclear operator. RSS path: /rss.xml (verified 2026-07-17).
+    {"site_id": "edf_nuclear",    "site_name": "EDF",               "xml_url": "https://www.edf.fr/rss.xml", "html_url": "https://www.edf.fr",
+     "xml_url_candidates": [
+         "https://www.edf.fr/rss.xml",
+         "https://www.edf.fr/rss",
+         "https://www.edf.fr/feed",
+     ], "via_jina": True},
 )
 
 RSS_MAX_AGE_DAYS = 14

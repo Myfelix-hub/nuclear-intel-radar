@@ -67,6 +67,25 @@ def test_iter_org_official_tier_registered():
         "iter_org must be tier=official to rank above media sources"
 
 
+def test_edf_nuclear_in_rss_feeds():
+    """EDF must be registered with the verified RSS path (https://www.edf.fr/rss.xml)."""
+    feed = _feed_by_site("edf_nuclear")
+    assert feed is not None, "edf_nuclear missing from NUCLEAR_RSS_FEEDS"
+    assert feed["xml_url"] == "https://www.edf.fr/rss.xml", \
+        f"edf_nuclear primary xml_url must be the verified EDF RSS path, got {feed['xml_url']}"
+    candidates = feed.get("xml_url_candidates")
+    assert candidates and "https://www.edf.fr/rss.xml" in candidates, \
+        "edf_nuclear candidates must include the verified RSS path"
+    assert feed.get("via_jina") is True, "edf_nuclear keeps via_jina fallback"
+
+
+def test_edf_nuclear_industry_tier_registered():
+    """SOURCE_TIER_BY_SITE must classify edf_nuclear as 'industry' (operator)."""
+    from nuclear_keywords import SOURCE_TIER_BY_SITE
+    assert SOURCE_TIER_BY_SITE.get("edf_nuclear") == "industry", \
+        "edf_nuclear must be tier=industry for operator classification"
+
+
 def test_multi_candidate_fetcher_logic():
     """fetch_single_rss_feed must try each candidate until one succeeds."""
     from unittest.mock import MagicMock
