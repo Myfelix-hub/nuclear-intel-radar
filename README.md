@@ -81,6 +81,32 @@ flowchart LR
 
 ---
 
+## 运维诊断（Operator diagnostics）
+
+`data/source-status.json` 暴露每个信源三种状态信号：
+
+| 字段 | 含义 |
+|---|---|
+| `ok` | 网络 + 解析是否成功（HTTP 200 + feedparser 解析无报错） |
+| `error` | 抓取失败时的异常信息（`ok=false` 时一定有值） |
+| `warning` | 抓取成功但 0 items 时的诊断信息（silent zero） |
+
+**Silent zero** = `ok=true, item_count=0, error=null, warning` 非空。
+出现场景：
+- RSS path 200 但内容是全站混合（例：DOE-NE `/rss.xml` 内容全是历史 / 太阳能 / 秘书长讲话）
+- Jina fallback 抓到主页但所有链接被 skip pattern 过滤（例：OECD-NEA 主页新闻列表）
+- RSS 解析成功但所有 entries 都超过 `RSS_MAX_AGE_DAYS`（14 天）
+- HN / Reddit 窗口期内没有核能标签帖子
+
+silent zero **不是 fetch 失败**，但需要人工判断信源是否值得保留：
+- 如果信源本来就是混合内容（DOE-NE 全站 RSS），考虑加 nuclear relevance 阈值或放弃
+- 如果是临时性 0（fresh source 还没发布新内容），可观察
+- 如果持续 silent zero 跨多次运行，说明 RSS path 选错或信源已死
+
+`tests/test_silent_zero.py` 锁住 wrapper 行为：fetcher 返 `[]` 必须带 `warning`，healthy fetcher 必须不带。
+
+---
+
 ## 快速开始
 
 ### 部署到 GitHub Pages
