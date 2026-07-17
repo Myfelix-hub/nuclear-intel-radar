@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T21:23:25.815364+00:00",
+  "generated_at": "2026-07-17T22:24:51.921481+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -64,11 +64,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1uxtksa/national_nuclear_security_administration/"
     },
     {
-      "date": "2026-07-16",
-      "title": "Kudankulam nuclear power plant ‘data’ on dark web",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uxs29m/kudankulam_nuclear_power_plant_data_on_dark_web/"
-    },
-    {
       "date": "2026-07-15",
       "title": "EDF reactors could be used to... cool rivers",
       "url": "https://www.reddit.com/r/nuclear/comments/1uxdfi1/edf_reactors_could_be_used_to_cool_rivers/"
@@ -122,7 +117,7 @@
     }
   ],
   "latest_date": "2026-07-17",
-  "count_7d": 17,
+  "count_7d": 16,
   "count_today": 6,
   "has_error": false,
   "error": null,
