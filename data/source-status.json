@@ -6,7 +6,8 @@
       "ok": true,
       "item_count": 3,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "powermag",
@@ -14,23 +15,8 @@
       "ok": true,
       "item_count": 10,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 8,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "arxiv_nuclth",
@@ -38,23 +24,26 @@
       "ok": true,
       "item_count": 19,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 15,
+      "item_count": 8,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 0,
+      "item_count": 10,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "ans_newswire",
@@ -62,7 +51,17 @@
       "ok": true,
       "item_count": 20,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 15,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "edf_nuclear",
@@ -70,7 +69,17 @@
       "ok": true,
       "item_count": 7,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "nucnet",
@@ -78,7 +87,8 @@
       "ok": true,
       "item_count": 21,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "iter_org",
@@ -86,7 +96,8 @@
       "ok": true,
       "item_count": 1,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "wnn",
@@ -94,7 +105,8 @@
       "ok": true,
       "item_count": 20,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "oecd_nea",
@@ -102,7 +114,8 @@
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "eurofusion",
@@ -110,7 +123,8 @@
       "ok": true,
       "item_count": 1,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "us_nrc",
@@ -118,7 +132,8 @@
       "ok": true,
       "item_count": 10,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "nucleartownhall",
@@ -126,7 +141,8 @@
       "ok": true,
       "item_count": 139,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "nei_magazine",
@@ -134,7 +150,8 @@
       "ok": true,
       "item_count": 42,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "cgn_news",
@@ -142,7 +159,8 @@
       "ok": true,
       "item_count": 12,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "nuclear_net_cn",
@@ -150,23 +168,26 @@
       "ok": true,
       "item_count": 9,
       "duration_ms": 0,
-      "error": null
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 2902,
-      "error": null
+      "duration_ms": 2771,
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5220,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear"
+      "duration_ms": 4970,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
+      "warning": null
     }
   ],
   "successful_sites": 20,
@@ -176,8 +197,9 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5220,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear"
+      "duration_ms": 4970,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
+      "warning": null
     }
   ],
   "fetched_raw_items": 350,
