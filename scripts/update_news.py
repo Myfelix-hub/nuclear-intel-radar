@@ -222,6 +222,27 @@ def parse_iso(dt_str: str | None) -> datetime | None:
         return None
 
 
+def event_time(record: dict | None, now: datetime) -> datetime | None:
+    """Extract the most relevant timestamp from an item record.
+
+    Returns published_at if parseable, else added_at, else None.
+    Used by evaluate_source_overlap for look-back logic.
+    """
+    if not isinstance(record, dict):
+        return None
+    for key in ("published_at", "added_at"):
+        v = record.get(key)
+        if not v:
+            continue
+        if isinstance(v, str):
+            dt = parse_iso(v)
+            if dt is not None:
+                return dt
+        elif isinstance(v, datetime):
+            return v
+    return None
+
+
 def normalize_url(raw_url: str) -> str:
     """Strip tracking params, fragments, lowercase scheme+netloc."""
     if not raw_url:
