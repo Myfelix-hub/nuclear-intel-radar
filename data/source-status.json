@@ -1,34 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 8,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 19,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 10,
       "duration_ms": 0,
       "error": null
     },
@@ -41,6 +17,30 @@
       "error": null
     },
     {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 19,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "iaea_news",
       "site_name": "IAEA News",
       "ok": true,
@@ -49,10 +49,34 @@
       "error": null
     },
     {
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "ans_newswire",
       "site_name": "ANS Newswire",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
+      "ok": true,
+      "item_count": 7,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": true,
+      "item_count": 21,
       "duration_ms": 0,
       "error": null
     },
@@ -73,18 +97,10 @@
       "error": null
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
+      "site_id": "oecd_nea",
+      "site_name": "OECD-NEA",
       "ok": true,
-      "item_count": 21,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
-      "ok": true,
-      "item_count": 7,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null
     },
@@ -121,14 +137,6 @@
       "error": null
     },
     {
-      "site_id": "nuclear_net_cn",
-      "site_name": "中国核网",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "cgn_news",
       "site_name": "中广核",
       "ok": true,
@@ -137,11 +145,19 @@
       "error": null
     },
     {
+      "site_id": "nuclear_net_cn",
+      "site_name": "中国核网",
+      "ok": true,
+      "item_count": 9,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 2824,
+      "duration_ms": 2902,
       "error": null
     },
     {
@@ -149,18 +165,18 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5410,
+      "duration_ms": 5220,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear"
     }
   ],
-  "successful_sites": 18,
+  "successful_sites": 20,
   "failed_sites": [
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5410,
+      "duration_ms": 5220,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear"
     }
   ],
