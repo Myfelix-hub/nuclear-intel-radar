@@ -1673,14 +1673,14 @@ def build_stories_payload(items: list[dict[str, Any]], now: datetime, window_hou
 
 
 def _story_composite_score(story: dict[str, Any]) -> float:
-    """Composite score: nuclear_score × (tier_rank + 1) × (1 + log duplicate_count).
+    """Composite score: nuclear_kw_score × (tier_rank + 1) × (1 + log duplicate_count).
 
     Multi-source-confirmed stories (duplicate_count >= 2) get a small bonus.
     Higher-tier sources dominate lower-tier sources at equal nuclear relevance.
     """
     items_in_story = story.get("items") or [{}]
     rep = items_in_story[0] if items_in_story else {}
-    nuc = float(rep.get("nuclear_score") or 0.0)
+    nuc = float(rep.get("nuclear_kw_score") or rep.get("nuclear_relevance") or 0.0)
     tier = int(rep.get("source_tier_rank") or 0)
     dup = max(int(story.get("duplicate_count") or 1), 1)
     return nuc * (tier + 1) * (1.0 + math.log(dup))
@@ -1705,7 +1705,7 @@ def build_daily_brief_payload(
             "first_published_at": s.get("first_published_at"),
             "sources": s.get("sources", []),
             "duplicate_count": s.get("duplicate_count", 1),
-            "nuclear_score": float(rep.get("nuclear_score") or 0.0),
+            "nuclear_score": float(rep.get("nuclear_kw_score") or rep.get("nuclear_relevance") or 0.0),
             "source_tier": rep.get("source_tier", "unknown"),
             "source_tier_rank": int(rep.get("source_tier_rank") or 0),
             "score": score,

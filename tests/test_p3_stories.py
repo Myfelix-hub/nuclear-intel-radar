@@ -23,7 +23,7 @@ def make_item(idx, *, title, url, site_id="nuclear_news", hours_ago=1,
         "url": url,
         "published_at": (NOW - timedelta(hours=hours_ago)).isoformat().replace("+00:00", "Z"),
         "nuclear_is_related": True,
-        "nuclear_score": nuclear_score,
+        "nuclear_kw_score": nuclear_score,
     }
     base = add_nuclear_relevance_fields(base)
     base = add_source_tier_fields(base)
