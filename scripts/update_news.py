@@ -156,6 +156,29 @@ WEB_SOURCES_JINA: tuple[dict[str, str], ...] = (
     },
 )
 
+# ─── News listing web sources (BeautifulSoup container-based) ────────────────
+# Used by enterprise sites that publish news as a structured HTML listing
+# rather than RSS. Each entry is one "news index page" the fetcher probes.
+
+WEB_SOURCES_NEWS_LISTING: tuple[dict[str, Any], ...] = (
+    {
+        "site_id": "rosatom",
+        "site_name": "Rosatom",
+        "start_urls": [
+            "https://en.rosatom.ru/news/",
+            "https://en.rosatom.ru/press-centre/news/",
+            "https://en.rosatom.ru/",
+        ],
+        "container_selector": "article.node--type-news",   # Drupal guess
+        "title_selector": "h2.node__title a",
+        "link_selector": "h2.node__title a",
+        "time_selector": "time",
+        "time_attr": "datetime",
+        "max_items": 20,
+        "via_jina": True,
+    },
+)
+
 # ═══════════════════════════════════════════════════════════════════
 # Data model
 # ═══════════════════════════════════════════════════════════════════
@@ -830,6 +853,58 @@ def fetch_web_jina_sources(session: requests.Session, now: datetime) -> tuple[li
                          "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None}
                 if not result:
                     entry["warning"] = "fetched ok but 0 items (silent zero — Jina returned markdown but no links survived skip patterns)"
+                statuses.append(entry)
+            except Exception as e:
+                elapsed = (time.monotonic() - t0) * 1000
+                statuses.append({"site_id": sd["site_id"], "site_name": sd["site_name"],
+                                  "ok": False, "item_count": 0, "duration_ms": round(elapsed), "error": str(e)[:200]})
+    return items, statuses
+
+
+# ═══════════════════════════════════════════════════════════════════
+# Fetch functions — News listing (structured HTML, no RSS)
+# ═══════════════════════════════════════════════════════════════════
+
+
+def fetch_web_news_listing(session: requests.Session, src_def: dict[str, Any], now: datetime) -> list[RawItem]:
+    """Probe start_urls sequentially; first URL with parseable items wins.
+    Falls back to Jina reader if via_jina=True and all direct attempts hard-fail.
+    Returns [] (silent zero) when all start_urls return 200 HTML but parse 0 items.
+    Raises RuntimeError when all start_urls hard-fail (and Jina, if enabled, also fails).
+    """
+    raise NotImplementedError("implemented in Task 3")
+
+
+def _parse_news_listing_html(html: str, src_def: dict[str, Any], now: datetime) -> list[RawItem]:
+    """Extract news items from structured HTML using src_def's CSS selectors.
+    Returns [] when no container matches the selector (silent zero signal)."""
+    raise NotImplementedError("implemented in Task 2")
+
+
+def _parse_news_listing_jina(session: requests.Session, src_def: dict[str, Any], now: datetime) -> list[RawItem]:
+    """Fetch src_def['start_urls'][0] via Jina reader and extract article links
+    from the resulting markdown. Used as fallback when direct fetch is blocked."""
+    raise NotImplementedError("implemented in Task 4")
+
+
+def fetch_web_news_listing_sources(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
+    """Wrapper: invoke fetch_web_news_listing for every WEB_SOURCES_NEWS_LISTING
+    entry in parallel; surface silent zero (0 items, no raise) as warning field."""
+    items: list[RawItem] = []
+    statuses: list[dict[str, Any]] = []
+    with ThreadPoolExecutor(max_workers=2) as pool:
+        futures = {pool.submit(fetch_web_news_listing, session, sd, now): sd for sd in WEB_SOURCES_NEWS_LISTING}
+        for fut in as_completed(futures):
+            sd = futures[fut]
+            t0 = time.monotonic()
+            try:
+                result = fut.result()
+                elapsed = (time.monotonic() - t0) * 1000
+                items.extend(result)
+                entry = {"site_id": sd["site_id"], "site_name": sd["site_name"],
+                         "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None}
+                if not result:
+                    entry["warning"] = "fetched ok but 0 items (silent zero — all start_urls returned 200 HTML but no containers matched selector)"
                 statuses.append(entry)
             except Exception as e:
                 elapsed = (time.monotonic() - t0) * 1000
