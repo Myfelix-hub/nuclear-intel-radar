@@ -27,6 +27,23 @@ def test_iaea_official_tier_registered():
         "iaea_news must be tier=official to rank above media sources"
 
 
+def test_us_nrc_in_rss_feeds():
+    """US NRC (regulator) must be registered for US regulatory signal coverage."""
+    feed = _feed_by_site("us_nrc")
+    assert feed is not None, "us_nrc missing from NUCLEAR_RSS_FEEDS"
+    assert feed["site_name"] == "US NRC News"
+    assert feed["xml_url"].startswith("https://www.nrc.gov/")
+    assert feed["html_url"].startswith("https://www.nrc.gov/")
+    assert feed.get("via_jina") is True, "us_nrc should have via_jina=True as Cloudflare-blocked insurance"
+
+
+def test_us_nrc_regulator_tier_registered():
+    """SOURCE_TIER_BY_SITE must classify us_nrc as 'regulator' for priority."""
+    from nuclear_keywords import SOURCE_TIER_BY_SITE
+    assert SOURCE_TIER_BY_SITE.get("us_nrc") == "regulator", \
+        "us_nrc must be tier=regulator to rank above media sources"
+
+
 def test_all_feeds_have_required_keys():
     """Sanity: every feed must have site_id/site_name/xml_url/html_url."""
     required = {"site_id", "site_name", "xml_url", "html_url"}
