@@ -12,6 +12,7 @@ import hashlib
 import json
 import math
 import os
+import difflib
 import re
 import time
 import xml.etree.ElementTree as ET
@@ -241,6 +242,158 @@ def event_time(record: dict | None, now: datetime) -> datetime | None:
         elif isinstance(v, datetime):
             return v
     return None
+
+
+def _title_similarity_ratio(a: str, b: str) -> float:
+    if not a or not b:
+        return 0.0
+    return difflib.SequenceMatcher(None, a.lower(), b.lower()).ratio()
+
+
+def merge_story_items(items: list[dict[str, Any]], now: datetime, window_hours: int) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    """Merge raw items into stories by canonical URL then by title similarity.
+
+    Two-stage merge:
+      1. Items with the same normalized URL (tracking params stripped) form
+         a canonical cluster.
+      2. Cross-cluster merges happen when two representative titles have
+         SequenceMatcher ratio >= 0.86.
+
+    Returns (stories, events):
+      - stories: each has story_id, title, representative_url,
+        first_published_at, sources, items, duplicate_count
+      - events: at most one per story; emits only when the story combines
+        multiple items. reason is "canonical_url" or "title_similarity";
+        similarity is 1.0 for canonical_url, the SequenceMatcher ratio for
+        title_similarity.
+    """
+    if not items:
+        return [], []
+
+    cutoff = now - timedelta(hours=window_hours)
+
+    # Keep items whose published_at (or added_at) is inside the window
+    in_window: list[dict[str, Any]] = []
+    for it in items:
+        ts = event_time(it, now)
+        if ts is None:
+            continue
+        if ts < cutoff:
+            continue
+        in_window.append(it)
+
+    if not in_window:
+        return [], []
+
+    # Stage 1: canonical URL groups
+    canonical_groups: dict[str, list[dict[str, Any]]] = {}
+    for it in in_window:
+        key = normalize_url(str(it.get("url") or "")) or f"<empty:{id(it)}>"
+        canonical_groups.setdefault(key, []).append(it)
+
+    canonical_keys = sorted(canonical_groups.keys())
+    representative_title: dict[str, str] = {
+        k: (canonical_groups[k][0].get("title") or "") for k in canonical_keys
+    }
+
+    # Stage 2: union-find cross-canonical merge by title similarity
+    parent: dict[str, str] = {k: k for k in canonical_keys}
+
+    def find(x: str) -> str:
+        root = x
+        while parent[root] != root:
+            root = parent[root]
+        while parent[x] != root:
+            parent[x], x = root, parent[x]
+        return root
+
+    def union(x: str, y: str) -> None:
+        rx, ry = find(x), find(y)
+        if rx != ry:
+            parent[rx] = ry
+
+    similarity_pairs: list[tuple[str, str, float]] = []
+    for i, ki in enumerate(canonical_keys):
+        ti = representative_title[ki]
+        if not ti:
+            continue
+        for kj in canonical_keys[i + 1:]:
+            tj = representative_title[kj]
+            if not tj:
+                continue
+            sim = _title_similarity_ratio(ti, tj)
+            if sim >= 0.86:
+                union(ki, kj)
+                similarity_pairs.append((ki, kj, sim))
+
+    grouped: dict[str, list[dict[str, Any]]] = {}
+    for k in canonical_keys:
+        grouped.setdefault(find(k), []).extend(canonical_groups[k])
+
+    stories: list[dict[str, Any]] = []
+    events: list[dict[str, Any]] = []
+
+    for root, group_items in grouped.items():
+        if not group_items:
+            continue
+        dates: list[datetime] = []
+        for it in group_items:
+            ts = event_time(it, now)
+            if ts is not None:
+                dates.append(ts)
+        first_ts = min(dates) if dates else now
+        rep = group_items[0]
+        seen_sites: list[str] = []
+        for it in group_items:
+            sid = str(it.get("site_id") or "")
+            if sid and sid not in seen_sites:
+                seen_sites.append(sid)
+
+        # story_id derives from root canonical key + representative title
+        story_id = "story-" + make_item_id(
+            "merge", root, representative_title.get(root, ""), str(len(group_items))
+        )
+        story = {
+            "story_id": story_id,
+            "title": rep.get("title") or "",
+            "representative_url": rep.get("url") or "",
+            "first_published_at": iso(first_ts) or iso(now),
+            "sources": seen_sites,
+            "items": group_items,
+            "duplicate_count": len(group_items),
+        }
+        stories.append(story)
+
+        # One merge event per story — only when the story combines multiple items.
+        canonical_in_story = {normalize_url(str(it.get("url") or "")) for it in group_items}
+        if canonical_in_story == {""}:
+            canonical_in_story.discard("")
+        canonical_in_story.discard("")
+
+        if len(group_items) > 1:
+            if len(canonical_in_story) == 1:
+                events.append({
+                    "items": list(group_items),
+                    "reason": "canonical_url",
+                    "similarity": 1.0,
+                })
+            else:
+                sim = 0.86
+                for ki, kj, s in similarity_pairs:
+                    if find(ki) == root and find(kj) == root:
+                        sim = max(sim, s)
+                events.append({
+                    "items": list(group_items),
+                    "reason": "title_similarity",
+                    "similarity": sim,
+                })
+
+    def _sort_key(s: dict[str, Any]):
+        ts = parse_iso(str(s.get("first_published_at") or "")) or now
+        return ts
+
+    stories.sort(key=_sort_key, reverse=True)
+    return stories, events
 
 
 def normalize_url(raw_url: str) -> str:

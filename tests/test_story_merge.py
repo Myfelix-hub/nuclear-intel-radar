@@ -8,7 +8,7 @@ from scripts.update_news import add_source_tier_fields, merge_story_items
 NOW = datetime(2026, 6, 2, 12, 0, tzinfo=timezone.utc)
 
 
-def make_item(idx: int, *, title: str, url: str, hours_ago: int = 1, site_id: str = "aihot") -> dict:
+def make_item(idx: int, *, title: str, url: str, hours_ago: int = 1, site_id: str = "nuclear_news") -> dict:
     item = {
         "id": f"item-{idx}",
         "site_id": site_id,
@@ -17,8 +17,8 @@ def make_item(idx: int, *, title: str, url: str, hours_ago: int = 1, site_id: st
         "title": title,
         "url": url,
         "published_at": (NOW - timedelta(hours=hours_ago)).isoformat().replace("+00:00", "Z"),
-        "ai_is_related": True,
-        "ai_score": 0.9,
+        "nuclear_is_related": True,
+        "nuclear_score": 0.9,
     }
     return add_source_tier_fields(item)
 
