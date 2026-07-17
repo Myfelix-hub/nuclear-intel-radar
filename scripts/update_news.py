@@ -64,15 +64,14 @@ NUCLEAR_RSS_FEEDS: tuple[dict[str, Any], ...] = (
     {"site_id": "nucnet",         "site_name": "NucNet",            "xml_url": "https://www.nucnet.org/feed.rss",                           "html_url": "https://www.nucnet.org", "via_jina": True},
     {"site_id": "iaea_news",      "site_name": "IAEA News",         "xml_url": "https://www.iaea.org/feeds/news",                            "html_url": "https://www.iaea.org/newscenter"},
     {"site_id": "us_nrc",         "site_name": "US NRC News",       "xml_url": "https://www.nrc.gov/reading-rm/doc-collections/news/rss.xml", "html_url": "https://www.nrc.gov/reading-rm/doc-collections/news", "via_jina": True},
-    # ITER — official fusion project. RSS path unknown; probe multiple candidates.
-    {"site_id": "iter_org",       "site_name": "ITER",              "xml_url": "https://www.iter.org/rss", "html_url": "https://www.iter.org/news",
+    # ITER — official fusion project. RSS path: /rss.xml (verified 2026-07-17).
+    {"site_id": "iter_org",       "site_name": "ITER",              "xml_url": "https://www.iter.org/rss.xml", "html_url": "https://www.iter.org/newsline",
      "xml_url_candidates": [
+         "https://www.iter.org/rss.xml",
+         "https://www.iter.org/newsline",
          "https://www.iter.org/rss",
          "https://www.iter.org/news/rss",
-         "https://www.iter.org/news/rss.xml",
-         "https://www.iter.org/rss/news",
          "https://www.iter.org/feed",
-         "https://www.iter.org/atom.xml",
      ], "via_jina": True},
 )
 

@@ -45,15 +45,19 @@ def test_us_nrc_regulator_tier_registered():
 
 
 def test_iter_org_in_rss_feeds_with_candidates():
-    """ITER must be registered with multiple RSS candidates for path discovery."""
+    """ITER must be registered with the verified RSS path (https://www.iter.org/rss.xml)."""
     feed = _feed_by_site("iter_org")
     assert feed is not None, "iter_org missing from NUCLEAR_RSS_FEEDS"
+    assert feed["xml_url"] == "https://www.iter.org/rss.xml", \
+        f"iter_org primary xml_url must be the verified ITER RSS path, got {feed['xml_url']}"
     candidates = feed.get("xml_url_candidates")
     assert candidates and isinstance(candidates, list) and len(candidates) >= 2, \
-        "iter_org must declare xml_url_candidates (multiple URLs) for path probe"
+        "iter_org must keep xml_url_candidates as fallback"
+    assert "https://www.iter.org/rss.xml" in candidates, \
+        "iter_org candidates must include the verified RSS path as first option"
     assert all(c.startswith("https://www.iter.org/") for c in candidates), \
         "All ITER candidate URLs must be HTTPS on iter.org"
-    assert feed.get("via_jina") is True, "iter_org needs via_jina fallback (Cloudflare-blocked)"
+    assert feed.get("via_jina") is True, "iter_org keeps via_jina fallback (Cloudflare-blocked)"
 
 
 def test_iter_org_official_tier_registered():
