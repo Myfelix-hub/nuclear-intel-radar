@@ -1007,9 +1007,56 @@ def _parse_news_listing_html(html: str, src_def: dict[str, Any], now: datetime) 
 
 
 def _parse_news_listing_jina(session: requests.Session, src_def: dict[str, Any], now: datetime) -> list[RawItem]:
-    """Fetch src_def['start_urls'][0] via Jina reader and extract article links
-    from the resulting markdown. Used as fallback when direct fetch is blocked."""
-    raise NotImplementedError("implemented in Task 4")
+    """Fetch src_def['start_urls'][0] via Jina reader, then extract article links
+    from the resulting markdown via regex.
+
+    CSS selectors do NOT survive HTML→markdown conversion, so this path is a
+    heuristic regex sweep over [text](url) pairs. Filters applied:
+      - skip images (title starts with !)
+      - title length >= 10
+      - URL must contain a year-like segment or path component suggesting news
+        (e.g. /news/, /press/, /2024/, /2025/, /2026/, article path)
+    Raises on HTTP non-200 from Jina.
+    """
+    site_id = src_def["site_id"]
+    site_name = src_def["site_name"]
+    base_url = src_def["start_urls"][0]
+    jina_url = f"{JINA_BASE}{base_url}"
+
+    resp = session.get(jina_url, timeout=45,
+                       headers={"Accept": "text/markdown,text/plain", "User-Agent": BROWSER_UA})
+    if resp.status_code != 200:
+        raise RuntimeError(f"{site_id}: Jina returned HTTP {resp.status_code} for {base_url}")
+
+    items: list[RawItem] = []
+    seen_urls: set[str] = set()
+    md_links: list[tuple[str, str]] = re.findall(r'\[([^\]]+)\]\((https?://[^\)]+)\)', resp.text)
+
+    for title, url in md_links:
+        title = title.strip()
+        if title.startswith("!") or title.startswith("Image"):
+            continue
+        if len(title) < 10:
+            continue
+        # Heuristic URL filter: must look like a news/article path
+        url_lower = url.lower()
+        if not any(seg in url_lower for seg in [
+            "/news/", "/press/", "/article/", "/publication/",
+            "/2024/", "/2025/", "/2026/", "/2027/", "/20",
+        ]):
+            continue
+        normalized = normalize_url(url)
+        if normalized in seen_urls:
+            continue
+        seen_urls.add(normalized)
+
+        items.append(RawItem(
+            site_id=site_id, site_name=site_name, source=site_name,
+            title=compact_title(title), url=url, published_at=None,
+            meta={"nuclear_relevance": nuclear_keyword_score(title)},
+        ))
+
+    return items
 
 
 def fetch_web_news_listing_sources(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
