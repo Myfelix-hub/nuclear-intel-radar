@@ -80,6 +80,22 @@ NUCLEAR_RSS_FEEDS: tuple[dict[str, Any], ...] = (
          "https://www.edf.fr/rss",
          "https://www.edf.fr/feed",
      ], "via_jina": True},
+    # DOE-NE — US Department of Energy, Office of Nuclear Energy. Whole-site RSS: /rss.xml (verified 2026-07-17).
+    {"site_id": "doe_ne",         "site_name": "US DOE Nuclear Energy", "xml_url": "https://www.energy.gov/rss.xml", "html_url": "https://www.energy.gov/ne/office-nuclear-energy",
+     "via_jina": True},
+    # OECD-NEA — Nuclear Energy Agency. RSS path unknown; probe via candidates + Jina fallback.
+    {"site_id": "oecd_nea",       "site_name": "OECD-NEA",          "xml_url": "https://www.oecd-nea.org/rss", "html_url": "https://www.oecd-nea.org",
+     "xml_url_candidates": [
+         "https://www.oecd-nea.org/rss",
+         "https://www.oecd-nea.org/rss.xml",
+         "https://www.oecd-nea.org/feed",
+         "https://www.oecd-nea.org/feed.xml",
+         "https://www.oecd-nea.org/news/rss",
+         "https://www.oecd-nea.org/news/rss.xml",
+         "https://www.oecd-nea.org/jcms/rss",
+         "https://www.oecd-nea.org/press/rss",
+         "https://www.oecd-nea.org/publications/rss",
+     ], "via_jina": True},
 )
 
 RSS_MAX_AGE_DAYS = 14

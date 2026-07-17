@@ -86,6 +86,41 @@ def test_edf_nuclear_industry_tier_registered():
         "edf_nuclear must be tier=industry for operator classification"
 
 
+def test_doe_ne_in_rss_feeds():
+    """DOE-NE must be registered with energy.gov whole-site RSS path."""
+    feed = _feed_by_site("doe_ne")
+    assert feed is not None, "doe_ne missing from NUCLEAR_RSS_FEEDS"
+    assert feed["xml_url"] == "https://www.energy.gov/rss.xml", \
+        f"doe_ne must use whole-site RSS (nuclear content filtered by keyword score), got {feed['xml_url']}"
+    assert feed.get("via_jina") is True, "doe_ne needs via_jina fallback (energy.gov may rate-limit)"
+
+
+def test_doe_ne_official_tier_registered():
+    """SOURCE_TIER_BY_SITE must classify doe_ne as 'official' (US DOE)."""
+    from nuclear_keywords import SOURCE_TIER_BY_SITE
+    assert SOURCE_TIER_BY_SITE.get("doe_ne") == "official", \
+        "doe_ne must be tier=official for US Department of Energy classification"
+
+
+def test_oecd_nea_in_rss_feeds_with_candidates():
+    """OECD-NEA must be registered with multiple RSS candidates (path unknown)."""
+    feed = _feed_by_site("oecd_nea")
+    assert feed is not None, "oecd_nea missing from NUCLEAR_RSS_FEEDS"
+    candidates = feed.get("xml_url_candidates")
+    assert candidates and isinstance(candidates, list) and len(candidates) >= 3, \
+        "oecd_nea must declare xml_url_candidates for path discovery"
+    assert all(c.startswith("https://www.oecd-nea.org/") for c in candidates), \
+        "All OECD-NEA candidates must be HTTPS on oecd-nea.org"
+    assert feed.get("via_jina") is True, "oecd_nea needs via_jina fallback (site often unreachable from mainline)"
+
+
+def test_oecd_nea_official_tier_registered():
+    """SOURCE_TIER_BY_SITE must classify oecd_nea as 'official' (international org)."""
+    from nuclear_keywords import SOURCE_TIER_BY_SITE
+    assert SOURCE_TIER_BY_SITE.get("oecd_nea") == "official", \
+        "oecd_nea must be tier=official for international nuclear org classification"
+
+
 def test_multi_candidate_fetcher_logic():
     """fetch_single_rss_feed must try each candidate until one succeeds."""
     from unittest.mock import MagicMock
