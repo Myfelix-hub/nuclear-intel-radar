@@ -868,11 +868,80 @@ def fetch_web_jina_sources(session: requests.Session, now: datetime) -> tuple[li
 
 def fetch_web_news_listing(session: requests.Session, src_def: dict[str, Any], now: datetime) -> list[RawItem]:
     """Probe start_urls sequentially; first URL with parseable items wins.
-    Falls back to Jina reader if via_jina=True and all direct attempts hard-fail.
-    Returns [] (silent zero) when all start_urls return 200 HTML but parse 0 items.
-    Raises RuntimeError when all start_urls hard-fail (and Jina, if enabled, also fails).
+
+    Per-URL behavior:
+        - HTTP 200 + content-type text/html → parse via _parse_news_listing_html.
+          If items found → return immediately. If 0 items → remember, try next URL.
+        - HTTP 4xx/5xx / non-HTML / network error → skip to next URL.
+
+    Aggregate outcomes:
+        - At least one URL returned items → return those items.
+        - All URLs returned 200 HTML but no items parsed → return [] (silent zero).
+        - All URLs hard-failed (no URL even reached 200 HTML) →
+            if via_jina=True → try _parse_news_listing_jina; if that also fails or
+            returns 0 items in the Jina path, raise RuntimeError.
+            if via_jina=False → raise RuntimeError.
     """
-    raise NotImplementedError("implemented in Task 3")
+    site_id = src_def["site_id"]
+    start_urls = src_def["start_urls"]
+    via_jina = bool(src_def.get("via_jina", False))
+
+    direct_errors: list[str] = []
+    all_200_zero_items = True  # assume silent zero until we prove otherwise
+
+    for url in start_urls:
+        try:
+            resp = session.get(url, timeout=30)
+        except Exception as e:
+            direct_errors.append(f"{url}: {type(e).__name__}: {str(e)[:80]}")
+            all_200_zero_items = False
+            continue
+
+        if resp.status_code != 200:
+            direct_errors.append(f"{url}: HTTP {resp.status_code}")
+            all_200_zero_items = False
+            continue
+
+        ctype = resp.headers.get("content-type", "")
+        if "text/html" not in ctype:
+            direct_errors.append(f"{url}: not HTML (content-type={ctype[:40]})")
+            all_200_zero_items = False
+            continue
+
+        try:
+            items = _parse_news_listing_html(resp.text, src_def, now)
+        except Exception as e:
+            direct_errors.append(f"{url}: parse error {type(e).__name__}: {str(e)[:80]}")
+            all_200_zero_items = False
+            continue
+
+        if items:
+            return items  # success — stop probing
+
+    # If we got here, no URL yielded items. Decide the outcome:
+    if all_200_zero_items:
+        # All start_urls served 200 HTML but no items parsed → silent zero
+        return []
+
+    # At least one URL hard-failed. Try Jina if enabled.
+    if via_jina:
+        try:
+            jina_items = _parse_news_listing_jina(session, src_def, now)
+            if jina_items:
+                return jina_items
+            # Jina returned 0 items — treat as silent zero (still no items to surface)
+            return []
+        except Exception as jina_err:
+            raise RuntimeError(
+                f"{site_id}: all start_urls + Jina failed — "
+                + " || ".join(direct_errors)
+                + f" || Jina: {type(jina_err).__name__}: {str(jina_err)[:100]}"
+            ) from jina_err
+
+    raise RuntimeError(
+        f"{site_id}: all {len(start_urls)} start_urls hard-failed — "
+        + " || ".join(direct_errors)
+    )
 
 
 def _parse_news_listing_html(html: str, src_def: dict[str, Any], now: datetime) -> list[RawItem]:
