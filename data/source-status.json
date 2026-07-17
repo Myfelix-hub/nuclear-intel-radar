@@ -1,18 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 3,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
+      "item_count": 8,
       "duration_ms": 0,
       "error": null
     },
@@ -25,14 +17,6 @@
       "error": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 8,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "arxiv_nuclth",
       "site_name": "arXiv nucl-th",
       "ok": true,
@@ -41,10 +25,18 @@
       "error": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 20,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
+      "ok": true,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null
     },
@@ -53,6 +45,14 @@
       "site_name": "IAEA News",
       "ok": true,
       "item_count": 15,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null
     },
@@ -75,16 +75,24 @@
     {
       "site_id": "nucnet",
       "site_name": "NucNet",
-      "ok": true,
+      "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": null
+      "error": "nucnet: direct fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/"
     },
     {
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 140,
+      "item_count": 139,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
+      "ok": true,
+      "item_count": 42,
       "duration_ms": 0,
       "error": null
     },
@@ -105,19 +113,11 @@
       "error": null
     },
     {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
-      "ok": true,
-      "item_count": 42,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 2621,
+      "duration_ms": 2888,
       "error": null
     },
     {
@@ -125,14 +125,23 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 5060,
+      "duration_ms": 4990,
       "error": null
     }
   ],
-  "successful_sites": 16,
-  "failed_sites": [],
-  "fetched_raw_items": 312,
-  "items_before_topic_filter": 312,
+  "successful_sites": 15,
+  "failed_sites": [
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: direct fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/"
+    }
+  ],
+  "fetched_raw_items": 311,
+  "items_before_topic_filter": 311,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
