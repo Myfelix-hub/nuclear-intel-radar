@@ -9,10 +9,18 @@
       "error": null
     },
     {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "arxiv_nuclex",
       "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 9,
+      "item_count": 8,
       "duration_ms": 0,
       "error": null
     },
@@ -20,7 +28,7 @@
       "site_id": "arxiv_nuclth",
       "site_name": "arXiv nucl-th",
       "ok": true,
-      "item_count": 17,
+      "item_count": 19,
       "duration_ms": 0,
       "error": null
     },
@@ -29,14 +37,6 @@
       "site_name": "POWER Magazine",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 9,
       "duration_ms": 0,
       "error": null
     },
@@ -89,10 +89,10 @@
       "error": null
     },
     {
-      "site_id": "nuclear_net_cn",
-      "site_name": "中国核网",
+      "site_id": "cgn_news",
+      "site_name": "中广核",
       "ok": true,
-      "item_count": 9,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null
     },
@@ -105,10 +105,10 @@
       "error": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
+      "site_id": "nuclear_net_cn",
+      "site_name": "中国核网",
       "ok": true,
-      "item_count": 12,
+      "item_count": 9,
       "duration_ms": 0,
       "error": null
     },
@@ -117,7 +117,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 2786,
+      "duration_ms": 2871,
       "error": null
     },
     {
@@ -125,14 +125,14 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 5297,
+      "duration_ms": 5230,
       "error": null
     }
   ],
   "successful_sites": 16,
   "failed_sites": [],
-  "fetched_raw_items": 311,
-  "items_before_topic_filter": 311,
+  "fetched_raw_items": 313,
+  "items_before_topic_filter": 313,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
