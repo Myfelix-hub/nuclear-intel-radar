@@ -1,24 +1,6 @@
 {
   "sites": [
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": true,
-      "item_count": 3,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "arxiv_insdet",
       "site_name": "arXiv ins-det",
       "ok": true,
@@ -28,10 +10,10 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 19,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -46,10 +28,19 @@
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
       "ok": true,
-      "item_count": 20,
+      "item_count": 19,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
+      "ok": true,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -59,6 +50,15 @@
       "site_name": "IAEA News",
       "ok": true,
       "item_count": 16,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -100,15 +100,6 @@
       "warning": null
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": true,
-      "item_count": 21,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "oecd_nea",
       "site_name": "OECD-NEA",
       "ok": true,
@@ -127,6 +118,15 @@
       "warning": null
     },
     {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": true,
+      "item_count": 21,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "us_nrc",
       "site_name": "US NRC News",
       "ok": true,
@@ -139,16 +139,16 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 139,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
     },
     {
-      "site_id": "nuclear_net_cn",
-      "site_name": "中国核网",
+      "site_id": "cgn_news",
+      "site_name": "中广核",
       "ok": true,
-      "item_count": 9,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -163,10 +163,10 @@
       "warning": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
+      "site_id": "nuclear_net_cn",
+      "site_name": "中国核网",
       "ok": true,
-      "item_count": 12,
+      "item_count": 9,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -185,7 +185,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2860,
+      "duration_ms": 3075,
       "error": null,
       "warning": null
     },
@@ -194,7 +194,7 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 5586,
+      "duration_ms": 5847,
       "error": null,
       "warning": null
     }
@@ -211,8 +211,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 364,
-  "items_before_topic_filter": 364,
+  "fetched_raw_items": 225,
+  "items_before_topic_filter": 225,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},

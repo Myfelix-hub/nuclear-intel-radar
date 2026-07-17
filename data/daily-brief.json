@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:24:51.921481+00:00",
+  "generated_at": "2026-07-17T23:27:33.829629+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -16,20 +16,6 @@
       "source_tier": "community",
       "source_tier_rank": 5,
       "score": 5.4
-    },
-    {
-      "story_id": "story-0a626b139f2f8e54",
-      "title": "Korean Containership with Molten Salt Nuclear Reactor Gets ABS Approval",
-      "representative_url": "https://maritime-executive.com/article/korean-containership-with-molten-salt-nuclear-reactor-gets-abs-approval",
-      "first_published_at": "2026-07-17T22:24:51.921481+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "score": 3.6
     },
     {
       "story_id": "story-5d882128cfb85c42",
@@ -60,25 +46,10 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-82d614a2dd1e8f1d",
-      "title": "Files Relating to India’s Largest Nuclear Power Plant Exposed in Data Breach",
-      "representative_url": "https://www.japantimes.co.jp/news/2026/07/16/asia-pacific/crime-legal/india-nuclear-plant-data-breach/",
-      "first_published_at": "2026-07-17T05:24:06+00:00",
-      "sources": [
-        "nucleartownhall",
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 3,
-      "nuclear_score": 0.4,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "score": 3.3577796618689764
-    },
-    {
       "story_id": "story-27a1c528a9fb5ade",
       "title": "中广核广东太平岭核电2号机组首次并网发电 2026-07-04",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b7efcac4fc6e41079dd090dbd74008f0.shtml",
-      "first_published_at": "2026-07-17T22:24:51.921481+00:00",
+      "first_published_at": "2026-07-17T23:27:33.829629+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -89,32 +60,18 @@
       "score": 3.0
     },
     {
-      "story_id": "story-5ea5e6a8085af7d5",
-      "title": "US State Targets 1,100-MW Advanced Nuclear Energy Via Next-Gen Reactors Under New Law",
-      "representative_url": "https://interestingengineering.com/energy/us-state-targets-1100-mw-advanced-nuclear-energy-via-next-gen-reactors-under-new-law",
-      "first_published_at": "2026-07-17T22:24:51.921481+00:00",
+      "story_id": "story-c955b5b149d739dc",
+      "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1uyqin5/files_relating_to_indias_largest_nuclear_power/",
+      "first_published_at": "2026-07-17T05:24:06+00:00",
       "sources": [
-        "nucleartownhall"
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "score": 2.8
-    },
-    {
-      "story_id": "story-394d2aad561bb63b",
-      "title": "IAEA and World Bank Group Collaborate to Advance Nuclear Energy for Development",
-      "representative_url": "https://www.iaea.org/newscenter/news/iaea-and-world-bank-group-collaborate-to-advance-nuclear-energy-for-development",
-      "first_published_at": "2026-07-17T22:24:51.921481+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "score": 2.8
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "score": 2.4000000000000004
     },
     {
       "story_id": "story-053398c0fbff9730",
@@ -131,18 +88,60 @@
       "score": 2.4000000000000004
     },
     {
-      "story_id": "story-fdf2bfdde7eb7bff",
-      "title": "NUCLEAR FISSIONARY",
-      "representative_url": "http://nuclearfissionary.com/",
-      "first_published_at": "2026-07-17T22:24:51.921481+00:00",
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-07-17T23:27:33.829629+00:00",
       "sources": [
-        "nucleartownhall"
+        "nuclear_net_cn"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "score": 2.4
+    },
+    {
+      "story_id": "story-c63684ba3dcd0bc2",
+      "title": "央视《经济半小时》走进中广核三澳核电，探索未来能源的模样 2026-06-23",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/26/content_1509deb147b44836a2420675252cdd60.shtml",
+      "first_published_at": "2026-07-17T23:27:33.829629+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "score": 2.0999999999999996
+    },
+    {
+      "story_id": "story-5bb3a1855fd8f2ec",
+      "title": "中广核福建宁德核电5号机组穹顶一次吊装成功 2026-06-16",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_aced35c8a94240f5b1fe7db4e5ac1347.shtml",
+      "first_published_at": "2026-07-17T23:27:33.829629+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-dc1a1553ccb6d311",
+      "title": "纳米比亚总统恩代特瓦到中广核大亚湾核电基地参访",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/13/content_b8bb1c1d1f3c455fb3a69423e060a79b.shtml \"纳米比亚总统恩代特瓦到中广核大亚湾核电基地参访\"",
+      "first_published_at": "2026-07-17T23:27:33.829629+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "score": 1.7999999999999998
     }
   ]
 }
