@@ -450,6 +450,46 @@ def make_item_id(site_id: str, source: str, title: str, url: str) -> str:
     return hashlib.sha1(raw.encode()).hexdigest()[:16]
 
 
+def parse_opml_subscriptions(path: Path) -> list[dict[str, str]]:
+    """Parse an OPML subscription file exported from a feed reader.
+
+    Returns a list of {title, xml_url, html_url} dicts, deduplicated by
+    xml_url (first occurrence wins). Entries without xmlUrl are skipped.
+    Silently returns [] if the file is missing or malformed — this is a
+    maintainer-side utility, not a pipeline input.
+    """
+    if path is None:
+        return []
+    try:
+        p = path if isinstance(path, Path) else Path(path)
+    except Exception:
+        return []
+    if not p.exists():
+        return []
+    try:
+        tree = ET.parse(str(p))
+    except Exception:
+        return []
+    root = tree.getroot()
+    seen: set[str] = set()
+    out: list[dict[str, str]] = []
+    for outline in root.iter("outline"):
+        xml_url = (outline.get("xmlUrl") or outline.get("xmlurl") or "").strip()
+        if not xml_url:
+            continue
+        if xml_url in seen:
+            continue
+        seen.add(xml_url)
+        title = (outline.get("title") or outline.get("text") or "").strip()
+        html_url = (outline.get("htmlUrl") or outline.get("htmlurl") or "").strip()
+        out.append({
+            "title": title,
+            "xml_url": xml_url,
+            "html_url": html_url,
+        })
+    return out
+
+
 def parse_date_any(value: Any, now: datetime) -> datetime | None:
     """Try to parse a date from various formats."""
     if value is None:
