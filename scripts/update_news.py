@@ -833,49 +833,73 @@ def fetch_hn_nuclear(session: requests.Session, now: datetime) -> list[RawItem]:
 
 
 def fetch_reddit_nuclear(session: requests.Session, now: datetime) -> list[RawItem]:
-    """Fetch recent posts from Reddit nuclear subreddits via RSS feeds."""
+    """Fetch recent posts from Reddit nuclear subreddits via RSS feeds.
+
+    Iterates ['nuclear', 'nuclearpower']. Partial-failure tolerant: if at
+    least one subreddit succeeds, return its items. If both fail, raise
+    RuntimeError combining both diagnostics so source-status records
+    ok=False with full context (operator can tell 403 auth-block from
+    429 rate-limit from network timeout).
+    """
     items: list[RawItem] = []
     seen_urls: set[str] = set()
     cutoff = now - timedelta(days=3)
+    subreddit_errors: list[str] = []
+    successes = 0
 
     for subreddit in ["nuclear", "nuclearpower"]:
         try:
-            rss_url = f"https://www.reddit.com/r/{subreddit}/.rss"
-            resp = session.get(rss_url, timeout=15,
-                               headers={"User-Agent": f"{BROWSER_UA} nuclear-intel-radar/0.1"})
-            if resp.status_code != 200:
-                continue
+            sub_items = _fetch_reddit_subreddit(session, subreddit, cutoff, now, seen_urls)
+            items.extend(sub_items)
+            successes += 1
+        except Exception as e:
+            subreddit_errors.append(f"r/{subreddit}: {type(e).__name__}: {str(e)[:120]}")
 
-            if feedparser:
-                feed = feedparser.parse(resp.content)
-                entries = feed.entries
-            else:
-                entries = parse_feed_entries_via_xml(resp.content)
+    if successes == 0 and subreddit_errors:
+        raise RuntimeError(
+            f"reddit_nuclear: both subreddits failed — "
+            + " | ".join(subreddit_errors)
+        )
 
-            for entry in entries[:REDDIT_MAX_ITEMS]:
-                title = (entry.get("title") or "").strip()
-                link = (entry.get("link") or entry.get("id") or "").strip()
-                if not title or not link:
-                    continue
-                published_str = entry.get("published") or entry.get("updated") or ""
-                published = parse_date_any(published_str, now) if published_str else None
-                if published and published < cutoff:
-                    continue
-                nu = normalize_url(link)
-                if nu in seen_urls:
-                    continue
-                seen_urls.add(nu)
-                kw_score = nuclear_keyword_score(title)
-                if kw_score < NUCLEAR_MIN_KEYWORD_SCORE:
-                    continue
-                items.append(RawItem(
-                    site_id="reddit_nuclear", site_name="Reddit", source=f"r/{subreddit}",
-                    title=compact_title(title), url=link, published_at=published,
-                    meta={"nuclear_relevance": kw_score, "subreddit": subreddit},
-                ))
-        except Exception:
+    return items
+
+
+def _fetch_reddit_subreddit(session, subreddit, cutoff, now, seen_urls) -> list[RawItem]:
+    """Fetch and parse one Reddit subreddit's RSS feed. Raises on any error."""
+    rss_url = f"https://www.reddit.com/r/{subreddit}/.rss"
+    resp = session.get(rss_url, timeout=15,
+                       headers={"User-Agent": f"{BROWSER_UA} nuclear-intel-radar/0.1"})
+    if resp.status_code != 200:
+        raise RuntimeError(f"HTTP {resp.status_code}")
+
+    if feedparser:
+        feed = feedparser.parse(resp.content)
+        entries = feed.entries
+    else:
+        entries = parse_feed_entries_via_xml(resp.content)
+
+    items: list[RawItem] = []
+    for entry in entries[:REDDIT_MAX_ITEMS]:
+        title = (entry.get("title") or "").strip()
+        link = (entry.get("link") or entry.get("id") or "").strip()
+        if not title or not link:
             continue
-
+        published_str = entry.get("published") or entry.get("updated") or ""
+        published = parse_date_any(published_str, now) if published_str else None
+        if published and published < cutoff:
+            continue
+        nu = normalize_url(link)
+        if nu in seen_urls:
+            continue
+        seen_urls.add(nu)
+        kw_score = nuclear_keyword_score(title)
+        if kw_score < NUCLEAR_MIN_KEYWORD_SCORE:
+            continue
+        items.append(RawItem(
+            site_id="reddit_nuclear", site_name="Reddit", source=f"r/{subreddit}",
+            title=compact_title(title), url=link, published_at=published,
+            meta={"nuclear_relevance": kw_score, "subreddit": subreddit},
+        ))
     return items
 
 
