@@ -13,6 +13,7 @@ import json
 import math
 import os
 import difflib
+import math
 import re
 import time
 import xml.etree.ElementTree as ET
@@ -1655,6 +1656,74 @@ def build_slim_and_all(payload: dict[str, Any]) -> tuple[dict[str, Any], dict[st
 
 
 # ═══════════════════════════════════════════════════════════════════
+# Stories / Daily Brief
+# ═══════════════════════════════════════════════════════════════════
+
+
+def build_stories_payload(items: list[dict[str, Any]], now: datetime, window_hours: int) -> dict[str, Any]:
+    """Group items into merged stories + merge events for the front-end."""
+    stories, events = merge_story_items(items, now, window_hours)
+    return {
+        "generated_at": iso(now),
+        "window_hours": window_hours,
+        "total_stories": len(stories),
+        "stories": stories,
+        "merge_events": events,
+    }
+
+
+def _story_composite_score(story: dict[str, Any]) -> float:
+    """Composite score: nuclear_score × (tier_rank + 1) × (1 + log duplicate_count).
+
+    Multi-source-confirmed stories (duplicate_count >= 2) get a small bonus.
+    Higher-tier sources dominate lower-tier sources at equal nuclear relevance.
+    """
+    items_in_story = story.get("items") or [{}]
+    rep = items_in_story[0] if items_in_story else {}
+    nuc = float(rep.get("nuclear_score") or 0.0)
+    tier = int(rep.get("source_tier_rank") or 0)
+    dup = max(int(story.get("duplicate_count") or 1), 1)
+    return nuc * (tier + 1) * (1.0 + math.log(dup))
+
+
+def build_daily_brief_payload(
+    stories: list[dict[str, Any]],
+    now: datetime,
+    window_hours: int,
+    top_n: int = 10,
+) -> dict[str, Any]:
+    """Pick top-N stories by composite score, with full provenance fields."""
+    scored: list[dict[str, Any]] = []
+    for s in stories:
+        items_in_story = s.get("items") or [{}]
+        rep = items_in_story[0] if items_in_story else {}
+        score = _story_composite_score(s)
+        scored.append({
+            "story_id": s.get("story_id"),
+            "title": s.get("title", ""),
+            "representative_url": s.get("representative_url", ""),
+            "first_published_at": s.get("first_published_at"),
+            "sources": s.get("sources", []),
+            "duplicate_count": s.get("duplicate_count", 1),
+            "nuclear_score": float(rep.get("nuclear_score") or 0.0),
+            "source_tier": rep.get("source_tier", "unknown"),
+            "source_tier_rank": int(rep.get("source_tier_rank") or 0),
+            "score": score,
+        })
+
+    # Stable sort: primary by score desc, secondary by first_published_at desc
+    scored.sort(key=lambda x: str(x.get("first_published_at") or ""), reverse=True)
+    scored.sort(key=lambda x: float(x["score"]), reverse=True)
+    top = scored[: max(0, top_n)]
+    return {
+        "generated_at": iso(now),
+        "window_hours": window_hours,
+        "total_items": len(top),
+        "items": top,
+    }
+
+
+# ═══════════════════════════════════════════════════════════════════
 # Main
 # ═══════════════════════════════════════════════════════════════════
 
@@ -1749,12 +1818,30 @@ def main() -> int:
     }
     (out / "waytoagi-7d.json").write_text(json.dumps(waytoagi_payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # Stories — group items into merged stories by canonical URL + title similarity
+    stories_payload = build_stories_payload(
+        payload.get("items", []), now, args.window_hours
+    )
+    (out / "stories-merged.json").write_text(
+        json.dumps(stories_payload, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+    # Daily brief — top 10 stories by composite score (nuclear_score × tier × log duplicates)
+    brief_payload = build_daily_brief_payload(
+        stories_payload.get("stories", []), now, args.window_hours, top_n=10
+    )
+    (out / "daily-brief.json").write_text(
+        json.dumps(brief_payload, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
     # Save archive
     save_archive(archive, archive_path, args.archive_days, now)
 
     print(f"  Output: {len(slim.get('items', []))} nuclear items → data/latest-24h.json")
     print(f"  Output: {len(all_payload.get('items_all', []))} all items → data/latest-24h-all.json")
     print(f"  Output: {len(updates_7d)} community updates → data/waytoagi-7d.json")
+    print(f"  Output: {stories_payload.get('total_stories', 0)} stories → data/stories-merged.json")
+    print(f"  Output: {brief_payload.get('total_items', 0)} brief items → data/daily-brief.json")
     print("  Done.")
 
     return 0
