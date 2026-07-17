@@ -651,8 +651,14 @@ def fetch_rss_sources(session: requests.Session, now: datetime) -> tuple[list[Ra
                 result = fut.result()
                 elapsed = (time.monotonic() - t0) * 1000
                 items.extend(result)
-                statuses.append({"site_id": fd["site_id"], "site_name": fd["site_name"],
-                                  "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None})
+                entry = {"site_id": fd["site_id"], "site_name": fd["site_name"],
+                         "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None}
+                if not result:
+                    # Silent zero: HTTP/parse succeeded but produced no items.
+                    # Surface as warning so operators can distinguish "empty source"
+                    # from "healthy source with items" in source-status.json.
+                    entry["warning"] = "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+                statuses.append(entry)
             except Exception as e:
                 elapsed = (time.monotonic() - t0) * 1000
                 statuses.append({"site_id": fd["site_id"], "site_name": fd["site_name"],
@@ -734,8 +740,11 @@ def fetch_web_direct_sources(session: requests.Session, now: datetime) -> tuple[
                 result = fut.result()
                 elapsed = (time.monotonic() - t0) * 1000
                 items.extend(result)
-                statuses.append({"site_id": sd["site_id"], "site_name": sd["site_name"],
-                                  "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None})
+                entry = {"site_id": sd["site_id"], "site_name": sd["site_name"],
+                         "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None}
+                if not result:
+                    entry["warning"] = "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
+                statuses.append(entry)
             except Exception as e:
                 elapsed = (time.monotonic() - t0) * 1000
                 statuses.append({"site_id": sd["site_id"], "site_name": sd["site_name"],
@@ -817,8 +826,11 @@ def fetch_web_jina_sources(session: requests.Session, now: datetime) -> tuple[li
                 result = fut.result()
                 elapsed = (time.monotonic() - t0) * 1000
                 items.extend(result)
-                statuses.append({"site_id": sd["site_id"], "site_name": sd["site_name"],
-                                  "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None})
+                entry = {"site_id": sd["site_id"], "site_name": sd["site_name"],
+                         "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None}
+                if not result:
+                    entry["warning"] = "fetched ok but 0 items (silent zero — Jina returned markdown but no links survived skip patterns)"
+                statuses.append(entry)
             except Exception as e:
                 elapsed = (time.monotonic() - t0) * 1000
                 statuses.append({"site_id": sd["site_id"], "site_name": sd["site_name"],
@@ -997,8 +1009,11 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
             result = fn(session, now)
             elapsed = (time.monotonic() - t0) * 1000
             all_items.extend(result)
-            all_statuses.append({"site_id": fn.__name__, "site_name": label,
-                                  "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None})
+            entry = {"site_id": fn.__name__, "site_name": label,
+                     "ok": True, "item_count": len(result), "duration_ms": round(elapsed), "error": None}
+            if not result:
+                entry["warning"] = "fetched ok but 0 items (silent zero — no nuclear-tagged posts in window)"
+            all_statuses.append(entry)
         except Exception as e:
             elapsed = (time.monotonic() - t0) * 1000
             all_statuses.append({"site_id": fn.__name__, "site_name": label,
@@ -1214,6 +1229,7 @@ def main() -> int:
             "item_count": s["item_count"],
             "duration_ms": s["duration_ms"],
             "error": s["error"],
+            "warning": s.get("warning"),
         })
     ok_sites = [s for s in site_list if s["ok"]]
     failed_sites = [s for s in site_list if not s["ok"]]
