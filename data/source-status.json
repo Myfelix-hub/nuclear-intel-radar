@@ -9,20 +9,12 @@
       "error": null
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 3,
+      "item_count": 8,
       "duration_ms": 0,
       "error": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss"
     },
     {
       "site_id": "arxiv_insdet",
@@ -41,10 +33,10 @@
       "error": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 8,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null
     },
@@ -77,6 +69,14 @@
       "site_name": "EUROfusion",
       "ok": true,
       "item_count": 1,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": true,
+      "item_count": 21,
       "duration_ms": 0,
       "error": null
     },
@@ -117,7 +117,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 3018,
+      "duration_ms": 3006,
       "error": null
     },
     {
@@ -125,23 +125,14 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 5248,
+      "duration_ms": 5211,
       "error": null
     }
   ],
-  "successful_sites": 15,
-  "failed_sites": [
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss"
-    }
-  ],
-  "fetched_raw_items": 311,
-  "items_before_topic_filter": 311,
+  "successful_sites": 16,
+  "failed_sites": [],
+  "fetched_raw_items": 332,
+  "items_before_topic_filter": 332,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
