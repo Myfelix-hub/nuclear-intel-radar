@@ -1,14 +1,6 @@
 {
   "sites": [
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": true,
-      "item_count": 3,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "powermag",
       "site_name": "POWER Magazine",
       "ok": true,
@@ -25,14 +17,6 @@
       "error": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 8,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "arxiv_nuclth",
       "site_name": "arXiv nucl-th",
       "ok": true,
@@ -41,10 +25,26 @@
       "error": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 20,
+      "item_count": 3,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": true,
+      "item_count": 13,
       "duration_ms": 0,
       "error": null
     },
@@ -53,14 +53,6 @@
       "site_name": "IAEA News",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": true,
-      "item_count": 21,
       "duration_ms": 0,
       "error": null
     },
@@ -81,6 +73,14 @@
       "error": null
     },
     {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
@@ -89,35 +89,35 @@
       "error": null
     },
     {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
-      "ok": true,
-      "item_count": 42,
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null
+      "error": "cgn_news: Jina fetch failed — ConnectTimeout: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml (Caused by ConnectTim"
     },
     {
       "site_id": "nuclear_net_cn",
       "site_name": "中国核网",
-      "ok": true,
-      "item_count": 9,
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null
+      "error": "nuclear_net_cn: Jina fetch failed — ConnectTimeout: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /http://www.nuclear.net.cn/portal.php?mod=list&catid=94 (Caused by C"
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
-      "ok": true,
-      "item_count": 12,
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null
+      "error": "nei_magazine: Jina fetch failed — ConnectTimeout: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.neimagazine.com/news/ (Caused by ConnectTimeoutError(<HTT"
     },
     {
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 2826,
+      "duration_ms": 6568,
       "error": null
     },
     {
@@ -125,23 +125,47 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5443,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear"
+      "duration_ms": 129693,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: ConnectTimeout: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear/.rss (Caused by ConnectT | r/nuclear"
     }
   ],
-  "successful_sites": 15,
+  "successful_sites": 12,
   "failed_sites": [
+    {
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "cgn_news: Jina fetch failed — ConnectTimeout: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml (Caused by ConnectTim"
+    },
+    {
+      "site_id": "nuclear_net_cn",
+      "site_name": "中国核网",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nuclear_net_cn: Jina fetch failed — ConnectTimeout: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /http://www.nuclear.net.cn/portal.php?mod=list&catid=94 (Caused by C"
+    },
+    {
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nei_magazine: Jina fetch failed — ConnectTimeout: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.neimagazine.com/news/ (Caused by ConnectTimeoutError(<HTT"
+    },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5443,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear"
+      "duration_ms": 129693,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: ConnectTimeout: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear/.rss (Caused by ConnectT | r/nuclear"
     }
   ],
-  "fetched_raw_items": 332,
-  "items_before_topic_filter": 332,
+  "fetched_raw_items": 261,
+  "items_before_topic_filter": 261,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
