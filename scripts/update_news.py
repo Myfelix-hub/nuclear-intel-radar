@@ -443,8 +443,8 @@ def fetch_single_rss_feed(session: requests.Session, feed_def: dict[str, str], n
     try:
         resp = session.get(xml_url, timeout=30)
         resp.raise_for_status()
-    except Exception:
-        return items
+    except Exception as e:
+        raise RuntimeError(f"{site_id}: RSS fetch failed — {type(e).__name__}: {str(e)[:200]}") from e
 
     entries: list[dict[str, Any]] = []
     if feedparser:
@@ -542,8 +542,8 @@ def fetch_web_direct(session: requests.Session, src_def: dict[str, Any], now: da
     try:
         resp = session.get(src_def["url"], timeout=30)
         resp.raise_for_status()
-    except Exception:
-        return items
+    except Exception as e:
+        raise RuntimeError(f"{site_id}: direct fetch failed — {type(e).__name__}: {str(e)[:200]}") from e
 
     soup = BeautifulSoup(resp.text, "html.parser")
     link_els = soup.select(src_def["link_selector"])
@@ -629,9 +629,11 @@ def fetch_web_jina(session: requests.Session, src_def: dict[str, str], now: date
         resp = session.get(jina_url, timeout=45,
                            headers={"Accept": "text/markdown,text/plain", "User-Agent": BROWSER_UA})
         if resp.status_code != 200:
-            return items
-    except Exception:
-        return items
+            raise RuntimeError(f"{site_id}: Jina returned HTTP {resp.status_code} for {target_url}")
+    except Exception as e:
+        if isinstance(e, RuntimeError):
+            raise
+        raise RuntimeError(f"{site_id}: Jina fetch failed — {type(e).__name__}: {str(e)[:200]}") from e
 
     text = resp.text
     # Parse markdown links: [title](url)
