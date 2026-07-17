@@ -1,26 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "arxiv_nuclex",
       "site_name": "arXiv nucl-ex",
       "ok": true,
       "item_count": 8,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 10,
       "duration_ms": 0,
       "error": null
     },
@@ -33,10 +17,34 @@
       "error": null
     },
     {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
       "item_count": 3,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null
     },
@@ -49,10 +57,10 @@
       "error": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "nucnet",
+      "site_name": "NucNet",
       "ok": true,
-      "item_count": 20,
+      "item_count": 21,
       "duration_ms": 0,
       "error": null
     },
@@ -69,14 +77,6 @@
       "site_name": "EUROfusion",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": true,
-      "item_count": 21,
       "duration_ms": 0,
       "error": null
     },
@@ -117,20 +117,29 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 3006,
+      "duration_ms": 2958,
       "error": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
-      "ok": true,
+      "ok": false,
       "item_count": 0,
-      "duration_ms": 5211,
-      "error": null
+      "duration_ms": 5144,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear"
     }
   ],
-  "successful_sites": 16,
-  "failed_sites": [],
+  "successful_sites": 15,
+  "failed_sites": [
+    {
+      "site_id": "reddit_nuclear",
+      "site_name": "Reddit Nuclear",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 5144,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear"
+    }
+  ],
   "fetched_raw_items": 332,
   "items_before_topic_filter": 332,
   "rss_opml": {},
