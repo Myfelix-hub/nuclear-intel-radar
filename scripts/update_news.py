@@ -51,7 +51,7 @@ SH_TZ = ZoneInfo("Asia/Shanghai")
 # Nuclear RSS feed definitions
 # ═══════════════════════════════════════════════════════════════════
 
-NUCLEAR_RSS_FEEDS: tuple[dict[str, str], ...] = (
+NUCLEAR_RSS_FEEDS: tuple[dict[str, Any], ...] = (
     # Verified working feeds (tested 2025-07-05)
     {"site_id": "wnn",            "site_name": "World Nuclear News","xml_url": "https://www.world-nuclear-news.org/rss",                     "html_url": "https://www.world-nuclear-news.org"},
     {"site_id": "ans_newswire",   "site_name": "ANS Newswire",      "xml_url": "https://www.ans.org/news/feed/",                             "html_url": "https://www.ans.org/news"},
@@ -61,7 +61,7 @@ NUCLEAR_RSS_FEEDS: tuple[dict[str, str], ...] = (
     {"site_id": "arxiv_nuclth",   "site_name": "arXiv nucl-th",     "xml_url": "https://rss.arxiv.org/rss/nucl-th",                          "html_url": "https://arxiv.org/list/nucl-th/recent"},
     {"site_id": "arxiv_insdet",   "site_name": "arXiv ins-det",     "xml_url": "https://rss.arxiv.org/rss/physics.ins-det",                  "html_url": "https://arxiv.org/list/physics.ins-det/recent"},
     {"site_id": "eurofusion",     "site_name": "EUROfusion",        "xml_url": "https://www.euro-fusion.org/feed/",                          "html_url": "https://www.euro-fusion.org"},
-    {"site_id": "nucnet",         "site_name": "NucNet",            "xml_url": "https://www.nucnet.org/feed.rss",                           "html_url": "https://www.nucnet.org"},
+    {"site_id": "nucnet",         "site_name": "NucNet",            "xml_url": "https://www.nucnet.org/feed.rss",                           "html_url": "https://www.nucnet.org", "via_jina": True},
     {"site_id": "iaea_news",      "site_name": "IAEA News",         "xml_url": "https://www.iaea.org/feeds/news",                            "html_url": "https://www.iaea.org/newscenter"},
 )
 
@@ -425,11 +425,37 @@ def source_tier_sort_key(record: dict[str, Any]) -> tuple[int, float, str]:
 # ═══════════════════════════════════════════════════════════════════
 
 
-def fetch_single_rss_feed(session: requests.Session, feed_def: dict[str, str], now: datetime) -> list[RawItem]:
-    """Fetch one RSS/Atom feed and return RawItems."""
+def fetch_single_rss_feed(session: requests.Session, feed_def: dict[str, Any], now: datetime) -> list[RawItem]:
+    """Fetch one RSS/Atom feed, optionally falling back to Jina reader on failure.
+
+    When feed_def['via_jina'] is True, a direct RSS fetch failure (HTTP error,
+    timeout, Cloudflare block) triggers a fallback to the Jina reader of the
+    html_url. If both paths fail, raise RuntimeError combining both errors so
+    source-status.json records ok=False with full diagnostic context.
+    """
     site_id = feed_def["site_id"]
     site_name = feed_def["site_name"]
     xml_url = feed_def["xml_url"]
+    html_url = feed_def.get("html_url", xml_url)
+    via_jina = bool(feed_def.get("via_jina", False))
+
+    try:
+        return _fetch_rss_xml(session, xml_url, site_id, site_name, html_url, now, feed_def)
+    except Exception as rss_err:
+        if not via_jina:
+            raise
+        try:
+            return _fetch_via_jina(session, html_url, site_id, site_name, now)
+        except Exception as jina_err:
+            raise RuntimeError(
+                f"{site_id}: both direct RSS and Jina fallback failed — "
+                f"RSS: {type(rss_err).__name__}: {str(rss_err)[:120]} | "
+                f"Jina: {type(jina_err).__name__}: {str(jina_err)[:120]}"
+            ) from jina_err
+
+
+def _fetch_rss_xml(session, xml_url, site_id, site_name, html_url, now, feed_def) -> list[RawItem]:
+    """Fetch and parse an RSS/Atom XML feed directly. Raises on network/HTTP errors."""
     items: list[RawItem] = []
     seen_urls: set[str] = set()
 
@@ -492,6 +518,58 @@ def fetch_single_rss_feed(session: requests.Session, feed_def: dict[str, str], n
                   "nuclear_relevance": nuclear_keyword_score(title, summary)},
         ))
         count += 1
+
+    return items
+
+
+def _fetch_via_jina(session, html_url, site_id, site_name, now) -> list[RawItem]:
+    """Fetch a page via Jina reader and extract article links from markdown.
+
+    Used as fallback when direct RSS is blocked (e.g. Cloudflare-segment IP blocks
+    on GitHub Actions runners). Loses pubDate metadata since Jina's markdown output
+    doesn't expose per-link timestamps, but survives where RSS XML is 403'd.
+    """
+    jina_url = f"{JINA_BASE}{html_url}"
+    try:
+        resp = session.get(jina_url, timeout=45,
+                           headers={"Accept": "text/markdown,text/plain", "User-Agent": BROWSER_UA})
+        if resp.status_code != 200:
+            raise RuntimeError(f"{site_id}: Jina returned HTTP {resp.status_code} for {html_url}")
+    except Exception as e:
+        if isinstance(e, RuntimeError):
+            raise
+        raise RuntimeError(f"{site_id}: Jina fetch failed — {type(e).__name__}: {str(e)[:200]}") from e
+
+    items: list[RawItem] = []
+    seen_urls: set[str] = set()
+    md_links: list[tuple[str, str]] = re.findall(r'\[([^\]]+)\]\((https?://[^\)]+)\)', resp.text)
+
+    for title, url in md_links:
+        title = title.strip()
+        if title.startswith("!") or title.startswith("Image"):
+            continue
+        if len(title) < 10:
+            continue
+        if any(skip in url.lower() for skip in ['/category/', '/tagged/', '/tag/', '/author/',
+                                                  '/company-a-z', '/events/', '/newsletters/',
+                                                  'member-login', 'wp-content', '/sections']):
+            continue
+        if not any(x in url.lower() for x in ['/news/', '/content/', 'portal.php', '/article/',
+                                                '/analysis/', 'shtml', 'html', '/202']):
+            continue
+        normalized = normalize_url(url)
+        if normalized in seen_urls:
+            continue
+        seen_urls.add(normalized)
+
+        title_fixed = maybe_fix_mojibake(title)
+        title_fixed = re.sub(r'^\d{4}-\d{2}-\d{2}\s+', '', title_fixed)
+
+        items.append(RawItem(
+            site_id=site_id, site_name=site_name, source=site_name,
+            title=compact_title(title_fixed), url=url, published_at=None,
+            meta={"nuclear_relevance": nuclear_keyword_score(title_fixed)},
+        ))
 
     return items
 
