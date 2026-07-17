@@ -1,14 +1,6 @@
 {
   "sites": [
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
@@ -17,10 +9,10 @@
       "error": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 8,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null
     },
@@ -33,6 +25,14 @@
       "error": null
     },
     {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "arxiv_nuclth",
       "site_name": "arXiv nucl-th",
       "ok": true,
@@ -41,18 +41,18 @@
       "error": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 15,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "ans_newswire",
       "site_name": "ANS Newswire",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 15,
       "duration_ms": 0,
       "error": null
     },
@@ -84,7 +84,15 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 0,
+      "item_count": 140,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": true,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null
     },
@@ -105,19 +113,11 @@
       "error": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
-      "ok": true,
-      "item_count": 12,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 2943,
+      "duration_ms": 2621,
       "error": null
     },
     {
@@ -125,14 +125,14 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 5219,
+      "duration_ms": 5060,
       "error": null
     }
   ],
   "successful_sites": 16,
   "failed_sites": [],
-  "fetched_raw_items": 172,
-  "items_before_topic_filter": 172,
+  "fetched_raw_items": 312,
+  "items_before_topic_filter": 312,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
