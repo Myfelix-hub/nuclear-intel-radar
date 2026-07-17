@@ -877,8 +877,64 @@ def fetch_web_news_listing(session: requests.Session, src_def: dict[str, Any], n
 
 def _parse_news_listing_html(html: str, src_def: dict[str, Any], now: datetime) -> list[RawItem]:
     """Extract news items from structured HTML using src_def's CSS selectors.
-    Returns [] when no container matches the selector (silent zero signal)."""
-    raise NotImplementedError("implemented in Task 2")
+
+    For each `container_selector` match:
+      - title from title_selector text (trimmed)
+      - url from link_selector [href] (joined with src_def['start_urls'][0] base if relative)
+      - published_at from time_selector [time_attr] (or text content as fallback)
+    Dedup by normalized URL. Returns [] (silent zero signal) when no containers match.
+    """
+    site_id = src_def["site_id"]
+    site_name = src_def["site_name"]
+    base_url = src_def["start_urls"][0]
+    container_sel = src_def["container_selector"]
+    title_sel = src_def["title_selector"]
+    link_sel = src_def.get("link_selector", title_sel)
+    time_sel = src_def.get("time_selector")
+    time_attr = src_def.get("time_attr") or "datetime"
+    max_items = int(src_def.get("max_items", 20))
+
+    soup = BeautifulSoup(html, "html.parser")
+    containers = soup.select(container_sel)
+    if not containers:
+        return []
+
+    items: list[RawItem] = []
+    seen_urls: set[str] = set()
+
+    for container in containers[:max_items]:
+        title_el = container.select_one(title_sel)
+        if not title_el:
+            continue
+        title = title_el.get_text(strip=True)
+        if len(title) < 8:
+            continue
+
+        link_el = container.select_one(link_sel) or title_el
+        href = link_el.get("href") if link_el and link_el.has_attr("href") else ""
+        if not href:
+            continue
+        full_url = urljoin(base_url, href)
+        normalized = normalize_url(full_url)
+        if normalized in seen_urls:
+            continue
+        seen_urls.add(normalized)
+
+        published = None
+        if time_sel:
+            time_el = container.select_one(time_sel)
+            if time_el:
+                time_val = time_el.get(time_attr) or time_el.get_text(strip=True)
+                if time_val:
+                    published = parse_date_any(time_val, now)
+
+        items.append(RawItem(
+            site_id=site_id, site_name=site_name, source=site_name,
+            title=compact_title(title), url=full_url, published_at=published,
+            meta={"nuclear_relevance": nuclear_keyword_score(title)},
+        ))
+
+    return items
 
 
 def _parse_news_listing_jina(session: requests.Session, src_def: dict[str, Any], now: datetime) -> list[RawItem]:
