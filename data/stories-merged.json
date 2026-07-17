@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T17:20:22.345408+00:00",
+  "generated_at": "2026-07-17T18:36:30.037027+00:00",
   "window_hours": 72,
-  "total_stories": 96,
+  "total_stories": 95,
   "stories": [
     {
       "story_id": "story-3bbfa2fe24e20a35",
       "title": "http://www.nuclear.net.cn",
       "representative_url": "http://www.nuclear.net.cn/portal.php",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -19,8 +19,8 @@
           "source": "中国核网",
           "title": "http://www.nuclear.net.cn",
           "url": "http://www.nuclear.net.cn/portal.php",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.3375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -35,7 +35,7 @@
       "story_id": "story-2ae0559d60396e3b",
       "title": "试验成功！漳州核电，快发电了！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -47,8 +47,8 @@
           "source": "中国核网",
           "title": "试验成功！漳州核电，快发电了！",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.45,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -63,7 +63,7 @@
       "story_id": "story-09edd47f6ce41eb8",
       "title": "中广核新能源江西分公司原总经理邓东被查！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17539",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -75,8 +75,8 @@
           "source": "中国核网",
           "title": "中广核新能源江西分公司原总经理邓东被查！",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17539",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.45,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -91,7 +91,7 @@
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -103,8 +103,8 @@
           "source": "中国核网",
           "title": "中核集团人事密集调整！涉及江苏核电等！",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.675,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -119,7 +119,7 @@
       "story_id": "story-ae7f243428aa1ad7",
       "title": "中核二三领导班子调整",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17544",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -131,8 +131,8 @@
           "source": "中国核网",
           "title": "中核二三领导班子调整",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17544",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.3375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -147,7 +147,7 @@
       "story_id": "story-aff608d4f0b9f207",
       "title": "4标杆！3优良！中广核在央企“科改行动”“双百行动”考核中再获佳绩 2026-06-11",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_541722a06453411dbc2bd1b4f8580f8a.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -159,8 +159,8 @@
           "source": "中广核",
           "title": "4标杆！3优良！中广核在央企“科改行动”“双百行动”考核中再获佳绩 2026-06-11",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_541722a06453411dbc2bd1b4f8580f8a.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -175,7 +175,7 @@
       "story_id": "story-513cf6fa2139947b",
       "title": "杨长利带队到中广核苏州院开展安全大检查 2026-06-13",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_987fedad72fe419984caf65404c53a6e.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -187,8 +187,8 @@
           "source": "中广核",
           "title": "杨长利带队到中广核苏州院开展安全大检查 2026-06-13",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_987fedad72fe419984caf65404c53a6e.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -203,7 +203,7 @@
       "story_id": "story-5bb3a1855fd8f2ec",
       "title": "中广核福建宁德核电5号机组穹顶一次吊装成功 2026-06-16",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_aced35c8a94240f5b1fe7db4e5ac1347.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -215,8 +215,8 @@
           "source": "中广核",
           "title": "中广核福建宁德核电5号机组穹顶一次吊装成功 2026-06-16",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/16/content_aced35c8a94240f5b1fe7db4e5ac1347.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -231,7 +231,7 @@
       "story_id": "story-87e864e0dcc467d1",
       "title": "中广核党委召开党委（扩大）会议暨学习贯彻习近平党建思想会议 2026-06-18",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/23/content_5ca5e1bd73524f4f9feaf09a42f5ce1f.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -243,8 +243,8 @@
           "source": "中广核",
           "title": "中广核党委召开党委（扩大）会议暨学习贯彻习近平党建思想会议 2026-06-18",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/23/content_5ca5e1bd73524f4f9feaf09a42f5ce1f.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -259,7 +259,7 @@
       "story_id": "story-45d93025b014d5ce",
       "title": "中广核青海格尔木光热示范项目正式开工建设 2026-06-16",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/23/content_a35e4c19c77c4c978b547247c92bf4c4.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -271,8 +271,8 @@
           "source": "中广核",
           "title": "中广核青海格尔木光热示范项目正式开工建设 2026-06-16",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/23/content_a35e4c19c77c4c978b547247c92bf4c4.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -287,7 +287,7 @@
       "story_id": "story-c63684ba3dcd0bc2",
       "title": "央视《经济半小时》走进中广核三澳核电，探索未来能源的模样 2026-06-23",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/26/content_1509deb147b44836a2420675252cdd60.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -299,8 +299,8 @@
           "source": "中广核",
           "title": "央视《经济半小时》走进中广核三澳核电，探索未来能源的模样 2026-06-23",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/26/content_1509deb147b44836a2420675252cdd60.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.7,
           "nuclear_is_related": true,
@@ -315,7 +315,7 @@
       "story_id": "story-cac77908618a05b3",
       "title": "100%绿电供应！中广核助力2026大连夏季达沃斯论坛举办 2026-06-26",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/26/content_50f451315ad8440c89af00113ac22ca5.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -327,8 +327,8 @@
           "source": "中广核",
           "title": "100%绿电供应！中广核助力2026大连夏季达沃斯论坛举办 2026-06-26",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/26/content_50f451315ad8440c89af00113ac22ca5.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -343,7 +343,7 @@
       "story_id": "story-27a1c528a9fb5ade",
       "title": "中广核广东太平岭核电2号机组首次并网发电 2026-07-04",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b7efcac4fc6e41079dd090dbd74008f0.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -355,8 +355,8 @@
           "source": "中广核",
           "title": "中广核广东太平岭核电2号机组首次并网发电 2026-07-04",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b7efcac4fc6e41079dd090dbd74008f0.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 1.0,
           "nuclear_is_related": true,
@@ -371,7 +371,7 @@
       "story_id": "story-f6be77443969555b",
       "title": "东北首座！中广核吉西10万千瓦光热电站投产发电 2026-06-29",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b84dc47bd12c4788a38d838fc67a3f3e.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -383,8 +383,8 @@
           "source": "中广核",
           "title": "东北首座！中广核吉西10万千瓦光热电站投产发电 2026-06-29",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b84dc47bd12c4788a38d838fc67a3f3e.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.7,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -399,7 +399,7 @@
       "story_id": "story-a155f3eaab833eb9",
       "title": "中广核党委认真学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神 2026-07-06",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_ba4a10334e464bd8909c7d591d02c43a.shtml",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -411,8 +411,8 @@
           "source": "中广核",
           "title": "中广核党委认真学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神 2026-07-06",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_ba4a10334e464bd8909c7d591d02c43a.shtml",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -427,7 +427,7 @@
       "story_id": "story-595187e5bb52edf4",
       "title": "中广核与内蒙古自治区人民政府签署战略合作协议",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/13/content_15be98b214004f15b88522e8b853445b.shtml \"中广核与内蒙古自治区人民政府签署战略合作协议\"",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -439,8 +439,8 @@
           "source": "中广核",
           "title": "中广核与内蒙古自治区人民政府签署战略合作协议",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/13/content_15be98b214004f15b88522e8b853445b.shtml \"中广核与内蒙古自治区人民政府签署战略合作协议\"",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -455,7 +455,7 @@
       "story_id": "story-dc1a1553ccb6d311",
       "title": "纳米比亚总统恩代特瓦到中广核大亚湾核电基地参访",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/13/content_b8bb1c1d1f3c455fb3a69423e060a79b.shtml \"纳米比亚总统恩代特瓦到中广核大亚湾核电基地参访\"",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -467,8 +467,8 @@
           "source": "中广核",
           "title": "纳米比亚总统恩代特瓦到中广核大亚湾核电基地参访",
           "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/13/content_b8bb1c1d1f3c455fb3a69423e060a79b.shtml \"纳米比亚总统恩代特瓦到中广核大亚湾核电基地参访\"",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -483,7 +483,7 @@
       "story_id": "story-66dc3ae889ab8747",
       "title": "Securing nuclear fuel",
       "representative_url": "https://www.neimagazine.com/analysis/fuel-fuelcycle/securing-nuclear-fuel/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -495,8 +495,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Securing nuclear fuel",
           "url": "https://www.neimagazine.com/analysis/fuel-fuelcycle/securing-nuclear-fuel/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -511,7 +511,7 @@
       "story_id": "story-e121509d9157ed8f",
       "title": "A new nuclear security doctrine",
       "representative_url": "https://www.neimagazine.com/analysis/safetysecurity/a-new-nuclear-security-doctrine/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -523,8 +523,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "A new nuclear security doctrine",
           "url": "https://www.neimagazine.com/analysis/safetysecurity/a-new-nuclear-security-doctrine/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -539,7 +539,7 @@
       "story_id": "story-b8cf7ed54f6ab89b",
       "title": "Argentina unveils private SMR plan",
       "representative_url": "https://www.neimagazine.com/news/argentina-unveils-private-smr-plan/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -551,8 +551,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Argentina unveils private SMR plan",
           "url": "https://www.neimagazine.com/news/argentina-unveils-private-smr-plan/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -567,7 +567,7 @@
       "story_id": "story-a2b6afcbc5100e7a",
       "title": "Burundi looks to Russia for SMRs",
       "representative_url": "https://www.neimagazine.com/news/burundi-looks-to-russia-for-smrs/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -579,8 +579,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Burundi looks to Russia for SMRs",
           "url": "https://www.neimagazine.com/news/burundi-looks-to-russia-for-smrs/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -595,7 +595,7 @@
       "story_id": "story-63ccf2d955d91f54",
       "title": "Centrus scales HALEU production",
       "representative_url": "https://www.neimagazine.com/news/centrus-scales-haleu-production/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -607,8 +607,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Centrus scales HALEU production",
           "url": "https://www.neimagazine.com/news/centrus-scales-haleu-production/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -623,7 +623,7 @@
       "story_id": "story-05ab6157f30ae782",
       "title": "Deep Fission delivers prototype canister",
       "representative_url": "https://www.neimagazine.com/news/deep-fission-delivers-prototype-canister/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -635,8 +635,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Deep Fission delivers prototype canister",
           "url": "https://www.neimagazine.com/news/deep-fission-delivers-prototype-canister/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -651,7 +651,7 @@
       "story_id": "story-ccd98ea48fea33e6",
       "title": "DOE licenses seawater uranium tech",
       "representative_url": "https://www.neimagazine.com/news/doe-licenses-seawater-uranium-tech/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -663,8 +663,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "DOE licenses seawater uranium tech",
           "url": "https://www.neimagazine.com/news/doe-licenses-seawater-uranium-tech/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -679,7 +679,7 @@
       "story_id": "story-f0f022013dee8fc9",
       "title": "Extreme heat impacts French nuclear",
       "representative_url": "https://www.neimagazine.com/news/extreme-heat-impacts-french-nuclear/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -691,8 +691,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Extreme heat impacts French nuclear",
           "url": "https://www.neimagazine.com/news/extreme-heat-impacts-french-nuclear/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -707,7 +707,7 @@
       "story_id": "story-b6b1574c3284c827",
       "title": "Funding boost for Proxima stellarator",
       "representative_url": "https://www.neimagazine.com/news/funding-boost-for-proxima-stellarator/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -719,8 +719,36 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Funding boost for Proxima stellarator",
           "url": "https://www.neimagazine.com/news/funding-boost-for-proxima-stellarator/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
+          "nuclear_relevance": 0.6375,
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "nuclear_media",
+          "source_tier_rank": 1,
+          "source_tier_importance": 0.85
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "story_id": "story-44b6e3f68e6ad195",
+      "title": "General Fusion lists on Nasdaq",
+      "representative_url": "https://www.neimagazine.com/news/general-fusion-lists-on-nasdaq/",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
+      "sources": [
+        "nei_magazine"
+      ],
+      "items": [
+        {
+          "id": "291ce3eff13b2132",
+          "site_id": "nei_magazine",
+          "site_name": "Nuclear Eng. Int'l",
+          "source": "Nuclear Eng. Int'l",
+          "title": "General Fusion lists on Nasdaq",
+          "url": "https://www.neimagazine.com/news/general-fusion-lists-on-nasdaq/",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -735,7 +763,7 @@
       "story_id": "story-6846757f4a1ad147",
       "title": "ITER reports strong project progress",
       "representative_url": "https://www.neimagazine.com/news/iter-reports-strong-project-progress/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -747,10 +775,38 @@
           "source": "Nuclear Eng. Int'l",
           "title": "ITER reports strong project progress",
           "url": "https://www.neimagazine.com/news/iter-reports-strong-project-progress/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "nuclear_media",
+          "source_tier_rank": 1,
+          "source_tier_importance": 0.85
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "story_id": "story-d763acdf65fd955e",
+      "title": "Molten salt reactors target curium",
+      "representative_url": "https://www.neimagazine.com/news/molten-salt-reactors-target-curium/",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
+      "sources": [
+        "nei_magazine"
+      ],
+      "items": [
+        {
+          "id": "e119772932e0cbce",
+          "site_id": "nei_magazine",
+          "site_name": "Nuclear Eng. Int'l",
+          "source": "Nuclear Eng. Int'l",
+          "title": "Molten salt reactors target curium",
+          "url": "https://www.neimagazine.com/news/molten-salt-reactors-target-curium/",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
+          "nuclear_relevance": 1.0,
+          "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
           "source_tier": "nuclear_media",
           "source_tier_rank": 1,
@@ -763,7 +819,7 @@
       "story_id": "story-0278a0965350b2b6",
       "title": "Naveen Jindal’s Indian nuclear plans",
       "representative_url": "https://www.neimagazine.com/news/naveen-jindals-indian-nuclear-plans/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -775,8 +831,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Naveen Jindal’s Indian nuclear plans",
           "url": "https://www.neimagazine.com/news/naveen-jindals-indian-nuclear-plans/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -791,7 +847,7 @@
       "story_id": "story-dec997ce8ea25602",
       "title": "NRC proposes faster reactor licensing",
       "representative_url": "https://www.neimagazine.com/news/nrc-proposes-faster-reactor-licensing/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -803,8 +859,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "NRC proposes faster reactor licensing",
           "url": "https://www.neimagazine.com/news/nrc-proposes-faster-reactor-licensing/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -819,7 +875,7 @@
       "story_id": "story-cc5ff861319aeaf8",
       "title": "Nuclear icebreaker launches monitoring platform",
       "representative_url": "https://www.neimagazine.com/news/nuclear-icebreaker-launches-monitoring-platform/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -831,8 +887,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Nuclear icebreaker launches monitoring platform",
           "url": "https://www.neimagazine.com/news/nuclear-icebreaker-launches-monitoring-platform/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -847,7 +903,7 @@
       "story_id": "story-17399005622122df",
       "title": "Oklo Groves clears safety milestone",
       "representative_url": "https://www.neimagazine.com/news/oklo-groves-clears-safety-milestone/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -859,36 +915,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Oklo Groves clears safety milestone",
           "url": "https://www.neimagazine.com/news/oklo-groves-clears-safety-milestone/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
-          "nuclear_relevance": 0.6375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "nuclear_media",
-          "source_tier_rank": 1,
-          "source_tier_importance": 0.85
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "story_id": "story-152ace328738a69f",
-      "title": "Realta Fusion illuminates light bulbs",
-      "representative_url": "https://www.neimagazine.com/news/realta-fusion-illuminates-light-bulbs/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
-      "sources": [
-        "nei_magazine"
-      ],
-      "items": [
-        {
-          "id": "0b0378e808ba063d",
-          "site_id": "nei_magazine",
-          "site_name": "Nuclear Eng. Int'l",
-          "source": "Nuclear Eng. Int'l",
-          "title": "Realta Fusion illuminates light bulbs",
-          "url": "https://www.neimagazine.com/news/realta-fusion-illuminates-light-bulbs/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -903,7 +931,7 @@
       "story_id": "story-681186432d1dc287",
       "title": "RH3OVA tackles tritium challenge",
       "representative_url": "https://www.neimagazine.com/news/rh3ova-tackles-tritium-challenge/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -915,8 +943,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "RH3OVA tackles tritium challenge",
           "url": "https://www.neimagazine.com/news/rh3ova-tackles-tritium-challenge/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -931,7 +959,7 @@
       "story_id": "story-2e20d99984ee0452",
       "title": "Rolls-Royce plans UK SMR hub",
       "representative_url": "https://www.neimagazine.com/news/rolls-royce-plans-uk-smr-hub/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -943,8 +971,36 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Rolls-Royce plans UK SMR hub",
           "url": "https://www.neimagazine.com/news/rolls-royce-plans-uk-smr-hub/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
+          "nuclear_relevance": 0.6375,
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "nuclear_media",
+          "source_tier_rank": 1,
+          "source_tier_importance": 0.85
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "story_id": "story-a27badfba172d354",
+      "title": "Rosatom advances Shelf-M SMR",
+      "representative_url": "https://www.neimagazine.com/news/rosatom-advances-shelf-m-smr/",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
+      "sources": [
+        "nei_magazine"
+      ],
+      "items": [
+        {
+          "id": "9d28f57452feb339",
+          "site_id": "nei_magazine",
+          "site_name": "Nuclear Eng. Int'l",
+          "source": "Nuclear Eng. Int'l",
+          "title": "Rosatom advances Shelf-M SMR",
+          "url": "https://www.neimagazine.com/news/rosatom-advances-shelf-m-smr/",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -959,7 +1015,7 @@
       "story_id": "story-93141ae459a49619",
       "title": "Rosatom upgrades route to fast reactor fuel",
       "representative_url": "https://www.neimagazine.com/news/rosatom-upgrades-route-to-fast-reactor-fuel/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -971,8 +1027,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Rosatom upgrades route to fast reactor fuel",
           "url": "https://www.neimagazine.com/news/rosatom-upgrades-route-to-fast-reactor-fuel/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -987,7 +1043,7 @@
       "story_id": "story-9ef6528ed6068796",
       "title": "Trilateral alliance to advance SMRs",
       "representative_url": "https://www.neimagazine.com/news/trilateral-alliance-to-advance-smrs/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -999,8 +1055,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "Trilateral alliance to advance SMRs",
           "url": "https://www.neimagazine.com/news/trilateral-alliance-to-advance-smrs/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1015,7 +1071,7 @@
       "story_id": "story-204b5ad9b5288734",
       "title": "UK science park to host Odin microreactor",
       "representative_url": "https://www.neimagazine.com/news/uk-science-park-to-host-odin-microreactor/",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nei_magazine"
       ],
@@ -1027,8 +1083,8 @@
           "source": "Nuclear Eng. Int'l",
           "title": "UK science park to host Odin microreactor",
           "url": "https://www.neimagazine.com/news/uk-science-park-to-host-odin-microreactor/",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1043,7 +1099,7 @@
       "story_id": "story-56a90cb66b20a824",
       "title": "Advanced Reactors",
       "representative_url": "https://www.nrc.gov/reactors/new-reactors/advanced.html",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "us_nrc"
       ],
@@ -1055,8 +1111,8 @@
           "source": "US NRC News",
           "title": "Advanced Reactors",
           "url": "https://www.nrc.gov/reactors/new-reactors/advanced.html",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -1071,7 +1127,7 @@
       "story_id": "story-627902f185d769c0",
       "title": "ABS Grants Basic Design Approval For Nuclear-Powered Containership",
       "representative_url": "https://www.nucnet.org/news/abs-grants-basic-design-approval-for-nuclear-powered-containership-7-5-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1083,8 +1139,8 @@
           "source": "NucNet",
           "title": "ABS Grants Basic Design Approval For Nuclear-Powered Containership",
           "url": "https://www.nucnet.org/news/abs-grants-basic-design-approval-for-nuclear-powered-containership-7-5-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1099,7 +1155,7 @@
       "story_id": "story-b7f40a64a73e6fe4",
       "title": "Belgium In Talks With Engie To Take Over All Nuclear Power Plants",
       "representative_url": "https://www.nucnet.org/news/belgium-in-talks-with-engie-to-take-over-all-nuclear-power-plants-4-4-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1111,8 +1167,8 @@
           "source": "NucNet",
           "title": "Belgium In Talks With Engie To Take Over All Nuclear Power Plants",
           "url": "https://www.nucnet.org/news/belgium-in-talks-with-engie-to-take-over-all-nuclear-power-plants-4-4-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.85,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -1127,7 +1183,7 @@
       "story_id": "story-a702b13c372049ae",
       "title": "Belgium Steps Up Efforts To Return Nuclear To ‘Rightful Place’ In Energy Mix",
       "representative_url": "https://www.nucnet.org/news/belgium-steps-up-efforts-to-return-nuclear-to-rightful-place-in-energy-mix-7-1-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1139,8 +1195,8 @@
           "source": "NucNet",
           "title": "Belgium Steps Up Efforts To Return Nuclear To ‘Rightful Place’ In Energy Mix",
           "url": "https://www.nucnet.org/news/belgium-steps-up-efforts-to-return-nuclear-to-rightful-place-in-energy-mix-7-1-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.85,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -1155,7 +1211,7 @@
       "story_id": "story-1da69a12ef071126",
       "title": "Cameco Resumes Production At Cigar Lake Uranium Mine",
       "representative_url": "https://www.nucnet.org/news/cameco-resumes-production-at-cigar-lake-uranium-mine-7-4-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1167,8 +1223,8 @@
           "source": "NucNet",
           "title": "Cameco Resumes Production At Cigar Lake Uranium Mine",
           "url": "https://www.nucnet.org/news/cameco-resumes-production-at-cigar-lake-uranium-mine-7-4-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1183,7 +1239,7 @@
       "story_id": "story-8067b22220f208bd",
       "title": "Fusion Spending Increases, But Incentives Needed In Bid To Boost Supply Chain",
       "representative_url": "https://www.nucnet.org/news/fusion-spending-increases-but-incentives-needed-in-bid-to-boost-supply-chain-6-2-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1195,8 +1251,8 @@
           "source": "NucNet",
           "title": "Fusion Spending Increases, But Incentives Needed In Bid To Boost Supply Chain",
           "url": "https://www.nucnet.org/news/fusion-spending-increases-but-incentives-needed-in-bid-to-boost-supply-chain-6-2-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1211,7 +1267,7 @@
       "story_id": "story-e8bf07a00ebb87e5",
       "title": "Kyoto Fusioneering Signs Partnership With NGK To Develop Flibe For Nuclear Fusion Plants",
       "representative_url": "https://www.nucnet.org/news/kyoto-fusioneering-signs-partnership-with-ngk-to-develop-flibe-for-fusion-nuclear-plants-7-5-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1223,8 +1279,8 @@
           "source": "NucNet",
           "title": "Kyoto Fusioneering Signs Partnership With NGK To Develop Flibe For Nuclear Fusion Plants",
           "url": "https://www.nucnet.org/news/kyoto-fusioneering-signs-partnership-with-ngk-to-develop-flibe-for-fusion-nuclear-plants-7-5-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -1239,7 +1295,7 @@
       "story_id": "story-39d2733357645446",
       "title": "MOU Strengthens Transatlantic Cooperation On Deployment Of Fusion Energy",
       "representative_url": "https://www.nucnet.org/news/mou-strengthens-transatlantic-cooperation-on-deployment-of-fusion-energy-6-5-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1251,8 +1307,8 @@
           "source": "NucNet",
           "title": "MOU Strengthens Transatlantic Cooperation On Deployment Of Fusion Energy",
           "url": "https://www.nucnet.org/news/mou-strengthens-transatlantic-cooperation-on-deployment-of-fusion-energy-6-5-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.85,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -1267,7 +1323,7 @@
       "story_id": "story-8107320f02545329",
       "title": "New Legislation Paves Way For At Least 1,100 MW Of Nuclear Construction In New Jersey",
       "representative_url": "https://www.nucnet.org/news/new-jersey-governor-mikie-sherrill-signs-into-law-the-the-power-nj-act-courtesy-mikie-sherrill-x-7-2-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1279,8 +1335,8 @@
           "source": "NucNet",
           "title": "New Legislation Paves Way For At Least 1,100 MW Of Nuclear Construction In New Jersey",
           "url": "https://www.nucnet.org/news/new-jersey-governor-mikie-sherrill-signs-into-law-the-the-power-nj-act-courtesy-mikie-sherrill-x-7-2-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1295,7 +1351,7 @@
       "story_id": "story-a99092a60781d5ba",
       "title": "Polish Billionaire To Invest £35 Billion In Nuclear Plant Rollout Across UK",
       "representative_url": "https://www.nucnet.org/news/polish-billionaire-to-invest-gbp35-billion-in-nuclear-plant-rollout-across-uk-7-4-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1307,8 +1363,8 @@
           "source": "NucNet",
           "title": "Polish Billionaire To Invest £35 Billion In Nuclear Plant Rollout Across UK",
           "url": "https://www.nucnet.org/news/polish-billionaire-to-invest-gbp35-billion-in-nuclear-plant-rollout-across-uk-7-4-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1323,7 +1379,7 @@
       "story_id": "story-861d76001d470482",
       "title": "Reactors Shut Down As France’s Nuclear Output Hit By European Heatwave",
       "representative_url": "https://www.nucnet.org/news/reactors-shut-down-as-france-s-nuclear-output-hit-by-european-heatwave-6-5-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1335,8 +1391,8 @@
           "source": "NucNet",
           "title": "Reactors Shut Down As France’s Nuclear Output Hit By European Heatwave",
           "url": "https://www.nucnet.org/news/reactors-shut-down-as-france-s-nuclear-output-hit-by-european-heatwave-6-5-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -1351,7 +1407,7 @@
       "story_id": "story-0d408aedeb734485",
       "title": "Russia’s Nuclear Regulator Issues Site Licences For Two New Reactors At Kola",
       "representative_url": "https://www.nucnet.org/news/russia-s-nuclear-regulator-issues-site-licences-for-two-new-reactors-at-kola-7-5-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1363,8 +1419,8 @@
           "source": "NucNet",
           "title": "Russia’s Nuclear Regulator Issues Site Licences For Two New Reactors At Kola",
           "url": "https://www.nucnet.org/news/russia-s-nuclear-regulator-issues-site-licences-for-two-new-reactors-at-kola-7-5-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -1379,7 +1435,7 @@
       "story_id": "story-17e8f7c373f9da2d",
       "title": "Spain’s Nuclear Regulator Approves Almaraz Lifetime Extension To 2030, Awaits Government Decisi…",
       "representative_url": "https://www.nucnet.org/news/spain-s-nuclear-regulator-approves-almaraz-lifetime-extension-to-2030-awaits-government-decision-7-4-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1391,8 +1447,8 @@
           "source": "NucNet",
           "title": "Spain’s Nuclear Regulator Approves Almaraz Lifetime Extension To 2030, Awaits Government Decisi…",
           "url": "https://www.nucnet.org/news/spain-s-nuclear-regulator-approves-almaraz-lifetime-extension-to-2030-awaits-government-decision-7-4-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1407,7 +1463,7 @@
       "story_id": "story-3382eee8aa1b9d5b",
       "title": "UK’s Sizewell B Nuclear Power Plant Granted A 20-Year Life Extension",
       "representative_url": "https://www.nucnet.org/news/uk-s-sizewell-b-nuclear-power-plant-granted-a-20-year-life-extension-7-4-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1419,8 +1475,8 @@
           "source": "NucNet",
           "title": "UK’s Sizewell B Nuclear Power Plant Granted A 20-Year Life Extension",
           "url": "https://www.nucnet.org/news/uk-s-sizewell-b-nuclear-power-plant-granted-a-20-year-life-extension-7-4-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.85,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -1435,7 +1491,7 @@
       "story_id": "story-9675dac9a610c998",
       "title": "Uranium Sector Facing Need For New Mines And More Enrichment Capacity",
       "representative_url": "https://www.nucnet.org/news/uranium-sector-facing-need-for-new-mines-and-more-enrichment-capacity-7-4-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1447,8 +1503,8 @@
           "source": "NucNet",
           "title": "Uranium Sector Facing Need For New Mines And More Enrichment Capacity",
           "url": "https://www.nucnet.org/news/uranium-sector-facing-need-for-new-mines-and-more-enrichment-capacity-7-4-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -1463,7 +1519,7 @@
       "story_id": "story-11bcb986ca9b32d3",
       "title": "US Company Launches First Commercial Nuclear Satellite on SpaceX Mission",
       "representative_url": "https://www.nucnet.org/news/us-company-to-launch-first-commercial-nuclear-satellite-on-spacex-mission-7-2-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1475,8 +1531,8 @@
           "source": "NucNet",
           "title": "US Company Launches First Commercial Nuclear Satellite on SpaceX Mission",
           "url": "https://www.nucnet.org/news/us-company-to-launch-first-commercial-nuclear-satellite-on-spacex-mission-7-2-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1491,7 +1547,7 @@
       "story_id": "story-98b7178b1bb9ad2c",
       "title": "US NRC Approves Exemption Request For Westinghouse AP1000 Design Certification",
       "representative_url": "https://www.nucnet.org/news/us-nrc-approves-exemption-request-for-westinghouse-ap1000-design-certification-7-4-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1503,8 +1559,8 @@
           "source": "NucNet",
           "title": "US NRC Approves Exemption Request For Westinghouse AP1000 Design Certification",
           "url": "https://www.nucnet.org/news/us-nrc-approves-exemption-request-for-westinghouse-ap1000-design-certification-7-4-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -1519,7 +1575,7 @@
       "story_id": "story-5253bd2c73027d63",
       "title": "US Nuclear Leader Constellation Makes Strategic Investment In Startup SMR Developer",
       "representative_url": "https://www.nucnet.org/news/us-nuclear-leader-constellation-makes-strategic-investment-in-startup-smr-developer-7-5-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1531,8 +1587,8 @@
           "source": "NucNet",
           "title": "US Nuclear Leader Constellation Makes Strategic Investment In Startup SMR Developer",
           "url": "https://www.nucnet.org/news/us-nuclear-leader-constellation-makes-strategic-investment-in-startup-smr-developer-7-5-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -1547,7 +1603,7 @@
       "story_id": "story-3512b3e38da02565",
       "title": "US Passes Six Bills Aimed At Streamlining NRC Approvals And Advancing Fuel Enrichment",
       "representative_url": "https://www.nucnet.org/news/us-passes-bills-aimed-at-streamlining-nrc-approvals-and-advancing-fuel-enrichment-7-4-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1559,8 +1615,8 @@
           "source": "NucNet",
           "title": "US Passes Six Bills Aimed At Streamlining NRC Approvals And Advancing Fuel Enrichment",
           "url": "https://www.nucnet.org/news/us-passes-bills-aimed-at-streamlining-nrc-approvals-and-advancing-fuel-enrichment-7-4-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -1575,7 +1631,7 @@
       "story_id": "story-910845a6f46338f4",
       "title": "US Triso Fuel Manufacturer Gets $11 Million Grant For Tennessee Fabrication Campus",
       "representative_url": "https://www.nucnet.org/news/us-triso-fuel-manufacturer-gets-usd11-million-grant-for-tennessee-fabrication-campus-7-5-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1587,8 +1643,8 @@
           "source": "NucNet",
           "title": "US Triso Fuel Manufacturer Gets $11 Million Grant For Tennessee Fabrication Campus",
           "url": "https://www.nucnet.org/news/us-triso-fuel-manufacturer-gets-usd11-million-grant-for-tennessee-fabrication-campus-7-5-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -1603,7 +1659,7 @@
       "story_id": "story-f2279afbed6fcdf5",
       "title": "Valar Atomics’ Ward 250 Becomes Second Advanced Nuclear Plant To Go Critical In US",
       "representative_url": "https://www.nucnet.org/news/valar-atomics-ward-250-becomes-second-advanced-nuclear-plant-to-go-critical-in-us-6-5-2026",
-      "first_published_at": "2026-07-17T17:20:22.345408+00:00",
+      "first_published_at": "2026-07-17T18:36:30.037027+00:00",
       "sources": [
         "nucnet"
       ],
@@ -1615,10 +1671,71 @@
           "source": "NucNet",
           "title": "Valar Atomics’ Ward 250 Becomes Second Advanced Nuclear Plant To Go Critical In US",
           "url": "https://www.nucnet.org/news/valar-atomics-ward-250-becomes-second-advanced-nuclear-plant-to-go-critical-in-us-6-5-2026",
-          "published_at": "2026-07-17T17:20:22.345408+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "published_at": "2026-07-17T18:36:30.037027+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "nuclear_media",
+          "source_tier_rank": 1,
+          "source_tier_importance": 0.85
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "story_id": "story-5d882128cfb85c42",
+      "title": "Experiments at the nation's only all-digital nuclear reactor",
+      "representative_url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/",
+      "first_published_at": "2026-07-17T18:08:49+00:00",
+      "sources": [
+        "hn_nuclear"
+      ],
+      "items": [
+        {
+          "id": "247fde037d3ce8e0",
+          "site_id": "hn_nuclear",
+          "site_name": "Hacker News",
+          "source": "HN · nuclear reactor",
+          "title": "Experiments at the nation's only all-digital nuclear reactor",
+          "url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/",
+          "published_at": "2026-07-17T18:08:49+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
+          "points": 1,
+          "comments": 1,
+          "nuclear_relevance": 0.375,
+          "hn_query": "nuclear reactor",
+          "nuclear_kw_score": 0.6,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "story_id": "story-4cfebb415402dc48",
+      "title": "New grant to fund continued construction of TRISO-X fuel facilities",
+      "representative_url": "https://www.ans.org/news/2026-07-17/article-8214/new-grant-to-fund-continued-construction-of-trisox-fuel-facilities/",
+      "first_published_at": "2026-07-17T18:06:14+00:00",
+      "sources": [
+        "ans_newswire"
+      ],
+      "items": [
+        {
+          "id": "ae6c6876053f60fe",
+          "site_id": "ans_newswire",
+          "site_name": "ANS Newswire",
+          "source": "ANS Newswire",
+          "title": "New grant to fund continued construction of TRISO-X fuel facilities",
+          "url": "https://www.ans.org/news/2026-07-17/article-8214/new-grant-to-fund-continued-construction-of-trisox-fuel-facilities/",
+          "published_at": "2026-07-17T18:06:14+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
+          "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} span.s1 {text-decoration: underline ; color: #0000ff}\nX-energy subsidiary TRISO-X has received an economic development grant valued at $11 million from Tennessee’s Nuclear Energy Supply Chain Investment Fund, which was esta",
+          "feed_title": "https://www.ans.org/news",
+          "nuclear_relevance": 1.0,
+          "nuclear_kw_score": 0.5,
           "nuclear_is_related": true,
           "source_tier": "nuclear_media",
           "source_tier_rank": 1,
@@ -1644,7 +1761,7 @@
           "title": "NRC public meetings shed light on proposed rules",
           "url": "https://www.ans.org/news/2026-07-17/article-8213/nrc-public-meetings-shed-light-on-proposed-rules/",
           "published_at": "2026-07-17T14:30:05+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 12.0px Aptos; color: #000000}\nIn the span of just over a week in late June and early July, the Nuclear Regulatory Commission published three proposed rules on modernizing security requirements, low-level radioactive waste disposal requirements, and fuel c",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 1.0,
@@ -1674,7 +1791,7 @@
           "title": "Nuclear-assisted hydrogen production facility opens in Kalpakkam, India",
           "url": "https://www.ans.org/news/2026-07-17/article-8212/nuclearassisted-hydrogen-production-facility-opens-in-kalpakkam-india/",
           "published_at": "2026-07-17T11:57:17+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} span.s1 {text-decoration: underline ; color: #0000ff}\nAt the Indira Gandhi Centre for Atomic Research (IGCAR) in Kalpakkam, the Indian Department of Atomic Energy (DAE) has inaugurated a hydrogen production facility based o",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.7437,
@@ -1704,7 +1821,7 @@
           "title": "South Africa's Koeberg nuclear plant has 'contamination' events",
           "url": "https://www.reddit.com/r/nuclear/comments/1uyw83j/south_africas_koeberg_nuclear_plant_has/",
           "published_at": "2026-07-17T10:48:54+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -1733,7 +1850,7 @@
           "title": "South Korean SMR-powered container ship design certified",
           "url": "https://www.world-nuclear-news.org//articles/korean-smr-powered-container-ship-design-certified",
           "published_at": "2026-07-17T10:17:06+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "The Korea Research Institute of Ships &amp; Ocean Engineering has received Approval in Principle from the American Bureau of Shipping for the conceptual design of a container ship propelled by two small modular molten salt reactors.\n&nbsp;",
           "feed_title": "https://www.world-nuclear-news.org",
           "nuclear_relevance": 1.0,
@@ -1763,7 +1880,7 @@
           "title": "US firm unveils commercial plan for 10MWe reactor based on light-water tech",
           "url": "https://www.reddit.com/r/nuclear/comments/1uytrz7/us_firm_unveils_commercial_plan_for_10mwe_reactor/",
           "published_at": "2026-07-17T08:29:12+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -1792,7 +1909,7 @@
           "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
           "url": "https://www.reddit.com/r/nuclear/comments/1uyqin5/files_relating_to_indias_largest_nuclear_power/",
           "published_at": "2026-07-17T05:24:06+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.25,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.4,
@@ -1821,7 +1938,7 @@
           "title": "India Is Running Three SMR Programmes Simultaneously. Each One Is a Different Market",
           "url": "https://www.reddit.com/r/nuclear/comments/1uypvkg/india_is_running_three_smr_programmes/",
           "published_at": "2026-07-17T04:50:14+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -1850,7 +1967,7 @@
           "title": "Bayesian Inference for Extracting Barrier Distributions from Fusion Excitation Functions",
           "url": "https://arxiv.org/abs/2607.14422",
           "published_at": "2026-07-17T04:00:00+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "arXiv:2607.14422v1 Announce Type: cross \nAbstract: Barrier distributions encode rich information about the structure and dynamics of fusing nuclei, but extracting them from experimental fusion cross sections requires an estimate of the fusion excitation function's second derivative. In this work we ",
           "feed_title": "https://arxiv.org/list/nucl-ex/recent",
           "nuclear_relevance": 0.4875,
@@ -1880,7 +1997,7 @@
           "title": "Universal Properties of Near-Threshold Single-Neutron Resonances",
           "url": "https://arxiv.org/abs/2607.14464",
           "published_at": "2026-07-17T04:00:00+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "arXiv:2607.14464v1 Announce Type: new \nAbstract: We establish universal width predictions for near-threshold single-neutron resonances in $L > 0$ partial waves. Our results go beyond Wigner's well-known scaling behavior of cross sections near threshold. We show that the finite square-well potential ",
           "feed_title": "https://arxiv.org/list/nucl-th/recent",
           "nuclear_relevance": 0.4875,
@@ -1910,7 +2027,7 @@
           "title": "Responses of multiparticle observables to multidimensional nuclear deformation in relativistic …",
           "url": "https://arxiv.org/abs/2607.14776",
           "published_at": "2026-07-17T04:00:00+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "arXiv:2607.14776v1 Announce Type: new \nAbstract: Relativistic heavy-ion collisions provide a unique opportunity to probe ground-state nuclear structure through its imprint on the initial collision geometry. We investigate how multiparticle observables respond to combined variations of quadrupole def",
           "feed_title": "https://arxiv.org/list/nucl-th/recent",
           "nuclear_relevance": 0.4875,
@@ -1940,7 +2057,7 @@
           "title": "Extracting nuclear charge radii from binding energies: a single-parameter empirical formula wit…",
           "url": "https://arxiv.org/abs/2607.15064",
           "published_at": "2026-07-17T04:00:00+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "arXiv:2607.15064v1 Announce Type: new \nAbstract: Nuclear binding energies and charge radii stem from the same underlying physics: saturation, isospin dependence, shell structure, and deformation. Binding-energy data therefore provide a natural constraint for charge-radius modeling. We propose a one-",
           "feed_title": "https://arxiv.org/list/nucl-th/recent",
           "nuclear_relevance": 0.5687,
@@ -1970,39 +2087,10 @@
           "title": "Cancer proximity to Nuclear Power Plants attributed to Fear",
           "url": "https://www.reddit.com/r/nuclear/comments/1uyi2vb/cancer_proximity_to_nuclear_power_plants/",
           "published_at": "2026-07-16T22:51:11+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.25,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "community",
-          "source_tier_rank": 5,
-          "source_tier_importance": 0.25
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "story_id": "story-45664c34cb5b02b1",
-      "title": "Resume feedback for pivot into nuclear operations",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1uyhz0e/resume_feedback_for_pivot_into_nuclear_operations/",
-      "first_published_at": "2026-07-16T22:46:44+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "items": [
-        {
-          "id": "10e060927c3cbf96",
-          "site_id": "reddit_nuclear",
-          "site_name": "Reddit",
-          "source": "r/nuclearpower",
-          "title": "Resume feedback for pivot into nuclear operations",
-          "url": "https://www.reddit.com/r/NuclearPower/comments/1uyhz0e/resume_feedback_for_pivot_into_nuclear_operations/",
-          "published_at": "2026-07-16T22:46:44+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
-          "nuclear_relevance": 0.1875,
-          "subreddit": "nuclearpower",
-          "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
           "source_tier": "community",
           "source_tier_rank": 5,
@@ -2028,7 +2116,7 @@
           "title": "Pacific Fusion Says Pulsed-Power Prototype Hits Milestone at National Lab",
           "url": "https://www.powermag.com/pacific-fusion-says-pulsed-power-prototype-hits-milestone-at-national-lab/",
           "published_at": "2026-07-16T21:54:52+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "California-headquartered Pacific Fusion announced that a pulsed-power prototype designed and built at Lawrence Livermore National Laboratory (LLNL) has surpassed 3,000 shots under a Cooperative Research and Development Agreement with the company. Pacific Fusion on July 16 said this marks a key miles",
           "feed_title": "https://www.powermag.com",
           "nuclear_relevance": 0.225,
@@ -2058,7 +2146,7 @@
           "title": "Korea's molten salt nuclear-powered container ship design wins US approval",
           "url": "https://www.reddit.com/r/nuclear/comments/1uye7yk/koreas_molten_salt_nuclearpowered_container_ship/",
           "published_at": "2026-07-16T20:23:57+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.375,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.6,
@@ -2087,7 +2175,7 @@
           "title": "Nuclear is ready now",
           "url": "https://www.ans.org/news/2026-07-16/article-8210/nuclear-is-ready-now/",
           "published_at": "2026-07-16T16:49:47+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "Michael GoffI don’t think we’ve ever had a busier year in the Office of Nuclear Energy, and it’s probably been decades since we’ve had this much momentum within the overall U.S. nuclear industry.President Trump and Energy Secretary Wright have made very clear the important role that nuclear must pla",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.7437,
@@ -2117,7 +2205,7 @@
           "title": "The deadline arrives: Checking in on the Reactor Pilot Program -- ANS | July 2, 2026",
           "url": "https://www.reddit.com/r/nuclear/comments/1uy4vrg/the_deadline_arrives_checking_in_on_the_reactor/",
           "published_at": "2026-07-16T14:44:32+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -2146,7 +2234,7 @@
           "title": "How a third-generation Texas oilman transformed an organic farming company into a nuclear start…",
           "url": "https://www.reddit.com/r/nuclear/comments/1uy4q0j/how_a_thirdgeneration_texas_oilman_transformed_an/",
           "published_at": "2026-07-16T14:38:26+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -2175,7 +2263,7 @@
           "title": "Realta Fusion, Inertia Enterprises select HQ locations",
           "url": "https://www.ans.org/news/2026-07-16/article-8209/realta-fusion-inertia-enterprises-select-hq-locations/",
           "published_at": "2026-07-16T14:22:07+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "Two nuclear fusion companies are setting up shop in disused industrial buildings. Realta Fusion just named a Madison, Wis., location for its “Realta Forge.” Meanwhile, last week, Inertia Enterprises announced the opening of its new headquarters in Livermore, Calif.",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.9562,
@@ -2205,7 +2293,7 @@
           "title": "A reactor with no fuel rods and no pellets runs on uranium dissolved into molten salt, a liquid…",
           "url": "https://www.reddit.com/r/nuclear/comments/1uy49me/a_reactor_with_no_fuel_rods_and_no_pellets_runs/",
           "published_at": "2026-07-16T14:21:03+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.5625,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.9,
@@ -2234,7 +2322,7 @@
           "title": "NEA irradiation system ready to deploy at MITR",
           "url": "https://www.ans.org/news/2026-07-16/article-8208/nea-irradiation-system-ready-to-deploy-at-mitr/",
           "published_at": "2026-07-16T11:53:48+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "A new irradiation experimental system is ready for deployment. The rig, which is the focus of In-Core Real-Time Mechanical Testing of Structural Materials (INCREASE-I), an OECD Nuclear Energy Agency project, will be used to conduct stress-relaxation tests of stainless steel at the Massachusetts Inst",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 1.0,
@@ -2264,7 +2352,7 @@
           "title": "Siting licence granted for new Kola nuclear power plant units",
           "url": "https://www.world-nuclear-news.org//articles/site-licence-granted-for-new-kola-nuclear-power-plant-units",
           "published_at": "2026-07-16T10:33:14+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "Russia's nuclear regulatory Rostekhnadzor has issued site licences for the first two proposed units at the new Kola Nuclear Power Plant.\n&nbsp;",
           "feed_title": "https://www.world-nuclear-news.org",
           "nuclear_relevance": 0.85,
@@ -2294,7 +2382,7 @@
           "title": "National Nuclear Security Administration: Additional Actions Needed to Plan for Science, Techno…",
           "url": "https://www.reddit.com/r/nuclear/comments/1uxtksa/national_nuclear_security_administration/",
           "published_at": "2026-07-16T05:23:34+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -2323,39 +2411,10 @@
           "title": "Kudankulam nuclear power plant ‘data’ on dark web",
           "url": "https://www.reddit.com/r/nuclear/comments/1uxs29m/kudankulam_nuclear_power_plant_data_on_dark_web/",
           "published_at": "2026-07-16T04:04:27+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.25,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "community",
-          "source_tier_rank": 5,
-          "source_tier_importance": 0.25
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "story_id": "story-e62b91849238bfa5",
-      "title": "Pwr-01 by kraakaah (me)",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1uxptbj/pwr01_by_kraakaah_me/",
-      "first_published_at": "2026-07-16T02:14:49+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "items": [
-        {
-          "id": "43ddb14c3acdea0f",
-          "site_id": "reddit_nuclear",
-          "site_name": "Reddit",
-          "source": "r/nuclearpower",
-          "title": "Pwr-01 by kraakaah (me)",
-          "url": "https://www.reddit.com/r/NuclearPower/comments/1uxptbj/pwr01_by_kraakaah_me/",
-          "published_at": "2026-07-16T02:14:49+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
-          "nuclear_relevance": 0.1875,
-          "subreddit": "nuclearpower",
-          "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
           "source_tier": "community",
           "source_tier_rank": 5,
@@ -2381,7 +2440,7 @@
           "title": "Gov. Sherrill signs bill to begin nuclear procurement in N.J.",
           "url": "https://www.ans.org/news/2026-07-15/article-8207/gov-sherrill-signs-bill-to-begin-nuclear-procurement-in-nj/",
           "published_at": "2026-07-15T20:23:00+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "On July 13, New Jersey Gov. Mikie Sherrill signed the Power NJ Act, a bill that directs the state’s Board of Public Utilities (BPU), in collaboration with the state’s Economic Development Authority, to establish an “advanced nuclear energy procurement program.”   ",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.7437,
@@ -2411,7 +2470,7 @@
           "title": "EDF reactors could be used to... cool rivers",
           "url": "https://www.reddit.com/r/nuclear/comments/1uxdfi1/edf_reactors_could_be_used_to_cool_rivers/",
           "published_at": "2026-07-15T17:57:47+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -2440,7 +2499,7 @@
           "title": "House subcommittee OKs six nuclear permitting reform bills",
           "url": "https://www.ans.org/news/2026-07-15/article-8206/house-subcommittee-oks-six-nuclear-permitting-reform-bills/",
           "published_at": "2026-07-15T17:40:23+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "The U.S. House Energy and Commerce Committee’s Subcommittee on Energy introduced six nuclear permitting reform bills back in June. The mostly bipartisan bills returned to the subcommittee on Tuesday for markups—and with strong backing from both sides of the aisle. Despite some lingering concerns in ",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.7437,
@@ -2449,35 +2508,6 @@
           "source_tier": "nuclear_media",
           "source_tier_rank": 1,
           "source_tier_importance": 0.85
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "story_id": "story-8af765643fe645ec",
-      "title": "Entry Level Jobs in Nuclear Energy",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1ux9k6q/entry_level_jobs_in_nuclear_energy/",
-      "first_published_at": "2026-07-15T15:44:39+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "items": [
-        {
-          "id": "cffbb78f6f9cf049",
-          "site_id": "reddit_nuclear",
-          "site_name": "Reddit",
-          "source": "r/nuclearpower",
-          "title": "Entry Level Jobs in Nuclear Energy",
-          "url": "https://www.reddit.com/r/NuclearPower/comments/1ux9k6q/entry_level_jobs_in_nuclear_energy/",
-          "published_at": "2026-07-15T15:44:39+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
-          "nuclear_relevance": 0.25,
-          "subreddit": "nuclearpower",
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "community",
-          "source_tier_rank": 5,
-          "source_tier_importance": 0.25
         }
       ],
       "duplicate_count": 1
@@ -2499,7 +2529,7 @@
           "title": "How to lie about radiation -",
           "url": "https://www.reddit.com/r/nuclear/comments/1ux8qrm/how_to_lie_about_radiation/",
           "published_at": "2026-07-15T15:15:09+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -2528,7 +2558,7 @@
           "title": "Researchers demonstrate remote real-time adjustment of PUR-1 reactor",
           "url": "https://www.ans.org/news/2026-07-15/article-8205/researchers-demonstrate-remote-realtime-adjustment-of-pur1-reactor/",
           "published_at": "2026-07-15T14:33:07+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "The remote, automatic, real-time adjustment of a research reactor’s power by a geographically distributed control system has been reported by researchers from Idaho National Laboratory, the Grainger College of Engineering at the University of Illinois–Urbana-Champaign, and Purdue University. The inv",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.6375,
@@ -2558,7 +2588,7 @@
           "title": "Update 358 – IAEA Director General Statement on Situation in Ukraine",
           "url": "http://www.iaea.org/newscenter/pressreleases/update-358-iaea-director-general-statement-on-situation-in-ukraine",
           "published_at": "2026-07-15T14:23:54+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "",
           "feed_title": "https://www.iaea.org/newscenter",
           "nuclear_relevance": 0.75,
@@ -2588,7 +2618,7 @@
           "title": "IAEA Draws Safeguards Conclusions for 179 States – IAEA Report",
           "url": "http://www.iaea.org/newscenter/news/iaea-draws-safeguards-conclusions-for-179-states-iaea-report",
           "published_at": "2026-07-15T12:30:09+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "",
           "feed_title": "https://www.iaea.org/newscenter",
           "nuclear_relevance": 1.0,
@@ -2618,7 +2648,7 @@
           "title": "ICRS15-RPSD2026 on the horizon",
           "url": "https://www.ans.org/news/2026-07-15/article-8204/icrs15rpsd2026-on-the-horizon/",
           "published_at": "2026-07-15T12:28:30+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "Now is a good time to register for the 15th International Conference on Radiation Shielding and the 23rd American Nuclear Society Topical Meeting of the Radiation Protection and Shielding Division (ICRS15-RPSD2026), which will be held October 25–29.",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.6375,
@@ -2648,7 +2678,7 @@
           "title": "Nuclear Science is Transforming Rainbow Trout Farming in Latin America",
           "url": "http://www.iaea.org/newscenter/news/nuclear-science-is-transforming-rainbow-trout-farming-in-latin-america",
           "published_at": "2026-07-15T07:05:30+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "",
           "feed_title": "https://www.iaea.org/newscenter",
           "nuclear_relevance": 0.75,
@@ -2657,35 +2687,6 @@
           "source_tier": "official",
           "source_tier_rank": 0,
           "source_tier_importance": 1.0
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "story_id": "story-e84540755cd93583",
-      "title": "NRC's proposed NEPA rule sets 1-year EAs and 2-year EISs, drops the draft EIS step, and could p…",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1uwoxru/nrcs_proposed_nepa_rule_sets_1year_eas_and_2year/",
-      "first_published_at": "2026-07-14T23:26:39+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "items": [
-        {
-          "id": "d25895c69dd99232",
-          "site_id": "reddit_nuclear",
-          "site_name": "Reddit",
-          "source": "r/nuclearpower",
-          "title": "NRC's proposed NEPA rule sets 1-year EAs and 2-year EISs, drops the draft EIS step, and could p…",
-          "url": "https://www.reddit.com/r/NuclearPower/comments/1uwoxru/nrcs_proposed_nepa_rule_sets_1year_eas_and_2year/",
-          "published_at": "2026-07-14T23:26:39+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
-          "nuclear_relevance": 0.1875,
-          "subreddit": "nuclearpower",
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "community",
-          "source_tier_rank": 5,
-          "source_tier_importance": 0.25
         }
       ],
       "duplicate_count": 1
@@ -2707,41 +2708,11 @@
           "title": "Team brings quantum computing into FLiBe chemistry calculations",
           "url": "https://www.ans.org/news/2026-07-14/article-8203/team-brings-quantum-computing-into-flibe-chemistry-calculations/",
           "published_at": "2026-07-14T20:12:37+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
+          "added_at": "2026-07-17T18:36:30.037027+00:00",
           "summary": "Researchers have reported using a combination of quantum and classical computing to calculate chemistry connected to tritium speciation in a FLiBe—lithium fluoride and beryllium fluoride—molten salt blanket, demonstrating a promising direction for unlocking tritium breeding in fusion machines.",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.9562,
           "nuclear_kw_score": 0.45,
-          "nuclear_is_related": true,
-          "source_tier": "nuclear_media",
-          "source_tier_rank": 1,
-          "source_tier_importance": 0.85
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "story_id": "story-b9351b6f2d82fb89",
-      "title": "ANS webinar looks to Utah’s nuclear future",
-      "representative_url": "https://www.ans.org/news/2026-07-14/article-8202/ans-webinar-looks-to-utahs-nuclear-future/",
-      "first_published_at": "2026-07-14T18:31:31+00:00",
-      "sources": [
-        "ans_newswire"
-      ],
-      "items": [
-        {
-          "id": "fd5c2e56d3781791",
-          "site_id": "ans_newswire",
-          "site_name": "ANS Newswire",
-          "source": "ANS Newswire",
-          "title": "ANS webinar looks to Utah’s nuclear future",
-          "url": "https://www.ans.org/news/2026-07-14/article-8202/ans-webinar-looks-to-utahs-nuclear-future/",
-          "published_at": "2026-07-14T18:31:31+00:00",
-          "added_at": "2026-07-17T17:20:22.345408+00:00",
-          "summary": "On July 9, the American Nuclear Society hosted the third installment of its “Nuclear in the States” webinar series. This time, the webinar looked to the current landscape of Utah’s nuclear sector—from its policy developments to ongoing projects to workforce needs.ANS CEO Craig Piercy, who led the di",
-          "feed_title": "https://www.ans.org/news",
-          "nuclear_relevance": 0.6375,
-          "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
           "source_tier": "nuclear_media",
           "source_tier_rank": 1,

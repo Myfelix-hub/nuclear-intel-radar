@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-07-17T17:20:22.345408+00:00",
+  "generated_at": "2026-07-17T18:36:30.037027+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-17",
+      "title": "Experiments at the nation's only all-digital nuclear reactor",
+      "url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/"
+    },
     {
       "date": "2026-07-17",
       "title": "South Africa's Koeberg nuclear plant has 'contamination' events",
@@ -27,11 +32,6 @@
       "date": "2026-07-16",
       "title": "Cancer proximity to Nuclear Power Plants attributed to Fear",
       "url": "https://www.reddit.com/r/nuclear/comments/1uyi2vb/cancer_proximity_to_nuclear_power_plants/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Resume feedback for pivot into nuclear operations",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uyhz0e/resume_feedback_for_pivot_into_nuclear_operations/"
     },
     {
       "date": "2026-07-16",
@@ -64,34 +64,14 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1uxs29m/kudankulam_nuclear_power_plant_data_on_dark_web/"
     },
     {
-      "date": "2026-07-16",
-      "title": "Pwr-01 by kraakaah (me)",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uxptbj/pwr01_by_kraakaah_me/"
-    },
-    {
       "date": "2026-07-15",
       "title": "EDF reactors could be used to... cool rivers",
       "url": "https://www.reddit.com/r/nuclear/comments/1uxdfi1/edf_reactors_could_be_used_to_cool_rivers/"
     },
     {
       "date": "2026-07-15",
-      "title": "Entry Level Jobs in Nuclear Energy",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1ux9k6q/entry_level_jobs_in_nuclear_energy/"
-    },
-    {
-      "date": "2026-07-15",
       "title": "How to lie about radiation -",
       "url": "https://www.reddit.com/r/nuclear/comments/1ux8qrm/how_to_lie_about_radiation/"
-    },
-    {
-      "date": "2026-07-14",
-      "title": "How does liquid liquid extraction ion exchange work in the context of the PUREX process (purify…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uwpmke/how_does_liquid_liquid_extraction_ion_exchange/"
-    },
-    {
-      "date": "2026-07-14",
-      "title": "NRC's proposed NEPA rule sets 1-year EAs and 2-year EISs, drops the draft EIS step, and could p…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uwoxru/nrcs_proposed_nepa_rule_sets_1year_eas_and_2year/"
     },
     {
       "date": "2026-07-14",
@@ -110,6 +90,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-07-17",
+      "title": "Experiments at the nation's only all-digital nuclear reactor",
+      "url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/"
+    },
     {
       "date": "2026-07-17",
       "title": "South Africa's Koeberg nuclear plant has 'contamination' events",
@@ -132,8 +117,8 @@
     }
   ],
   "latest_date": "2026-07-17",
-  "count_7d": 21,
-  "count_today": 4,
+  "count_7d": 17,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
