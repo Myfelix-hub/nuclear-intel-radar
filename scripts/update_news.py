@@ -64,6 +64,16 @@ NUCLEAR_RSS_FEEDS: tuple[dict[str, Any], ...] = (
     {"site_id": "nucnet",         "site_name": "NucNet",            "xml_url": "https://www.nucnet.org/feed.rss",                           "html_url": "https://www.nucnet.org", "via_jina": True},
     {"site_id": "iaea_news",      "site_name": "IAEA News",         "xml_url": "https://www.iaea.org/feeds/news",                            "html_url": "https://www.iaea.org/newscenter"},
     {"site_id": "us_nrc",         "site_name": "US NRC News",       "xml_url": "https://www.nrc.gov/reading-rm/doc-collections/news/rss.xml", "html_url": "https://www.nrc.gov/reading-rm/doc-collections/news", "via_jina": True},
+    # ITER — official fusion project. RSS path unknown; probe multiple candidates.
+    {"site_id": "iter_org",       "site_name": "ITER",              "xml_url": "https://www.iter.org/rss", "html_url": "https://www.iter.org/news",
+     "xml_url_candidates": [
+         "https://www.iter.org/rss",
+         "https://www.iter.org/news/rss",
+         "https://www.iter.org/news/rss.xml",
+         "https://www.iter.org/rss/news",
+         "https://www.iter.org/feed",
+         "https://www.iter.org/atom.xml",
+     ], "via_jina": True},
 )
 
 RSS_MAX_AGE_DAYS = 14
@@ -433,26 +443,56 @@ def fetch_single_rss_feed(session: requests.Session, feed_def: dict[str, Any], n
     timeout, Cloudflare block) triggers a fallback to the Jina reader of the
     html_url. If both paths fail, raise RuntimeError combining both errors so
     source-status.json records ok=False with full diagnostic context.
+
+    When feed_def['xml_url_candidates'] is set, each candidate is tried in order
+    until one succeeds (HTTP 200 with XML/RSS/Atom content). Useful for sources
+    whose true RSS path is unknown and must be discovered by probe.
     """
     site_id = feed_def["site_id"]
     site_name = feed_def["site_name"]
     xml_url = feed_def["xml_url"]
     html_url = feed_def.get("html_url", xml_url)
     via_jina = bool(feed_def.get("via_jina", False))
+    candidates = feed_def.get("xml_url_candidates") or [xml_url]
+
+    if len(candidates) == 1:
+        # Fast path: single URL preserves original error semantics.
+        try:
+            return _fetch_rss_xml(session, candidates[0], site_id, site_name, html_url, now, feed_def)
+        except Exception as rss_err:
+            if not via_jina:
+                raise
+            try:
+                return _fetch_via_jina(session, html_url, site_id, site_name, now)
+            except Exception as jina_err:
+                raise RuntimeError(
+                    f"{site_id}: both direct RSS and Jina fallback failed — "
+                    f"RSS: {type(rss_err).__name__}: {str(rss_err)[:120]} | "
+                    f"Jina: {type(jina_err).__name__}: {str(jina_err)[:120]}"
+                ) from jina_err
+
+    # Multi-candidate probe: try each, then Jina fallback.
+    errors: list[str] = []
+    for cand in candidates:
+        try:
+            return _fetch_rss_xml(session, cand, site_id, site_name, html_url, now, feed_def)
+        except Exception as e:
+            errors.append(f"{cand}: {type(e).__name__}: {str(e)[:80]}")
+
+    if not via_jina:
+        raise RuntimeError(
+            f"{site_id}: all {len(candidates)} RSS candidates failed — "
+            + " || ".join(errors)
+        )
 
     try:
-        return _fetch_rss_xml(session, xml_url, site_id, site_name, html_url, now, feed_def)
-    except Exception as rss_err:
-        if not via_jina:
-            raise
-        try:
-            return _fetch_via_jina(session, html_url, site_id, site_name, now)
-        except Exception as jina_err:
-            raise RuntimeError(
-                f"{site_id}: both direct RSS and Jina fallback failed — "
-                f"RSS: {type(rss_err).__name__}: {str(rss_err)[:120]} | "
-                f"Jina: {type(jina_err).__name__}: {str(jina_err)[:120]}"
-            ) from jina_err
+        return _fetch_via_jina(session, html_url, site_id, site_name, now)
+    except Exception as jina_err:
+        raise RuntimeError(
+            f"{site_id}: all {len(candidates)} RSS candidates + Jina failed — "
+            + " || ".join(errors)
+            + f" || Jina: {type(jina_err).__name__}: {str(jina_err)[:100]}"
+        ) from jina_err
 
 
 def _fetch_rss_xml(session, xml_url, site_id, site_name, html_url, now, feed_def) -> list[RawItem]:
