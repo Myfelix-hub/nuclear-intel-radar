@@ -8,6 +8,7 @@
 *.crt
 *.cert
 *token*
+!assets/css/tokens.css
 *cookie*
 cookies.json
 

@@ -1,0 +1,94 @@
+:root {
+  /* ── Color palette: editorial light ── */
+  --nir-paper: #FDFCF8;
+  --nir-surface: #FFFFFF;
+  --nir-surface-elevated: #F7F5F0;
+  --nir-ink: #1F2937;
+  --nir-ink-soft: #4B5563;
+  --nir-muted: #9CA3AF;
+  --nir-rule: #E5E0D8;
+  --nir-rule-strong: #D6D0C4;
+
+  --nir-accent: #0F3A5C;
+  --nir-accent-hover: #164E72;
+  --nir-accent-wash: rgba(15, 58, 92, 0.06);
+  --nir-accent-light: #E8F0F6;
+
+  --nir-good: #2F5D3B;
+  --nir-good-wash: rgba(47, 93, 59, 0.08);
+  --nir-warn: #B45F06;
+  --nir-warn-wash: rgba(180, 95, 6, 0.08);
+  --nir-bad: #9B2C2C;
+  --nir-bad-wash: rgba(155, 44, 44, 0.08);
+
+  /* Tier colors */
+  --nir-tier-official: #0F3A5C;
+  --nir-tier-regulator: #5B2C6F;
+  --nir-tier-media: #1A5F7A;
+  --nir-tier-industry: #7A4F00;
+  --nir-tier-research: #21618C;
+  --nir-tier-aggregator: #515A5A;
+  --nir-tier-general: #707B7C;
+  --nir-tier-community: #117864;
+
+  /* ── Typography ── */
+  --nir-font-serif: Georgia, "Noto Serif SC", "Songti SC", serif;
+  --nir-font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --nir-font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+
+  --nir-text-xs: 0.75rem;
+  --nir-text-sm: 0.875rem;
+  --nir-text-base: 1rem;
+  --nir-text-md: 1.0625rem;
+  --nir-text-lg: 1.125rem;
+  --nir-text-xl: 1.25rem;
+  --nir-text-2xl: 1.5rem;
+  --nir-text-3xl: 2rem;
+  --nir-text-4xl: 2.5rem;
+
+  --nir-leading-tight: 1.2;
+  --nir-leading-snug: 1.35;
+  --nir-leading-normal: 1.6;
+  --nir-leading-relaxed: 1.75;
+
+  /* ── Spacing ── */
+  --nir-space-1: 0.25rem;
+  --nir-space-2: 0.5rem;
+  --nir-space-3: 0.75rem;
+  --nir-space-4: 1rem;
+  --nir-space-5: 1.25rem;
+  --nir-space-6: 1.5rem;
+  --nir-space-8: 2rem;
+  --nir-space-10: 2.5rem;
+  --nir-space-12: 3rem;
+
+  /* ── Layout ── */
+  --nir-max-width: 1200px;
+  --nir-sidebar: 260px;
+  --nir-masthead-height: 4rem;
+
+  /* ── Radius & shadows ── */
+  --nir-radius-sm: 4px;
+  --nir-radius-md: 8px;
+  --nir-radius-lg: 12px;
+  --nir-radius-xl: 16px;
+  --nir-radius-full: 9999px;
+
+  --nir-shadow-sm: 0 1px 2px rgba(31, 41, 55, 0.04);
+  --nir-shadow-md: 0 4px 12px rgba(31, 41, 55, 0.06);
+  --nir-shadow-lg: 0 12px 32px rgba(31, 41, 55, 0.08);
+
+  /* ── Motion ── */
+  --nir-duration-fast: 150ms;
+  --nir-duration-normal: 250ms;
+  --nir-duration-slow: 400ms;
+  --nir-ease: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --nir-duration-fast: 0ms;
+    --nir-duration-normal: 0ms;
+    --nir-duration-slow: 0ms;
+  }
+}
