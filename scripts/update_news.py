@@ -68,6 +68,80 @@ WECHAT_ACCOUNTS: tuple[dict[str, str], ...] = (
 
 WECHAT_MPIDS_PATH = Path("data/wechat_mpids.json")
 
+
+def _resolve_wechat_xml_url(
+    site_id: str, mpids_map: dict[str, str] | None, rsshub_base: str
+) -> str | None:
+    """Resolve template `{RSSHUB_BASE}/wechat/{mpID}` to a real URL.
+
+    Returns None when bridge is missing in any way:
+      - rsshub_base is empty/whitespace
+      - mpids_map is None
+      - site_id not in mpids_map
+
+    Caller (typically _fetch_wechat_rss) must translate None into silent-zero.
+    """
+    if not rsshub_base or not rsshub_base.strip():
+        return None
+    if not mpids_map:
+        return None
+    mpID = mpids_map.get(site_id)
+    if not mpID:
+        return None
+    return f"{rsshub_base.rstrip('/')}/wechat/{mpID}"
+
+
+def _load_wechat_mpids(path: Path) -> dict[str, str] | None:
+    """Load data/wechat_mpids.json and return {site_id: mpID} map.
+
+    Returns None if file missing, malformed JSON, not a list, or empty.
+    Skips individual rows with empty mpID / missing site_id.
+    """
+    try:
+        if not path.exists():
+            return None
+        with path.open(encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return None
+    if not isinstance(data, list):
+        return None
+    result: dict[str, str] = {}
+    for row in data:
+        if not isinstance(row, dict):
+            continue
+        site_id = row.get("site_id")
+        mpID = row.get("mpID")
+        if isinstance(site_id, str) and isinstance(mpID, str) and site_id and mpID.strip():
+            result[site_id] = mpID
+    return result or None
+
+
+def _fetch_wechat_rss(
+    session: requests.Session, feed_def: dict[str, Any], now: datetime
+) -> list[RawItem]:
+    """Fetch one wechat entry's RSS via RSSHub bridge.
+
+    Silent-zero contract (matches TerraPower / Oklo):
+      - RSSHUB_BASE env unset/empty → return []
+      - mpID cache missing/malformed → return []
+      - site_id not in cache → return []
+      - any HTTP failure → raise (per-entry hard fail; wrapper records ok=False)
+    """
+    site_id = feed_def["site_id"]
+    site_name = feed_def["site_name"]
+    html_url = feed_def.get("html_url", "https://mp.weixin.qq.com/")
+
+    rsshub_base = os.environ.get("RSSHUB_BASE", "")
+    mpids_map = _load_wechat_mpids(WECHAT_MPIDS_PATH)
+
+    xml_url = _resolve_wechat_xml_url(site_id, mpids_map, rsshub_base)
+    if xml_url is None:
+        return []
+
+    return _fetch_rss_xml(session, xml_url, site_id, site_name, html_url, now, feed_def)
+
+
 # ═══════════════════════════════════════════════════════════════════
 # Nuclear RSS feed definitions
 # ═══════════════════════════════════════════════════════════════════
