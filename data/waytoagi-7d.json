@@ -1,47 +1,12 @@
 {
-  "generated_at": "2026-07-18T04:01:21.483165+00:00",
+  "generated_at": "2026-07-18T04:05:54.421336+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-07-18",
-      "title": "Isaiah Taylor, founder of Valar Atomics, explains why he believes the nuclear industry has an “…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uzl7m8/isaiah_taylor_founder_of_valar_atomics_explains/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "What news sources do y'all use for nuclear?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uzexdx/what_news_sources_do_yall_use_for_nuclear/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "What are the benefits of working nuclear operator in OPG",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uz99te/what_are_the_benefits_of_working_nuclear_operator/"
-    },
-    {
       "date": "2026-07-17",
       "title": "Experiments at the nation's only all-digital nuclear reactor",
       "url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "How bad would a 5M cube of uranium 235B be?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uz6eza/how_bad_would_a_5m_cube_of_uranium_235b_be/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Resume feedback for pivot into nuclear operations",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uyhz0e/resume_feedback_for_pivot_into_nuclear_operations/"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Pwr-01 by kraakaah (me)",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uxptbj/pwr01_by_kraakaah_me/"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "Entry Level Jobs in Nuclear Energy",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1ux9k6q/entry_level_jobs_in_nuclear_energy/"
     },
     {
       "date": "2026-07-14",
@@ -61,13 +26,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-18",
-      "title": "Isaiah Taylor, founder of Valar Atomics, explains why he believes the nuclear industry has an “…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uzl7m8/isaiah_taylor_founder_of_valar_atomics_explains/"
+      "date": "2026-07-17",
+      "title": "Experiments at the nation's only all-digital nuclear reactor",
+      "url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/"
     }
   ],
-  "latest_date": "2026-07-18",
-  "count_7d": 11,
+  "latest_date": "2026-07-17",
+  "count_7d": 4,
   "count_today": 1,
   "has_error": false,
   "error": null,
