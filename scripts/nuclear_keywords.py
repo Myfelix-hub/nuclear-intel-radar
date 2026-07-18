@@ -1,5 +1,7 @@
 """Nuclear energy domain keywords and classification rules."""
 
+from typing import Any
+
 # ── Core nuclear keywords (hit in title or body → mark as nuclear-related) ──
 NUCLEAR_CORE_KEYWORDS: list[str] = [
     # English
