@@ -43,19 +43,7 @@ jobs:
 
       - name: Update data
         run: |
-          set -o pipefail
-          python scripts/update_news.py --output-dir data --window-hours 72 --archive-days 21 2>&1 | tee data/.pipeline.log
-
-      - name: Upload pipeline log on failure
-        if: failure()
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/.pipeline.log
-          git commit -m "ci: pipeline failure log"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          python scripts/update_news.py --output-dir data --window-hours 72 --archive-days 21
 
       - name: Commit and push changes
         run: |
