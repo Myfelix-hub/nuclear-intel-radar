@@ -943,6 +943,10 @@ def fetch_single_rss_feed(session: requests.Session, feed_def: dict[str, Any], n
     whose true RSS path is unknown and must be discovered by probe.
     """
     site_id = feed_def["site_id"]
+    # WeChat 公众号 entries have a template xml_url resolved at fetch time.
+    # Dispatch to _fetch_wechat_rss which handles RSSHub bridge resolution.
+    if feed_def.get("_mpID_key"):
+        return _fetch_wechat_rss(session, feed_def, now)
     site_name = feed_def["site_name"]
     xml_url = feed_def["xml_url"]
     html_url = feed_def.get("html_url", xml_url)
