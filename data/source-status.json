@@ -1,6 +1,15 @@
 {
   "sites": [
     {
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
@@ -37,24 +46,6 @@
       "warning": null
     },
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 16,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "ans_newswire",
       "site_name": "ANS Newswire",
       "ok": true,
@@ -73,10 +64,10 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "iter_org",
-      "site_name": "ITER",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 1,
+      "item_count": 16,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -86,6 +77,15 @@
       "site_name": "EDF",
       "ok": true,
       "item_count": 7,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iter_org",
+      "site_name": "ITER",
+      "ok": true,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -145,15 +145,6 @@
       "warning": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
-      "ok": true,
-      "item_count": 12,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "nei_magazine",
       "site_name": "Nuclear Eng. Int'l",
       "ok": true,
@@ -167,6 +158,15 @@
       "site_name": "中国核网",
       "ok": true,
       "item_count": 9,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": true,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -193,10 +193,10 @@
       "site_id": "oklo",
       "site_name": "Oklo",
       "ok": true,
-      "item_count": 0,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — all start_urls returned 200 HTML but no containers matched selector)"
+      "warning": null
     },
     {
       "site_id": "rosatom",
@@ -212,7 +212,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2749,
+      "duration_ms": 2967,
       "error": null,
       "warning": null
     },
@@ -221,7 +221,7 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 5848,
+      "duration_ms": 5937,
       "error": null,
       "warning": null
     }
@@ -238,8 +238,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 374,
-  "items_before_topic_filter": 374,
+  "fetched_raw_items": 375,
+  "items_before_topic_filter": 375,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
