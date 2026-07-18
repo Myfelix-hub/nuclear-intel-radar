@@ -54,7 +54,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
+          # `git add -f` overrides .gitignore so probe HTML dumps committed
+          # alongside the data/ snapshot for offline selector tuning.
+          git add -f data/
           if [ -n "$(git status --porcelain --untracked-files=all -- data/ | grep -v '^[MADRC]' || true)" ]; then
             echo "::error::Generated files under data/ were not staged:"
             git status --porcelain --untracked-files=all -- data/ | grep -v '^[MADRC]'
