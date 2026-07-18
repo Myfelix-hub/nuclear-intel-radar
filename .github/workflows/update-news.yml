@@ -42,11 +42,6 @@ jobs:
           pip install -r requirements.txt
 
       - name: Update data
-        env:
-          # Probe mode — dump news-listing HTML to data/.probe-{site}.html
-          # so we can inspect selectors for Oklo / TerraPower where Cloudflare
-          # managed challenge blocks local curl. Set to 0 to disable.
-          NUCLEAR_PROBE: "1"
         run: |
           python scripts/update_news.py --output-dir data --window-hours 72 --archive-days 21
 
@@ -54,9 +49,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # `git add -f` overrides .gitignore so probe HTML dumps committed
-          # alongside the data/ snapshot for offline selector tuning.
-          git add -f data/
+          git add data/
           if [ -n "$(git status --porcelain --untracked-files=all -- data/ | grep -v '^[MADRC]' || true)" ]; then
             echo "::error::Generated files under data/ were not staged:"
             git status --porcelain --untracked-files=all -- data/ | grep -v '^[MADRC]'
