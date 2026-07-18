@@ -1142,6 +1142,27 @@ def fetch_web_jina_sources(session: requests.Session, now: datetime) -> tuple[li
 # Fetch functions — News listing (structured HTML, no RSS)
 # ═══════════════════════════════════════════════════════════════════
 
+# ── Probe mode — when NUCLEAR_PROBE=1 is set, dump each fetched news-listing
+# HTML to `data/.probe-{site_id}.html` so an operator can inspect the real
+# DOM offline after a silent-zero run. Used to tune BeautifulSoup selectors
+# for sources behind Cloudflare managed challenge (Oklo / TerraPower) where
+# local curl returns a challenge page but the Actions runner sees the real
+# page. Best-effort: any write failure is swallowed so probe never breaks
+# the production pipeline.
+_PROBE_ENABLED = os.environ.get("NUCLEAR_PROBE") == "1"
+_PROBE_DIR = Path(os.environ.get("NUCLEAR_PROBE_DIR", "data"))
+
+
+def _maybe_dump_probe(site_id: str, html: str) -> None:
+    if not _PROBE_ENABLED:
+        return
+    try:
+        _PROBE_DIR.mkdir(parents=True, exist_ok=True)
+        probe_path = _PROBE_DIR / f".probe-{site_id}.html"
+        probe_path.write_text(html, encoding="utf-8")
+    except Exception:
+        pass  # probe is best-effort
+
 
 def fetch_web_news_listing(session: requests.Session, src_def: dict[str, Any], now: datetime) -> list[RawItem]:
     """Probe start_urls sequentially; first URL with parseable items wins.
@@ -1184,6 +1205,10 @@ def fetch_web_news_listing(session: requests.Session, src_def: dict[str, Any], n
             direct_errors.append(f"{url}: not HTML (content-type={ctype[:40]})")
             all_200_zero_items = False
             continue
+
+        # Probe mode: dump HTML to disk so an operator can inspect the real
+        # DOM offline. Best-effort; ignored if disabled.
+        _maybe_dump_probe(site_id, resp.text)
 
         try:
             items = _parse_news_listing_html(resp.text, src_def, now)

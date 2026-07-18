@@ -33,6 +33,8 @@ from update_news import (
     fetch_web_news_listing,
     fetch_web_news_listing_sources,
     _parse_news_listing_html,
+    _maybe_dump_probe,
+    _PROBE_ENABLED,
 )
 from nuclear_keywords import SOURCE_TIER_BY_SITE
 
@@ -384,3 +386,30 @@ def test_new_smr_source_selectors_nonempty(site_id):
     assert e["title_selector"].strip()
     # link_selector may fall back to title_selector at runtime, so we don't
     # require it — but if present, it must be non-empty.
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 10. Probe mode — NUCLEAR_PROBE=1 dumps news-listing HTML to
+#     data/.probe-{site_id}.html so an operator can inspect selectors
+#     offline. Default-off so it never affects production runs.
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+def test_probe_mode_default_off_does_not_write(tmp_path, monkeypatch):
+    """Without NUCLEAR_PROBE=1, probe mode is a no-op even if a probe file
+    path is set. Confirms the production default is safe."""
+    monkeypatch.delenv("NUCLEAR_PROBE", raising=False)
+    monkeypatch.setenv("NUCLEAR_PROBE_DIR", str(tmp_path))
+    assert _PROBE_ENABLED is False
+    _maybe_dump_probe("oklo", "<html>real page</html>")
+    assert not (tmp_path / ".probe-oklo.html").exists()
+
+
+def test_probe_mode_dumps_html_when_enabled(tmp_path, monkeypatch):
+    import update_news
+    monkeypatch.setattr(update_news, "_PROBE_ENABLED", True)
+    monkeypatch.setattr(update_news, "_PROBE_DIR", tmp_path)
+    update_news._maybe_dump_probe("terrapower", "<html>cloudflare page</html>")
+    probe_file = tmp_path / ".probe-terrapower.html"
+    assert probe_file.exists()
+    assert "cloudflare page" in probe_file.read_text(encoding="utf-8")

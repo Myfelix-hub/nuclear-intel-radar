@@ -26,6 +26,11 @@ feeds/private*.opml
 # Optional private/generated digests
 data/email-digest.json
 
+# Probe HTML dumps (NUCLEAR_PROBE=1 in Actions workflow) — gitignored so
+# the workflow's untracked-files check doesn't fail, but locally visible
+# for offline selector tuning.
+data/.probe-*.html
+
 # Local OS/editor noise
 .DS_Store
 .idea/
