@@ -43,7 +43,16 @@ jobs:
 
       - name: Update data
         run: |
-          python scripts/update_news.py --output-dir data --window-hours 72 --archive-days 21
+          set -o pipefail
+          python scripts/update_news.py --output-dir data --window-hours 72 --archive-days 21 2>&1 | tee data/.pipeline.log
+
+      - name: Upload pipeline log on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-log
+          path: data/.pipeline.log
+          retention-days: 2
 
       - name: Commit and push changes
         run: |
