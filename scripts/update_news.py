@@ -50,6 +50,25 @@ BROWSER_UA = (
 SH_TZ = ZoneInfo("Asia/Shanghai")
 
 # ═══════════════════════════════════════════════════════════════════
+# WeChat 公众号 — bridged via RSSHub (deployed to Tencent SCF by maintainer)
+# xml_url is a template resolved at fetch time; missing bridge → silent zero.
+# ═══════════════════════════════════════════════════════════════════
+
+WECHAT_ACCOUNTS: tuple[dict[str, str], ...] = (
+    {"mpID_key": "cnnp",            "site_id": "wechat_cnnp",            "site_name": "中国核电网 (CNNP)",  "display_name": "中国核电网"},
+    {"mpID_key": "cnnc",            "site_id": "wechat_cnnc",            "site_name": "中核集团",             "display_name": "中核集团"},
+    {"mpID_key": "cnji",            "site_id": "wechat_cnji",            "site_name": "中国核建",             "display_name": "中国核建"},
+    {"mpID_key": "energy_research", "site_id": "wechat_energy_research", "site_name": "中国能源研究",         "display_name": "中国能源研究"},
+    {"mpID_key": "nuclearnet",      "site_id": "wechat_nuclearnet",      "site_name": "核闻 NuclearNet",    "display_name": "核闻"},
+    {"mpID_key": "nuclear_story",   "site_id": "wechat_nuclear_story",   "site_name": "核电那些事",           "display_name": "核电那些事"},
+    {"mpID_key": "nsa",             "site_id": "wechat_nsa",             "site_name": "国家核安全局",         "display_name": "国家核安全局"},
+    {"mpID_key": "sh_nuclear",      "site_id": "wechat_sh_nuclear",      "site_name": "上海核电",             "display_name": "上海核电"},
+    {"mpID_key": "npdi",            "site_id": "wechat_npdi",            "site_name": "中国核动力研究设计院", "display_name": "中国核动力研究设计院"},
+)
+
+WECHAT_MPIDS_PATH = Path("data/wechat_mpids.json")
+
+# ═══════════════════════════════════════════════════════════════════
 # Nuclear RSS feed definitions
 # ═══════════════════════════════════════════════════════════════════
 
@@ -98,6 +117,20 @@ NUCLEAR_RSS_FEEDS: tuple[dict[str, Any], ...] = (
          "https://www.oecd-nea.org/press/rss",
          "https://www.oecd-nea.org/publications/rss",
      ], "via_jina": True},
+    # WeChat 公众号 via RSSHub (deployed to Tencent SCF, see deploy_rsshub_scf/).
+    # xml_url is a template resolved at fetch time by _resolve_wechat_xml_url.
+    # Missing bridge (no RSSHUB_BASE secret / no mpID cache) → silent zero.
+    *(
+        {
+            "site_id": acct["site_id"],
+            "site_name": acct["site_name"],
+            "xml_url": "{RSSHUB_BASE}/wechat/{mpID}",
+            "html_url": "https://mp.weixin.qq.com/",
+            "via_jina": False,
+            "_mpID_key": acct["mpID_key"],
+        }
+        for acct in WECHAT_ACCOUNTS
+    ),
 )
 
 RSS_MAX_AGE_DAYS = 14
