@@ -25,7 +25,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from datetime import datetime, timezone
 from update_news import fetch_reddit_nuclear
 
-NOW = datetime.now(timezone.utc)
+NOW = datetime(2026, 7, 16, 12, 0, 0, tzinfo=timezone.utc)
 
 
 def _build_rss_resp(items_xml: str) -> MagicMock:

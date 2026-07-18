@@ -28,23 +28,26 @@
 
 ## 架构
 
-零服务器纯静态 pipeline：fetch → dedup → nuclear relevance score → JSON → GitHub Pages
+零服务器纯静态 pipeline：fetch → dedup → nuclear relevance score → section classification → JSON → GitHub Pages
 
 ```mermaid
 flowchart LR
     sources[95 信源清单] --> fetch[采集层: RSS / 直接抓取 / Jina / HN Algolia]
     fetch --> dedup[去重与归一化]
     dedup --> score[核能相关性打分 + 关键词表]
-    score --> json[data/*.json 静态产物]
+    score --> sections[栏目分类: policy / newbuild / tech / fuel / safety / research / china / community / hot]
+    sections --> json[data/*.json 静态产物]
     json --> pages[GitHub Pages 网页]
     pages --> reader[读者: 浏览器阅读]
     pages --> api[Agent / Skill: 读公开 JSON 出简报]
 ```
 
-- **采集层**：`scripts/update_news.py`（8 RSS + 2 直接抓取 + 3 Jina + HN + Reddit）
-- **知识层**：`scripts/nuclear_keywords.py`（核能关键词表、信源分级、权重体系）
-- **展示层**：`index.html` + `assets/app.js` + `assets/styles.css`
+- **采集层**：`scripts/update_news.py`（RSS + 直接抓取 + Jina + HN + Reddit）
+- **知识层**：`scripts/nuclear_keywords.py`（核能关键词表、信源分级、权重体系、栏目分类规则）
+- **展示层**：`index.html` + `assets/js/*.js` + `assets/css/*.css`
 - **调度层**：`.github/workflows/update-news.yml`（每 30 分钟 cron）
+
+前端按杂志风阅读体验重设计，默认仅展示 curated 核能信号；运维诊断折叠在 `?diagnostics=1`。
 
 ---
 

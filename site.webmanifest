@@ -1,12 +1,12 @@
 {
-  "name": "AI News Radar",
-  "short_name": "AI Radar",
-  "description": "Curated AI and technology signals from the past 24 hours.",
+  "name": "Nuclear Intel Radar",
+  "short_name": "Nuclear Radar",
+  "description": "自动聚合全球核能/核电行业信息：IAEA、NRC、SMR、核聚变、铀矿燃料、运行事件、政策法规。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f6f6f2",
-  "theme_color": "#f6f6f2",
+  "background_color": "#FDFCF8",
+  "theme_color": "#0F3A5C",
   "icons": [
     {
       "src": "./assets/icons/icon-192.png",

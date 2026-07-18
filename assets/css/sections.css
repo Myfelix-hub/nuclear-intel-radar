@@ -1,0 +1,493 @@
+/* ── Masthead ── */
+.nir-masthead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--nir-space-4);
+  padding: var(--nir-space-4) 0;
+  border-bottom: 1px solid var(--nir-rule);
+  margin-bottom: var(--nir-space-6);
+}
+
+.nir-masthead__brand {
+  display: flex;
+  align-items: center;
+  gap: var(--nir-space-3);
+}
+
+.nir-masthead__logo {
+  width: 2.5rem;
+  height: 2.5rem;
+  flex-shrink: 0;
+}
+
+.nir-masthead__title {
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-xl);
+  font-weight: 600;
+  line-height: var(--nir-leading-tight);
+  color: var(--nir-ink);
+}
+
+.nir-masthead__subtitle {
+  font-size: var(--nir-text-xs);
+  color: var(--nir-muted);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.nir-masthead__actions {
+  display: flex;
+  align-items: center;
+  gap: var(--nir-space-3);
+}
+
+.nir-health-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--nir-space-2);
+  padding: var(--nir-space-1) var(--nir-space-3);
+  font-size: var(--nir-text-xs);
+  font-weight: 500;
+  border-radius: var(--nir-radius-full);
+  background: var(--nir-good-wash);
+  color: var(--nir-good);
+}
+
+.nir-health-pill.is-degraded {
+  background: var(--nir-warn-wash);
+  color: var(--nir-warn);
+}
+
+.nir-health-pill.is-down {
+  background: var(--nir-bad-wash);
+  color: var(--nir-bad);
+}
+
+.nir-health-pill::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+/* ── Stats strip ── */
+.nir-stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--nir-space-3);
+  margin-bottom: var(--nir-space-6);
+}
+
+@media (min-width: 600px) {
+  .nir-stats {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.nir-stat {
+  padding: var(--nir-space-3) var(--nir-space-4);
+  background: var(--nir-surface);
+  border: 1px solid var(--nir-rule);
+  border-radius: var(--nir-radius-md);
+}
+
+.nir-stat__value {
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-2xl);
+  font-weight: 600;
+  color: var(--nir-ink);
+  line-height: var(--nir-leading-tight);
+}
+
+.nir-stat__label {
+  font-size: var(--nir-text-xs);
+  color: var(--nir-muted);
+  margin-top: var(--nir-space-1);
+}
+
+/* ── Section tabs ── */
+.nir-tabs {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  gap: var(--nir-space-2);
+  padding: var(--nir-space-3) 0;
+  margin-bottom: var(--nir-space-6);
+  background: var(--nir-paper);
+  border-bottom: 1px solid var(--nir-rule);
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.nir-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.nir-tab {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--nir-space-2);
+  padding: var(--nir-space-2) var(--nir-space-4);
+  font-family: inherit;
+  font-size: var(--nir-text-sm);
+  font-weight: 500;
+  color: var(--nir-ink-soft);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: var(--nir-radius-full);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all var(--nir-duration-fast) var(--nir-ease);
+}
+
+.nir-tab:hover {
+  background: var(--nir-surface-elevated);
+  color: var(--nir-ink);
+}
+
+.nir-tab.is-active {
+  background: var(--nir-accent);
+  color: #fff;
+}
+
+.nir-tab__count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.25rem;
+  height: 1.25rem;
+  padding: 0 var(--nir-space-1);
+  font-size: var(--nir-text-xs);
+  font-weight: 600;
+  border-radius: var(--nir-radius-full);
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.nir-tab.is-active .nir-tab__count {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* ── Controls row ── */
+.nir-controls {
+  display: flex;
+  flex-direction: column;
+  gap: var(--nir-space-3);
+  margin-bottom: var(--nir-space-6);
+}
+
+@media (min-width: 760px) {
+  .nir-controls {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--nir-space-4);
+  }
+
+  .nir-controls__search {
+    flex: 1;
+    max-width: 480px;
+  }
+}
+
+/* ── Sticky summary ── */
+.nir-summary-bar {
+  position: sticky;
+  top: 3.25rem;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--nir-space-3);
+  padding: var(--nir-space-2) var(--nir-space-4);
+  margin-bottom: var(--nir-space-6);
+  font-size: var(--nir-text-sm);
+  color: var(--nir-ink-soft);
+  background: var(--nir-surface-elevated);
+  border: 1px solid var(--nir-rule);
+  border-radius: var(--nir-radius-md);
+}
+
+@media (min-width: 760px) {
+  .nir-summary-bar {
+    top: 3.75rem;
+  }
+}
+
+/* ── Top Stories ── */
+.nir-top-stories {
+  margin-bottom: var(--nir-space-8);
+}
+
+.nir-top-stories__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--nir-space-3);
+  margin-bottom: var(--nir-space-4);
+}
+
+.nir-top-stories__title {
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-2xl);
+  font-weight: 600;
+  margin: 0;
+}
+
+.nir-top-stories__grid {
+  display: grid;
+  gap: var(--nir-space-4);
+}
+
+@media (min-width: 760px) {
+  .nir-top-stories__grid {
+    grid-template-columns: 1.2fr 1fr;
+  }
+
+  .nir-top-stories__grid .nir-story-card:first-child {
+    grid-row: span 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    min-height: 320px;
+  }
+}
+
+.nir-story-card {
+  position: relative;
+  background: var(--nir-surface);
+  border: 1px solid var(--nir-rule);
+  border-radius: var(--nir-radius-lg);
+  padding: var(--nir-space-5);
+  overflow: hidden;
+}
+
+.nir-story-card:hover {
+  border-color: var(--nir-rule-strong);
+  box-shadow: var(--nir-shadow-md);
+}
+
+.nir-story-card__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.nir-story-card__link:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nir-story-card__link:hover .nir-story-card__title {
+  color: var(--nir-accent-hover);
+}
+
+.nir-story-card__title {
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-xl);
+  font-weight: 600;
+  line-height: var(--nir-leading-snug);
+  margin: var(--nir-space-3) 0 var(--nir-space-2);
+  color: var(--nir-ink);
+  transition: color var(--nir-duration-fast) var(--nir-ease);
+}
+
+.nir-story-card:first-child .nir-story-card__title {
+  font-size: var(--nir-text-2xl);
+}
+
+.nir-story-card__meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--nir-space-2);
+  font-size: var(--nir-text-sm);
+  color: var(--nir-ink-soft);
+}
+
+.nir-story-card__why {
+  margin-top: var(--nir-space-3);
+  padding-top: var(--nir-space-3);
+  border-top: 1px solid var(--nir-rule);
+  font-size: var(--nir-text-sm);
+  line-height: var(--nir-leading-relaxed);
+  color: var(--nir-ink-soft);
+}
+
+.nir-story-card__why strong {
+  color: var(--nir-ink);
+}
+
+/* ── News list ── */
+.nir-list {
+  margin-bottom: var(--nir-space-8);
+}
+
+.nir-list__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--nir-space-3);
+  margin-bottom: var(--nir-space-4);
+}
+
+.nir-list__title {
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-2xl);
+  font-weight: 600;
+  margin: 0;
+}
+
+.nir-list__toolbar {
+  display: flex;
+  align-items: center;
+  gap: var(--nir-space-2);
+}
+
+.nir-list__items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--nir-space-3);
+}
+
+.nir-list__group {
+  margin-bottom: var(--nir-space-6);
+}
+
+.nir-list__group-title {
+  display: flex;
+  align-items: center;
+  gap: var(--nir-space-2);
+  margin: 0 0 var(--nir-space-3);
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-lg);
+  font-weight: 600;
+  color: var(--nir-ink);
+}
+
+.nir-list__group-title::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--nir-rule);
+}
+
+/* ── News card compact ── */
+.nir-news-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--nir-space-2);
+  padding: var(--nir-space-4);
+  background: var(--nir-surface);
+  border: 1px solid var(--nir-rule);
+  border-radius: var(--nir-radius-md);
+  transition: border-color var(--nir-duration-fast) var(--nir-ease),
+              box-shadow var(--nir-duration-fast) var(--nir-ease);
+}
+
+.nir-news-card:hover {
+  border-color: var(--nir-rule-strong);
+  box-shadow: var(--nir-shadow-sm);
+}
+
+.nir-news-card__link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.nir-news-card__link:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.nir-news-card__link:hover .nir-news-card__title {
+  color: var(--nir-accent-hover);
+}
+
+.nir-news-card__title {
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-md);
+  font-weight: 600;
+  line-height: var(--nir-leading-snug);
+  margin: 0;
+  color: var(--nir-ink);
+  transition: color var(--nir-duration-fast) var(--nir-ease);
+}
+
+.nir-news-card__meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--nir-space-2);
+  font-size: var(--nir-text-sm);
+  color: var(--nir-ink-soft);
+}
+
+.nir-news-card__summary {
+  font-size: var(--nir-text-sm);
+  line-height: var(--nir-leading-relaxed);
+  color: var(--nir-ink-soft);
+  margin: 0;
+}
+
+/* ── Community section ── */
+.nir-community {
+  margin-bottom: var(--nir-space-8);
+}
+
+.nir-community__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--nir-space-3);
+  margin-bottom: var(--nir-space-4);
+}
+
+/* ── Diagnostics ── */
+.nir-diagnostics {
+  margin-top: var(--nir-space-10);
+  padding-top: var(--nir-space-6);
+  border-top: 2px solid var(--nir-rule);
+}
+
+.nir-diagnostics__title {
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-xl);
+  margin: 0 0 var(--nir-space-4);
+}
+
+.nir-status-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--nir-text-sm);
+}
+
+.nir-status-table th,
+.nir-status-table td {
+  padding: var(--nir-space-2) var(--nir-space-3);
+  text-align: left;
+  border-bottom: 1px solid var(--nir-rule);
+}
+
+.nir-status-table th {
+  font-weight: 600;
+  color: var(--nir-ink-soft);
+  background: var(--nir-surface-elevated);
+}
+
+/* ── Footer ── */
+.nir-footer {
+  padding: var(--nir-space-6) 0;
+  margin-top: var(--nir-space-10);
+  border-top: 1px solid var(--nir-rule);
+  text-align: center;
+  font-size: var(--nir-text-sm);
+  color: var(--nir-muted);
+}
+
+.nir-footer a {
+  color: var(--nir-ink-soft);
+}

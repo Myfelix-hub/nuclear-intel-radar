@@ -1,0 +1,375 @@
+/* ── Base ── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--nir-font-sans);
+  font-size: var(--nir-text-base);
+  line-height: var(--nir-leading-normal);
+  color: var(--nir-ink);
+  background: var(--nir-paper);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--nir-accent);
+  text-decoration: none;
+  transition: color var(--nir-duration-fast) var(--nir-ease);
+}
+
+a:hover {
+  color: var(--nir-accent-hover);
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ── Layout shell ── */
+.nir-shell {
+  width: 100%;
+  max-width: var(--nir-max-width);
+  margin: 0 auto;
+  padding: var(--nir-space-4);
+}
+
+@media (min-width: 760px) {
+  .nir-shell {
+    padding: var(--nir-space-6) var(--nir-space-8);
+  }
+}
+
+@media (min-width: 1100px) {
+  .nir-shell {
+    padding: var(--nir-space-8) var(--nir-space-10);
+  }
+}
+
+/* ── Typography utilities ── */
+.nir-title {
+  font-family: var(--nir-font-serif);
+  font-weight: 600;
+  line-height: var(--nir-leading-tight);
+  color: var(--nir-ink);
+  margin: 0;
+}
+
+.nir-title-xl {
+  font-size: var(--nir-text-3xl);
+}
+
+.nir-title-lg {
+  font-size: var(--nir-text-2xl);
+}
+
+.nir-title-md {
+  font-size: var(--nir-text-xl);
+}
+
+.nir-title-sm {
+  font-size: var(--nir-text-lg);
+}
+
+.nir-text-soft {
+  color: var(--nir-ink-soft);
+}
+
+.nir-text-muted {
+  color: var(--nir-muted);
+}
+
+.nir-label {
+  font-size: var(--nir-text-xs);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--nir-muted);
+}
+
+/* ── Buttons ── */
+.nir-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--nir-space-2);
+  padding: var(--nir-space-2) var(--nir-space-4);
+  font-family: inherit;
+  font-size: var(--nir-text-sm);
+  font-weight: 500;
+  line-height: 1.4;
+  border: 1px solid transparent;
+  border-radius: var(--nir-radius-full);
+  background: transparent;
+  color: var(--nir-ink-soft);
+  cursor: pointer;
+  transition: all var(--nir-duration-fast) var(--nir-ease);
+}
+
+.nir-btn:hover {
+  background: var(--nir-surface-elevated);
+  color: var(--nir-ink);
+}
+
+.nir-btn.is-active {
+  background: var(--nir-accent);
+  color: #fff;
+}
+
+.nir-btn.is-active:hover {
+  background: var(--nir-accent-hover);
+}
+
+.nir-btn-ghost {
+  border-color: var(--nir-rule);
+  background: var(--nir-surface);
+}
+
+.nir-btn-ghost:hover {
+  border-color: var(--nir-rule-strong);
+}
+
+.nir-btn-icon {
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+}
+
+/* ── Chips / pills ── */
+.nir-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--nir-space-1);
+  padding: var(--nir-space-1) var(--nir-space-3);
+  font-size: var(--nir-text-xs);
+  font-weight: 500;
+  border-radius: var(--nir-radius-full);
+  background: var(--nir-surface-elevated);
+  color: var(--nir-ink-soft);
+  white-space: nowrap;
+}
+
+.nir-chip::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0.7;
+}
+
+.nir-chip--official { color: var(--nir-tier-official); background: var(--nir-accent-wash); }
+.nir-chip--regulator { color: var(--nir-tier-regulator); background: rgba(91, 44, 111, 0.08); }
+.nir-chip--media { color: var(--nir-tier-media); background: rgba(26, 95, 122, 0.08); }
+.nir-chip--industry { color: var(--nir-tier-industry); background: rgba(122, 79, 0, 0.08); }
+.nir-chip--research { color: var(--nir-tier-research); background: rgba(33, 97, 140, 0.08); }
+.nir-chip--aggregator { color: var(--nir-tier-aggregator); background: rgba(81, 90, 90, 0.08); }
+.nir-chip--general { color: var(--nir-tier-general); background: rgba(112, 123, 124, 0.08); }
+.nir-chip--community { color: var(--nir-tier-community); background: rgba(17, 120, 100, 0.08); }
+
+/* ── Cards ── */
+.nir-card {
+  background: var(--nir-surface);
+  border: 1px solid var(--nir-rule);
+  border-radius: var(--nir-radius-lg);
+  padding: var(--nir-space-5);
+  transition: border-color var(--nir-duration-fast) var(--nir-ease),
+              box-shadow var(--nir-duration-fast) var(--nir-ease),
+              transform var(--nir-duration-fast) var(--nir-ease);
+}
+
+.nir-card:hover {
+  border-color: var(--nir-rule-strong);
+  box-shadow: var(--nir-shadow-md);
+}
+
+.nir-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.nir-card-link:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nir-card-link:hover .nir-card-title {
+  color: var(--nir-accent-hover);
+}
+
+.nir-card-title {
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-md);
+  font-weight: 600;
+  line-height: var(--nir-leading-snug);
+  margin: 0 0 var(--nir-space-2);
+  color: var(--nir-ink);
+  transition: color var(--nir-duration-fast) var(--nir-ease);
+}
+
+.nir-card-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--nir-space-2);
+  font-size: var(--nir-text-sm);
+  color: var(--nir-ink-soft);
+}
+
+.nir-card-summary {
+  margin: var(--nir-space-3) 0 0;
+  font-size: var(--nir-text-sm);
+  line-height: var(--nir-leading-relaxed);
+  color: var(--nir-ink-soft);
+}
+
+/* ── Forms ── */
+.nir-input {
+  width: 100%;
+  padding: var(--nir-space-3) var(--nir-space-4);
+  font-family: inherit;
+  font-size: var(--nir-text-base);
+  color: var(--nir-ink);
+  background: var(--nir-surface);
+  border: 1px solid var(--nir-rule);
+  border-radius: var(--nir-radius-full);
+  outline: none;
+  transition: border-color var(--nir-duration-fast) var(--nir-ease),
+              box-shadow var(--nir-duration-fast) var(--nir-ease);
+}
+
+.nir-input:focus {
+  border-color: var(--nir-accent);
+  box-shadow: 0 0 0 3px var(--nir-accent-wash);
+}
+
+.nir-input::placeholder {
+  color: var(--nir-muted);
+}
+
+.nir-select {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%234B5563' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  padding-right: var(--nir-space-8);
+}
+
+/* ── Details / disclosure ── */
+.nir-disclosure {
+  border: 1px solid var(--nir-rule);
+  border-radius: var(--nir-radius-lg);
+  background: var(--nir-surface);
+}
+
+.nir-disclosure summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--nir-space-3) var(--nir-space-4);
+  font-size: var(--nir-text-sm);
+  font-weight: 500;
+  color: var(--nir-ink-soft);
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.nir-disclosure summary::-webkit-details-marker {
+  display: none;
+}
+
+.nir-disclosure summary::after {
+  content: "";
+  width: 1rem;
+  height: 1rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%234B5563' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: transform var(--nir-duration-fast) var(--nir-ease);
+}
+
+.nir-disclosure[open] summary::after {
+  transform: rotate(180deg);
+}
+
+.nir-disclosure__content {
+  padding: 0 var(--nir-space-4) var(--nir-space-4);
+}
+
+/* ── Empty / loading states ── */
+.nir-empty {
+  padding: var(--nir-space-10) var(--nir-space-6);
+  text-align: center;
+  color: var(--nir-muted);
+}
+
+.nir-empty__title {
+  font-family: var(--nir-font-serif);
+  font-size: var(--nir-text-xl);
+  color: var(--nir-ink);
+  margin: 0 0 var(--nir-space-2);
+}
+
+.nir-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--nir-space-2);
+  padding: var(--nir-space-10);
+  color: var(--nir-muted);
+}
+
+/* ── Utilities ── */
+.nir-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.nir-hidden {
+  display: none !important;
+}
+
+.nir-flex {
+  display: flex;
+}
+
+.nir-flex-col {
+  flex-direction: column;
+}
+
+.nir-items-center {
+  align-items: center;
+}
+
+.nir-justify-between {
+  justify-content: space-between;
+}
+
+.nir-gap-2 {
+  gap: var(--nir-space-2);
+}
+
+.nir-gap-3 {
+  gap: var(--nir-space-3);
+}
+
+.nir-gap-4 {
+  gap: var(--nir-space-4);
+}

@@ -35,6 +35,7 @@ from nuclear_keywords import (
     SOURCE_TIER_BY_SITE, SOURCE_TIER_RANK, SOURCE_TIER_IMPORTANCE,
     NUCLEAR_MIN_KEYWORD_SCORE, NUCLEAR_CORE_KW_WEIGHT, NUCLEAR_TECH_KW_WEIGHT,
     NUCLEAR_NOISE_KW_PENALTY, NUCLEAR_TITLE_BONUS,
+    NUCLEAR_SECTION_RULES, SECTION_ORDER,
 )
 
 try:
@@ -523,6 +524,7 @@ def merge_story_items(items: list[dict[str, Any]], now: datetime, window_hours: 
         story_id = "story-" + make_item_id(
             "merge", root, representative_title.get(root, ""), str(len(group_items))
         )
+        primary_section = rep.get("primary_section") or "hot"
         story = {
             "story_id": story_id,
             "title": rep.get("title") or "",
@@ -531,6 +533,7 @@ def merge_story_items(items: list[dict[str, Any]], now: datetime, window_hours: 
             "sources": seen_sites,
             "items": group_items,
             "duplicate_count": len(group_items),
+            "primary_section": primary_section,
         }
         stories.append(story)
 
@@ -861,6 +864,68 @@ def source_tier_sort_key(record: dict[str, Any]) -> tuple[int, float, str]:
 
 
 # ═══════════════════════════════════════════════════════════════════
+# Section classification
+# ═══════════════════════════════════════════════════════════════════
+
+
+def classify_item_sections(record: dict[str, Any]) -> tuple[list[str], str]:
+    """Classify an item into nuclear editorial sections.
+
+    Returns (sections, primary_section):
+      - sections: ordered list of matching section IDs (rule order).
+      - primary_section: the first matching section ID, used for tab filtering.
+
+    Matching uses three phases of decreasing signal strength:
+      1. title_keywords (strongest)
+      2. source_ids
+      3. tier_map + summary_keywords
+    A later phase is only evaluated when no earlier phase matched any rule,
+    so a clear safety keyword in the title beats the default policy tier of
+    an official source, and a Chinese operator source beats a generic newbuild
+    keyword when no Chinese title keyword is present.
+    """
+    site_id = str(record.get("site_id") or "").lower()
+    source = str(record.get("source") or "").lower()
+    site_name = str(record.get("site_name") or "").lower()
+    title = str(record.get("title") or "").lower()
+    summary = str(record.get("summary") or "").lower()
+
+    haystack = f"{title} {summary} {source} {site_name}"
+    tier = source_tier_for_site(site_id).get("source_tier", "unknown")
+
+    def _match_rule(rule: dict[str, Any], phase: str) -> bool:
+        sid = rule["id"]
+        if phase == "title":
+            return any(kw.lower() in title for kw in rule.get("title_keywords", []))
+        if phase == "source":
+            return site_id in rule.get("source_ids", set())
+        if phase == "context":
+            if tier in rule.get("tier_map", {}):
+                return True
+            return any(kw.lower() in haystack for kw in rule.get("summary_keywords", []))
+        return False
+
+    sections: list[str] = []
+    seen: set[str] = set()
+
+    for phase in ("title", "source", "context"):
+        for rule in NUCLEAR_SECTION_RULES:
+            sid = rule["id"]
+            if sid in seen:
+                continue
+            if _match_rule(rule, phase):
+                sections.append(sid)
+                seen.add(sid)
+        if sections:
+            break
+
+    if not sections:
+        sections = ["hot"]
+    primary = sections[0]
+    return sections, primary
+
+
+# ═══════════════════════════════════════════════════════════════════
 # Fetch functions — RSS sources
 # ═══════════════════════════════════════════════════════════════════
 
@@ -1186,10 +1251,12 @@ def fetch_web_jina(session: requests.Session, src_def: dict[str, str], now: date
         raise RuntimeError(f"{site_id}: Jina fetch failed — {type(e).__name__}: {str(e)[:200]}") from e
 
     text = resp.text
-    # Parse markdown links: [title](url)
-    md_links: list[tuple[str, str]] = re.findall(r'\[([^\]]+)\]\((https?://[^\)]+)\)', text)
+    # Parse markdown links: [title](url) or [title](url "tooltip")
+    md_links: list[tuple[str, str]] = re.findall(r'\[([^\]]+)\]\((https?://[^\s\)]+)(?:\s+"[^"]*")?\)', text)
 
     for title, url in md_links:
+        # Defensive: markdown titles/whitespace sometimes leak into the URL
+        url = url.split()[0].strip('"')
         title = title.strip()
         if title.startswith("!") or title.startswith("Image"):
             continue
@@ -1786,6 +1853,9 @@ def raw_item_to_record(raw: RawItem, archive: dict[str, dict[str, Any]], now: da
                 record[k] = v
     record = add_nuclear_relevance_fields(record)
     record = add_source_tier_fields(record)
+    sections, primary_section = classify_item_sections(record)
+    record["sections"] = sections
+    record["primary_section"] = primary_section
     return record
 
 
@@ -1831,6 +1901,12 @@ def build_latest_payload(
     all_sites = sorted(set(r["site_id"] for r in records_all))
     ok_sites = sorted(set(s["site_id"] for s in statuses if s["ok"]))
 
+    section_counts = {sid: 0 for sid in SECTION_ORDER}
+    for r in nuclear_deduped:
+        ps = r.get("primary_section")
+        if ps and ps in section_counts:
+            section_counts[ps] += 1
+
     payload = {
         "generated_at": generated_at,
         "window_hours": window_hours,
@@ -1839,6 +1915,7 @@ def build_latest_payload(
         "total_sources": len(all_sites),
         "ok_sources": len(ok_sites),
         "source_count": len(all_sites),
+        "section_counts": section_counts,
         "items": nuclear_deduped,
         "items_all": all_deduped,
         "sources": all_sites,
@@ -1918,6 +1995,7 @@ def build_daily_brief_payload(
             "nuclear_score": float(rep.get("nuclear_kw_score") or rep.get("nuclear_relevance") or 0.0),
             "source_tier": rep.get("source_tier", "unknown"),
             "source_tier_rank": int(rep.get("source_tier_rank") or 0),
+            "primary_section": s.get("primary_section") or rep.get("primary_section") or "hot",
             "score": score,
         })
 

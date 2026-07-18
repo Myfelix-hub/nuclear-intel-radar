@@ -25,6 +25,13 @@ pipeline that aggregates global nuclear energy industry intelligence
 Before adding or removing a source, check `data/source-status.json` for
 the last run's reachability and item count.
 
+When adding a source:
+1. Register the fetcher in `scripts/update_news.py`.
+2. Assign a source tier in `scripts/nuclear_keywords.py`.
+3. Add section classification rules if the source should force a section
+   (e.g., arXiv → research, Reddit → community).
+4. Add/update tests in `tests/test_section_classification.py`.
+
 Default source priority:
 
 1. Official RSS/Atom feeds from industry bodies (IAEA, NRC, NucNet, WNN,
@@ -47,6 +54,8 @@ before relying on it.
 
 ```bash
 python -m py_compile scripts/update_news.py
+python -m pytest tests/ -q
+python -m pytest tests/test_section_classification.py -q
 python scripts/update_news.py --output-dir data --window-hours 72 --archive-days 21
 python -m http.server 8080   # then open http://localhost:8080
 ```
