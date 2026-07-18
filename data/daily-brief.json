@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-07-18T11:31:41.267691+00:00",
+  "generated_at": "2026-07-18T13:37:32.804710+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
+      "story_id": "story-4b9b2c3d74f6de1d",
+      "title": "A reactor with no fuel rods and no pellets runs on uranium dissolved into molten salt, a liquid…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1uy49me/a_reactor_with_no_fuel_rods_and_no_pellets_runs/",
+      "first_published_at": "2026-07-16T14:21:03+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "score": 5.4
+    },
+    {
+      "story_id": "story-2b67e346520438ad",
+      "title": "Files Relating to India’s Largest Nuclear Power Plant Exposed in Data Breach",
+      "representative_url": "https://www.japantimes.co.jp/news/2026/07/16/asia-pacific/crime-legal/india-nuclear-plant-data-breach/",
+      "first_published_at": "2026-07-17T05:24:06+00:00",
+      "sources": [
+        "nucleartownhall",
+        "reddit_nuclear",
+        "hn_nuclear"
+      ],
+      "duplicate_count": 4,
+      "nuclear_score": 0.4,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "score": 3.8180709777918254
+    },
+    {
       "story_id": "story-0a626b139f2f8e54",
       "title": "Korean Containership with Molten Salt Nuclear Reactor Gets ABS Approval",
       "representative_url": "https://maritime-executive.com/article/korean-containership-with-molten-salt-nuclear-reactor-gets-abs-approval",
-      "first_published_at": "2026-07-18T11:31:41.267691+00:00",
+      "first_published_at": "2026-07-18T13:37:32.804710+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -32,52 +62,24 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-85b8c428d6ca9618",
-      "title": "Oklo Announces U.S. Department of Energy Approval for Nuclear Safety Design Agreement of Aurora…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Announces-U-S--Department-of-Energy-Approval-for-Nuclear-Safety-Design-Agreement-of-Aurora-Powerhouse-at-Idaho-National-Laboratory/default.aspx",
-      "first_published_at": "2026-07-18T11:31:41.267691+00:00",
+      "story_id": "story-b5b694372c8f5641",
+      "title": "Korea's molten salt nuclear-powered container ship design wins US approval",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1uye7yk/koreas_molten_salt_nuclearpowered_container_ship/",
+      "first_published_at": "2026-07-16T20:23:57+00:00",
       "sources": [
-        "oklo"
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "score": 3.0
-    },
-    {
-      "story_id": "story-b8c48913ced08601",
-      "title": "Oklo’s Atomic Alchemy Announces U.S. Department of Energy Approval for Nuclear Safety Design Ag…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklos-Atomic-Alchemy-Announces-U-S--Department-of-Energy-Approval-for-Nuclear-Safety-Design-Agreement-of-its-Groves-Isotopes-Test-Reactor/default.aspx",
-      "first_published_at": "2026-07-18T11:31:41.267691+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "score": 3.0
-    },
-    {
-      "story_id": "story-70f9378e91b23b39",
-      "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/U-S--Department-of-Energy-Approves-Final-Safety-Analysis-for-Oklos-Groves-Isotope-Test-Reactor-Advancing-the-Project-Toward-Operational-Authorization/default.aspx",
-      "first_published_at": "2026-07-18T11:31:41.267691+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "score": 3.0
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "score": 3.5999999999999996
     },
     {
       "story_id": "story-27a1c528a9fb5ade",
       "title": "中广核广东太平岭核电2号机组首次并网发电 2026-07-04",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b7efcac4fc6e41079dd090dbd74008f0.shtml",
-      "first_published_at": "2026-07-18T11:31:41.267691+00:00",
+      "first_published_at": "2026-07-18T13:37:32.804710+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -91,7 +93,7 @@
       "story_id": "story-5ea5e6a8085af7d5",
       "title": "US State Targets 1,100-MW Advanced Nuclear Energy Via Next-Gen Reactors Under New Law",
       "representative_url": "https://interestingengineering.com/energy/us-state-targets-1100-mw-advanced-nuclear-energy-via-next-gen-reactors-under-new-law",
-      "first_published_at": "2026-07-18T11:31:41.267691+00:00",
+      "first_published_at": "2026-07-18T13:37:32.804710+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -105,7 +107,7 @@
       "story_id": "story-394d2aad561bb63b",
       "title": "IAEA and World Bank Group Collaborate to Advance Nuclear Energy for Development",
       "representative_url": "https://www.iaea.org/newscenter/news/iaea-and-world-bank-group-collaborate-to-advance-nuclear-energy-for-development",
-      "first_published_at": "2026-07-18T11:31:41.267691+00:00",
+      "first_published_at": "2026-07-18T13:37:32.804710+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -116,33 +118,32 @@
       "score": 2.8
     },
     {
-      "story_id": "story-1e70dd41d74a51f8",
-      "title": "EXCLUSIVE: Files Relating to India’s Largest Nuclear Power Plant Kudankulam Exposed in Data Bre…",
-      "representative_url": "https://www.reuters.com/world/india/files-relating-indias-largest-nuclear-power-plant-kudankulam-exposed-data-breach-2026-07-15/",
-      "first_published_at": "2026-07-18T10:08:39+00:00",
+      "story_id": "story-7b8904e7ba721454",
+      "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
+      "first_published_at": "2026-07-18T13:37:32.804710+00:00",
       "sources": [
-        "nucleartownhall",
-        "hn_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.4,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "score": 2.7090354888959127
-    },
-    {
-      "story_id": "story-a632d996b5fc46a6",
-      "title": "Oklo and Idaho National Laboratory to Employ AI-Enabled Reactor Design for Advanced Nuclear Sys…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-and-Idaho-National-Laboratory-to-Employ-AI-Enabled-Reactor-Design-for-Advanced-Nuclear-Systems/default.aspx",
-      "first_published_at": "2026-07-18T11:31:41.267691+00:00",
-      "sources": [
-        "oklo"
+        "kairos"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.9,
       "source_tier": "industry",
       "source_tier_rank": 2,
       "score": 2.7
+    },
+    {
+      "story_id": "story-053398c0fbff9730",
+      "title": "Cancer proximity to Nuclear Power Plants attributed to Fear",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1uyi2vb/cancer_proximity_to_nuclear_power_plants/",
+      "first_published_at": "2026-07-16T22:51:11+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "score": 2.4000000000000004
     }
   ]
 }

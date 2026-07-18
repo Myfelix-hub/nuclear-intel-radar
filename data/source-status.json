@@ -10,6 +10,24 @@
       "warning": null
     },
     {
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
       "site_id": "arxiv_nuclth",
       "site_name": "arXiv nucl-th",
       "ok": true,
@@ -28,19 +46,10 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
+      "item_count": 16,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -55,15 +64,6 @@
       "warning": null
     },
     {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
-      "ok": true,
-      "item_count": 7,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "doe_ne",
       "site_name": "US DOE Nuclear Energy",
       "ok": true,
@@ -71,6 +71,15 @@
       "duration_ms": 0,
       "error": null,
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
+      "ok": true,
+      "item_count": 7,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "iter_org",
@@ -86,6 +95,15 @@
       "site_name": "World Nuclear News",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": true,
+      "item_count": 21,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -109,24 +127,6 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 16,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": true,
-      "item_count": 21,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "us_nrc",
       "site_name": "US NRC News",
       "ok": true,
@@ -145,19 +145,19 @@
       "warning": null
     },
     {
-      "site_id": "nuclear_net_cn",
-      "site_name": "中国核网",
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
       "ok": true,
-      "item_count": 9,
+      "item_count": 42,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
+      "site_id": "nuclear_net_cn",
+      "site_name": "中国核网",
       "ok": true,
-      "item_count": 42,
+      "item_count": 9,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -193,7 +193,7 @@
       "site_id": "oklo",
       "site_name": "Oklo",
       "ok": true,
-      "item_count": 24,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -212,21 +212,21 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 5,
-      "duration_ms": 2678,
+      "duration_ms": 2634,
       "error": null,
       "warning": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 4896,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
+      "ok": true,
+      "item_count": 12,
+      "duration_ms": 5695,
+      "error": null,
       "warning": null
     }
   ],
-  "successful_sites": 23,
+  "successful_sites": 24,
   "failed_sites": [
     {
       "site_id": "rosatom",
@@ -236,19 +236,10 @@
       "duration_ms": 0,
       "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
       "warning": null
-    },
-    {
-      "site_id": "reddit_nuclear",
-      "site_name": "Reddit Nuclear",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 4896,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
-      "warning": null
     }
   ],
-  "fetched_raw_items": 350,
-  "items_before_topic_filter": 350,
+  "fetched_raw_items": 339,
+  "items_before_topic_filter": 339,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
