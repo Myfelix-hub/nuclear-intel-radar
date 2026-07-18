@@ -96,6 +96,9 @@ SOURCE_TIER_BY_SITE: dict[str, str] = {
     "cnnc_news": "industry",
     "cgn_news": "industry",
     "edf_nuclear": "industry",
+    "oklo": "industry",
+    "terrapower": "industry",
+    "kairos": "industry",
     # Tier 3 — Research / academic
     "arxiv_nuclex": "research",
     "arxiv_nuclth": "research",

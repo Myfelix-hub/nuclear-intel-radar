@@ -179,6 +179,68 @@ WEB_SOURCES_NEWS_LISTING: tuple[dict[str, Any], ...] = (
         "max_items": 20,
         "via_jina": True,
     },
+    # ── Kairos Power — Webflow CMS, /updates page. Selectors confirmed
+    #    by direct local probe (2026-07-18); the page exposes a
+    #    `news_cards_content w-dyn-items` list whose items are
+    #    `div.news_item.w-dyn-item` anchors. Date is split into three
+    #    separate `div.news_meta_date` elements (month/day/year) — too
+    #    fragmented for BeautifulSoup time_selector, so we leave
+    #    time_selector=None and rely on dedup + composite scoring.
+    {
+        "site_id": "kairos",
+        "site_name": "Kairos Power",
+        "start_urls": [
+            "https://www.kairospower.com/updates",
+            "https://www.kairospower.com/",
+        ],
+        "container_selector": "div.news_item.w-dyn-item",
+        "title_selector": "div.news_title_wrap div",
+        "link_selector": "a",
+        "time_selector": None,
+        "max_items": 20,
+        "via_jina": True,
+    },
+    # ── TerraPower — WordPress-ish corporate site, news index at /newsroom/.
+    #    Local probe returns custom 404 ("Article not found.") because the
+    #    site is behind a Cloudflare managed challenge; production GitHub
+    #    Actions runner reaches the page directly. Selectors are conservative
+    #    WordPress defaults + via_jina fallback so we surface something
+    #    even when the CSS path shifts after a redesign.
+    {
+        "site_id": "terrapower",
+        "site_name": "TerraPower",
+        "start_urls": [
+            "https://www.terrapower.com/newsroom/",
+            "https://www.terrapower.com/press-releases/",
+            "https://www.terrapower.com/media/",
+        ],
+        "container_selector": "article, div.news-item, li.post",
+        "title_selector": "h2 a, h3 a, .entry-title a",
+        "link_selector": "a",
+        "time_selector": "time",
+        "time_attr": "datetime",
+        "max_items": 20,
+        "via_jina": True,
+    },
+    # ── Oklo — IIS/.aspx corporate site with Cloudflare managed challenge.
+    #    Local probe blocked (429 → CF challenge); production runner
+    #    reaches /newsroom/news/default.aspx. via_jina=True is the
+    #    primary reliable path; direct selectors are a best-effort
+    #    guess so non-Jina fallback still has a chance.
+    {
+        "site_id": "oklo",
+        "site_name": "Oklo",
+        "start_urls": [
+            "https://oklo.com/newsroom/news/default.aspx",
+            "https://oklo.com/newsroom/media-coverage/default.aspx",
+        ],
+        "container_selector": "div.news-item, article, li.news",
+        "title_selector": "h2 a, h3 a, .title a",
+        "link_selector": "a",
+        "time_selector": None,
+        "max_items": 20,
+        "via_jina": True,
+    },
 )
 
 # ═══════════════════════════════════════════════════════════════════

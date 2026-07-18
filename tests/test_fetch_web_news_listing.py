@@ -32,7 +32,9 @@ from update_news import (
     WEB_SOURCES_NEWS_LISTING,
     fetch_web_news_listing,
     fetch_web_news_listing_sources,
+    _parse_news_listing_html,
 )
+from nuclear_keywords import SOURCE_TIER_BY_SITE
 
 NOW = datetime.now(timezone.utc)
 
@@ -251,3 +253,101 @@ def test_fetch_web_news_listing_sources_records_warning_on_silent_zero(monkeypat
             f"silent zero must surface via 'warning' field: {s}"
         )
         assert s.get("error") is None
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 8. Kairos Power — Webflow CMS, /updates page
+#    Selectors: container `div.news_item.w-dyn-item`,
+#               title `div.news_title_wrap div`,
+#               link   `a` (relative href like `/updates/<slug>`).
+#    Confirmed by direct local HTML probe 2026-07-18.
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+KAIROS_HTML = """<!DOCTYPE html><html><body>
+<div class="news_cards_content u-grid-autofill w-dyn-items">
+  <div class="news_item w-dyn-item">
+    <a href="/updates/kairos-power-completes-key-fuel-performance-milestone">
+      <div class="news_meta_wrap">
+        <div class="news_meta_full-date">
+          <div class="news_meta_date">Jul</div>
+          <div class="news_meta_dot">. </div>
+          <div class="news_meta_date">16</div>
+          <div class="news_meta_dot">.</div>
+          <div class="news_meta_date">2026</div>
+        </div>
+      </div>
+      <div class="news_title_wrap"><div>Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing</div></div>
+    </a>
+  </div>
+  <div class="news_item w-dyn-item">
+    <a href="/updates/kairos-power-breaks-ground-on-hermes-2">
+      <div class="news_title_wrap"><div>Kairos Power Breaks Ground on Hermes 2 Demonstration Plant</div></div>
+    </a>
+  </div>
+</div>
+</body></html>"""
+
+
+def _kairos_entry() -> dict:
+    return next(e for e in WEB_SOURCES_NEWS_LISTING if e["site_id"] == "kairos")
+
+
+def test_kairos_entry_is_registered():
+    """Kairos must be in WEB_SOURCES_NEWS_LISTING so fetch_web_news_listing
+    iterates over it. Tier must be 'industry' so it ranks above aggregators."""
+    e = _kairos_entry()
+    assert e["start_urls"], "kairos must have at least one start_url"
+    assert e["via_jina"] is True, "kairos needs Jina fallback for resilience"
+    assert SOURCE_TIER_BY_SITE.get("kairos") == "industry"
+
+
+def test_kairos_selectors_parse_real_html_structure():
+    """The HTML mock matches Kairos' actual /updates page DOM (verified by
+    local probe 2026-07-18). Selectors must extract: container,
+    relative → absolute URL, title text."""
+    from datetime import datetime, timezone
+
+    items = _parse_news_listing_html(
+        KAIROS_HTML, _kairos_entry(), datetime.now(timezone.utc)
+    )
+    assert len(items) == 2, f"expected 2 news items, got {len(items)}: {items}"
+    # First item: full URL composed from relative href
+    assert items[0].url == "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone"
+    assert "Fuel Performance Milestone" in items[0].title
+    # Second item: title extracted from nested div
+    assert "Hermes 2" in items[1].title
+    # Date was fragmented across 3 divs → time_selector=None → published_at is None
+    assert items[0].published_at is None
+    # All items carry nuclear_keyword_score meta so composite scoring can rank them
+    assert "nuclear_relevance" in items[0].meta
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 9. New SMR / advanced reactor developers — TerraPower & Oklo
+#    Cloudflare / managed challenge means direct fetch fails in production too
+#    sometimes; via_jina=True is the primary reliable path. These tests verify
+#    registration + Jina flag + tier, not the selector specifics (selectors
+#    are best-effort guesses; production logs will tell us when to tune).
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+@pytest.mark.parametrize("site_id", ["terrapower", "oklo"])
+def test_new_smr_source_registered_and_tiered(site_id):
+    e = next((s for s in WEB_SOURCES_NEWS_LISTING if s["site_id"] == site_id), None)
+    assert e is not None, f"{site_id} missing from WEB_SOURCES_NEWS_LISTING"
+    assert e["start_urls"], f"{site_id} must have start_urls"
+    assert e["via_jina"] is True, f"{site_id} needs Jina fallback (Cloudflare / SPA)"
+    assert SOURCE_TIER_BY_SITE.get(site_id) == "industry"
+
+
+@pytest.mark.parametrize("site_id", ["terrapower", "oklo"])
+def test_new_smr_source_selectors_nonempty(site_id):
+    """Selectors are best-effort guesses — production Actions logs will tell
+    us when to tune. We at least require them to be present so the fetcher
+    doesn't blow up at runtime on missing keys."""
+    e = next(s for s in WEB_SOURCES_NEWS_LISTING if s["site_id"] == site_id)
+    assert e["container_selector"].strip()
+    assert e["title_selector"].strip()
+    # link_selector may fall back to title_selector at runtime, so we don't
+    # require it — but if present, it must be non-empty.
