@@ -1198,6 +1198,22 @@ def fetch_web_news_listing(session: requests.Session, src_def: dict[str, Any], n
     # If we got here, no URL yielded items. Decide the outcome:
     if all_200_zero_items:
         # All start_urls served 200 HTML but no items parsed → silent zero
+        # candidate. Selector mismatch (e.g. Cloudflare-protected sites where
+        # the HTML loads but our CSS path doesn't match the post-JS DOM) is
+        # indistinguishable from "source genuinely has no news" at this layer.
+        # If via_jina=True, try Jina before declaring silent zero — Jina
+        # re-renders through a real browser and gives us markdown regex items
+        # even when our BeautifulSoup path is stale.
+        if via_jina:
+            try:
+                jina_items = _parse_news_listing_jina(session, src_def, now)
+                if jina_items:
+                    return jina_items
+            except Exception:
+                # Jina itself failed (network, 403, etc.) — fall through to
+                # silent zero. The wrapper still records warning so operators
+                # see the indirect failure mode.
+                pass
         return []
 
     # At least one URL hard-failed. Try Jina if enabled.

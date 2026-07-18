@@ -142,15 +142,48 @@ def test_fetch_web_news_listing_first_url_fails_second_succeeds():
 
 
 def test_fetch_web_news_listing_all_200_but_zero_items():
+    """with via_jina=False, silent zero must short-circuit and return [] —
+    no Jina probe attempted. Wrapper layer then records the warning field."""
     sess = MagicMock(spec=requests.Session)
     empty_html = "<html><body><p>no news here</p></body></html>"
     sess.get.return_value = _build_html_resp(empty_html)
 
-    items = fetch_web_news_listing(sess, ROSATOM_DEF, NOW)
+    def_no_jina = {**ROSATOM_DEF, "via_jina": False}
+    items = fetch_web_news_listing(sess, def_no_jina, NOW)
 
     assert items == [], "silent zero must return [] for wrapper to warn"
-    # Both start_urls probed
-    assert sess.get.call_count == len(ROSATOM_DEF["start_urls"])
+    # Both start_urls probed, no Jina call (via_jina=False)
+    assert sess.get.call_count == len(def_no_jina["start_urls"])
+
+
+def test_fetch_web_news_listing_silent_zero_falls_through_to_jina():
+    """with via_jina=True and direct path producing 0 items, the fetcher must
+    try Jina before giving up. If Jina yields items, those surface; if not,
+    return []. This is the OKLO / TerraPower path — direct HTML loads but
+    our BeautifulSoup selectors don't match the post-JS DOM, while Jina's
+    markdown regex sweep still extracts titles."""
+    sess = MagicMock(spec=requests.Session)
+    direct_html = "<html><body><div class='spinner'>Loading...</div></body></html>"
+    jina_md = (
+        "Some intro\n\n"
+        "[Oklo announces Aurora powerhouse milestone](https://oklo.com/newsroom/news/aurora-milestone/)\n\n"
+    )
+
+    def side_effect(url, **kwargs):
+        if "r.jina.ai" in url:
+            r = MagicMock()
+            r.status_code = 200
+            r.text = jina_md
+            return r
+        return _build_html_resp(direct_html)
+
+    sess.get.side_effect = side_effect
+
+    items = fetch_web_news_listing(sess, ROSATOM_DEF, NOW)  # via_jina=True
+
+    assert len(items) == 1, f"Jina fallback should surface 1 item, got {items}"
+    assert "Aurora" in items[0].title
+    assert items[0].site_id == "rosatom"  # src_def controls site_id even via Jina path
 
 
 # ─────────────────────────────────────────────────────────────────────────────
