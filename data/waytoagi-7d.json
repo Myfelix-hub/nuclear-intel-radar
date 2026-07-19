@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-07-19T22:04:21.827028+00:00",
+  "generated_at": "2026-07-19T23:31:21.919029+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-19",
+      "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v0y39m/safety_systems_operated_as_designed_during/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v0xouq/nuclear_startup_valar_atomics_in_talks_to_raise/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "South Korean SMR-powered container ship design certified",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v0io8b/south_korean_smrpowered_container_ship_design/"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Why India is reopening a nuclear power plant built in the 1960s",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v05euh/why_india_is_reopening_a_nuclear_power_plant/"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "How much should a Nuclear Engineer (Program/System/Etc.) make with 5 YOE?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uzwfxz/how_much_should_a_nuclear_engineer/"
+    },
     {
       "date": "2026-07-18",
       "title": "India's largest nuclear power plant Kudankulam exposed in data breach",
@@ -10,8 +35,28 @@
     },
     {
       "date": "2026-07-17",
+      "title": "World Nuclear Association finally logs Shidaowan Guohe One 2 in China as connected to the grid",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uz90h4/world_nuclear_association_finally_logs_shidaowan/"
+    },
+    {
+      "date": "2026-07-17",
       "title": "Experiments at the nation's only all-digital nuclear reactor",
       "url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "South Africa's Koeberg nuclear plant has 'contamination' events",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uyw83j/south_africas_koeberg_nuclear_plant_has/"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "US firm unveils commercial plan for 10MWe reactor based on light-water tech",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uytrz7/us_firm_unveils_commercial_plan_for_10mwe_reactor/"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "India Is Running Three SMR Programmes Simultaneously. Each One Is a Different Market",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uypvkg/india_is_running_three_smr_programmes/"
     },
     {
       "date": "2026-07-14",
@@ -31,14 +76,24 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-18",
-      "title": "India's largest nuclear power plant Kudankulam exposed in data breach",
-      "url": "https://www.reuters.com/world/india/files-relating-indias-largest-nuclear-power-plant-kudankulam-exposed-data-breach-2026-07-15/"
+      "date": "2026-07-19",
+      "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v0y39m/safety_systems_operated_as_designed_during/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v0xouq/nuclear_startup_valar_atomics_in_talks_to_raise/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "South Korean SMR-powered container ship design certified",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v0io8b/south_korean_smrpowered_container_ship_design/"
     }
   ],
-  "latest_date": "2026-07-18",
-  "count_7d": 5,
-  "count_today": 1,
+  "latest_date": "2026-07-19",
+  "count_7d": 14,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
