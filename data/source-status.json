@@ -1,33 +1,6 @@
 {
   "sites": [
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": true,
-      "item_count": 4,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
       "site_id": "arxiv_insdet",
       "site_name": "arXiv ins-det",
       "ok": true,
@@ -46,10 +19,46 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
+      "ok": true,
+      "item_count": 4,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "ans_newswire",
       "site_name": "ANS Newswire",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 16,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -62,15 +71,6 @@
       "duration_ms": 0,
       "error": null,
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 16,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
     },
     {
       "site_id": "wechat_cnnp",
@@ -190,19 +190,19 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "eurofusion",
-      "site_name": "EUROfusion",
+      "site_id": "nucnet",
+      "site_name": "NucNet",
       "ok": true,
-      "item_count": 1,
+      "item_count": 21,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
+      "site_id": "eurofusion",
+      "site_name": "EUROfusion",
       "ok": true,
-      "item_count": 21,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -220,10 +220,10 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 138,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
     },
     {
       "site_id": "nuclear_net_cn",
@@ -235,19 +235,19 @@
       "warning": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
       "ok": true,
-      "item_count": 12,
+      "item_count": 42,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
+      "site_id": "cgn_news",
+      "site_name": "中广核",
       "ok": true,
-      "item_count": 42,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 5,
-      "duration_ms": 2967,
+      "duration_ms": 3030,
       "error": null,
       "warning": null
     },
@@ -302,7 +302,7 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5193,
+      "duration_ms": 5453,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
@@ -404,13 +404,13 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5193,
+      "duration_ms": 5453,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
   ],
-  "fetched_raw_items": 349,
-  "items_before_topic_filter": 349,
+  "fetched_raw_items": 211,
+  "items_before_topic_filter": 211,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
