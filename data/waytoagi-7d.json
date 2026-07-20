@@ -1,43 +1,8 @@
 {
-  "generated_at": "2026-07-20T03:48:05.041569+00:00",
+  "generated_at": "2026-07-20T06:54:41.111344+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-07-19",
-      "title": "US firm gets license to commercialize seawater uranium extraction tech",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v158x4/us_firm_gets_license_to_commercialize_seawater/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Russia's 370-ton Shelf-M nuclear battery reactor clears key milestone",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v158lt/russias_370ton_shelfm_nuclear_battery_reactor/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v0y39m/safety_systems_operated_as_designed_during/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v0xouq/nuclear_startup_valar_atomics_in_talks_to_raise/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "South Korean SMR-powered container ship design certified",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v0io8b/south_korean_smrpowered_container_ship_design/"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "Why India is reopening a nuclear power plant built in the 1960s",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v05euh/why_india_is_reopening_a_nuclear_power_plant/"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "How much should a Nuclear Engineer (Program/System/Etc.) make with 5 YOE?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uzwfxz/how_much_should_a_nuclear_engineer/"
-    },
     {
       "date": "2026-07-18",
       "title": "India's largest nuclear power plant Kudankulam exposed in data breach",
@@ -45,23 +10,8 @@
     },
     {
       "date": "2026-07-17",
-      "title": "World Nuclear Association finally logs Shidaowan Guohe One 2 in China as connected to the grid",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uz90h4/world_nuclear_association_finally_logs_shidaowan/"
-    },
-    {
-      "date": "2026-07-17",
       "title": "Experiments at the nation's only all-digital nuclear reactor",
       "url": "https://www.purdue.edu/newsroom/2026/Q3/at-the-nations-only-all-digital-nuclear-reactor-engineers-conduct-the-first-experiments-of-their-kind-in-the-u-s/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "US firm unveils commercial plan for 10MWe reactor based on light-water tech",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uytrz7/us_firm_unveils_commercial_plan_for_10mwe_reactor/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "India Is Running Three SMR Programmes Simultaneously. Each One Is a Different Market",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uypvkg/india_is_running_three_smr_programmes/"
     },
     {
       "date": "2026-07-14",
@@ -72,43 +22,18 @@
       "date": "2026-07-13",
       "title": "France powers down several nuclear reactors due to extreme heat",
       "url": "https://www.lemonde.fr/en/france/article/2026/07/12/france-powers-down-several-nuclear-reactors-due-to-extreme-heat_6755404_7.html"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "Nuclear Fusion Ready for Commercialization?",
-      "url": "https://abc7news.com/post/inertia-worlds-1st-fusion-factory-lawrence-livermore-national-laboratory-aims-clean-energy-source-commercial-use/19482659/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-07-19",
-      "title": "US firm gets license to commercialize seawater uranium extraction tech",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v158x4/us_firm_gets_license_to_commercialize_seawater/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Russia's 370-ton Shelf-M nuclear battery reactor clears key milestone",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v158lt/russias_370ton_shelfm_nuclear_battery_reactor/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v0y39m/safety_systems_operated_as_designed_during/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v0xouq/nuclear_startup_valar_atomics_in_talks_to_raise/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "South Korean SMR-powered container ship design certified",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v0io8b/south_korean_smrpowered_container_ship_design/"
+      "date": "2026-07-18",
+      "title": "India's largest nuclear power plant Kudankulam exposed in data breach",
+      "url": "https://www.reuters.com/world/india/files-relating-indias-largest-nuclear-power-plant-kudankulam-exposed-data-breach-2026-07-15/"
     }
   ],
-  "latest_date": "2026-07-19",
-  "count_7d": 15,
-  "count_today": 5,
+  "latest_date": "2026-07-18",
+  "count_7d": 4,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
