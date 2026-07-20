@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-19T23:31:21.919029+00:00",
+  "generated_at": "2026-07-20T03:48:05.041569+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-19",
+      "title": "US firm gets license to commercialize seawater uranium extraction tech",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v158x4/us_firm_gets_license_to_commercialize_seawater/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Russia's 370-ton Shelf-M nuclear battery reactor clears key milestone",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v158lt/russias_370ton_shelfm_nuclear_battery_reactor/"
+    },
     {
       "date": "2026-07-19",
       "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
@@ -45,11 +55,6 @@
     },
     {
       "date": "2026-07-17",
-      "title": "South Africa's Koeberg nuclear plant has 'contamination' events",
-      "url": "https://www.reddit.com/r/nuclear/comments/1uyw83j/south_africas_koeberg_nuclear_plant_has/"
-    },
-    {
-      "date": "2026-07-17",
       "title": "US firm unveils commercial plan for 10MWe reactor based on light-water tech",
       "url": "https://www.reddit.com/r/nuclear/comments/1uytrz7/us_firm_unveils_commercial_plan_for_10mwe_reactor/"
     },
@@ -77,6 +82,16 @@
   "updates_today": [
     {
       "date": "2026-07-19",
+      "title": "US firm gets license to commercialize seawater uranium extraction tech",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v158x4/us_firm_gets_license_to_commercialize_seawater/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Russia's 370-ton Shelf-M nuclear battery reactor clears key milestone",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v158lt/russias_370ton_shelfm_nuclear_battery_reactor/"
+    },
+    {
+      "date": "2026-07-19",
       "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
       "url": "https://www.reddit.com/r/nuclear/comments/1v0y39m/safety_systems_operated_as_designed_during/"
     },
@@ -92,8 +107,8 @@
     }
   ],
   "latest_date": "2026-07-19",
-  "count_7d": 14,
-  "count_today": 3,
+  "count_7d": 15,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
