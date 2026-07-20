@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-07-20T16:59:27.924455+00:00",
+  "generated_at": "2026-07-20T19:03:28.349904+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
+      "date": "2026-07-20",
+      "title": "Would de-regulated nuclear power be safe?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1v19x5v/would_deregulated_nuclear_power_be_safe/"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1v190rx/safety_systems_operated_as_designed_during/"
+    },
+    {
       "date": "2026-07-18",
       "title": "India's largest nuclear power plant Kudankulam exposed in data breach",
       "url": "https://www.reuters.com/world/india/files-relating-indias-largest-nuclear-power-plant-kudankulam-exposed-data-breach-2026-07-15/"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Isaiah Taylor, founder of Valar Atomics, explains why he believes the nuclear industry has an “…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1uzl7m8/isaiah_taylor_founder_of_valar_atomics_explains/"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "What news sources do y'all use for nuclear?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1uzexdx/what_news_sources_do_yall_use_for_nuclear/"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "What are the benefits of working nuclear operator in OPG",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1uz99te/what_are_the_benefits_of_working_nuclear_operator/"
     },
     {
       "date": "2026-07-17",
@@ -26,14 +51,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-18",
-      "title": "India's largest nuclear power plant Kudankulam exposed in data breach",
-      "url": "https://www.reuters.com/world/india/files-relating-indias-largest-nuclear-power-plant-kudankulam-exposed-data-breach-2026-07-15/"
+      "date": "2026-07-20",
+      "title": "Would de-regulated nuclear power be safe?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1v19x5v/would_deregulated_nuclear_power_be_safe/"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1v190rx/safety_systems_operated_as_designed_during/"
     }
   ],
-  "latest_date": "2026-07-18",
-  "count_7d": 4,
-  "count_today": 1,
+  "latest_date": "2026-07-20",
+  "count_7d": 9,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
