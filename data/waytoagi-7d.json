@@ -1,37 +1,57 @@
 {
-  "generated_at": "2026-07-20T19:03:28.349904+00:00",
+  "generated_at": "2026-07-20T20:49:57.859876+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-07-20",
-      "title": "Would de-regulated nuclear power be safe?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v19x5v/would_deregulated_nuclear_power_be_safe/"
+      "title": "South Korean SMR-powered container ship design certified",
+      "url": "https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-certified"
     },
     {
       "date": "2026-07-20",
+      "title": "Are Trump and AI driving a nuclear power boom?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v1n0zg/are_trump_and_ai_driving_a_nuclear_power_boom/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "US firm gets license to commercialize seawater uranium extraction tech",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v158x4/us_firm_gets_license_to_commercialize_seawater/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Russia's 370-ton Shelf-M nuclear battery reactor clears key milestone",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v158lt/russias_370ton_shelfm_nuclear_battery_reactor/"
+    },
+    {
+      "date": "2026-07-19",
       "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v190rx/safety_systems_operated_as_designed_during/"
+      "url": "https://www.reddit.com/r/nuclear/comments/1v0y39m/safety_systems_operated_as_designed_during/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v0xouq/nuclear_startup_valar_atomics_in_talks_to_raise/"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "South Korean SMR-powered container ship design certified",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v0io8b/south_korean_smrpowered_container_ship_design/"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Why India is reopening a nuclear power plant built in the 1960s",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v05euh/why_india_is_reopening_a_nuclear_power_plant/"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "How much should a Nuclear Engineer (Program/System/Etc.) make with 5 YOE?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1uzwfxz/how_much_should_a_nuclear_engineer/"
     },
     {
       "date": "2026-07-18",
       "title": "India's largest nuclear power plant Kudankulam exposed in data breach",
       "url": "https://www.reuters.com/world/india/files-relating-indias-largest-nuclear-power-plant-kudankulam-exposed-data-breach-2026-07-15/"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "Isaiah Taylor, founder of Valar Atomics, explains why he believes the nuclear industry has an “…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uzl7m8/isaiah_taylor_founder_of_valar_atomics_explains/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "What news sources do y'all use for nuclear?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uzexdx/what_news_sources_do_yall_use_for_nuclear/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "What are the benefits of working nuclear operator in OPG",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1uz99te/what_are_the_benefits_of_working_nuclear_operator/"
     },
     {
       "date": "2026-07-17",
@@ -52,17 +72,17 @@
   "updates_today": [
     {
       "date": "2026-07-20",
-      "title": "Would de-regulated nuclear power be safe?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v19x5v/would_deregulated_nuclear_power_be_safe/"
+      "title": "South Korean SMR-powered container ship design certified",
+      "url": "https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-certified"
     },
     {
       "date": "2026-07-20",
-      "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v190rx/safety_systems_operated_as_designed_during/"
+      "title": "Are Trump and AI driving a nuclear power boom?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v1n0zg/are_trump_and_ai_driving_a_nuclear_power_boom/"
     }
   ],
   "latest_date": "2026-07-20",
-  "count_7d": 9,
+  "count_7d": 13,
   "count_today": 2,
   "has_error": false,
   "error": null,
