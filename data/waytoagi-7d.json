@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-07-22T00:57:45.495102+00:00",
+  "generated_at": "2026-07-22T04:25:51.316068+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-22",
+      "title": "Hydrogen Production utilizing nuclear process heat",
+      "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
+    },
     {
       "date": "2026-07-20",
       "title": "South Korean SMR-powered container ship design certified",
@@ -21,13 +26,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-20",
-      "title": "South Korean SMR-powered container ship design certified",
-      "url": "https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-certified"
+      "date": "2026-07-22",
+      "title": "Hydrogen Production utilizing nuclear process heat",
+      "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
     }
   ],
-  "latest_date": "2026-07-20",
-  "count_7d": 3,
+  "latest_date": "2026-07-22",
+  "count_7d": 4,
   "count_today": 1,
   "has_error": false,
   "error": null,
