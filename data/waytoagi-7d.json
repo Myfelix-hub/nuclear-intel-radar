@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-07-22T16:25:47.425417+00:00",
+  "generated_at": "2026-07-22T17:50:43.949420+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-07-22",
-      "title": "States stand in the way of a nuclear energy renaissance",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v3gzr5/states_stand_in_the_way_of_a_nuclear_energy/"
-    },
     {
       "date": "2026-07-22",
       "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
@@ -19,44 +14,9 @@
       "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
     },
     {
-      "date": "2026-07-22",
-      "title": "Nuclear jobs are not clean jobs according to this think tank",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v32q3z/nuclear_jobs_are_not_clean_jobs_according_to_this/"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "The missing link in America’s nuclear energy future: Standardization at scale",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v2daga/the_missing_link_in_americas_nuclear_energy/"
-    },
-    {
       "date": "2026-07-20",
       "title": "South Korean SMR-powered container ship design certified",
       "url": "https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-certified"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "Are Trump and AI driving a nuclear power boom?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v1n0zg/are_trump_and_ai_driving_a_nuclear_power_boom/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "US firm gets license to commercialize seawater uranium extraction tech",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v158x4/us_firm_gets_license_to_commercialize_seawater/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Russia's 370-ton Shelf-M nuclear battery reactor clears key milestone",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v158lt/russias_370ton_shelfm_nuclear_battery_reactor/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v0y39m/safety_systems_operated_as_designed_during/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v0xouq/nuclear_startup_valar_atomics_in_talks_to_raise/"
     },
     {
       "date": "2026-07-18",
@@ -72,11 +32,6 @@
   "updates_today": [
     {
       "date": "2026-07-22",
-      "title": "States stand in the way of a nuclear energy renaissance",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v3gzr5/states_stand_in_the_way_of_a_nuclear_energy/"
-    },
-    {
-      "date": "2026-07-22",
       "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
       "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
     },
@@ -84,16 +39,11 @@
       "date": "2026-07-22",
       "title": "Hydrogen Production utilizing nuclear process heat",
       "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Nuclear jobs are not clean jobs according to this think tank",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v32q3z/nuclear_jobs_are_not_clean_jobs_according_to_this/"
     }
   ],
   "latest_date": "2026-07-22",
-  "count_7d": 13,
-  "count_today": 4,
+  "count_7d": 5,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null

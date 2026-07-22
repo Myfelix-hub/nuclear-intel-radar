@@ -1,6 +1,15 @@
 {
   "sites": [
     {
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
+      "ok": true,
+      "item_count": 4,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "powermag",
       "site_name": "POWER Magazine",
       "ok": true,
@@ -10,8 +19,17 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
       "ok": true,
       "item_count": 20,
       "duration_ms": 0,
@@ -28,6 +46,15 @@
       "warning": null
     },
     {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "arxiv_insdet",
       "site_name": "arXiv ins-det",
       "ok": true,
@@ -37,40 +64,13 @@
       "warning": null
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
       "ok": true,
       "item_count": 4,
       "duration_ms": 0,
       "error": null,
       "warning": null
-    },
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "iaea_news: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.iaea.org/feeds/news",
-      "warning": null
-    },
-    {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "wechat_cnnp",
@@ -163,28 +163,10 @@
       "warning": null
     },
     {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
-      "ok": true,
-      "item_count": 4,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "wnn",
       "site_name": "World Nuclear News",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": true,
-      "item_count": 21,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -201,6 +183,24 @@
     {
       "site_id": "eurofusion",
       "site_name": "EUROfusion",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": true,
+      "item_count": 21,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
@@ -226,19 +226,19 @@
       "warning": null
     },
     {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
+      "site_id": "cgn_news",
+      "site_name": "中广核",
       "ok": true,
-      "item_count": 42,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
       "ok": true,
-      "item_count": 12,
+      "item_count": 42,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -274,7 +274,7 @@
       "site_id": "oklo",
       "site_name": "Oklo",
       "ok": true,
-      "item_count": 1,
+      "item_count": 24,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -293,31 +293,22 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 5,
-      "duration_ms": 2847,
+      "duration_ms": 3157,
       "error": null,
       "warning": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
-      "ok": true,
-      "item_count": 8,
-      "duration_ms": 5898,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 5211,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
   ],
   "successful_sites": 23,
   "failed_sites": [
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "iaea_news: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.iaea.org/feeds/news",
-      "warning": null
-    },
     {
       "site_id": "wechat_cnnp",
       "site_name": "中国核电网 (CNNP)",
@@ -407,10 +398,19 @@
       "duration_ms": 0,
       "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
       "warning": null
+    },
+    {
+      "site_id": "reddit_nuclear",
+      "site_name": "Reddit Nuclear",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 5211,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
+      "warning": null
     }
   ],
-  "fetched_raw_items": 359,
-  "items_before_topic_filter": 359,
+  "fetched_raw_items": 384,
+  "items_before_topic_filter": 384,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
