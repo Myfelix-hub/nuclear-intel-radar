@@ -1,32 +1,12 @@
 {
-  "generated_at": "2026-07-21T23:03:22.984363+00:00",
+  "generated_at": "2026-07-22T00:57:45.495102+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-07-21",
-      "title": "Nuclear Power in the US is lying to you.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v2ny4f/nuclear_power_in_the_us_is_lying_to_you/"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v2ifi7/data_centers_powered_by_nextgen_nuclear_dont_fall/"
-    },
-    {
       "date": "2026-07-20",
       "title": "South Korean SMR-powered container ship design certified",
       "url": "https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-certified"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "Would de-regulated nuclear power be safe?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v19x5v/would_deregulated_nuclear_power_be_safe/"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "Safety systems operated as designed during Koeberg Unit 2 outage: event classified as Level 0 (…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v190rx/safety_systems_operated_as_designed_during/"
     },
     {
       "date": "2026-07-18",
@@ -41,19 +21,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-21",
-      "title": "Nuclear Power in the US is lying to you.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v2ny4f/nuclear_power_in_the_us_is_lying_to_you/"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v2ifi7/data_centers_powered_by_nextgen_nuclear_dont_fall/"
+      "date": "2026-07-20",
+      "title": "South Korean SMR-powered container ship design certified",
+      "url": "https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-certified"
     }
   ],
-  "latest_date": "2026-07-21",
-  "count_7d": 7,
-  "count_today": 2,
+  "latest_date": "2026-07-20",
+  "count_7d": 3,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null

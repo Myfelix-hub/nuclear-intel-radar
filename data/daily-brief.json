@@ -1,58 +1,43 @@
 {
-  "generated_at": "2026-07-21T23:03:22.984363+00:00",
+  "generated_at": "2026-07-22T00:57:45.495102+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-85b8c428d6ca9618",
-      "title": "Oklo Announces U.S. Department of Energy Approval for Nuclear Safety Design Agreement of Aurora…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Announces-U-S--Department-of-Energy-Approval-for-Nuclear-Safety-Design-Agreement-of-Aurora-Powerhouse-at-Idaho-National-Laboratory/default.aspx",
-      "first_published_at": "2026-07-21T23:03:22.984363+00:00",
+      "story_id": "story-0a626b139f2f8e54",
+      "title": "Korean Containership with Molten Salt Nuclear Reactor Gets ABS Approval",
+      "representative_url": "https://maritime-executive.com/article/korean-containership-with-molten-salt-nuclear-reactor-gets-abs-approval",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
       "sources": [
-        "oklo"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "policy",
-      "score": 3.0
+      "score": 3.6
     },
     {
-      "story_id": "story-b8c48913ced08601",
-      "title": "Oklo’s Atomic Alchemy Announces U.S. Department of Energy Approval for Nuclear Safety Design Ag…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklos-Atomic-Alchemy-Announces-U-S--Department-of-Energy-Approval-for-Nuclear-Safety-Design-Agreement-of-its-Groves-Isotopes-Test-Reactor/default.aspx",
-      "first_published_at": "2026-07-21T23:03:22.984363+00:00",
+      "story_id": "story-3484636a23d582fe",
+      "title": "Nuclear Deal That Would Permit Uranium Enrichment by Saudi Arabia in Limbo Awaiting Trump Admin…",
+      "representative_url": "https://www.cnn.com/2026/07/18/politics/saudi-arabia-trump-nuclear-enrichment",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
       "sources": [
-        "oklo"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "policy",
-      "score": 3.0
-    },
-    {
-      "story_id": "story-70f9378e91b23b39",
-      "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/U-S--Department-of-Energy-Approves-Final-Safety-Analysis-for-Oklos-Groves-Isotope-Test-Reactor-Advancing-the-Project-Toward-Operational-Authorization/default.aspx",
-      "first_published_at": "2026-07-21T23:03:22.984363+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 3.0
+      "score": 3.6
     },
     {
       "story_id": "story-27a1c528a9fb5ade",
       "title": "中广核广东太平岭核电2号机组首次并网发电 2026-07-04",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b7efcac4fc6e41079dd090dbd74008f0.shtml",
-      "first_published_at": "2026-07-21T23:03:22.984363+00:00",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -64,55 +49,40 @@
       "score": 3.0
     },
     {
-      "story_id": "story-a632d996b5fc46a6",
-      "title": "Oklo and Idaho National Laboratory to Employ AI-Enabled Reactor Design for Advanced Nuclear Sys…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-and-Idaho-National-Laboratory-to-Employ-AI-Enabled-Reactor-Design-for-Advanced-Nuclear-Systems/default.aspx",
-      "first_published_at": "2026-07-21T23:03:22.984363+00:00",
+      "story_id": "story-5ea5e6a8085af7d5",
+      "title": "US State Targets 1,100-MW Advanced Nuclear Energy Via Next-Gen Reactors Under New Law",
+      "representative_url": "https://interestingengineering.com/energy/us-state-targets-1100-mw-advanced-nuclear-energy-via-next-gen-reactors-under-new-law",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
       "sources": [
-        "oklo"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 2.8
+    },
+    {
+      "story_id": "story-53b64d4edce09b4b",
+      "title": "Constellation Backs Blue Energy to Accelerate Small Modular Reactor Deployment",
+      "representative_url": "https://world-nuclear-news.org/articles/constellation-invests-in-blue-energy",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-74caa034346124b1",
-      "title": "Oklo’s Atomic Alchemy Granted U.S. Nuclear Regulatory Commission License for Isotope Material",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklos-Atomic-Alchemy-Granted-U-S--Nuclear-Regulatory-Commission-License-for-Isotope-Material/default.aspx",
-      "first_published_at": "2026-07-21T23:03:22.984363+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-f4202d3334d52b44",
-      "title": "Oklo’s NRC Principal Design Criteria Topical Report Approved for Aurora Powerhouse in Idaho",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklos-NRC-Principal-Design-Criteria-Topical-Report-Approved-for-Aurora-Powerhouse-in-Idaho/default.aspx",
-      "first_published_at": "2026-07-21T23:03:22.984363+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 2.7
+      "score": 2.8
     },
     {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-07-21T23:03:22.984363+00:00",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
       "sources": [
         "kairos"
       ],
@@ -124,25 +94,25 @@
       "score": 2.7
     },
     {
-      "story_id": "story-21da60e0bc8ac068",
-      "title": "America Needs a Fifth Nuclear Executive Order",
-      "representative_url": "https://www.powermag.com/america-needs-a-fifth-nuclear-executive-order/",
-      "first_published_at": "2026-07-20T19:16:09+00:00",
+      "story_id": "story-fdf2bfdde7eb7bff",
+      "title": "NUCLEAR FISSIONARY",
+      "representative_url": "http://nuclearfissionary.com/",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
       "sources": [
-        "powermag"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.5,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 2.5
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 2.4
     },
     {
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-07-21T23:03:22.984363+00:00",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -151,6 +121,36 @@
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "china",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-1aa1b03f1a745a85",
+      "title": "No Radiation Leak After ‘Contamination’ Events at Africa’s Only Nuclear Plant, Regulator Says",
+      "representative_url": "https://apnews.com/article/nuclear-reactor-south-africa-contamination-regulator-866adfe2fb7dab78878ae551843a5bd5",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "safety",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-75a227e957a9cb79",
+      "title": "China’s Newest Nuclear Reactor Has Reached One of Its Biggest Milestones",
+      "representative_url": "https://interestingengineering.com/energy/chinas-changjiang-unit-3-reactor",
+      "first_published_at": "2026-07-22T00:57:45.495102+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
       "score": 2.4
     }
   ]
