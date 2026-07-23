@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T00:07:35.702561+00:00",
+  "generated_at": "2026-07-23T03:56:16.634367+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -12,6 +12,16 @@
       "date": "2026-07-22",
       "title": "Hydrogen Production utilizing nuclear process heat",
       "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Nuclear Power in the US is lying to you.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1v2ny4f/nuclear_power_in_the_us_is_lying_to_you/"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1v2ifi7/data_centers_powered_by_nextgen_nuclear_dont_fall/"
     },
     {
       "date": "2026-07-20",
@@ -42,7 +52,7 @@
     }
   ],
   "latest_date": "2026-07-22",
-  "count_7d": 5,
+  "count_7d": 7,
   "count_today": 2,
   "has_error": false,
   "error": null,
