@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T17:38:25.798009+00:00",
+  "generated_at": "2026-07-23T19:36:10.949378+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -55,11 +55,6 @@
     },
     {
       "date": "2026-07-22",
-      "title": "States stand in the way of a nuclear energy renaissance",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v3gzr5/states_stand_in_the_way_of_a_nuclear_energy/"
-    },
-    {
-      "date": "2026-07-22",
       "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
       "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
     },
@@ -102,7 +97,7 @@
     }
   ],
   "latest_date": "2026-07-23",
-  "count_7d": 16,
+  "count_7d": 15,
   "count_today": 3,
   "has_error": false,
   "error": null,
