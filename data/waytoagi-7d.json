@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-07-24T15:14:06.174837+00:00",
+  "generated_at": "2026-07-24T17:07:54.303192+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-07-24",
-      "title": "Nuclear Toolkit UPDATE. I added gamma dose, MDA, and enrichment calculators",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v5dn4o/nuclear_toolkit_update_i_added_gamma_dose_mda_and/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "I got access to a nuclear power plant control panel simulator",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v4wsnx/i_got_access_to_a_nuclear_power_plant_control/"
-    },
     {
       "date": "2026-07-22",
       "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
@@ -22,11 +12,6 @@
       "date": "2026-07-22",
       "title": "Hydrogen Production utilizing nuclear process heat",
       "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Nuclear Power in the US is lying to you.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v2ny4f/nuclear_power_in_the_us_is_lying_to_you/"
     },
     {
       "date": "2026-07-20",
@@ -46,18 +31,18 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-24",
-      "title": "Nuclear Toolkit UPDATE. I added gamma dose, MDA, and enrichment calculators",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v5dn4o/nuclear_toolkit_update_i_added_gamma_dose_mda_and/"
+      "date": "2026-07-22",
+      "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
+      "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
     },
     {
-      "date": "2026-07-24",
-      "title": "I got access to a nuclear power plant control panel simulator",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v4wsnx/i_got_access_to_a_nuclear_power_plant_control/"
+      "date": "2026-07-22",
+      "title": "Hydrogen Production utilizing nuclear process heat",
+      "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
     }
   ],
-  "latest_date": "2026-07-24",
-  "count_7d": 8,
+  "latest_date": "2026-07-22",
+  "count_7d": 5,
   "count_today": 2,
   "has_error": false,
   "error": null,
