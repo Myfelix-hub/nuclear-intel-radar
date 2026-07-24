@@ -1,63 +1,8 @@
 {
-  "generated_at": "2026-07-24T03:55:21.365067+00:00",
+  "generated_at": "2026-07-24T06:33:33.835696+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-07-24",
-      "title": "I got access to a nuclear power plant control panel simulator",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v4wsnx/i_got_access_to_a_nuclear_power_plant_control/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v4qopa/oklo_receives_us_department_of_energy_startup/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "New US nuclear fuel facilities target 5-metric-ton uranium production",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v4p1fo/new_us_nuclear_fuel_facilities_target_5metricton/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "US eyes offshore nuclear reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v4gfdo/us_eyes_offshore_nuclear_reactors/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Nuclear Toolkit UPDATE. I added gamma dose, MDA, and enrichment calculators",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v4ecnq/nuclear_toolkit_update_i_added_gamma_dose_mda_and/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "US and Japan clash over meltdown liability in $40bn nuclear power deal",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v493j1/us_and_japan_clash_over_meltdown_liability_in/"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Germany greenlights controversial joint French-Russian nuclear project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v3w1cm/germany_greenlights_controversial_joint/"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v3vr72/trump_approves_landmark_nuclear_deal_with_saudi/"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "United States and Saudi Arabia Reach Historic Nuclear Cooperation Agreement",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v3vmlr/united_states_and_saudi_arabia_reach_historic/"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v3ru0d/bluecore_energy_raises_10m_to_build_portable/"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Anti nuclear people are destroying our civilisation. I do not understand why there is not more …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v3p6br/anti_nuclear_people_are_destroying_our/"
-    },
     {
       "date": "2026-07-22",
       "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
@@ -67,16 +12,6 @@
       "date": "2026-07-22",
       "title": "Hydrogen Production utilizing nuclear process heat",
       "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Nuclear Power in the US is lying to you.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v2ny4f/nuclear_power_in_the_us_is_lying_to_you/"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v2ifi7/data_centers_powered_by_nextgen_nuclear_dont_fall/"
     },
     {
       "date": "2026-07-20",
@@ -96,14 +31,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-24",
-      "title": "I got access to a nuclear power plant control panel simulator",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v4wsnx/i_got_access_to_a_nuclear_power_plant_control/"
+      "date": "2026-07-22",
+      "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
+      "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Hydrogen Production utilizing nuclear process heat",
+      "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
     }
   ],
-  "latest_date": "2026-07-24",
-  "count_7d": 18,
-  "count_today": 1,
+  "latest_date": "2026-07-22",
+  "count_7d": 5,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
