@@ -1,58 +1,8 @@
 {
-  "generated_at": "2026-07-24T23:35:16.722568+00:00",
+  "generated_at": "2026-07-25T03:25:03.761823+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-07-24",
-      "title": "Watch: Trump makes announcement on American nuclear innovation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5mo4n/watch_trump_makes_announcement_on_american/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Federal Court Upholds NRC’s Generic Severe-Accident Review for Nuclear Plant License Renewals",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5l5dn/federal_court_upholds_nrcs_generic_severeaccident/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "These 9 Illinois communities say they’re interested in new nuclear facilities",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5jzc1/these_9_illinois_communities_say_theyre/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Fusion is ready. Is Trump’s Washington?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5j7ce/fusion_is_ready_is_trumps_washington/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Port of Long Beach, MARAD sign first-of-its-kind partnership agreement on Nuclear Energy in Mar…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5if8f/port_of_long_beach_marad_sign_firstofitskind/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Viewpoint: IAEA's non-proliferation safeguards and industry's role",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5h1xo/viewpoint_iaeas_nonproliferation_safeguards_and/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Ancient geology could insulate Iran's nuclear centrifuges from bombing",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5d7df/ancient_geology_could_insulate_irans_nuclear/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v4qopa/oklo_receives_us_department_of_energy_startup/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "New US nuclear fuel facilities target 5-metric-ton uranium production",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v4p1fo/new_us_nuclear_fuel_facilities_target_5metricton/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "US and Japan clash over meltdown liability in $40bn nuclear power deal",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v493j1/us_and_japan_clash_over_meltdown_liability_in/"
-    },
     {
       "date": "2026-07-22",
       "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
@@ -76,44 +26,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-24",
-      "title": "Watch: Trump makes announcement on American nuclear innovation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5mo4n/watch_trump_makes_announcement_on_american/"
+      "date": "2026-07-22",
+      "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
+      "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
     },
     {
-      "date": "2026-07-24",
-      "title": "Federal Court Upholds NRC’s Generic Severe-Accident Review for Nuclear Plant License Renewals",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5l5dn/federal_court_upholds_nrcs_generic_severeaccident/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "These 9 Illinois communities say they’re interested in new nuclear facilities",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5jzc1/these_9_illinois_communities_say_theyre/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Fusion is ready. Is Trump’s Washington?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5j7ce/fusion_is_ready_is_trumps_washington/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Port of Long Beach, MARAD sign first-of-its-kind partnership agreement on Nuclear Energy in Mar…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5if8f/port_of_long_beach_marad_sign_firstofitskind/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Viewpoint: IAEA's non-proliferation safeguards and industry's role",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5h1xo/viewpoint_iaeas_nonproliferation_safeguards_and/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Ancient geology could insulate Iran's nuclear centrifuges from bombing",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5d7df/ancient_geology_could_insulate_irans_nuclear/"
+      "date": "2026-07-22",
+      "title": "Hydrogen Production utilizing nuclear process heat",
+      "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
     }
   ],
-  "latest_date": "2026-07-24",
-  "count_7d": 14,
-  "count_today": 7,
+  "latest_date": "2026-07-22",
+  "count_7d": 4,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
