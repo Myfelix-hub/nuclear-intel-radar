@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:28:45.292629+00:00",
+  "generated_at": "2026-07-25T23:36:07.403720+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,61 +7,6 @@
       "date": "2026-07-25",
       "title": "Fusion Is Ready. Is Trump's Washington?",
       "url": "https://www.politico.com/news/magazine/2026/07/24/nuclear-fusion-commonwealth-washington-massachusetts-01010625"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Fukushima nuke plant struggles to clear radioactive waste debris | The Asahi Shimbun: Breaking …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v64vk4/fukushima_nuke_plant_struggles_to_clear/"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Rooppur nuclear plant set for ‘criticality’ stage ahead of power generation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v63if2/rooppur_nuclear_plant_set_for_criticality_stage/"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "How is the neutron economy in SMR?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5x9ej/how_is_the_neutron_economy_in_smr/"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5sci1/nuclear_energy_revival_puts_westinghouse_in_prime/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Watch: Trump makes announcement on American nuclear innovation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5mo4n/watch_trump_makes_announcement_on_american/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Federal Court Upholds NRC’s Generic Severe-Accident Review for Nuclear Plant License Renewals",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5l5dn/federal_court_upholds_nrcs_generic_severeaccident/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "These 9 Illinois communities say they’re interested in new nuclear facilities",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5jzc1/these_9_illinois_communities_say_theyre/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Port of Long Beach, MARAD sign first-of-its-kind partnership agreement on Nuclear Energy in Mar…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5if8f/port_of_long_beach_marad_sign_firstofitskind/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Viewpoint: IAEA's non-proliferation safeguards and industry's role",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5h1xo/viewpoint_iaeas_nonproliferation_safeguards_and/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Ancient geology could insulate Iran's nuclear centrifuges from bombing",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5d7df/ancient_geology_could_insulate_irans_nuclear/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v4qopa/oklo_receives_us_department_of_energy_startup/"
     },
     {
       "date": "2026-07-22",
@@ -84,31 +29,11 @@
       "date": "2026-07-25",
       "title": "Fusion Is Ready. Is Trump's Washington?",
       "url": "https://www.politico.com/news/magazine/2026/07/24/nuclear-fusion-commonwealth-washington-massachusetts-01010625"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Fukushima nuke plant struggles to clear radioactive waste debris | The Asahi Shimbun: Breaking …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v64vk4/fukushima_nuke_plant_struggles_to_clear/"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Rooppur nuclear plant set for ‘criticality’ stage ahead of power generation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v63if2/rooppur_nuclear_plant_set_for_criticality_stage/"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "How is the neutron economy in SMR?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5x9ej/how_is_the_neutron_economy_in_smr/"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v5sci1/nuclear_energy_revival_puts_westinghouse_in_prime/"
     }
   ],
   "latest_date": "2026-07-25",
-  "count_7d": 15,
-  "count_today": 5,
+  "count_7d": 4,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
