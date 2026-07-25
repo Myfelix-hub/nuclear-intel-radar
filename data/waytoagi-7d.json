@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-07-25T10:39:14.948349+00:00",
+  "generated_at": "2026-07-25T12:05:51.428137+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-07-25",
-      "title": "Starting college to be an Nuclear Engineer",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v5yajn/starting_college_to_be_an_nuclear_engineer/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "How is it living in a nuclear submarine for months on end?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v5od8d/how_is_it_living_in_a_nuclear_submarine_for/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Nuclear Toolkit UPDATE. I added gamma dose, MDA, and enrichment calculators",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v5dn4o/nuclear_toolkit_update_i_added_gamma_dose_mda_and/"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "I got access to a nuclear power plant control panel simulator",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v4wsnx/i_got_access_to_a_nuclear_power_plant_control/"
+      "title": "Fusion Is Ready. Is Trump's Washington?",
+      "url": "https://www.politico.com/news/magazine/2026/07/24/nuclear-fusion-commonwealth-washington-massachusetts-01010625"
     },
     {
       "date": "2026-07-22",
@@ -42,12 +27,12 @@
   "updates_today": [
     {
       "date": "2026-07-25",
-      "title": "Starting college to be an Nuclear Engineer",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v5yajn/starting_college_to_be_an_nuclear_engineer/"
+      "title": "Fusion Is Ready. Is Trump's Washington?",
+      "url": "https://www.politico.com/news/magazine/2026/07/24/nuclear-fusion-commonwealth-washington-massachusetts-01010625"
     }
   ],
   "latest_date": "2026-07-25",
-  "count_7d": 7,
+  "count_7d": 4,
   "count_today": 1,
   "has_error": false,
   "error": null,
