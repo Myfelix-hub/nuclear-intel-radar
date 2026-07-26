@@ -1,6 +1,15 @@
 {
   "sites": [
     {
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
+      "ok": true,
+      "item_count": 6,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "powermag",
       "site_name": "POWER Magazine",
       "ok": true,
@@ -8,15 +17,6 @@
       "duration_ms": 0,
       "error": null,
       "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "arxiv_insdet",
@@ -37,28 +37,19 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 6,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "ans_newswire",
       "site_name": "ANS Newswire",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
-      "ok": true,
-      "item_count": 3,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -71,6 +62,15 @@
       "duration_ms": 0,
       "error": null,
       "warning": null
+    },
+    {
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "wechat_cnnp",
@@ -109,13 +109,13 @@
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
-      "ok": true,
+      "site_id": "wechat_nuclearnet",
+      "site_name": "核闻 NuclearNet",
+      "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "error": "wechat_nuclearnet: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "warning": null
     },
     {
       "site_id": "wechat_nuclear_story",
@@ -136,12 +136,12 @@
       "warning": null
     },
     {
-      "site_id": "wechat_nuclearnet",
-      "site_name": "核闻 NuclearNet",
+      "site_id": "wechat_sh_nuclear",
+      "site_name": "上海核电",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "wechat_nuclearnet: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "error": "wechat_sh_nuclear: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
       "warning": null
     },
     {
@@ -154,12 +154,12 @@
       "warning": null
     },
     {
-      "site_id": "wechat_sh_nuclear",
-      "site_name": "上海核电",
-      "ok": false,
-      "item_count": 0,
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
+      "ok": true,
+      "item_count": 3,
       "duration_ms": 0,
-      "error": "wechat_sh_nuclear: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "error": null,
       "warning": null
     },
     {
@@ -181,15 +181,6 @@
       "warning": null
     },
     {
-      "site_id": "oecd_nea",
-      "site_name": "OECD-NEA",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
       "site_id": "nucnet",
       "site_name": "NucNet",
       "ok": true,
@@ -197,6 +188,15 @@
       "duration_ms": 0,
       "error": null,
       "warning": null
+    },
+    {
+      "site_id": "oecd_nea",
+      "site_name": "OECD-NEA",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "eurofusion",
@@ -220,19 +220,10 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 147,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
-      "ok": true,
-      "item_count": 12,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
     },
     {
       "site_id": "nei_magazine",
@@ -248,6 +239,15 @@
       "site_name": "中国核网",
       "ok": true,
       "item_count": 9,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": true,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -274,7 +274,7 @@
       "site_id": "oklo",
       "site_name": "Oklo",
       "ok": true,
-      "item_count": 1,
+      "item_count": 25,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -293,21 +293,21 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 3161,
+      "duration_ms": 2775,
       "error": null,
       "warning": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 5412,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
+      "ok": true,
+      "item_count": 11,
+      "duration_ms": 5445,
+      "error": null,
       "warning": null
     }
   ],
-  "successful_sites": 23,
+  "successful_sites": 24,
   "failed_sites": [
     {
       "site_id": "wechat_cnnp",
@@ -346,6 +346,15 @@
       "warning": null
     },
     {
+      "site_id": "wechat_nuclearnet",
+      "site_name": "核闻 NuclearNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "wechat_nuclearnet: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "warning": null
+    },
+    {
       "site_id": "wechat_nuclear_story",
       "site_name": "核电那些事",
       "ok": false,
@@ -364,12 +373,12 @@
       "warning": null
     },
     {
-      "site_id": "wechat_nuclearnet",
-      "site_name": "核闻 NuclearNet",
+      "site_id": "wechat_sh_nuclear",
+      "site_name": "上海核电",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "wechat_nuclearnet: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "error": "wechat_sh_nuclear: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
       "warning": null
     },
     {
@@ -382,15 +391,6 @@
       "warning": null
     },
     {
-      "site_id": "wechat_sh_nuclear",
-      "site_name": "上海核电",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "wechat_sh_nuclear: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
-      "warning": null
-    },
-    {
       "site_id": "rosatom",
       "site_name": "Rosatom",
       "ok": false,
@@ -398,19 +398,10 @@
       "duration_ms": 0,
       "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
       "warning": null
-    },
-    {
-      "site_id": "reddit_nuclear",
-      "site_name": "Reddit Nuclear",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 5412,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
-      "warning": null
     }
   ],
-  "fetched_raw_items": 326,
-  "items_before_topic_filter": 326,
+  "fetched_raw_items": 214,
+  "items_before_topic_filter": 214,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
