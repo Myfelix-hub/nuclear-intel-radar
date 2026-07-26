@@ -1,104 +1,28 @@
 {
-  "generated_at": "2026-07-26T06:42:27.771863+00:00",
+  "generated_at": "2026-07-26T09:19:39.754557+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-ff362eeeda3bd2ed",
+      "story_id": "story-acf406595f6a530e",
       "title": "Federal Court Upholds NRC’s Generic Severe-Accident Review for Nuclear Plant License Renewals",
       "representative_url": "https://www.powermag.com/federal-court-upholds-nrcs-generic-severe-accident-review-for-nuclear-plant-license-renewals/",
       "first_published_at": "2026-07-23T20:54:34+00:00",
       "sources": [
-        "powermag",
-        "reddit_nuclear"
+        "powermag"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "nuclear_score": 0.75,
       "source_tier": "general_media",
       "source_tier_rank": 4,
       "primary_section": "policy",
-      "score": 6.349301927099795
-    },
-    {
-      "story_id": "story-a8f5414e0ecfcbb8",
-      "title": "Can an AI Black Box Be Trusted to Run a Nuclear Reactor?",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1v6u8bw/can_an_ai_black_box_be_trusted_to_run_a_nuclear/",
-      "first_published_at": "2026-07-26T05:02:39+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-db37a51c90b3b435",
-      "title": "Rooppur nuclear plant set for ‘criticality’ stage ahead of power generation",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1v63if2/rooppur_nuclear_plant_set_for_criticality_stage/",
-      "first_published_at": "2026-07-25T09:21:08+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-85b8c428d6ca9618",
-      "title": "Oklo Announces U.S. Department of Energy Approval for Nuclear Safety Design Agreement of Aurora…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Announces-U-S--Department-of-Energy-Approval-for-Nuclear-Safety-Design-Agreement-of-Aurora-Powerhouse-at-Idaho-National-Laboratory/default.aspx",
-      "first_published_at": "2026-07-26T06:42:27.771863+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 3.0
-    },
-    {
-      "story_id": "story-b8c48913ced08601",
-      "title": "Oklo’s Atomic Alchemy Announces U.S. Department of Energy Approval for Nuclear Safety Design Ag…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklos-Atomic-Alchemy-Announces-U-S--Department-of-Energy-Approval-for-Nuclear-Safety-Design-Agreement-of-its-Groves-Isotopes-Test-Reactor/default.aspx",
-      "first_published_at": "2026-07-26T06:42:27.771863+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 3.0
-    },
-    {
-      "story_id": "story-70f9378e91b23b39",
-      "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/U-S--Department-of-Energy-Approves-Final-Safety-Analysis-for-Oklos-Groves-Isotope-Test-Reactor-Advancing-the-Project-Toward-Operational-Authorization/default.aspx",
-      "first_published_at": "2026-07-26T06:42:27.771863+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 3.0
+      "score": 3.75
     },
     {
       "story_id": "story-27a1c528a9fb5ade",
       "title": "中广核广东太平岭核电2号机组首次并网发电 2026-07-04",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b7efcac4fc6e41079dd090dbd74008f0.shtml",
-      "first_published_at": "2026-07-26T06:42:27.771863+00:00",
+      "first_published_at": "2026-07-26T09:19:39.754557+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -125,12 +49,12 @@
       "score": 3.0
     },
     {
-      "story_id": "story-a632d996b5fc46a6",
-      "title": "Oklo and Idaho National Laboratory to Employ AI-Enabled Reactor Design for Advanced Nuclear Sys…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-and-Idaho-National-Laboratory-to-Employ-AI-Enabled-Reactor-Design-for-Advanced-Nuclear-Systems/default.aspx",
-      "first_published_at": "2026-07-26T06:42:27.771863+00:00",
+      "story_id": "story-7b8904e7ba721454",
+      "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
+      "first_published_at": "2026-07-26T09:19:39.754557+00:00",
       "sources": [
-        "oklo"
+        "kairos"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.9,
@@ -140,19 +64,94 @@
       "score": 2.7
     },
     {
-      "story_id": "story-74caa034346124b1",
-      "title": "Oklo’s Atomic Alchemy Granted U.S. Nuclear Regulatory Commission License for Isotope Material",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklos-Atomic-Alchemy-Granted-U-S--Nuclear-Regulatory-Commission-License-for-Isotope-Material/default.aspx",
-      "first_published_at": "2026-07-26T06:42:27.771863+00:00",
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-07-26T09:19:39.754557+00:00",
       "sources": [
-        "oklo"
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-0a63d58e4b7a2434",
+      "title": "Oklo cleared to start up test reactor",
+      "representative_url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor",
+      "first_published_at": "2026-07-24T12:57:47+00:00",
+      "sources": [
+        "wnn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.1,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "tech",
+      "score": 2.2
+    },
+    {
+      "story_id": "story-c63684ba3dcd0bc2",
+      "title": "央视《经济半小时》走进中广核三澳核电，探索未来能源的模样 2026-06-23",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-06/26/content_1509deb147b44836a2420675252cdd60.shtml",
+      "first_published_at": "2026-07-26T09:19:39.754557+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "china",
+      "score": 2.0999999999999996
+    },
+    {
+      "story_id": "story-6617345d10c1defc",
+      "title": "India Accelerates Nuclear Plans With Target Of Five Indigenous Small Modular Reactors",
+      "representative_url": "https://www.nucnet.org/news/india-accelerates-nuclear-plans-with-target-of-five-indigenous-small-modular-reactors-7-5-2026",
+      "first_published_at": "2026-07-26T09:19:39.754557+00:00",
+      "sources": [
+        "nucnet"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.9,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "tech",
+      "score": 1.8
+    },
+    {
+      "story_id": "story-2bc6ff326dd1ae80",
+      "title": "Nuclearelectrica's proposal to review SMR options rejected by ministry",
+      "representative_url": "https://www.world-nuclear-news.org/articles/nuclearelectricas-proposal-to-review-smr-options-rejected-by-ministry",
+      "first_published_at": "2026-07-23T12:59:54+00:00",
+      "sources": [
+        "wnn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "tech",
+      "score": 1.8
+    },
+    {
+      "story_id": "story-bf9c13f0ed541f3e",
+      "title": "纳米比亚总统恩代特瓦到中广核大亚湾核电基地参访 2026-07-07",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/13/content_b8bb1c1d1f3c455fb3a69423e060a79b.shtml",
+      "first_published_at": "2026-07-26T09:19:39.754557+00:00",
+      "sources": [
+        "cgn_news"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
       "source_tier": "industry",
       "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 2.7
+      "primary_section": "china",
+      "score": 1.7999999999999998
     }
   ]
 }
