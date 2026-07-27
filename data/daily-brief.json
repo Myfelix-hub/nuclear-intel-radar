@@ -1,28 +1,13 @@
 {
-  "generated_at": "2026-07-27T07:39:56.657006+00:00",
+  "generated_at": "2026-07-27T11:32:37.171093+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-0a626b139f2f8e54",
-      "title": "Korean Containership with Molten Salt Nuclear Reactor Gets ABS Approval",
-      "representative_url": "https://maritime-executive.com/article/korean-containership-with-molten-salt-nuclear-reactor-gets-abs-approval",
-      "first_published_at": "2026-07-27T07:39:56.657006+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
       "story_id": "story-a2e3e0905a029921",
       "title": "Developers, Officials Talk Advanced Reactor Outlook with NRC",
       "representative_url": "https://www.ans.org/news/2026-07-22/article-8237/developers-officials-talk-advanced-reactor-outlook-with-nrc/",
-      "first_published_at": "2026-07-27T07:39:56.657006+00:00",
+      "first_published_at": "2026-07-27T11:32:37.171093+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -37,7 +22,7 @@
       "story_id": "story-3484636a23d582fe",
       "title": "Nuclear Deal That Would Permit Uranium Enrichment by Saudi Arabia in Limbo Awaiting Trump Admin…",
       "representative_url": "https://www.cnn.com/2026/07/18/politics/saudi-arabia-trump-nuclear-enrichment",
-      "first_published_at": "2026-07-27T07:39:56.657006+00:00",
+      "first_published_at": "2026-07-27T11:32:37.171093+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -46,6 +31,21 @@
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-6510ef5f9d8a615e",
+      "title": "Amb. Waltz: Saudis Buying Civil Nuclear Reactors From U.S. — No Enrichment On Saudi Soil",
+      "representative_url": "https://www.yahoo.com/news/politics/articles/amb-waltz-saudis-buying-civil-130000481.html",
+      "first_published_at": "2026-07-27T11:32:37.171093+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
       "score": 3.6
     },
     {
@@ -67,7 +67,7 @@
       "story_id": "story-27a1c528a9fb5ade",
       "title": "中广核广东太平岭核电2号机组首次并网发电 2026-07-04",
       "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b7efcac4fc6e41079dd090dbd74008f0.shtml",
-      "first_published_at": "2026-07-27T07:39:56.657006+00:00",
+      "first_published_at": "2026-07-27T11:32:37.171093+00:00",
       "sources": [
         "cgn_news"
       ],
@@ -94,10 +94,10 @@
       "score": 3.0
     },
     {
-      "story_id": "story-6822c51937d97184",
-      "title": "Trump Administration Taps Oklo, X-Energy to Boost Nuclear for AI Data Centers",
-      "representative_url": "https://www.bloomberg.com/news/articles/2026-07-21/oklo-x-energy-join-trump-effort-to-speed-new-nuclear-reactors-for-ai",
-      "first_published_at": "2026-07-27T07:39:56.657006+00:00",
+      "story_id": "story-7cf3a638ed31c3ec",
+      "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
+      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Receives-U-S--Department-of-Energy-Startup-Authorization-for-Groves-Reactor-Clearing-Way-for-Fuel-Loading-and-First-Criticality/default.aspx",
+      "first_published_at": "2026-07-27T11:32:37.171093+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -105,14 +105,14 @@
       "nuclear_score": 0.7,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "community",
+      "primary_section": "newbuild",
       "score": 2.8
     },
     {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-07-27T07:39:56.657006+00:00",
+      "first_published_at": "2026-07-27T11:32:37.171093+00:00",
       "sources": [
         "kairos"
       ],
@@ -127,7 +127,7 @@
       "story_id": "story-fdf2bfdde7eb7bff",
       "title": "NUCLEAR FISSIONARY",
       "representative_url": "http://nuclearfissionary.com/",
-      "first_published_at": "2026-07-27T07:39:56.657006+00:00",
+      "first_published_at": "2026-07-27T11:32:37.171093+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -142,7 +142,7 @@
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-07-27T07:39:56.657006+00:00",
+      "first_published_at": "2026-07-27T11:32:37.171093+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
