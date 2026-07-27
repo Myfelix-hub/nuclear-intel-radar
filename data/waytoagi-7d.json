@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-07-27T03:48:01.215414+00:00",
+  "generated_at": "2026-07-27T07:39:56.657006+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-27",
+      "title": "3D Printed Nuclear Reactor [video]",
+      "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
+    },
     {
       "date": "2026-07-25",
       "title": "Fusion Is Ready. Is Trump's Washington?",
@@ -26,13 +31,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-25",
-      "title": "Fusion Is Ready. Is Trump's Washington?",
-      "url": "https://www.politico.com/news/magazine/2026/07/24/nuclear-fusion-commonwealth-washington-massachusetts-01010625"
+      "date": "2026-07-27",
+      "title": "3D Printed Nuclear Reactor [video]",
+      "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
     }
   ],
-  "latest_date": "2026-07-25",
-  "count_7d": 4,
+  "latest_date": "2026-07-27",
+  "count_7d": 5,
   "count_today": 1,
   "has_error": false,
   "error": null,
