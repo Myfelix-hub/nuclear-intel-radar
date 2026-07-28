@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-28T11:36:45.419517+00:00",
+  "generated_at": "2026-07-28T14:26:12.470893+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-28",
+      "title": "Is newcleo Reactor capable of providing enough heat for hydrogen production through Cu-Cl therm…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v8vk64/is_newcleo_reactor_capable_of_providing_enough/"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "A generational divide reshapes Italy's nuclear debate",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v8vcv0/a_generational_divide_reshapes_italys_nuclear/"
+    },
     {
       "date": "2026-07-28",
       "title": "Trump Prepares to Scrap 50-Year-Old Radiation Safety Rule",
@@ -54,16 +64,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1v7dmy0/camp_centurys_pm2a_reactor_powering_a_us_base/"
     },
     {
-      "date": "2026-07-26",
-      "title": "Samsung and US firm team up to create floating nuclear power platform",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v6uxtv/samsung_and_us_firm_team_up_to_create_floating/"
-    },
-    {
-      "date": "2026-07-26",
-      "title": "Plans For New Reactors Worldwide",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v6t4ow/plans_for_new_reactors_worldwide/"
-    },
-    {
       "date": "2026-07-25",
       "title": "Fusion Is Ready. Is Trump's Washington?",
       "url": "https://www.politico.com/news/magazine/2026/07/24/nuclear-fusion-commonwealth-washington-massachusetts-01010625"
@@ -82,6 +82,16 @@
   "updates_today": [
     {
       "date": "2026-07-28",
+      "title": "Is newcleo Reactor capable of providing enough heat for hydrogen production through Cu-Cl therm…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v8vk64/is_newcleo_reactor_capable_of_providing_enough/"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "A generational divide reshapes Italy's nuclear debate",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v8vcv0/a_generational_divide_reshapes_italys_nuclear/"
+    },
+    {
+      "date": "2026-07-28",
       "title": "Trump Prepares to Scrap 50-Year-Old Radiation Safety Rule",
       "url": "https://www.reddit.com/r/nuclear/comments/1v8u05g/trump_prepares_to_scrap_50yearold_radiation/"
     },
@@ -98,7 +108,7 @@
   ],
   "latest_date": "2026-07-28",
   "count_7d": 15,
-  "count_today": 3,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
