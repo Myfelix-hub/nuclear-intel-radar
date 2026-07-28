@@ -1,10 +1,19 @@
 {
   "sites": [
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 8,
+      "item_count": 12,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -19,10 +28,10 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 12,
+      "item_count": 8,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -41,15 +50,6 @@
       "site_name": "ANS Newswire",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -82,12 +82,12 @@
       "warning": null
     },
     {
-      "site_id": "wechat_cnnc",
-      "site_name": "中核集团",
-      "ok": false,
-      "item_count": 0,
+      "site_id": "wnn",
+      "site_name": "World Nuclear News",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
-      "error": "wechat_cnnc: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "error": null,
       "warning": null
     },
     {
@@ -100,12 +100,12 @@
       "warning": null
     },
     {
-      "site_id": "wechat_energy_research",
-      "site_name": "中国能源研究",
+      "site_id": "wechat_cnnc",
+      "site_name": "中核集团",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "wechat_energy_research: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "error": "wechat_cnnc: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
       "warning": null
     },
     {
@@ -154,6 +154,15 @@
       "warning": null
     },
     {
+      "site_id": "wechat_energy_research",
+      "site_name": "中国能源研究",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "wechat_energy_research: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "warning": null
+    },
+    {
       "site_id": "edf_nuclear",
       "site_name": "EDF",
       "ok": true,
@@ -172,10 +181,10 @@
       "warning": null
     },
     {
-      "site_id": "wnn",
-      "site_name": "World Nuclear News",
+      "site_id": "eurofusion",
+      "site_name": "EUROfusion",
       "ok": true,
-      "item_count": 20,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -199,15 +208,6 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "eurofusion",
-      "site_name": "EUROfusion",
-      "ok": true,
-      "item_count": 1,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "us_nrc",
       "site_name": "US NRC News",
       "ok": true,
@@ -220,10 +220,19 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 0,
+      "item_count": 140,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
+      "warning": null
+    },
+    {
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": true,
+      "item_count": 12,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "nuclear_net_cn",
@@ -239,15 +248,6 @@
       "site_name": "Nuclear Eng. Int'l",
       "ok": true,
       "item_count": 42,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
-      "ok": true,
-      "item_count": 12,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -274,7 +274,7 @@
       "site_id": "oklo",
       "site_name": "Oklo",
       "ok": true,
-      "item_count": 1,
+      "item_count": 26,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -293,21 +293,21 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 3389,
+      "duration_ms": 3173,
       "error": null,
       "warning": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 5378,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
+      "ok": true,
+      "item_count": 12,
+      "duration_ms": 5753,
+      "error": null,
       "warning": null
     }
   ],
-  "successful_sites": 23,
+  "successful_sites": 24,
   "failed_sites": [
     {
       "site_id": "wechat_cnnp",
@@ -316,15 +316,6 @@
       "item_count": 0,
       "duration_ms": 0,
       "error": "wechat_cnnp: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
-      "warning": null
-    },
-    {
-      "site_id": "wechat_cnnc",
-      "site_name": "中核集团",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "wechat_cnnc: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
       "warning": null
     },
     {
@@ -337,12 +328,12 @@
       "warning": null
     },
     {
-      "site_id": "wechat_energy_research",
-      "site_name": "中国能源研究",
+      "site_id": "wechat_cnnc",
+      "site_name": "中核集团",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "wechat_energy_research: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "error": "wechat_cnnc: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
       "warning": null
     },
     {
@@ -391,6 +382,15 @@
       "warning": null
     },
     {
+      "site_id": "wechat_energy_research",
+      "site_name": "中国能源研究",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "wechat_energy_research: RSS fetch failed — MissingSchema: Invalid URL '{RSSHUB_BASE}/wechat/{mpID}': No scheme supplied. Perhaps you meant https://{RSSHUB_BASE}/wechat/{mpID}?",
+      "warning": null
+    },
+    {
       "site_id": "rosatom",
       "site_name": "Rosatom",
       "ok": false,
@@ -398,19 +398,10 @@
       "duration_ms": 0,
       "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
       "warning": null
-    },
-    {
-      "site_id": "reddit_nuclear",
-      "site_name": "Reddit Nuclear",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 5378,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
-      "warning": null
     }
   ],
-  "fetched_raw_items": 226,
-  "items_before_topic_filter": 226,
+  "fetched_raw_items": 403,
+  "items_before_topic_filter": 403,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
