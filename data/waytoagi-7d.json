@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-07-28T14:26:12.470893+00:00",
+  "generated_at": "2026-07-28T16:19:44.734460+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-28",
+      "title": "Why is SMR so hard to make when we already have the tech",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v92lq9/why_is_smr_so_hard_to_make_when_we_already_have/"
+    },
     {
       "date": "2026-07-28",
       "title": "Is newcleo Reactor capable of providing enough heat for hydrogen production through Cu-Cl therm…",
@@ -59,11 +64,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1v7jbcm/molten_salt_reactors_just_cleared_a_major_us/"
     },
     {
-      "date": "2026-07-26",
-      "title": "Camp Century’s PM-2A reactor: powering a U.S. base beneath Greenland’s ice",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v7dmy0/camp_centurys_pm2a_reactor_powering_a_us_base/"
-    },
-    {
       "date": "2026-07-25",
       "title": "Fusion Is Ready. Is Trump's Washington?",
       "url": "https://www.politico.com/news/magazine/2026/07/24/nuclear-fusion-commonwealth-washington-massachusetts-01010625"
@@ -80,6 +80,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-07-28",
+      "title": "Why is SMR so hard to make when we already have the tech",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v92lq9/why_is_smr_so_hard_to_make_when_we_already_have/"
+    },
     {
       "date": "2026-07-28",
       "title": "Is newcleo Reactor capable of providing enough heat for hydrogen production through Cu-Cl therm…",
@@ -108,7 +113,7 @@
   ],
   "latest_date": "2026-07-28",
   "count_7d": 15,
-  "count_today": 5,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
