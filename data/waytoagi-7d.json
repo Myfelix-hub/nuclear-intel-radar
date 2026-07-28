@@ -1,67 +1,12 @@
 {
-  "generated_at": "2026-07-28T19:46:16.891323+00:00",
+  "generated_at": "2026-07-28T21:14:30.978964+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-07-28",
-      "title": "TRISO-X targets 4.5 GW of reactor fuel while HALEU supply remains the gate",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v94h0o/trisox_targets_45_gw_of_reactor_fuel_while_haleu/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Why is SMR so hard to make when we already have the tech",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v92lq9/why_is_smr_so_hard_to_make_when_we_already_have/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Is newcleo Reactor capable of providing enough heat for hydrogen production through Cu-Cl therm…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8vk64/is_newcleo_reactor_capable_of_providing_enough/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "A generational divide reshapes Italy's nuclear debate",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8vcv0/a_generational_divide_reshapes_italys_nuclear/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Trump Prepares to Scrap 50-Year-Old Radiation Safety Rule",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8u05g/trump_prepares_to_scrap_50yearold_radiation/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8p72c/why_restarting_a_nuclear_power_plant_can_be_much/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Leaked document reveals White House nuclear waste plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8nsqq/leaked_document_reveals_white_house_nuclear_waste/"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "UK start-up Nuclear Turbines unveils novel reactor concept",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8crcz/uk_startup_nuclear_turbines_unveils_novel_reactor/"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "Oklo Gets Green Light For Startup Of Texas Isotope Test Reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v7x2x8/oklo_gets_green_light_for_startup_of_texas/"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "Newcleo joining French Datacenter SMR Group",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v7w9lh/newcleo_joining_french_datacenter_smr_group/"
-    },
-    {
       "date": "2026-07-27",
       "title": "3D Printed Nuclear Reactor [video]",
       "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
-    },
-    {
-      "date": "2026-07-26",
-      "title": "Molten Salt Reactors Just Cleared A Major U.S. Regulatory Hurdle",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v7jbcm/molten_salt_reactors_just_cleared_a_major_us/"
     },
     {
       "date": "2026-07-25",
@@ -81,44 +26,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-28",
-      "title": "TRISO-X targets 4.5 GW of reactor fuel while HALEU supply remains the gate",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v94h0o/trisox_targets_45_gw_of_reactor_fuel_while_haleu/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Why is SMR so hard to make when we already have the tech",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v92lq9/why_is_smr_so_hard_to_make_when_we_already_have/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Is newcleo Reactor capable of providing enough heat for hydrogen production through Cu-Cl therm…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8vk64/is_newcleo_reactor_capable_of_providing_enough/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "A generational divide reshapes Italy's nuclear debate",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8vcv0/a_generational_divide_reshapes_italys_nuclear/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Trump Prepares to Scrap 50-Year-Old Radiation Safety Rule",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8u05g/trump_prepares_to_scrap_50yearold_radiation/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8p72c/why_restarting_a_nuclear_power_plant_can_be_much/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Leaked document reveals White House nuclear waste plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8nsqq/leaked_document_reveals_white_house_nuclear_waste/"
+      "date": "2026-07-27",
+      "title": "3D Printed Nuclear Reactor [video]",
+      "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
     }
   ],
-  "latest_date": "2026-07-28",
-  "count_7d": 15,
-  "count_today": 7,
+  "latest_date": "2026-07-27",
+  "count_7d": 4,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
