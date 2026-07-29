@@ -1,28 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": true,
-      "item_count": 8,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "powermag",
       "site_name": "POWER Magazine",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 7,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -37,6 +19,15 @@
       "warning": null
     },
     {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 7,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "arxiv_nuclth",
       "site_name": "arXiv nucl-th",
       "ok": true,
@@ -46,12 +37,21 @@
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 20,
+      "item_count": 8,
       "duration_ms": 0,
       "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
       "warning": null
     },
     {
@@ -64,13 +64,13 @@
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
       "ok": true,
-      "item_count": 0,
+      "item_count": 4,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "warning": null
     },
     {
       "site_id": "wechat_cnnp",
@@ -154,22 +154,22 @@
       "warning": null
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
-      "warning": null
-    },
-    {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
       "ok": true,
-      "item_count": 4,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
+    },
+    {
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "iter_org",
@@ -220,18 +220,18 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 140,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
     },
     {
-      "site_id": "nuclear_net_cn",
-      "site_name": "中国核网",
+      "site_id": "cgn_news",
+      "site_name": "中广核",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "nuclear_net_cn: Jina returned HTTP 403 for http://www.nuclear.net.cn/portal.php?mod=list&catid=94",
+      "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
       "warning": null
     },
     {
@@ -244,12 +244,12 @@
       "warning": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
+      "site_id": "nuclear_net_cn",
+      "site_name": "中国核网",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
+      "error": "nuclear_net_cn: Jina returned HTTP 403 for http://www.nuclear.net.cn/portal.php?mod=list&catid=94",
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 3214,
+      "duration_ms": 3385,
       "error": null,
       "warning": null
     },
@@ -302,13 +302,22 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 5908,
+      "duration_ms": 5708,
       "error": null,
       "warning": null
     }
   ],
   "successful_sites": 19,
   "failed_sites": [
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
+    },
     {
       "site_id": "wechat_cnnp",
       "site_name": "中国核电网 (CNNP)",
@@ -391,39 +400,12 @@
       "warning": null
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
-      "warning": null
-    },
-    {
       "site_id": "us_nrc",
       "site_name": "US NRC News",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
       "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — RetryError: HTTPSConnectionPool(host='www.nrc.gov', port=443): Max retries exceeded with url: | Jina: R",
-      "warning": null
-    },
-    {
-      "site_id": "nuclear_net_cn",
-      "site_name": "中国核网",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nuclear_net_cn: Jina returned HTTP 403 for http://www.nuclear.net.cn/portal.php?mod=list&catid=94",
-      "warning": null
-    },
-    {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nei_magazine: Jina returned HTTP 403 for https://www.neimagazine.com/news/",
       "warning": null
     },
     {
@@ -436,6 +418,24 @@
       "warning": null
     },
     {
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nei_magazine: Jina returned HTTP 403 for https://www.neimagazine.com/news/",
+      "warning": null
+    },
+    {
+      "site_id": "nuclear_net_cn",
+      "site_name": "中国核网",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nuclear_net_cn: Jina returned HTTP 403 for http://www.nuclear.net.cn/portal.php?mod=list&catid=94",
+      "warning": null
+    },
+    {
       "site_id": "rosatom",
       "site_name": "Rosatom",
       "ok": false,
@@ -445,8 +445,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 278,
-  "items_before_topic_filter": 278,
+  "fetched_raw_items": 138,
+  "items_before_topic_filter": 138,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
