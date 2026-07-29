@@ -1,73 +1,8 @@
 {
-  "generated_at": "2026-07-29T19:33:42.330445+00:00",
+  "generated_at": "2026-07-29T21:03:46.476169+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-07-29",
-      "title": "DOE identifies five states to hold nuclear waste",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9xxkw/doe_identifies_five_states_to_hold_nuclear_waste/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Nuclear Propulsion Research for Aircraft Was Proposed During WWII and Implemented After to Fly …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9o4vs/nuclear_propulsion_research_for_aircraft_was/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "5 states offer to accept nuclear waste in exchange for help developing nuclear energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9n63h/5_states_offer_to_accept_nuclear_waste_in/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Tritium as missing link in deuterium-tritium fusion drives found Soviet icebergs in 1964",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9mtxy/tritium_as_missing_link_in_deuteriumtritium/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Are there mixed thermal and fast reactors? Like an unmoderated inner core but moderated other c…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9mh46/are_there_mixed_thermal_and_fast_reactors_like_an/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "How does CANDU compare with LWR by historical numbers?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9llhj/how_does_candu_compare_with_lwr_by_historical/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "CNA Insider video showing images of China's experimental thorium reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9c0ah/cna_insider_video_showing_images_of_chinas/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Why is SMR so hard to make when we already have the tech",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v92lq9/why_is_smr_so_hard_to_make_when_we_already_have/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Is newcleo Reactor capable of providing enough heat for hydrogen production through Cu-Cl therm…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8vk64/is_newcleo_reactor_capable_of_providing_enough/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "A generational divide reshapes Italy's nuclear debate",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8vcv0/a_generational_divide_reshapes_italys_nuclear/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Trump Prepares to Scrap 50-Year-Old Radiation Safety Rule",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8u05g/trump_prepares_to_scrap_50yearold_radiation/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Leaked document reveals White House nuclear waste plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8nsqq/leaked_document_reveals_white_house_nuclear_waste/"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "UK start-up Nuclear Turbines unveils novel reactor concept",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v8crcz/uk_startup_nuclear_turbines_unveils_novel_reactor/"
-    },
     {
       "date": "2026-07-27",
       "title": "3D Printed Nuclear Reactor [video]",
@@ -81,39 +16,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-29",
-      "title": "DOE identifies five states to hold nuclear waste",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9xxkw/doe_identifies_five_states_to_hold_nuclear_waste/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Nuclear Propulsion Research for Aircraft Was Proposed During WWII and Implemented After to Fly …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9o4vs/nuclear_propulsion_research_for_aircraft_was/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "5 states offer to accept nuclear waste in exchange for help developing nuclear energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9n63h/5_states_offer_to_accept_nuclear_waste_in/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Tritium as missing link in deuterium-tritium fusion drives found Soviet icebergs in 1964",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9mtxy/tritium_as_missing_link_in_deuteriumtritium/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Are there mixed thermal and fast reactors? Like an unmoderated inner core but moderated other c…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9mh46/are_there_mixed_thermal_and_fast_reactors_like_an/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "How does CANDU compare with LWR by historical numbers?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9llhj/how_does_candu_compare_with_lwr_by_historical/"
+      "date": "2026-07-27",
+      "title": "3D Printed Nuclear Reactor [video]",
+      "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
     }
   ],
-  "latest_date": "2026-07-29",
-  "count_7d": 15,
-  "count_today": 6,
+  "latest_date": "2026-07-27",
+  "count_7d": 2,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
