@@ -1,46 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 7,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 12,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
       "item_count": 8,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -55,10 +19,46 @@
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 12,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 7,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
+    },
+    {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -154,24 +154,6 @@
       "warning": null
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
-      "warning": null
-    },
-    {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
-      "ok": true,
-      "item_count": 4,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "iter_org",
       "site_name": "ITER",
       "ok": true,
@@ -185,6 +167,15 @@
       "site_name": "World Nuclear News",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
+      "ok": true,
+      "item_count": 4,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -217,12 +208,30 @@
       "warning": null
     },
     {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 140,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
+    },
+    {
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nei_magazine: Jina returned HTTP 403 for https://www.neimagazine.com/news/",
       "warning": null
     },
     {
@@ -232,15 +241,6 @@
       "item_count": 0,
       "duration_ms": 0,
       "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
-      "warning": null
-    },
-    {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nei_magazine: Jina returned HTTP 403 for https://www.neimagazine.com/news/",
       "warning": null
     },
     {
@@ -293,22 +293,31 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 2787,
+      "duration_ms": 2850,
       "error": null,
       "warning": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 5000,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
+      "ok": true,
+      "item_count": 13,
+      "duration_ms": 5566,
+      "error": null,
       "warning": null
     }
   ],
-  "successful_sites": 18,
+  "successful_sites": 19,
   "failed_sites": [
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
+    },
     {
       "site_id": "wechat_cnnp",
       "site_name": "中国核电网 (CNNP)",
@@ -391,15 +400,6 @@
       "warning": null
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
-      "warning": null
-    },
-    {
       "site_id": "us_nrc",
       "site_name": "US NRC News",
       "ok": false,
@@ -409,21 +409,21 @@
       "warning": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
-      "warning": null
-    },
-    {
       "site_id": "nei_magazine",
       "site_name": "Nuclear Eng. Int'l",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
       "error": "nei_magazine: Jina returned HTTP 403 for https://www.neimagazine.com/news/",
+      "warning": null
+    },
+    {
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
       "warning": null
     },
     {
@@ -443,19 +443,10 @@
       "duration_ms": 0,
       "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
       "warning": null
-    },
-    {
-      "site_id": "reddit_nuclear",
-      "site_name": "Reddit Nuclear",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 5000,
-      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
-      "warning": null
     }
   ],
-  "fetched_raw_items": 265,
-  "items_before_topic_filter": 265,
+  "fetched_raw_items": 138,
+  "items_before_topic_filter": 138,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
