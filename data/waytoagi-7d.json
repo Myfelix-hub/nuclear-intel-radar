@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T00:03:30.246906+00:00",
+  "generated_at": "2026-07-29T03:51:52.293905+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -77,11 +77,6 @@
       "date": "2026-07-22",
       "title": "Saudi Arabia to be sold uranium enrichment ability by US without IAEA inspection",
       "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Hydrogen Production utilizing nuclear process heat",
-      "url": "https://dae.gov.in/dae-inaugurates-worlds-first-hydrogen-production-facility-based-on-copper-chlorine-thermochemical-cycle-using-nuclear-heat-from-fast-breeder-test-reactor/"
     }
   ],
   "updates_today": [
@@ -127,7 +122,7 @@
     }
   ],
   "latest_date": "2026-07-28",
-  "count_7d": 16,
+  "count_7d": 15,
   "count_today": 8,
   "has_error": false,
   "error": null,
