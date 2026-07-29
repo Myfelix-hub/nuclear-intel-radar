@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T03:51:52.293905+00:00",
+  "generated_at": "2026-07-29T06:38:26.013841+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -21,6 +21,21 @@
       "score": 5.876114408270707
     },
     {
+      "story_id": "story-59c7256b27675340",
+      "title": "Tritium as missing link in deuterium-tritium fusion drives found Soviet icebergs in 1964",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1v9mtxy/tritium_as_missing_link_in_deuteriumtritium/",
+      "first_published_at": "2026-07-29T05:29:54+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 5.4
+    },
+    {
       "story_id": "story-7efac2fce38b8edb",
       "title": "TRISO-X targets 4.5 GW of reactor fuel while HALEU supply remains the gate",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1v94h0o/trisox_targets_45_gw_of_reactor_fuel_while_haleu/",
@@ -39,7 +54,7 @@
       "story_id": "story-23a28b60214d9fc4",
       "title": "New US Nuclear Fuel Facilities Target 5-Metric-Ton Uranium Production for Advanced Reactors",
       "representative_url": "https://interestingengineering.com/energy/us-nuclear-fuel-facilities-uranium-production",
-      "first_published_at": "2026-07-29T03:51:52.293905+00:00",
+      "first_published_at": "2026-07-29T06:38:26.013841+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -54,7 +69,7 @@
       "story_id": "story-77bd9c128cffd0c6",
       "title": "TerraPower Becomes First Advanced Reactor Company to Join INPO",
       "representative_url": "https://www.ans.org/news/2026-07-24/article-8243/terrapower-becomes-first-advanced-reactor-company-to-join-inpo/",
-      "first_published_at": "2026-07-29T03:51:52.293905+00:00",
+      "first_published_at": "2026-07-29T06:38:26.013841+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -84,7 +99,7 @@
       "story_id": "story-6510ef5f9d8a615e",
       "title": "Amb. Waltz: Saudis Buying Civil Nuclear Reactors From U.S. — No Enrichment On Saudi Soil",
       "representative_url": "https://www.yahoo.com/news/politics/articles/amb-waltz-saudis-buying-civil-130000481.html",
-      "first_published_at": "2026-07-29T03:51:52.293905+00:00",
+      "first_published_at": "2026-07-29T06:38:26.013841+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -94,6 +109,21 @@
       "source_tier_rank": 3,
       "primary_section": "fuel",
       "score": 3.6
+    },
+    {
+      "story_id": "story-ac006eb797a37614",
+      "title": "Are there mixed thermal and fast reactors? Like an unmoderated inner core but moderated other c…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1v9mh46/are_there_mixed_thermal_and_fast_reactors_like_an/",
+      "first_published_at": "2026-07-29T05:11:46+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 3.5999999999999996
     },
     {
       "story_id": "story-a7c5941c92541d39",
@@ -111,49 +141,18 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-40454d0f4c8e16ed",
-      "title": "Molten Salt Reactors Just Cleared A Major U.S. Regulatory Hurdle",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1v7jbcm/molten_salt_reactors_just_cleared_a_major_us/",
-      "first_published_at": "2026-07-26T23:13:58+00:00",
+      "story_id": "story-27a1c528a9fb5ade",
+      "title": "中广核广东太平岭核电2号机组首次并网发电 2026-07-04",
+      "representative_url": "https://www.cgnpc.com.cn/cgn/c100944/2026-07/07/content_b7efcac4fc6e41079dd090dbd74008f0.shtml",
+      "first_published_at": "2026-07-29T06:38:26.013841+00:00",
       "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "policy",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-39958c9e2f80f833",
-      "title": "Oklo Gets Green Light For Startup Of Texas Isotope Test Reactor",
-      "representative_url": "https://www.nucnet.org/news/oklo-gets-green-light-for-startup-of-texas-isotope-test-reactor-7-1-2026",
-      "first_published_at": "2026-07-27T10:59:44+00:00",
-      "sources": [
-        "nucnet",
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.9,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "newbuild",
-      "score": 3.047664925007902
-    },
-    {
-      "story_id": "story-85b8c428d6ca9618",
-      "title": "Oklo Announces U.S. Department of Energy Approval for Nuclear Safety Design Agreement of Aurora…",
-      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Announces-U-S--Department-of-Energy-Approval-for-Nuclear-Safety-Design-Agreement-of-Aurora-Powerhouse-at-Idaho-National-Laboratory/default.aspx",
-      "first_published_at": "2026-07-29T03:51:52.293905+00:00",
-      "sources": [
-        "oklo"
+        "cgn_news"
       ],
       "duplicate_count": 1,
       "nuclear_score": 1.0,
       "source_tier": "industry",
       "source_tier_rank": 2,
-      "primary_section": "policy",
+      "primary_section": "china",
       "score": 3.0
     }
   ]
