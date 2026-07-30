@@ -53,34 +53,39 @@ flowchart LR
 
 ## 信源覆盖
 
-信源清单见 `核能行业信源汇总.xlsx`（仓库根目录外的 `C:\Users\Myfelix\RR\`），共 **95 个**：
+信源清单见 `核能行业信源汇总.xlsx`（仓库根目录，本地文件不入库），共 **95 个**；当前 pipeline 实际注册 **34 个**抓取源：
 
-- 73 个原始源（IAEA、NRC、NucNet、World Nuclear News、ANS Newswire、POWER Magazine、Neutron Bytes、EUROfusion、CNNC、CGN、EDF 等）
-- 22 个补充源（arXiv 预印本、SMR 开发商 NuScale/TerraPower/X-energy/Kairos/Oklo/BWXT/Rolls-Royce、聚变 ITER/CFS/Helion/TAE/General Fusion、铀矿燃料 Cameco/Kazatomprom/UxC、DOE-NE/NNSA）
+- 官方 / 监管：IAEA、US NRC、US DOE-NE、OECD-NEA、国家核安全局（微信）等
+- 行业媒体：World Nuclear News、ANS Newswire、POWER Magazine、Neutron Bytes、NucNet、Nuclear Engineering Int'l、中国核网
+- 运营商 / 厂商：EDF、CGN、Rosatom、TerraPower、Oklo、Kairos 等
+- 科研：arXiv nucl-ex / nucl-th / physics.ins-det、EUROfusion、ITER
+- 社区：HN Algolia、Reddit r/nuclear
+- 中文公众号（9 个，经 RSSHub 桥）：中核集团、中国核建、中国能源研究、核闻、核电那些事、国家核安全局、上海核电、中国核动力研究设计院等
 
-### 当前 Pipeline 产出（2026-07-05 最后一次运行）
+### 当前 Pipeline 健康度（2026-07-30 运行）
 
-- **280 raw items** from **15 sources** (15/15 OK)
-- **189 nuclear-filtered items**（核能相关性过滤后）
-- **11/15 active sources**，4 个 inactive（arXiv ×3 72h 内无新预印本属正常，Reddit 测试时被 rate limit）
+- **34 个注册源：19 个健康 OK**，9 个微信公众号 silent zero（`RSSHUB_BASE` secret 未配置时按设计静默跳过），6 个不可达
+- 实时状态见 `data/source-status.json`（每 30 分钟刷新）
 
-### 已确认不可达信源
+### 已确认不可达信源（2026-07-30）
 
 | 信源 | 原因 |
 |---|---|
-| 中核集团 (CNNC) | 412 Precondition Failed / 404 所有新闻页 |
-| 北极星核电网 | CAPTCHA 验证墙（即使 Jina 也无法穿透） |
-| EDF France | 404 所有页面（站已重构或 geo-block） |
-| Reddit | 429 rate limit（手动测试触发，生产 30min 间隔可用） |
+| NucNet | RSS 对 GitHub runner IP 段 403（本机直连可达） |
+| US NRC | 所有 RSS/新闻路径 403，Jina 亦被 Cloudflare 拦截 |
+| Nuclear Engineering Int'l | 直连与 Jina 均 403 |
+| TerraPower / Oklo | Cloudflare managed challenge，直连只能拿到 JS 壳，Jina 兜底失败 |
+| Rosatom | en.rosatom.ru 拒绝连接（geo-block），Jina 403 |
+| 微信公众号 ×9 | 需在 repo secrets 配置 `RSSHUB_BASE`（私有 RSSHub 桥）才有数据 |
 
 ---
 
 ## 已知限制
 
-- IAEA / NRC / ASN 等 RSS 被 Cloudflare 或 GFW 阻断，需要部署到境外 GitHub Actions 环境验证可达性。
-- 微信公众号（9 个）无公开 API，MVP 暂不处理。
+- NucNet / NRC / TerraPower / Oklo 等被 Cloudflare 或 IP 段封锁，生产环境（境外 GitHub Actions）部分可达，本地（中国大陆）基本不可达。
+- 微信公众号（9 个）经 RSSHub 桥采集，需要在 repo secrets 配置 `RSSHUB_BASE`；未配置时按设计静默跳过（silent zero），不影响其他源。
 - 学术期刊（ScienceDirect 5 个）付费墙，用 arXiv 预印本替代。
-- Reddit RSS 在生产 30 分钟间隔下可用，但手动探测会触发 rate limit。
+- Reddit 手动探测易触发 rate limit / 403，生产 30 分钟间隔下正常工作。
 
 ---
 
@@ -117,6 +122,7 @@ silent zero **不是 fetch 失败**，但需要人工判断信源是否值得保
 1. Fork 本仓库
 2. Settings → Pages → Source: GitHub Actions
 3. `.github/workflows/update-news.yml` 默认每 30 分钟跑一次，无需 secrets
+4. （可选）Settings → Secrets → 添加 `RSSHUB_BASE` 启用 9 个微信公众号源
 
 ### 本地运行
 
@@ -134,10 +140,13 @@ python -m http.server 8080
 
 ## 后续路线
 
-- **P0** — 部署到 GitHub，启用 Actions + Pages，验证境外 RSS 可达性
-- **P1** — 恢复 IAEA / NRC / ASN 等被 Cloudflare 拦截的 RSS
-- **P2** — 微信公众号替代采集方案（搜狗微信 / RSSHub 桥）
-- **P3** — Story 合并 / daily-brief 生成逻辑（合并同一事件的多源报道）
+已完成：P0 部署上线、P1 信源恢复（IAEA/EDF/DOE-NE/OECD-NEA 等已在生产正常抓取）、P2 微信公众号 RSSHub 桥、P3 Story 合并 / daily-brief。
+
+下一步：
+
+- **信源攻坚** — 用 `NUCLEAR_PROBE=1` dump TerraPower / Oklo 真实 DOM 调优选择器；NucNet / NRC 反封锁路径
+- **桥接配置** — 配置 `RSSHUB_BASE` secret 后 9 个中文公众号即上线
+- **质量迭代** — 持续根据 `data/source-status.json` 清理失效源、调优核能相关性打分
 
 ---
 
