@@ -413,3 +413,240 @@ def test_probe_mode_dumps_html_when_enabled(tmp_path, monkeypatch):
     probe_file = tmp_path / ".probe-terrapower.html"
     assert probe_file.exists()
     assert "cloudflare page" in probe_file.read_text(encoding="utf-8")
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 11. All-200-zero + Jina fallback raises → hard error, NOT silent zero
+#     (Oklo / TerraPower failure mode: Cloudflare serves a 200 HTML shell,
+#     our selectors match nothing, and Jina is 403 — operators must see
+#     ok=False with the Jina error, not a misleading "no containers matched"
+#     silent-zero warning).
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+def test_fetch_web_news_listing_raises_when_jina_fails_after_200_zero():
+    sess = MagicMock(spec=requests.Session)
+    shell_html = "<html><body><div class='cf-shell'>Loading...</div></body></html>"
+
+    def side_effect(url, **kwargs):
+        if "r.jina.ai" in url:
+            r = MagicMock()
+            r.status_code = 403
+            r.text = ""
+            return r
+        return _build_html_resp(shell_html)
+
+    sess.get.side_effect = side_effect
+
+    with pytest.raises(RuntimeError) as excinfo:
+        fetch_web_news_listing(sess, ROSATOM_DEF, NOW)  # via_jina=True
+    msg = str(excinfo.value)
+    assert "rosatom" in msg
+    assert "no containers matched" in msg, f"must explain the direct-path failure: {msg}"
+    assert "Jina" in msg, f"must surface the Jina failure: {msg}"
+
+
+def test_fetch_web_news_listing_silent_zero_when_jina_also_returns_nothing():
+    """All-200-zero + Jina reachable but 0 extracted links → genuine silent
+    zero (return []); the wrapper's warning path covers this case."""
+    sess = MagicMock(spec=requests.Session)
+    shell_html = "<html><body><p>no news here</p></body></html>"
+
+    def side_effect(url, **kwargs):
+        if "r.jina.ai" in url:
+            r = MagicMock()
+            r.status_code = 200
+            r.text = "no markdown links at all"
+            return r
+        return _build_html_resp(shell_html)
+
+    sess.get.side_effect = side_effect
+
+    items = fetch_web_news_listing(sess, ROSATOM_DEF, NOW)
+    assert items == [], "Jina 200 with 0 links must remain a silent zero"
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 12. OECD-NEA — no real RSS exists (all candidate paths 404 or serve HTML,
+#     verified 2026-07-30). Moved from NUCLEAR_RSS_FEEDS to
+#     WEB_SOURCES_NEWS_LISTING against the Jalios news search endpoint
+#     (types=generated.NewsItem&sort=pdate). Article hrefs are RELATIVE and
+#     must resolve via the page's <base href> tag.
+# ─────────────────────────────────────────────────────────────────────────────
+
+NEA_HTML = """<!DOCTYPE html><html><head>
+<base href="https://www.oecd-nea.org/"   />
+</head><body>
+<div class="app-cards-horizontal-wrapper">
+  <div class="search-result-item-container">
+    <div class="search-result-item-title custom-padding-bottom">
+      <a href="jcms/pl_119771/deadline-extended-for-nea-survey-on-the-role-of-women-in-the-nuclear-sector" data-jalios-id='pl_119771'>Deadline extended for NEA survey on the role of women in the nuclear sector</a>
+    </div>
+    <div class="search-published-date">Published date: <span>29 June 2026</span></div>
+  </div>
+  <div class="search-result-item-container">
+    <div class="search-result-item-title custom-padding-bottom">
+      <a href="jcms/pl_120580/inaugural-nextgen-nuclear-leaders-summer-school-held" data-jalios-id='pl_120580'>Inaugural NextGen Nuclear Leaders Summer School held</a>
+    </div>
+    <div class="search-published-date">Published date: <span>23 July 2026</span></div>
+  </div>
+</div>
+</body></html>"""
+
+
+def _listing_entry(site_id: str) -> dict:
+    return next(e for e in WEB_SOURCES_NEWS_LISTING if e["site_id"] == site_id)
+
+
+def test_oecd_nea_listing_entry_registered():
+    e = _listing_entry("oecd_nea")
+    assert e["start_urls"], "oecd_nea must have start_urls"
+    assert any("oecd-nea.org" in u for u in e["start_urls"])
+    assert e["via_jina"] is True, "oecd_nea keeps Jina as last-resort fallback"
+    assert SOURCE_TIER_BY_SITE.get("oecd_nea") == "official"
+
+
+def test_oecd_nea_selectors_parse_real_html_structure():
+    """HTML mock mirrors the Jalios customQuery result card (verified by
+    direct probe 2026-07-30). Relative hrefs must resolve against the
+    document <base href>, NOT against the long start_url path."""
+    items = _parse_news_listing_html(NEA_HTML, _listing_entry("oecd_nea"), NOW)
+
+    assert len(items) == 2, f"expected 2 items, got {len(items)}: {items}"
+    assert items[0].url == (
+        "https://www.oecd-nea.org/jcms/pl_119771/"
+        "deadline-extended-for-nea-survey-on-the-role-of-women-in-the-nuclear-sector"
+    ), f"relative href must resolve via <base href>, got {items[0].url}"
+    assert "Deadline extended" in items[0].title
+    # "29 June 2026" parsed by dateutil fallback
+    assert items[0].published_at is not None
+    assert items[0].published_at.year == 2026 and items[0].published_at.month == 6
+    assert items[1].published_at is not None and items[1].published_at.month == 7
+
+
+def test_base_href_absent_falls_back_to_start_url():
+    """Without a <base> tag, relative hrefs must still resolve against
+    start_urls[0] — pre-existing behavior must not regress."""
+    src = {
+        "site_id": "t", "site_name": "T",
+        "start_urls": ["https://example.com/news/index.html"],
+        "container_selector": "article",
+        "title_selector": "h2 a",
+        "link_selector": "h2 a",
+        "time_selector": None,
+        "max_items": 20,
+        "via_jina": False,
+    }
+    html = ('<html><body><article><h2><a href="/news/story-1">'
+            "Example nuclear story title</a></h2></article></body></html>")
+    items = _parse_news_listing_html(html, src, NOW)
+    assert len(items) == 1
+    assert items[0].url == "https://example.com/news/story-1"
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 13. CGN (中广核) + 中国核网 — Jina returns a stable 403 for both, but the
+#     listing pages are static HTML (verified by direct probe 2026-07-30), so
+#     they moved from WEB_SOURCES_JINA to WEB_SOURCES_NEWS_LISTING.
+# ─────────────────────────────────────────────────────────────────────────────
+
+CGN_HTML = """<!DOCTYPE html><html><body>
+<div class="col-xs-12 culture mtb" style="margin:10px auto 40px"><span id="comp_920181">
+<ul>
+  <li><a href="/cgn/c100944/2026-07/21/content_3316286d6da540168feb58a45594e6b2.shtml">
+    <h4 class="blue">中广核“元曜一号”光热熔盐槽式集热器型号在青海西宁发布</h4>
+    <small>2026-07-16</small><p> </p></a></li>
+  <li><a href="/cgn/c100944/2026-07/13/content_b8bb1c1d1f3c455fb3a69423e060a79b.shtml">
+    <h4 class="blue">纳米比亚总统恩代特瓦到中广核大亚湾核电基地参访</h4>
+    <small>2026-07-07</small><p> </p></a></li>
+</ul></span></div>
+</body></html>"""
+
+NUCLEAR_NET_CN_HTML = """<!DOCTYPE html><html><body>
+<div class="bm_c xld zxlblb">
+  <div class="top_new cl newss_1"><div class="box01 cl"><div class="rig">
+    <h2><a href="http://www.nuclear.net.cn/portal.php?mod=view&aid=17554" target="_blank" class="xi2">这家核电机组FCD正式开工！</a></h2>
+    <span class="xg1 time">发表：2026-5-15 17:24</span>
+    <a href="http://www.nuclear.net.cn/portal.php?mod=view&aid=17554" target="_blank" class="readmore">查看全文 &gt;&gt;</a>
+  </div></div></div>
+  <div class="top_new cl newss_2"><div class="box01 cl"><div class="rig">
+    <h2><a href="http://www.nuclear.net.cn/portal.php?mod=view&aid=17551" target="_blank" class="xi2">核武器专家赵宪庚等3名工程院院士被除名</a></h2>
+    <span class="xg1 time">发表：2026-5-14 09:10</span>
+    <a href="http://www.nuclear.net.cn/portal.php?mod=view&aid=17551" target="_blank" class="readmore">查看全文 &gt;&gt;</a>
+  </div></div></div>
+</div>
+</body></html>"""
+
+
+def test_cgn_news_listing_entry_registered():
+    e = _listing_entry("cgn_news")
+    assert e["start_urls"] == ["https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml"]
+    assert e["via_jina"] is True
+    assert SOURCE_TIER_BY_SITE.get("cgn_news") == "industry"
+
+
+def test_cgn_news_selectors_parse_real_html_structure():
+    """HTML mock mirrors the 集团要闻 list (verified by direct probe
+    2026-07-30): <li><a><h4 class="blue">title</h4><small>YYYY-MM-DD</small>."""
+    items = _parse_news_listing_html(CGN_HTML, _listing_entry("cgn_news"), NOW)
+
+    assert len(items) == 2, f"expected 2 items, got {len(items)}: {items}"
+    assert items[0].url == (
+        "https://www.cgnpc.com.cn/cgn/c100944/2026-07/21/"
+        "content_3316286d6da540168feb58a45594e6b2.shtml"
+    )
+    assert "元曜一号" in items[0].title
+    assert items[0].published_at is not None
+    assert (items[0].published_at.year, items[0].published_at.month,
+            items[0].published_at.day) == (2026, 7, 16)
+
+
+def test_nuclear_net_cn_listing_entry_registered():
+    e = _listing_entry("nuclear_net_cn")
+    assert e["start_urls"] == ["http://www.nuclear.net.cn/portal.php?mod=list&catid=94"]
+    assert e["via_jina"] is True
+    assert SOURCE_TIER_BY_SITE.get("nuclear_net_cn") == "aggregator"
+
+
+def test_nuclear_net_cn_selectors_parse_real_html_structure():
+    """HTML mock mirrors the Discuz-style `div.top_new` cards (verified by
+    direct probe 2026-07-30). The '查看全文 >>' anchor shares the h2 href, so
+    each card must yield exactly ONE item. The '发表：' date prefix is
+    unparseable → published_at falls back to None (same as Kairos)."""
+    items = _parse_news_listing_html(NUCLEAR_NET_CN_HTML, _listing_entry("nuclear_net_cn"), NOW)
+
+    assert len(items) == 2, f"expected 2 items (one per card), got {len(items)}: {items}"
+    assert items[0].url == "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554"
+    assert "FCD" in items[0].title
+    assert "查看全文" not in items[0].title
+    assert items[0].published_at is None
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 14. _parse_news_listing_jina URL filter must accept the link shapes of the
+#     newly-added listing sources (NEA /jcms/, 核网 portal.php, CGN .shtml),
+#     otherwise the Jina fallback can never surface anything for them.
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+def test_parse_news_listing_jina_accepts_new_source_link_shapes():
+    from update_news import _parse_news_listing_jina
+
+    sess = MagicMock(spec=requests.Session)
+    r = MagicMock()
+    r.status_code = 200
+    r.text = (
+        "[Deadline extended for NEA survey on the role of women in the nuclear sector]"
+        "(https://www.oecd-nea.org/jcms/pl_119771/deadline-extended-for-nea-survey)\n"
+        "[这家核电机组FCD正式开工建造啦](http://www.nuclear.net.cn/portal.php?mod=view&aid=17554)\n"
+        "[中广核与内蒙古自治区人民政府签署战略合作协议](https://www.cgnpc.com.cn/cgn/c100944/2026-07/13/content_15be98b214004f15b88522e8b853445b.shtml)\n"
+        "[About us page link](https://www.oecd-nea.org/jcms/tro_5705/about-us)\n"
+    )
+    sess.get.return_value = r
+
+    items = _parse_news_listing_jina(sess, ROSATOM_DEF, NOW)
+    urls = {it.url for it in items}
+    assert any("/jcms/pl_119771/" in u for u in urls), f"NEA /jcms/ link dropped: {urls}"
+    assert any("portal.php?mod=view" in u for u in urls), f"portal.php link dropped: {urls}"
+    assert any(u.endswith(".shtml") for u in urls), f".shtml link dropped: {urls}"
+    assert len(items) == 4  # about-us also passes via /jcms/ — acceptable, relevance scoring filters later

@@ -46,7 +46,7 @@ except ModuleNotFoundError:
 UTC = timezone.utc
 BROWSER_UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
 )
 SH_TZ = ZoneInfo("Asia/Shanghai")
 
@@ -176,22 +176,13 @@ NUCLEAR_RSS_FEEDS: tuple[dict[str, Any], ...] = (
          "https://www.edf.fr/rss",
          "https://www.edf.fr/feed",
      ], "via_jina": True},
-    # DOE-NE — US Department of Energy, Office of Nuclear Energy. Whole-site RSS: /rss.xml (verified 2026-07-17).
-    {"site_id": "doe_ne",         "site_name": "US DOE Nuclear Energy", "xml_url": "https://www.energy.gov/rss.xml", "html_url": "https://www.energy.gov/ne/office-nuclear-energy",
+    # DOE-NE — US Department of Energy, Office of Nuclear Energy. The whole-site
+    # /rss.xml stalled at 2020 entries (silent zero); the NE Press Releases
+    # feed /rss/ne/2282917 is the active one (verified 2026-07-30).
+    # NOTE: https://www.energy.gov/ne/rss.xml returns 200 but is only an HTML
+    # meta-refresh page — requests will not follow it, so keep the direct feed URL.
+    {"site_id": "doe_ne",         "site_name": "US DOE Nuclear Energy", "xml_url": "https://www.energy.gov/rss/ne/2282917", "html_url": "https://www.energy.gov/ne/listings/ne-press-releases",
      "via_jina": True},
-    # OECD-NEA — Nuclear Energy Agency. RSS path unknown; probe via candidates + Jina fallback.
-    {"site_id": "oecd_nea",       "site_name": "OECD-NEA",          "xml_url": "https://www.oecd-nea.org/rss", "html_url": "https://www.oecd-nea.org",
-     "xml_url_candidates": [
-         "https://www.oecd-nea.org/rss",
-         "https://www.oecd-nea.org/rss.xml",
-         "https://www.oecd-nea.org/feed",
-         "https://www.oecd-nea.org/feed.xml",
-         "https://www.oecd-nea.org/news/rss",
-         "https://www.oecd-nea.org/news/rss.xml",
-         "https://www.oecd-nea.org/jcms/rss",
-         "https://www.oecd-nea.org/press/rss",
-         "https://www.oecd-nea.org/publications/rss",
-     ], "via_jina": True},
     # WeChat 公众号 via RSSHub (deployed to Tencent SCF, see deploy_rsshub_scf/).
     # xml_url is a template resolved at fetch time by _resolve_wechat_xml_url.
     # Missing bridge (no RSSHUB_BASE secret / no mpID cache) → silent zero.
@@ -254,16 +245,10 @@ WEB_SOURCES_JINA: tuple[dict[str, str], ...] = (
         "site_name": "Nuclear Eng. Int'l",
         "url": "https://www.neimagazine.com/news/",
     },
-    {
-        "site_id": "cgn_news",
-        "site_name": "中广核",
-        "url": "https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
-    },
-    {
-        "site_id": "nuclear_net_cn",
-        "site_name": "中国核网",
-        "url": "http://www.nuclear.net.cn/portal.php?mod=list&catid=94",
-    },
+    # cgn_news / nuclear_net_cn moved to WEB_SOURCES_NEWS_LISTING (2026-07-30):
+    # Jina returns a stable HTTP 403 for both, but the pages themselves are
+    # static HTML reachable by direct fetch, so BeautifulSoup listing scraping
+    # is the primary path now.
 )
 
 # ─── News listing web sources (BeautifulSoup container-based) ────────────────
@@ -271,6 +256,10 @@ WEB_SOURCES_JINA: tuple[dict[str, str], ...] = (
 # rather than RSS. Each entry is one "news index page" the fetcher probes.
 
 WEB_SOURCES_NEWS_LISTING: tuple[dict[str, Any], ...] = (
+    # ── Rosatom — status 2026-07-30: en.rosatom.ru refuses connections from
+    #    both this network and the Actions runner (likely geo-block), and Jina
+    #    returns 403. Kept registered so a future network/policy change lets it
+    #    recover without a code edit; selectors remain Drupal guesses.
     {
         "site_id": "rosatom",
         "site_name": "Rosatom",
@@ -346,6 +335,62 @@ WEB_SOURCES_NEWS_LISTING: tuple[dict[str, Any], ...] = (
         "title_selector": "h2 a, h3 a, .title a",
         "link_selector": "a",
         "time_selector": None,
+        "max_items": 20,
+        "via_jina": True,
+    },
+    # ── OECD-NEA — Jalios JCMS site with no real RSS (all candidate paths
+    #    404 or serve HTML, verified 2026-07-30). The news search endpoint
+    #    (types=generated.NewsItem, sort=pdate) is static HTML with stable
+    #    `div.search-result-item-container` cards; article hrefs are relative
+    #    and resolved via the page's <base href> tag.
+    {
+        "site_id": "oecd_nea",
+        "site_name": "OECD-NEA",
+        "start_urls": [
+            "https://www.oecd-nea.org/jcms/j_231/portail-application?text=&opSearch=true&jsp=plugins%2FMainPlugin%2Fjsp%2Fsearch%2FcustomQuery.jsp&types=generated.NewsItem&sort=pdate",
+            "https://www.oecd-nea.org/jcms/rni_6629/news-and-resources",
+        ],
+        "container_selector": "div.search-result-item-container",
+        "title_selector": "div.search-result-item-title a",
+        "link_selector": "div.search-result-item-title a",
+        "time_selector": "div.search-published-date span",
+        "time_attr": None,   # text content, e.g. "29 June 2026"
+        "max_items": 20,
+        "via_jina": True,
+    },
+    # ── CGN (中广核) — Jina returns a stable 403 for cgnpc.com.cn, but the
+    #    集团要闻 listing page is static HTML (verified 2026-07-30). Items are
+    #    <li><a href="content_*.shtml"><h4 class="blue">title</h4><small>YYYY-MM-DD</small>.
+    {
+        "site_id": "cgn_news",
+        "site_name": "中广核",
+        "start_urls": [
+            "https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
+        ],
+        "container_selector": "div.culture ul li",
+        "title_selector": "h4.blue",
+        "link_selector": "a",
+        "time_selector": "small",
+        "time_attr": None,   # text content "2026-07-16"
+        "max_items": 20,
+        "via_jina": True,
+    },
+    # ── 中国核网 (nuclear.net.cn) — Jina 403, but the Discuz-style listing is
+    #    static HTML (verified 2026-07-30). Each `div.top_new` card has
+    #    <h2><a>title</a></h2> plus a "查看全文" duplicate anchor (deduped by URL)
+    #    and a `span.time` like "发表：2026-5-15 17:24" (unparseable prefix →
+    #    published_at falls back to None).
+    {
+        "site_id": "nuclear_net_cn",
+        "site_name": "中国核网",
+        "start_urls": [
+            "http://www.nuclear.net.cn/portal.php?mod=list&catid=94",
+        ],
+        "container_selector": "div.top_new",
+        "title_selector": "h2 a",
+        "link_selector": "h2 a",
+        "time_selector": "span.time",
+        "time_attr": None,   # text content "发表：2026-5-15 17:24"
         "max_items": 20,
         "via_jina": True,
     },
@@ -1352,7 +1397,13 @@ def fetch_web_news_listing(session: requests.Session, src_def: dict[str, Any], n
 
     Aggregate outcomes:
         - At least one URL returned items → return those items.
-        - All URLs returned 200 HTML but no items parsed → return [] (silent zero).
+        - All URLs returned 200 HTML but no items parsed →
+            if via_jina=True → try _parse_news_listing_jina; items → return them;
+            0 items → return [] (true silent zero); Jina itself raising →
+            raise RuntimeError so the wrapper records ok=False instead of a
+            misleading silent zero (this is the Oklo / TerraPower failure mode:
+            200 HTML shell, 0 selector matches, Jina 403).
+            if via_jina=False → return [] (silent zero).
         - All URLs hard-failed (no URL even reached 200 HTML) →
             if via_jina=True → try _parse_news_listing_jina; if that also fails or
             returns 0 items in the Jina path, raise RuntimeError.
@@ -1412,11 +1463,16 @@ def fetch_web_news_listing(session: requests.Session, src_def: dict[str, Any], n
                 jina_items = _parse_news_listing_jina(session, src_def, now)
                 if jina_items:
                     return jina_items
-            except Exception:
-                # Jina itself failed (network, 403, etc.) — fall through to
-                # silent zero. The wrapper still records warning so operators
-                # see the indirect failure mode.
-                pass
+            except Exception as jina_err:
+                # Jina itself failed (network, 403, etc.) — surface as a hard
+                # error rather than a misleading silent zero, so operators can
+                # tell "source empty" apart from "selectors stale AND fallback
+                # down" (Oklo / TerraPower behind Cloudflare).
+                raise RuntimeError(
+                    f"{site_id}: all start_urls returned 200 HTML but no "
+                    f"containers matched, and Jina fallback failed — "
+                    f"{type(jina_err).__name__}: {str(jina_err)[:120]}"
+                ) from jina_err
         return []
 
     # At least one URL hard-failed. Try Jina if enabled.
@@ -1445,7 +1501,8 @@ def _parse_news_listing_html(html: str, src_def: dict[str, Any], now: datetime) 
 
     For each `container_selector` match:
       - title from title_selector text (trimmed)
-      - url from link_selector [href] (joined with src_def['start_urls'][0] base if relative)
+      - url from link_selector [href] (joined with the document's <base href>
+        if present, else src_def['start_urls'][0], when relative)
       - published_at from time_selector [time_attr] (or text content as fallback)
     Dedup by normalized URL. Returns [] (silent zero signal) when no containers match.
     """
@@ -1460,6 +1517,12 @@ def _parse_news_listing_html(html: str, src_def: dict[str, Any], now: datetime) 
     max_items = int(src_def.get("max_items", 20))
 
     soup = BeautifulSoup(html, "html.parser")
+    # Honor a document-level <base href> (e.g. OECD-NEA's Jalios pages serve
+    # relative links like "jcms/pl_123/slug" against <base href="...org/">);
+    # without this, urljoin against the start_url produces broken URLs.
+    base_el = soup.find("base", href=True)
+    if base_el:
+        base_url = urljoin(base_url, base_el["href"].strip())
     containers = soup.select(container_sel)
     if not containers:
         return []
@@ -1511,7 +1574,7 @@ def _parse_news_listing_jina(session: requests.Session, src_def: dict[str, Any],
       - skip images (title starts with !)
       - title length >= 10
       - URL must contain a year-like segment or path component suggesting news
-        (e.g. /news/, /press/, /2024/, /2025/, /2026/, article path)
+        (e.g. /news/, /press/, /jcms/, portal.php, shtml, /2024/, /2025/, /2026/)
     Raises on HTTP non-200 from Jina.
     """
     site_id = src_def["site_id"]
@@ -1538,6 +1601,7 @@ def _parse_news_listing_jina(session: requests.Session, src_def: dict[str, Any],
         url_lower = url.lower()
         if not any(seg in url_lower for seg in [
             "/news/", "/press/", "/article/", "/publication/",
+            "/jcms/", "portal.php", "shtml",
             "/2024/", "/2025/", "/2026/", "/2027/", "/20",
         ]):
             continue
