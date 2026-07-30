@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:17:24.095194+00:00",
+  "generated_at": "2026-07-30T14:24:53.510843+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -12,16 +12,6 @@
       "date": "2026-07-30",
       "title": "Sixth Tokamak Sector Module Lowered Into Place At Iter Fusion Project",
       "url": "https://www.reddit.com/r/nuclear/comments/1varbv3/sixth_tokamak_sector_module_lowered_into_place_at/"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Romania shuts down both nuclear power reactors as Danube levels plunge, PM urges energy savings",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vaq0qp/romania_shuts_down_both_nuclear_power_reactors_as/"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Nuclear new builds. Announcements vs. reality.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vanklh/nuclear_new_builds_announcements_vs_reality/"
     },
     {
       "date": "2026-07-30",
@@ -60,16 +50,6 @@
     },
     {
       "date": "2026-07-29",
-      "title": "Five States Emerge as Finalists for DOE’s Nuclear Lifecycle Innovation Campuses",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v9vpmz/five_states_emerge_as_finalists_for_does_nuclear/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Both Biden and Trump have invested heavily in nuclear. It's not enough.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v9vlmf/both_biden_and_trump_have_invested_heavily_in/"
-    },
-    {
-      "date": "2026-07-29",
       "title": "5 states offer to accept nuclear waste in exchange for help developing nuclear energy",
       "url": "https://www.reddit.com/r/nuclear/comments/1v9n63h/5_states_offer_to_accept_nuclear_waste_in/"
     },
@@ -85,33 +65,8 @@
     },
     {
       "date": "2026-07-28",
-      "title": "France cut 6.4 GW of nuclear output this month as eight reactors hit river discharge temperatur…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v9eo8y/france_cut_64_gw_of_nuclear_output_this_month_as/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "TRISO-X targets 4.5 GW of reactor fuel while HALEU supply remains the gate",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v94h9u/trisox_targets_45_gw_of_reactor_fuel_while_haleu/"
-    },
-    {
-      "date": "2026-07-28",
       "title": "Why is SMR so hard to make when we already have the tech",
       "url": "https://www.reddit.com/r/nuclear/comments/1v92lq9/why_is_smr_so_hard_to_make_when_we_already_have/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Radiant and NASA awarded US HALEU allocations",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v91os6/radiant_and_nasa_awarded_us_haleu_allocations/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Antares Nuclear Raises $470 Million To Build Reactors For Military Bases",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v919aq/antares_nuclear_raises_470_million_to_build/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Long Beach is first port to partner with MARAD on maritime reactors",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v90s2s/long_beach_is_first_port_to_partner_with_marad_on/"
     },
     {
       "date": "2026-07-28",
@@ -147,16 +102,6 @@
     },
     {
       "date": "2026-07-30",
-      "title": "Romania shuts down both nuclear power reactors as Danube levels plunge, PM urges energy savings",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vaq0qp/romania_shuts_down_both_nuclear_power_reactors_as/"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Nuclear new builds. Announcements vs. reality.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vanklh/nuclear_new_builds_announcements_vs_reality/"
-    },
-    {
-      "date": "2026-07-30",
       "title": "Low Danube river levels force Romania to shut down its nuclear power reactors",
       "url": "https://www.reuters.com/business/energy/low-danube-river-levels-force-romania-shut-down-both-its-nuclear-power-reactors-2026-07-29/"
     },
@@ -182,8 +127,8 @@
     }
   ],
   "latest_date": "2026-07-30",
-  "count_7d": 26,
-  "count_today": 9,
+  "count_7d": 17,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
