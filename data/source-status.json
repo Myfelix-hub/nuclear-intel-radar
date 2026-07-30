@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
@@ -19,37 +10,10 @@
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 5,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 11,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 11,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -64,13 +28,49 @@
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 0,
+      "item_count": 5,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "warning": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 11,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "iaea_news: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.iaea.org/feeds/news",
+      "warning": null
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
     },
     {
       "site_id": "wechat_cnnp",
@@ -154,13 +154,13 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
+      "ok": true,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
-      "warning": null
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "edf_nuclear",
@@ -190,12 +190,12 @@
       "warning": null
     },
     {
-      "site_id": "eurofusion",
-      "site_name": "EUROfusion",
-      "ok": true,
-      "item_count": 1,
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null,
+      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — RetryError: HTTPSConnectionPool(host='www.nrc.gov', port=443): Max retries exceeded with url: | Jina: R",
       "warning": null
     },
     {
@@ -208,22 +208,22 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
+      "site_id": "eurofusion",
+      "site_name": "EUROfusion",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — RetryError: HTTPSConnectionPool(host='www.nrc.gov', port=443): Max retries exceeded with url: | Jina: R",
+      "error": "eurofusion: RSS fetch failed — ConnectionError: HTTPSConnectionPool(host='www.euro-fusion.org', port=443): Max retries exceeded with url: /feed/ (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='",
       "warning": null
     },
     {
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 140,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
     },
     {
       "site_id": "nuclear_net_cn",
@@ -235,21 +235,21 @@
       "warning": null
     },
     {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nei_magazine: Jina returned HTTP 403 for https://www.neimagazine.com/news/",
-      "warning": null
-    },
-    {
       "site_id": "cgn_news",
       "site_name": "中广核",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
       "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
+      "warning": null
+    },
+    {
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nei_magazine: Jina returned HTTP 403 for https://www.neimagazine.com/news/",
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 3088,
+      "duration_ms": 2797,
       "error": null,
       "warning": null
     },
@@ -302,13 +302,22 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 5845,
+      "duration_ms": 5598,
       "error": null,
       "warning": null
     }
   ],
-  "successful_sites": 28,
+  "successful_sites": 26,
   "failed_sites": [
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "iaea_news: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.iaea.org/feeds/news",
+      "warning": null
+    },
     {
       "site_id": "nucnet",
       "site_name": "NucNet",
@@ -328,21 +337,21 @@
       "warning": null
     },
     {
+      "site_id": "eurofusion",
+      "site_name": "EUROfusion",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "eurofusion: RSS fetch failed — ConnectionError: HTTPSConnectionPool(host='www.euro-fusion.org', port=443): Max retries exceeded with url: /feed/ (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='",
+      "warning": null
+    },
+    {
       "site_id": "nuclear_net_cn",
       "site_name": "中国核网",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
       "error": "nuclear_net_cn: Jina returned HTTP 403 for http://www.nuclear.net.cn/portal.php?mod=list&catid=94",
-      "warning": null
-    },
-    {
-      "site_id": "nei_magazine",
-      "site_name": "Nuclear Eng. Int'l",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nei_magazine: Jina returned HTTP 403 for https://www.neimagazine.com/news/",
       "warning": null
     },
     {
@@ -355,6 +364,15 @@
       "warning": null
     },
     {
+      "site_id": "nei_magazine",
+      "site_name": "Nuclear Eng. Int'l",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nei_magazine: Jina returned HTTP 403 for https://www.neimagazine.com/news/",
+      "warning": null
+    },
+    {
       "site_id": "rosatom",
       "site_name": "Rosatom",
       "ok": false,
@@ -364,8 +382,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 272,
-  "items_before_topic_filter": 272,
+  "fetched_raw_items": 120,
+  "items_before_topic_filter": 120,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
