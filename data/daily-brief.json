@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-07-30T06:34:03.781026+00:00",
+  "generated_at": "2026-07-30T09:34:52.360620+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-23a28b60214d9fc4",
+      "title": "New US Nuclear Fuel Facilities Target 5-Metric-Ton Uranium Production for Advanced Reactors",
+      "representative_url": "https://interestingengineering.com/energy/us-nuclear-fuel-facilities-uranium-production",
+      "first_published_at": "2026-07-30T09:34:52.360620+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 4.8
+    },
+    {
+      "story_id": "story-77bd9c128cffd0c6",
+      "title": "TerraPower Becomes First Advanced Reactor Company to Join INPO",
+      "representative_url": "https://www.ans.org/news/2026-07-24/article-8243/terrapower-becomes-first-advanced-reactor-company-to-join-inpo/",
+      "first_published_at": "2026-07-30T09:34:52.360620+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 4.8
+    },
     {
       "story_id": "story-c56cb304057e0e46",
       "title": "Five States Emerge as Finalists for DOE’s Nuclear Lifecycle Innovation Campuses",
@@ -19,10 +49,86 @@
       "score": 4.75
     },
     {
+      "story_id": "story-184fd41f3e51fcba",
+      "title": "UK Start-Up Nuclear Turbines Unveils Novel Reactor Concept",
+      "representative_url": "https://world-nuclear-news.org/articles/uk-start-up-nuclear-turbines-unveils-novel-reactor-concept",
+      "first_published_at": "2026-07-27T12:19:32+00:00",
+      "sources": [
+        "nucleartownhall",
+        "wnn"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "safety",
+      "score": 4.740812105567847
+    },
+    {
+      "story_id": "story-6510ef5f9d8a615e",
+      "title": "Amb. Waltz: Saudis Buying Civil Nuclear Reactors From U.S. — No Enrichment On Saudi Soil",
+      "representative_url": "https://www.yahoo.com/news/politics/articles/amb-waltz-saudis-buying-civil-130000481.html",
+      "first_published_at": "2026-07-30T09:34:52.360620+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-605d1d3eafd197ed",
+      "title": "Low Danube river levels force Romania to shut down its nuclear power reactors",
+      "representative_url": "https://www.reuters.com/business/energy/low-danube-river-levels-force-romania-shut-down-both-its-nuclear-power-reactors-2026-07-29/",
+      "first_published_at": "2026-07-30T07:35:53+00:00",
+      "sources": [
+        "hn_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-f2020f6c202553f7",
+      "title": "Lasers could help provide fuel for nuclear reactors",
+      "representative_url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "first_published_at": "2026-07-30T07:15:06+00:00",
+      "sources": [
+        "hn_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-7cf3a638ed31c3ec",
+      "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
+      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Receives-U-S--Department-of-Energy-Startup-Authorization-for-Groves-Reactor-Clearing-Way-for-Fuel-Loading-and-First-Criticality/default.aspx",
+      "first_published_at": "2026-07-30T09:34:52.360620+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.8
+    },
+    {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-07-30T06:34:03.781026+00:00",
+      "first_published_at": "2026-07-30T09:34:52.360620+00:00",
       "sources": [
         "kairos"
       ],
@@ -34,124 +140,19 @@
       "score": 2.7
     },
     {
-      "story_id": "story-c1ab5a283f6eeec8",
-      "title": "Commonwealth Fusion Systems Raises Another $1 Billion as Work on Commercial Power Plant Continu…",
-      "representative_url": "https://www.powermag.com/commonwealth-fusion-systems-raises-another-1-billion-as-work-on-commercial-power-plant-continues/",
-      "first_published_at": "2026-07-30T04:01:19+00:00",
+      "story_id": "story-fdf2bfdde7eb7bff",
+      "title": "NUCLEAR FISSIONARY",
+      "representative_url": "http://nuclearfissionary.com/",
+      "first_published_at": "2026-07-30T09:34:52.360620+00:00",
       "sources": [
-        "powermag"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.45,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "tech",
-      "score": 2.25
-    },
-    {
-      "story_id": "story-0eb41eca4aa4df96",
-      "title": "What Does Saudi Arabia Really Want from the US for its Reactor Program?",
-      "representative_url": "https://neutronbytes.com/2026/07/27/what-does-saudi-arabia-want-from-the-us-for-its-reactor-program/",
-      "first_published_at": "2026-07-27T14:06:44+00:00",
-      "sources": [
-        "neutronbytes"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.95,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "fuel",
-      "score": 1.9
-    },
-    {
-      "story_id": "story-ede95f29343b223b",
-      "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
-      "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-07-30T06:34:03.781026+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "fuel",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-5e7a7765e34fe669",
-      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-07-30T06:34:03.781026+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-bdabb75d87c706fa",
-      "title": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center",
-      "representative_url": "https://www.powermag.com/microsofts-60-million-genesis-mission-commitment-puts-nuclear-ai-at-the-center/",
-      "first_published_at": "2026-07-28T20:14:42+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.35,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 1.75
-    },
-    {
-      "story_id": "story-71a85de88b3746f9",
-      "title": "UK start-up Nuclear Turbines unveils novel reactor concept",
-      "representative_url": "https://www.world-nuclear-news.org/articles/uk-start-up-nuclear-turbines-unveils-novel-reactor-concept",
-      "first_published_at": "2026-07-27T12:19:32+00:00",
-      "sources": [
-        "wnn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.75,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "safety",
-      "score": 1.5
-    },
-    {
-      "story_id": "story-27a8b7876b8ab39f",
-      "title": "NASA and Radiant selected to receive HALEU",
-      "representative_url": "https://www.ans.org/news/2026-07-27/article-8246/nasa-and-radiant-selected-to-receive-haleu/",
-      "first_published_at": "2026-07-27T17:19:08+00:00",
-      "sources": [
-        "ans_newswire"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.65,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "fuel",
-      "score": 1.3
-    },
-    {
-      "story_id": "story-9e98a9f531d68a89",
-      "title": "Rotating mirror with all-directional pinch compressions - The beauty and simplicity in controll…",
-      "representative_url": "https://arxiv.org/abs/2607.27024",
-      "first_published_at": "2026-07-30T04:00:00+00:00",
-      "sources": [
-        "arxiv_nuclth"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "research",
-      "source_tier_rank": 2,
-      "primary_section": "research",
-      "score": 1.2000000000000002
+      "score": 2.4
     }
   ]
 }

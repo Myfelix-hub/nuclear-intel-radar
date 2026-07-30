@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-30T06:34:03.781026+00:00",
+  "generated_at": "2026-07-30T09:34:52.360620+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-30",
+      "title": "Low Danube river levels force Romania to shut down its nuclear power reactors",
+      "url": "https://www.reuters.com/business/energy/low-danube-river-levels-force-romania-shut-down-both-its-nuclear-power-reactors-2026-07-29/"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Lasers could help provide fuel for nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
+    },
     {
       "date": "2026-07-27",
       "title": "3D Printed Nuclear Reactor [video]",
@@ -16,14 +26,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-27",
-      "title": "3D Printed Nuclear Reactor [video]",
-      "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
+      "date": "2026-07-30",
+      "title": "Low Danube river levels force Romania to shut down its nuclear power reactors",
+      "url": "https://www.reuters.com/business/energy/low-danube-river-levels-force-romania-shut-down-both-its-nuclear-power-reactors-2026-07-29/"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Lasers could help provide fuel for nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
     }
   ],
-  "latest_date": "2026-07-27",
-  "count_7d": 2,
-  "count_today": 1,
+  "latest_date": "2026-07-30",
+  "count_7d": 4,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
