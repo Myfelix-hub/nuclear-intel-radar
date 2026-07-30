@@ -1,38 +1,37 @@
 {
-  "generated_at": "2026-07-29T22:30:59.109160+00:00",
+  "generated_at": "2026-07-30T00:04:34.834796+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-184fd41f3e51fcba",
-      "title": "UK start-up Nuclear Turbines unveils novel reactor concept",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1v8crcz/uk_startup_nuclear_turbines_unveils_novel_reactor/",
-      "first_published_at": "2026-07-27T12:19:32+00:00",
+      "story_id": "story-23a28b60214d9fc4",
+      "title": "New US Nuclear Fuel Facilities Target 5-Metric-Ton Uranium Production for Advanced Reactors",
+      "representative_url": "https://interestingengineering.com/energy/us-nuclear-fuel-facilities-uranium-production",
+      "first_published_at": "2026-07-30T00:04:34.834796+00:00",
       "sources": [
-        "reddit_nuclear",
-        "wnn"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.7,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "safety",
-      "score": 7.111218158351769
-    },
-    {
-      "story_id": "story-59c7256b27675340",
-      "title": "Tritium as missing link in deuterium-tritium fusion drives found Soviet icebergs in 1964",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1v9mtxy/tritium_as_missing_link_in_deuteriumtritium/",
-      "first_published_at": "2026-07-29T05:29:54+00:00",
-      "sources": [
-        "reddit_nuclear"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "community",
-      "source_tier_rank": 5,
+      "nuclear_score": 1.2,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 4.8
+    },
+    {
+      "story_id": "story-77bd9c128cffd0c6",
+      "title": "TerraPower Becomes First Advanced Reactor Company to Join INPO",
+      "representative_url": "https://www.ans.org/news/2026-07-24/article-8243/terrapower-becomes-first-advanced-reactor-company-to-join-inpo/",
+      "first_published_at": "2026-07-30T00:04:34.834796+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "tech",
-      "score": 5.4
+      "score": 4.8
     },
     {
       "story_id": "story-c56cb304057e0e46",
@@ -50,19 +49,35 @@
       "score": 4.75
     },
     {
-      "story_id": "story-ac006eb797a37614",
-      "title": "Are there mixed thermal and fast reactors? Like an unmoderated inner core but moderated other c…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1v9mh46/are_there_mixed_thermal_and_fast_reactors_like_an/",
-      "first_published_at": "2026-07-29T05:11:46+00:00",
+      "story_id": "story-184fd41f3e51fcba",
+      "title": "UK Start-Up Nuclear Turbines Unveils Novel Reactor Concept",
+      "representative_url": "https://world-nuclear-news.org/articles/uk-start-up-nuclear-turbines-unveils-novel-reactor-concept",
+      "first_published_at": "2026-07-27T12:19:32+00:00",
       "sources": [
-        "reddit_nuclear"
+        "nucleartownhall",
+        "wnn"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "safety",
+      "score": 4.740812105567847
+    },
+    {
+      "story_id": "story-6510ef5f9d8a615e",
+      "title": "Amb. Waltz: Saudis Buying Civil Nuclear Reactors From U.S. — No Enrichment On Saudi Soil",
+      "representative_url": "https://www.yahoo.com/news/politics/articles/amb-waltz-saudis-buying-civil-130000481.html",
+      "first_published_at": "2026-07-30T00:04:34.834796+00:00",
+      "sources": [
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.5999999999999996
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 3.6
     },
     {
       "story_id": "story-a7c5941c92541d39",
@@ -80,10 +95,25 @@
       "score": 3.5999999999999996
     },
     {
+      "story_id": "story-7cf3a638ed31c3ec",
+      "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
+      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Receives-U-S--Department-of-Energy-Startup-Authorization-for-Groves-Reactor-Clearing-Way-for-Fuel-Loading-and-First-Criticality/default.aspx",
+      "first_published_at": "2026-07-30T00:04:34.834796+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.8
+    },
+    {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-07-29T22:30:59.109160+00:00",
+      "first_published_at": "2026-07-30T00:04:34.834796+00:00",
       "sources": [
         "kairos"
       ],
@@ -110,49 +140,19 @@
       "score": 2.7
     },
     {
-      "story_id": "story-013e4ca11b246f1c",
-      "title": "5 states offer to accept nuclear waste in exchange for help developing nuclear energy",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1v9n63h/5_states_offer_to_accept_nuclear_waste_in/",
-      "first_published_at": "2026-07-29T05:47:31+00:00",
+      "story_id": "story-fdf2bfdde7eb7bff",
+      "title": "NUCLEAR FISSIONARY",
+      "representative_url": "http://nuclearfissionary.com/",
+      "first_published_at": "2026-07-30T00:04:34.834796+00:00",
       "sources": [
-        "reddit_nuclear"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
-    },
-    {
-      "story_id": "story-0a3b57d73a8ca782",
-      "title": "Few-gluon interactions and multipole radiation in high energy nuclear collisions",
-      "representative_url": "https://arxiv.org/abs/2607.25017",
-      "first_published_at": "2026-07-29T04:00:00+00:00",
-      "sources": [
-        "arxiv_nuclth"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "research",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.0999999999999996
-    },
-    {
-      "story_id": "story-0eb41eca4aa4df96",
-      "title": "What Does Saudi Arabia Really Want from the US for its Reactor Program?",
-      "representative_url": "https://neutronbytes.com/2026/07/27/what-does-saudi-arabia-want-from-the-us-for-its-reactor-program/",
-      "first_published_at": "2026-07-27T14:06:44+00:00",
-      "sources": [
-        "neutronbytes"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.95,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "fuel",
-      "score": 1.9
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 2.4
     }
   ]
 }
