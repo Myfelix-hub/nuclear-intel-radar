@@ -10,37 +10,10 @@
       "warning": null
     },
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "arxiv_nuclex",
       "site_name": "arXiv nucl-ex",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 12,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
-      "ok": true,
-      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -55,6 +28,24 @@
       "warning": null
     },
     {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 12,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "nucnet",
       "site_name": "NucNet",
       "ok": false,
@@ -64,13 +55,22 @@
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 0,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "warning": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "wechat_cnnp",
@@ -154,13 +154,22 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
       "ok": true,
-      "item_count": 10,
+      "item_count": 4,
       "duration_ms": 0,
       "error": null,
       "warning": null
+    },
+    {
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "iter_org",
@@ -181,13 +190,13 @@
       "warning": null
     },
     {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
+      "site_id": "oecd_nea",
+      "site_name": "OECD-NEA",
       "ok": true,
-      "item_count": 4,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "eurofusion",
@@ -197,15 +206,6 @@
       "duration_ms": 0,
       "error": null,
       "warning": null
-    },
-    {
-      "site_id": "oecd_nea",
-      "site_name": "OECD-NEA",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "us_nrc",
@@ -226,21 +226,21 @@
       "warning": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
-      "warning": null
-    },
-    {
       "site_id": "nuclear_net_cn",
       "site_name": "中国核网",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
       "error": "nuclear_net_cn: Jina returned HTTP 403 for http://www.nuclear.net.cn/portal.php?mod=list&catid=94",
+      "warning": null
+    },
+    {
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 2680,
+      "duration_ms": 2961,
       "error": null,
       "warning": null
     },
@@ -302,7 +302,7 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5211,
+      "duration_ms": 4985,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
@@ -409,21 +409,21 @@
       "warning": null
     },
     {
-      "site_id": "cgn_news",
-      "site_name": "中广核",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
-      "warning": null
-    },
-    {
       "site_id": "nuclear_net_cn",
       "site_name": "中国核网",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
       "error": "nuclear_net_cn: Jina returned HTTP 403 for http://www.nuclear.net.cn/portal.php?mod=list&catid=94",
+      "warning": null
+    },
+    {
+      "site_id": "cgn_news",
+      "site_name": "中广核",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "cgn_news: Jina returned HTTP 403 for https://www.cgnpc.com.cn/cgn/c100944/jtyw_all.shtml",
       "warning": null
     },
     {
@@ -449,7 +449,7 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5211,
+      "duration_ms": 4985,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
