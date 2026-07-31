@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T15:05:22.586964+00:00",
+  "generated_at": "2026-07-31T17:07:07.696107+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-07-31",
-      "title": "Future of nuclear power and differences with renewable energy",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vbkia5/future_of_nuclear_power_and_differences_with/"
+      "title": "Time For The Philippines To Revisit Nuclear Energy Production",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vbvmb6/time_for_the_philippines_to_revisit_nuclear/"
     },
     {
       "date": "2026-07-31",
@@ -20,13 +20,18 @@
     },
     {
       "date": "2026-07-30",
-      "title": "Romania shuts down both nuclear power reactors as Danube levels plunge, PM urges energy savings",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vaq0qp/romania_shuts_down_both_nuclear_power_reactors_as/"
+      "title": "Commonwealth Fusion Systems Raises Another $1 Billion, Bringing Total Capital Raised to $4 Bill…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vb19f3/commonwealth_fusion_systems_raises_another_1/"
     },
     {
       "date": "2026-07-30",
-      "title": "Nuclear new builds. Announcements vs. reality.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vanklh/nuclear_new_builds_announcements_vs_reality/"
+      "title": "Massive federal nuclear project could land in Oklahoma",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vau44k/massive_federal_nuclear_project_could_land_in/"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Sixth Tokamak Sector Module Lowered Into Place At Iter Fusion Project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1varbv3/sixth_tokamak_sector_module_lowered_into_place_at/"
     },
     {
       "date": "2026-07-30",
@@ -39,34 +44,24 @@
       "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
     },
     {
-      "date": "2026-07-29",
-      "title": "Five States Emerge as Finalists for DOE’s Nuclear Lifecycle Innovation Campuses",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v9vpmz/five_states_emerge_as_finalists_for_does_nuclear/"
+      "date": "2026-07-30",
+      "title": "Experts scramble to keep Paks nuclear plant cool as Danube dries up - The Budapest Times",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vakous/experts_scramble_to_keep_paks_nuclear_plant_cool/"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "China Successfully Completed Testing of World’s Largest 582-Ton Fusion Magnet, Capable Of Captu…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vag78k/china_successfully_completed_testing_of_worlds/"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vafi01/how_lasers_could_help_provide_fuel_for_nuclear/"
     },
     {
       "date": "2026-07-29",
-      "title": "Both Biden and Trump have invested heavily in nuclear. It's not enough.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v9vlmf/both_biden_and_trump_have_invested_heavily_in/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "France cut 6.4 GW of nuclear output this month as eight reactors hit river discharge temperatur…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v9eo8y/france_cut_64_gw_of_nuclear_output_this_month_as/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "TRISO-X targets 4.5 GW of reactor fuel while HALEU supply remains the gate",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v94h9u/trisox_targets_45_gw_of_reactor_fuel_while_haleu/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Radiant and NASA awarded US HALEU allocations",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v91os6/radiant_and_nasa_awarded_us_haleu_allocations/"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Antares Nuclear Raises $470 Million To Build Reactors For Military Bases",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1v919aq/antares_nuclear_raises_470_million_to_build/"
+      "title": "DOE identifies five states to hold nuclear waste",
+      "url": "https://www.reddit.com/r/nuclear/comments/1v9xxkw/doe_identifies_five_states_to_hold_nuclear_waste/"
     },
     {
       "date": "2026-07-27",
@@ -82,8 +77,8 @@
   "updates_today": [
     {
       "date": "2026-07-31",
-      "title": "Future of nuclear power and differences with renewable energy",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vbkia5/future_of_nuclear_power_and_differences_with/"
+      "title": "Time For The Philippines To Revisit Nuclear Energy Production",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vbvmb6/time_for_the_philippines_to_revisit_nuclear/"
     },
     {
       "date": "2026-07-31",
@@ -92,7 +87,7 @@
     }
   ],
   "latest_date": "2026-07-31",
-  "count_7d": 15,
+  "count_7d": 14,
   "count_today": 2,
   "has_error": false,
   "error": null,
