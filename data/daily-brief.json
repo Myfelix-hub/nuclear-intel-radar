@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-07-31T21:41:10.565738+00:00",
+  "generated_at": "2026-07-31T23:09:36.364067+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
+      "story_id": "story-c61d444447407f4a",
+      "title": "Sixth Tokamak Sector Module Lowered Into Place At Iter Fusion Project",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1varbv3/sixth_tokamak_sector_module_lowered_into_place_at/",
+      "first_published_at": "2026-07-30T11:46:55+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 5.4
+    },
+    {
       "story_id": "story-23a28b60214d9fc4",
       "title": "New US Nuclear Fuel Facilities Target 5-Metric-Ton Uranium Production for Advanced Reactors",
       "representative_url": "https://interestingengineering.com/energy/us-nuclear-fuel-facilities-uranium-production",
-      "first_published_at": "2026-07-31T21:41:10.565738+00:00",
+      "first_published_at": "2026-07-31T23:09:36.364067+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -22,7 +37,7 @@
       "story_id": "story-77bd9c128cffd0c6",
       "title": "TerraPower Becomes First Advanced Reactor Company to Join INPO",
       "representative_url": "https://www.ans.org/news/2026-07-24/article-8243/terrapower-becomes-first-advanced-reactor-company-to-join-inpo/",
-      "first_published_at": "2026-07-31T21:41:10.565738+00:00",
+      "first_published_at": "2026-07-31T23:09:36.364067+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -32,21 +47,6 @@
       "source_tier_rank": 3,
       "primary_section": "tech",
       "score": 4.8
-    },
-    {
-      "story_id": "story-c56cb304057e0e46",
-      "title": "Five States Emerge as Finalists for DOE’s Nuclear Lifecycle Innovation Campuses",
-      "representative_url": "https://www.powermag.com/five-states-emerge-as-finalists-for-does-nuclear-lifecycle-innovation-campuses/",
-      "first_published_at": "2026-07-28T22:54:10+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.95,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "fuel",
-      "score": 4.75
     },
     {
       "story_id": "story-19690803e54634f7",
@@ -67,7 +67,7 @@
       "story_id": "story-6510ef5f9d8a615e",
       "title": "Amb. Waltz: Saudis Buying Civil Nuclear Reactors From U.S. — No Enrichment On Saudi Soil",
       "representative_url": "https://www.yahoo.com/news/politics/articles/amb-waltz-saudis-buying-civil-130000481.html",
-      "first_published_at": "2026-07-31T21:41:10.565738+00:00",
+      "first_published_at": "2026-07-31T23:09:36.364067+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -142,7 +142,7 @@
       "story_id": "story-7cf3a638ed31c3ec",
       "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
       "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Receives-U-S--Department-of-Energy-Startup-Authorization-for-Groves-Reactor-Clearing-Way-for-Fuel-Loading-and-First-Criticality/default.aspx",
-      "first_published_at": "2026-07-31T21:41:10.565738+00:00",
+      "first_published_at": "2026-07-31T23:09:36.364067+00:00",
       "sources": [
         "nucleartownhall"
       ],
