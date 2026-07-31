@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-31T18:55:13.444471+00:00",
+  "generated_at": "2026-07-31T20:24:14.051640+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-31",
+      "title": "China approves eight new nuclear power units",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jzm/china_approves_eight_new_nuclear_power_units/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Ap1000 question for Warsaw Poland project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jvh/ap1000_question_for_warsaw_poland_project/"
+    },
     {
       "date": "2026-07-31",
       "title": "Hungarian nuclear power plant to shut down due to record low Danube levels",
@@ -50,18 +60,8 @@
     },
     {
       "date": "2026-07-30",
-      "title": "Experts scramble to keep Paks nuclear plant cool as Danube dries up - The Budapest Times",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vakous/experts_scramble_to_keep_paks_nuclear_plant_cool/"
-    },
-    {
-      "date": "2026-07-30",
       "title": "China Successfully Completed Testing of World’s Largest 582-Ton Fusion Magnet, Capable Of Captu…",
       "url": "https://www.reddit.com/r/nuclear/comments/1vag78k/china_successfully_completed_testing_of_worlds/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "DOE identifies five states to hold nuclear waste",
-      "url": "https://www.reddit.com/r/nuclear/comments/1v9xxkw/doe_identifies_five_states_to_hold_nuclear_waste/"
     },
     {
       "date": "2026-07-27",
@@ -75,6 +75,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-07-31",
+      "title": "China approves eight new nuclear power units",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jzm/china_approves_eight_new_nuclear_power_units/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Ap1000 question for Warsaw Poland project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jvh/ap1000_question_for_warsaw_poland_project/"
+    },
     {
       "date": "2026-07-31",
       "title": "Hungarian nuclear power plant to shut down due to record low Danube levels",
@@ -93,7 +103,7 @@
   ],
   "latest_date": "2026-07-31",
   "count_7d": 14,
-  "count_today": 3,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
