@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-07-31T17:07:07.696107+00:00",
+  "generated_at": "2026-07-31T18:55:13.444471+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-31",
+      "title": "Hungarian nuclear power plant to shut down due to record low Danube levels",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vbyqgi/hungarian_nuclear_power_plant_to_shut_down_due_to/"
+    },
     {
       "date": "2026-07-31",
       "title": "Time For The Philippines To Revisit Nuclear Energy Production",
@@ -54,11 +59,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vag78k/china_successfully_completed_testing_of_worlds/"
     },
     {
-      "date": "2026-07-30",
-      "title": "How lasers could help provide fuel for nuclear reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vafi01/how_lasers_could_help_provide_fuel_for_nuclear/"
-    },
-    {
       "date": "2026-07-29",
       "title": "DOE identifies five states to hold nuclear waste",
       "url": "https://www.reddit.com/r/nuclear/comments/1v9xxkw/doe_identifies_five_states_to_hold_nuclear_waste/"
@@ -77,6 +77,11 @@
   "updates_today": [
     {
       "date": "2026-07-31",
+      "title": "Hungarian nuclear power plant to shut down due to record low Danube levels",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vbyqgi/hungarian_nuclear_power_plant_to_shut_down_due_to/"
+    },
+    {
+      "date": "2026-07-31",
       "title": "Time For The Philippines To Revisit Nuclear Energy Production",
       "url": "https://www.reddit.com/r/nuclear/comments/1vbvmb6/time_for_the_philippines_to_revisit_nuclear/"
     },
@@ -88,7 +93,7 @@
   ],
   "latest_date": "2026-07-31",
   "count_7d": 14,
-  "count_today": 2,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
