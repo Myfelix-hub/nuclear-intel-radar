@@ -19,31 +19,13 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
     },
     {
       "site_id": "ans_newswire",
@@ -62,6 +44,24 @@
       "duration_ms": 0,
       "error": null,
       "warning": null
+    },
+    {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "wechat_cnnp",
@@ -145,13 +145,13 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
-      "warning": null
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "doe_ne",
@@ -172,19 +172,19 @@
       "warning": null
     },
     {
-      "site_id": "iter_org",
-      "site_name": "ITER",
+      "site_id": "wnn",
+      "site_name": "World Nuclear News",
       "ok": true,
-      "item_count": 2,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "wnn",
-      "site_name": "World Nuclear News",
+      "site_id": "iter_org",
+      "site_name": "ITER",
       "ok": true,
-      "item_count": 20,
+      "item_count": 2,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2832,
+      "duration_ms": 2934,
       "error": null,
       "warning": null
     },
@@ -302,7 +302,7 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5047,
+      "duration_ms": 5065,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
@@ -368,7 +368,7 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5047,
+      "duration_ms": 5065,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
