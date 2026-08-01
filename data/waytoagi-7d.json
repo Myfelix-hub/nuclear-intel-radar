@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:05:42.353675+00:00",
+  "generated_at": "2026-08-01T11:44:16.997618+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -22,11 +22,6 @@
       "date": "2026-07-27",
       "title": "3D Printed Nuclear Reactor [video]",
       "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Fusion Is Ready. Is Trump's Washington?",
-      "url": "https://www.politico.com/news/magazine/2026/07/24/nuclear-fusion-commonwealth-washington-massachusetts-01010625"
     }
   ],
   "updates_today": [
@@ -37,7 +32,7 @@
     }
   ],
   "latest_date": "2026-07-31",
-  "count_7d": 5,
+  "count_7d": 4,
   "count_today": 1,
   "has_error": false,
   "error": null,
