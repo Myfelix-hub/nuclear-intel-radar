@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-08-01T01:05:50.430689+00:00",
+  "generated_at": "2026-08-01T04:57:02.062174+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-07-31",
-      "title": "Aalo claims they can hit 15 cents/kWh with their first reactor and 10 cents with Nth reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vc6rma/aalo_claims_they_can_hit_15_centskwh_with_their/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "China approves eight new nuclear power units",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jzm/china_approves_eight_new_nuclear_power_units/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Ap1000 question for Warsaw Poland project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jvh/ap1000_question_for_warsaw_poland_project/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Hungarian nuclear power plant to shut down due to record low Danube levels",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vbyqgi/hungarian_nuclear_power_plant_to_shut_down_due_to/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Time For The Philippines To Revisit Nuclear Energy Production",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vbvmb6/time_for_the_philippines_to_revisit_nuclear/"
-    },
-    {
-      "date": "2026-07-31",
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "url": "https://www.bbc.com/news/articles/cn0nqv05g0do"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Commonwealth Fusion Systems Raises Another $1 Billion, Bringing Total Capital Raised to $4 Bill…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vb19f3/commonwealth_fusion_systems_raises_another_1/"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Massive federal nuclear project could land in Oklahoma",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vau44k/massive_federal_nuclear_project_could_land_in/"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Sixth Tokamak Sector Module Lowered Into Place At Iter Fusion Project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1varbv3/sixth_tokamak_sector_module_lowered_into_place_at/"
     },
     {
       "date": "2026-07-30",
@@ -72,38 +32,13 @@
   "updates_today": [
     {
       "date": "2026-07-31",
-      "title": "Aalo claims they can hit 15 cents/kWh with their first reactor and 10 cents with Nth reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vc6rma/aalo_claims_they_can_hit_15_centskwh_with_their/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "China approves eight new nuclear power units",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jzm/china_approves_eight_new_nuclear_power_units/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Ap1000 question for Warsaw Poland project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jvh/ap1000_question_for_warsaw_poland_project/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Hungarian nuclear power plant to shut down due to record low Danube levels",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vbyqgi/hungarian_nuclear_power_plant_to_shut_down_due_to/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Time For The Philippines To Revisit Nuclear Energy Production",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vbvmb6/time_for_the_philippines_to_revisit_nuclear/"
-    },
-    {
-      "date": "2026-07-31",
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "url": "https://www.bbc.com/news/articles/cn0nqv05g0do"
     }
   ],
   "latest_date": "2026-07-31",
-  "count_7d": 13,
-  "count_today": 6,
+  "count_7d": 5,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
