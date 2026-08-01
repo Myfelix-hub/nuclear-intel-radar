@@ -1,33 +1,6 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
       "site_id": "powermag",
       "site_name": "POWER Magazine",
       "ok": true,
@@ -46,12 +19,39 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 9,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
       "warning": null
     },
     {
@@ -145,12 +145,12 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 9,
       "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "error": null,
       "warning": null
     },
     {
@@ -158,15 +158,6 @@
       "site_name": "US DOE Nuclear Energy",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
-      "ok": true,
-      "item_count": 3,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -185,6 +176,15 @@
       "site_name": "World Nuclear News",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
+      "ok": true,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2578,
+      "duration_ms": 2850,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 8,
-      "duration_ms": 5681,
+      "item_count": 9,
+      "duration_ms": 5453,
       "error": null,
       "warning": null
     }
@@ -364,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 130,
-  "items_before_topic_filter": 130,
+  "fetched_raw_items": 131,
+  "items_before_topic_filter": 131,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
