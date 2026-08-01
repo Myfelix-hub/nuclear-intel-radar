@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-07-31T23:09:36.364067+00:00",
+  "generated_at": "2026-08-01T01:05:50.430689+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-07-31",
+      "title": "Aalo claims they can hit 15 cents/kWh with their first reactor and 10 cents with Nth reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc6rma/aalo_claims_they_can_hit_15_centskwh_with_their/"
+    },
     {
       "date": "2026-07-31",
       "title": "China approves eight new nuclear power units",
@@ -27,11 +32,6 @@
       "date": "2026-07-31",
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "url": "https://www.bbc.com/news/articles/cn0nqv05g0do"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do"
     },
     {
       "date": "2026-07-30",
@@ -59,11 +59,6 @@
       "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
     },
     {
-      "date": "2026-07-30",
-      "title": "China Successfully Completed Testing of World’s Largest 582-Ton Fusion Magnet, Capable Of Captu…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vag78k/china_successfully_completed_testing_of_worlds/"
-    },
-    {
       "date": "2026-07-27",
       "title": "3D Printed Nuclear Reactor [video]",
       "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
@@ -75,6 +70,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-07-31",
+      "title": "Aalo claims they can hit 15 cents/kWh with their first reactor and 10 cents with Nth reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc6rma/aalo_claims_they_can_hit_15_centskwh_with_their/"
+    },
     {
       "date": "2026-07-31",
       "title": "China approves eight new nuclear power units",
@@ -102,8 +102,8 @@
     }
   ],
   "latest_date": "2026-07-31",
-  "count_7d": 14,
-  "count_today": 5,
+  "count_7d": 13,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
