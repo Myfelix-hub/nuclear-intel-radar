@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T15:06:45.456268+00:00",
+  "generated_at": "2026-08-01T16:30:13.100069+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -40,11 +40,6 @@
     },
     {
       "date": "2026-07-30",
-      "title": "Commonwealth Fusion Systems Raises Another $1 Billion, Bringing Total Capital Raised to $4 Bill…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vb19f3/commonwealth_fusion_systems_raises_another_1/"
-    },
-    {
-      "date": "2026-07-30",
       "title": "Massive federal nuclear project could land in Oklahoma",
       "url": "https://www.reddit.com/r/nuclear/comments/1vau44k/massive_federal_nuclear_project_could_land_in/"
     },
@@ -77,7 +72,7 @@
     }
   ],
   "latest_date": "2026-08-01",
-  "count_7d": 13,
+  "count_7d": 12,
   "count_today": 1,
   "has_error": false,
   "error": null,
