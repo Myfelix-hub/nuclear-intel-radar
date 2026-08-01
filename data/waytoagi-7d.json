@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-01T17:37:19.023060+00:00",
+  "generated_at": "2026-08-01T19:19:45.559913+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-01",
+      "title": "Japan aims to rebuild two to five nuclear reactors by 2040s",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vctmdy/japan_aims_to_rebuild_two_to_five_nuclear/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "What does your reactor use for a startup neutron source?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vcsddj/what_does_your_reactor_use_for_a_startup_neutron/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vcnxxa/vc_money_floods_into_us_nuclear_startups_as_ai/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Aalo claims they can hit 15 cents/kWh with their first reactor and 10 cents with Nth reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc6rma/aalo_claims_they_can_hit_15_centskwh_with_their/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "China approves eight new nuclear power units",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jzm/china_approves_eight_new_nuclear_power_units/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Ap1000 question for Warsaw Poland project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jvh/ap1000_question_for_warsaw_poland_project/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Hungarian nuclear power plant to shut down due to record low Danube levels",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vbyqgi/hungarian_nuclear_power_plant_to_shut_down_due_to/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Time For The Philippines To Revisit Nuclear Energy Production",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vbvmb6/time_for_the_philippines_to_revisit_nuclear/"
+    },
     {
       "date": "2026-07-31",
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
@@ -26,14 +66,24 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-31",
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do"
+      "date": "2026-08-01",
+      "title": "Japan aims to rebuild two to five nuclear reactors by 2040s",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vctmdy/japan_aims_to_rebuild_two_to_five_nuclear/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "What does your reactor use for a startup neutron source?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vcsddj/what_does_your_reactor_use_for_a_startup_neutron/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vcnxxa/vc_money_floods_into_us_nuclear_startups_as_ai/"
     }
   ],
-  "latest_date": "2026-07-31",
-  "count_7d": 4,
-  "count_today": 1,
+  "latest_date": "2026-08-01",
+  "count_7d": 12,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
