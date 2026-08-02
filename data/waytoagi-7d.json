@@ -1,12 +1,67 @@
 {
-  "generated_at": "2026-08-02T17:34:41.271053+00:00",
+  "generated_at": "2026-08-02T19:20:46.834827+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-08-02",
+      "title": "Canada built its nuclear industry to avoid foreign fuel. Its new reactors will depend on it",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdqlwm/canada_built_its_nuclear_industry_to_avoid/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "State Insurers Secure NPCIL Nuclear Insurance with Unprecedented Discount, ETEnergyworld",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdoxdm/state_insurers_secure_npcil_nuclear_insurance/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "US: Strategic partnership could accelerate 100 MW SMR deployment",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdn5nk/us_strategic_partnership_could_accelerate_100_mw/"
+    },
+    {
+      "date": "2026-08-02",
       "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
       "url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "China makes major nuclear expansion move, adds four new projects",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdishg/china_makes_major_nuclear_expansion_move_adds/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Hey there! An anti nuclear politician from my home state of Tennessee wrote this. I would love …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vd66hz/hey_there_an_anti_nuclear_politician_from_my_home/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Inside America's Unprecedented Nuclear Plan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vd2wod/inside_americas_unprecedented_nuclear_plan/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Japan aims to rebuild two to five nuclear reactors by 2040s",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vctmdy/japan_aims_to_rebuild_two_to_five_nuclear/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "What does your reactor use for a startup neutron source?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vcsddj/what_does_your_reactor_use_for_a_startup_neutron/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vcnxxa/vc_money_floods_into_us_nuclear_startups_as_ai/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Aalo claims they can hit 15 cents/kWh with their first reactor and 10 cents with Nth reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc6rma/aalo_claims_they_can_hit_15_centskwh_with_their/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "China approves eight new nuclear power units",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jzm/china_approves_eight_new_nuclear_power_units/"
     },
     {
       "date": "2026-07-31",
@@ -32,13 +87,43 @@
   "updates_today": [
     {
       "date": "2026-08-02",
+      "title": "Canada built its nuclear industry to avoid foreign fuel. Its new reactors will depend on it",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdqlwm/canada_built_its_nuclear_industry_to_avoid/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "State Insurers Secure NPCIL Nuclear Insurance with Unprecedented Discount, ETEnergyworld",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdoxdm/state_insurers_secure_npcil_nuclear_insurance/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "US: Strategic partnership could accelerate 100 MW SMR deployment",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdn5nk/us_strategic_partnership_could_accelerate_100_mw/"
+    },
+    {
+      "date": "2026-08-02",
       "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
       "url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "China makes major nuclear expansion move, adds four new projects",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdishg/china_makes_major_nuclear_expansion_move_adds/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Hey there! An anti nuclear politician from my home state of Tennessee wrote this. I would love …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vd66hz/hey_there_an_anti_nuclear_politician_from_my_home/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Inside America's Unprecedented Nuclear Plan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vd2wod/inside_americas_unprecedented_nuclear_plan/"
     }
   ],
   "latest_date": "2026-08-02",
-  "count_7d": 5,
-  "count_today": 1,
+  "count_7d": 16,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
