@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T16:06:20.113217+00:00",
+  "generated_at": "2026-08-02T17:34:41.271053+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,66 +7,6 @@
       "date": "2026-08-02",
       "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
       "url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "China makes major nuclear expansion move, adds four new projects",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vdishg/china_makes_major_nuclear_expansion_move_adds/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Hey there! An anti nuclear politician from my home state of Tennessee wrote this. I would love …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vd66hz/hey_there_an_anti_nuclear_politician_from_my_home/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Nuclear power model",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vd4jzy/nuclear_power_model/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Inside America's Unprecedented Nuclear Plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vd2wod/inside_americas_unprecedented_nuclear_plan/"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "Japan aims to rebuild two to five nuclear reactors by 2040s",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vctmdy/japan_aims_to_rebuild_two_to_five_nuclear/"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "What does your reactor use for a startup neutron source?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vcsddj/what_does_your_reactor_use_for_a_startup_neutron/"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vcnxxa/vc_money_floods_into_us_nuclear_startups_as_ai/"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "Is the EPR reactor really more expensive to build compared to the ap1000",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vcji8o/is_the_epr_reactor_really_more_expensive_to_build/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Aalo claims they can hit 15 cents/kWh with their first reactor and 10 cents with Nth reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vc6rma/aalo_claims_they_can_hit_15_centskwh_with_their/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "China approves eight new nuclear power units",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vc0jzm/china_approves_eight_new_nuclear_power_units/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "BWRX300 expert",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vbzt1x/bwrx300_expert/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Hungarian nuclear power plant to shut down due to record low Danube levels",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vbyqgi/hungarian_nuclear_power_plant_to_shut_down_due_to/"
     },
     {
       "date": "2026-07-31",
@@ -94,31 +34,11 @@
       "date": "2026-08-02",
       "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
       "url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "China makes major nuclear expansion move, adds four new projects",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vdishg/china_makes_major_nuclear_expansion_move_adds/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Hey there! An anti nuclear politician from my home state of Tennessee wrote this. I would love …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vd66hz/hey_there_an_anti_nuclear_politician_from_my_home/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Nuclear power model",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vd4jzy/nuclear_power_model/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Inside America's Unprecedented Nuclear Plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vd2wod/inside_americas_unprecedented_nuclear_plan/"
     }
   ],
   "latest_date": "2026-08-02",
-  "count_7d": 17,
-  "count_today": 5,
+  "count_7d": 5,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
