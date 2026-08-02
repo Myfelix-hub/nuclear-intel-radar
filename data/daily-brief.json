@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-01T22:31:32.419861+00:00",
+  "generated_at": "2026-08-02T00:02:46.982092+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-23a28b60214d9fc4",
+      "title": "New US Nuclear Fuel Facilities Target 5-Metric-Ton Uranium Production for Advanced Reactors",
+      "representative_url": "https://interestingengineering.com/energy/us-nuclear-fuel-facilities-uranium-production",
+      "first_published_at": "2026-08-02T00:02:46.982092+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 4.8
+    },
+    {
+      "story_id": "story-77bd9c128cffd0c6",
+      "title": "TerraPower Becomes First Advanced Reactor Company to Join INPO",
+      "representative_url": "https://www.ans.org/news/2026-07-24/article-8243/terrapower-becomes-first-advanced-reactor-company-to-join-inpo/",
+      "first_published_at": "2026-08-02T00:02:46.982092+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 4.8
+    },
     {
       "story_id": "story-19690803e54634f7",
       "title": "Holtec Targets 2036 for 1.36-GW SMR-300 Project at Oyster Creek",
@@ -17,6 +47,21 @@
       "source_tier_rank": 4,
       "primary_section": "tech",
       "score": 3.75
+    },
+    {
+      "story_id": "story-6510ef5f9d8a615e",
+      "title": "Amb. Waltz: Saudis Buying Civil Nuclear Reactors From U.S. — No Enrichment On Saudi Soil",
+      "representative_url": "https://www.yahoo.com/news/politics/articles/amb-waltz-saudis-buying-civil-130000481.html",
+      "first_published_at": "2026-08-02T00:02:46.982092+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 3.6
     },
     {
       "story_id": "story-605d1d3eafd197ed",
@@ -64,10 +109,40 @@
       "score": 3.25
     },
     {
+      "story_id": "story-7cf3a638ed31c3ec",
+      "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
+      "representative_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Receives-U-S--Department-of-Energy-Startup-Authorization-for-Groves-Reactor-Clearing-Way-for-Fuel-Loading-and-First-Criticality/default.aspx",
+      "first_published_at": "2026-08-02T00:02:46.982092+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.8
+    },
+    {
+      "story_id": "story-ccea046004f486c0",
+      "title": "UK Start-Up Nuclear Turbines Unveils Novel Reactor Concept",
+      "representative_url": "https://world-nuclear-news.org/articles/uk-start-up-nuclear-turbines-unveils-novel-reactor-concept",
+      "first_published_at": "2026-08-02T00:02:46.982092+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "safety",
+      "score": 2.8
+    },
+    {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-01T22:31:32.419861+00:00",
+      "first_published_at": "2026-08-02T00:02:46.982092+00:00",
       "sources": [
         "kairos"
       ],
@@ -77,81 +152,6 @@
       "source_tier_rank": 2,
       "primary_section": "tech",
       "score": 2.7
-    },
-    {
-      "story_id": "story-ec275d024c79f1bd",
-      "title": "中核集团人事密集调整！涉及江苏核电等！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-01T22:31:32.419861+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "china",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-6dc9add4ab243f52",
-      "title": "这家核电机组FCD！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-01T22:31:32.419861+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-c1ab5a283f6eeec8",
-      "title": "Commonwealth Fusion Systems Raises Another $1 Billion as Work on Commercial Power Plant Continu…",
-      "representative_url": "https://www.powermag.com/commonwealth-fusion-systems-raises-another-1-billion-as-work-on-commercial-power-plant-continues/",
-      "first_published_at": "2026-07-30T04:01:19+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.45,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "tech",
-      "score": 2.25
-    },
-    {
-      "story_id": "story-fd169a36f511f252",
-      "title": "The HALEU Transport Problem Isn’t Radiation. It’s Criticality",
-      "representative_url": "https://neutronbytes.com/2026/07/31/the-haleu-transport-problem-isnt-radiation-its-criticality/",
-      "first_published_at": "2026-07-31T14:45:11+00:00",
-      "sources": [
-        "neutronbytes"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.05,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "safety",
-      "score": 2.1
-    },
-    {
-      "story_id": "story-ede95f29343b223b",
-      "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
-      "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-08-01T22:31:32.419861+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "fuel",
-      "score": 1.7999999999999998
     }
   ]
 }
