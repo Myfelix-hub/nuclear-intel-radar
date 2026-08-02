@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-08-02T21:29:53.390131+00:00",
+  "generated_at": "2026-08-02T22:32:27.042523+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-08-02",
+      "title": "China Approves $25 Billion Nuclear Expansion as Energy Demand Soars",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vds6oe/china_approves_25_billion_nuclear_expansion_as/"
+    },
+    {
+      "date": "2026-08-02",
       "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
       "url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Nuclear power model",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vd4jzy/nuclear_power_model/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Is the EPR reactor really more expensive to build compared to the ap1000",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vcji8o/is_the_epr_reactor_really_more_expensive_to_build/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "BWRX300 expert",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vbzt1x/bwrx300_expert/"
     },
     {
       "date": "2026-07-31",
@@ -32,13 +52,23 @@
   "updates_today": [
     {
       "date": "2026-08-02",
+      "title": "China Approves $25 Billion Nuclear Expansion as Energy Demand Soars",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vds6oe/china_approves_25_billion_nuclear_expansion_as/"
+    },
+    {
+      "date": "2026-08-02",
       "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
       "url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Nuclear power model",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vd4jzy/nuclear_power_model/"
     }
   ],
   "latest_date": "2026-08-02",
-  "count_7d": 5,
-  "count_today": 1,
+  "count_7d": 9,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
