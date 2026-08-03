@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-08-03T17:14:22.878154+00:00",
+  "generated_at": "2026-08-03T19:07:55.685073+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
-    {
-      "story_id": "story-5588878e43b02b97",
-      "title": "Is the EPR reactor really more expensive to build compared to the ap1000",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vcji8o/is_the_epr_reactor_really_more_expensive_to_build/",
-      "first_published_at": "2026-08-01T10:12:28+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 5.4
-    },
     {
       "story_id": "story-d0974e54b7a4c751",
       "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
@@ -64,10 +49,40 @@
       "score": 3.5999999999999996
     },
     {
+      "story_id": "story-77dd3c5f525ac209",
+      "title": "Just how crazily safe are the current fleet of nuclear reactors? Lets talk...",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vdqyt4/just_how_crazily_safe_are_the_current_fleet_of/",
+      "first_published_at": "2026-08-02T19:22:45+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-dd2f134a301a2a21",
+      "title": "Canada built its nuclear industry to avoid foreign fuel. Its new reactors will depend on it",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vdqlwm/canada_built_its_nuclear_industry_to_avoid/",
+      "first_published_at": "2026-08-02T19:09:00+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "newbuild",
+      "score": 3.5999999999999996
+    },
+    {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-03T17:14:22.878154+00:00",
+      "first_published_at": "2026-08-03T19:07:55.685073+00:00",
       "sources": [
         "kairos"
       ],
@@ -82,7 +97,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-03T17:14:22.878154+00:00",
+      "first_published_at": "2026-08-03T19:07:55.685073+00:00",
       "sources": [
         "kairos"
       ],
@@ -94,10 +109,10 @@
       "score": 2.7
     },
     {
-      "story_id": "story-c7528fcdf79cd2a2",
-      "title": "China Approves $25 Billion Nuclear Expansion as Energy Demand Soars",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vds6oe/china_approves_25_billion_nuclear_expansion_as/",
-      "first_published_at": "2026-08-02T20:10:25+00:00",
+      "story_id": "story-ef30c67a900f8e9d",
+      "title": "State Insurers Secure NPCIL Nuclear Insurance with Unprecedented Discount, ETEnergyworld",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vdoxdm/state_insurers_secure_npcil_nuclear_insurance/",
+      "first_published_at": "2026-08-02T18:04:22+00:00",
       "sources": [
         "reddit_nuclear"
       ],
@@ -112,7 +127,7 @@
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-03T17:14:22.878154+00:00",
+      "first_published_at": "2026-08-03T19:07:55.685073+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -127,7 +142,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-03T17:14:22.878154+00:00",
+      "first_published_at": "2026-08-03T19:07:55.685073+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -137,21 +152,6 @@
       "source_tier_rank": 3,
       "primary_section": "newbuild",
       "score": 2.4
-    },
-    {
-      "story_id": "story-bbf52919499422b0",
-      "title": "Timmerman Power Plant Unit 1: A Fast-Track Blueprint for Flexible Power in Texas",
-      "representative_url": "https://www.powermag.com/timmerman-power-plant-unit-1-a-fast-track-blueprint-for-flexible-power-in-texas/",
-      "first_published_at": "2026-08-03T11:32:12+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 2.0
     }
   ]
 }
