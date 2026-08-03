@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-03T22:12:53.554143+00:00",
+  "generated_at": "2026-08-03T23:39:29.536651+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-03",
+      "title": "AEP Nuclear plans",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vetnu3/aep_nuclear_plans/"
+    },
     {
       "date": "2026-08-03",
       "title": "Holtec Targets 2036 for 1.36-GW SMR-300 Project at Oyster Creek",
@@ -79,11 +84,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vdishg/china_makes_major_nuclear_expansion_move_adds/"
     },
     {
-      "date": "2026-08-02",
-      "title": "Hey there! An anti nuclear politician from my home state of Tennessee wrote this. I would love …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vd66hz/hey_there_an_anti_nuclear_politician_from_my_home/"
-    },
-    {
       "date": "2026-07-31",
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "url": "https://www.bbc.com/news/articles/cn0nqv05g0do"
@@ -100,6 +100,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-08-03",
+      "title": "AEP Nuclear plans",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vetnu3/aep_nuclear_plans/"
+    },
     {
       "date": "2026-08-03",
       "title": "Holtec Targets 2036 for 1.36-GW SMR-300 Project at Oyster Creek",
@@ -138,7 +143,7 @@
   ],
   "latest_date": "2026-08-03",
   "count_7d": 19,
-  "count_today": 7,
+  "count_today": 8,
   "has_error": false,
   "error": null,
   "warning": null
