@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-03T07:59:12.581495+00:00",
+  "generated_at": "2026-08-03T11:38:26.089611+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-03",
+      "title": "Romania explodes rock to get more water flow to nuclear reactor",
+      "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates"
+    },
     {
       "date": "2026-08-02",
       "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
@@ -26,13 +31,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-02",
-      "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
-      "url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/"
+      "date": "2026-08-03",
+      "title": "Romania explodes rock to get more water flow to nuclear reactor",
+      "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates"
     }
   ],
-  "latest_date": "2026-08-02",
-  "count_7d": 4,
+  "latest_date": "2026-08-03",
+  "count_7d": 5,
   "count_today": 1,
   "has_error": false,
   "error": null,
