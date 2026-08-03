@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-08-02T22:32:27.042523+00:00",
+  "generated_at": "2026-08-03T00:03:48.665465+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
-    {
-      "story_id": "story-5588878e43b02b97",
-      "title": "Is the EPR reactor really more expensive to build compared to the ap1000",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vcji8o/is_the_epr_reactor_really_more_expensive_to_build/",
-      "first_published_at": "2026-08-01T10:12:28+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 5.4
-    },
     {
       "story_id": "story-6ebf1e216ca25b4c",
       "title": "Chinese Government Approves Eight New Nuclear Units as Major Reactor Buildout Continues",
@@ -37,7 +22,7 @@
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-02T22:32:27.042523+00:00",
+      "first_published_at": "2026-08-03T00:03:48.665465+00:00",
       "sources": [
         "kairos"
       ],
@@ -49,25 +34,10 @@
       "score": 2.7
     },
     {
-      "story_id": "story-c7528fcdf79cd2a2",
-      "title": "China Approves $25 Billion Nuclear Expansion as Energy Demand Soars",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vds6oe/china_approves_25_billion_nuclear_expansion_as/",
-      "first_published_at": "2026-08-02T20:10:25+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
-    },
-    {
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-02T22:32:27.042523+00:00",
+      "first_published_at": "2026-08-03T00:03:48.665465+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -82,7 +52,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-02T22:32:27.042523+00:00",
+      "first_published_at": "2026-08-03T00:03:48.665465+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -112,7 +82,7 @@
       "story_id": "story-ede95f29343b223b",
       "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
       "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-08-02T22:32:27.042523+00:00",
+      "first_published_at": "2026-08-03T00:03:48.665465+00:00",
       "sources": [
         "kairos"
       ],
@@ -127,7 +97,7 @@
       "story_id": "story-5e7a7765e34fe669",
       "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-08-02T22:32:27.042523+00:00",
+      "first_published_at": "2026-08-03T00:03:48.665465+00:00",
       "sources": [
         "kairos"
       ],
@@ -139,10 +109,10 @@
       "score": 1.7999999999999998
     },
     {
-      "story_id": "story-8a0af80df57eda8e",
-      "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
-      "representative_url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/",
-      "first_published_at": "2026-08-02T15:33:07+00:00",
+      "story_id": "story-f0d1c003a16d2b41",
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "representative_url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+      "first_published_at": "2026-07-31T07:33:10+00:00",
       "sources": [
         "hn_nuclear"
       ],
@@ -150,8 +120,38 @@
       "nuclear_score": 0.3,
       "source_tier": "community",
       "source_tier_rank": 5,
-      "primary_section": "community",
+      "primary_section": "safety",
       "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-2ae0559d60396e3b",
+      "title": "试验成功！漳州核电，快发电了！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
+      "first_published_at": "2026-08-03T00:03:48.665465+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 1.6
+    },
+    {
+      "story_id": "story-09edd47f6ce41eb8",
+      "title": "中广核新能源江西分公司原总经理邓东被查！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17539",
+      "first_published_at": "2026-08-03T00:03:48.665465+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 1.6
     }
   ]
 }
