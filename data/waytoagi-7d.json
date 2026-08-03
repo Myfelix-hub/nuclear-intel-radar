@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-08-03T00:03:48.665465+00:00",
+  "generated_at": "2026-08-03T04:08:44.199729+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-02",
+      "title": "DOE selected five campus finalists for co-located enrichment, fuel fabrication, and waste. whic…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdx4g7/doe_selected_five_campus_finalists_for_colocated/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Regarding Iran and medical grade isotopes.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdx2zr/regarding_iran_and_medical_grade_isotopes/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Just how crazily safe are the current fleet of nuclear reactors? Lets talk...",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdqyt4/just_how_crazily_safe_are_the_current_fleet_of/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Canada built its nuclear industry to avoid foreign fuel. Its new reactors will depend on it",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdqlwm/canada_built_its_nuclear_industry_to_avoid/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "State Insurers Secure NPCIL Nuclear Insurance with Unprecedented Discount, ETEnergyworld",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdoxdm/state_insurers_secure_npcil_nuclear_insurance/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "US: Strategic partnership could accelerate 100 MW SMR deployment",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdn5nk/us_strategic_partnership_could_accelerate_100_mw/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
+      "url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "China makes major nuclear expansion move, adds four new projects",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdishg/china_makes_major_nuclear_expansion_move_adds/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Hey there! An anti nuclear politician from my home state of Tennessee wrote this. I would love …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vd66hz/hey_there_an_anti_nuclear_politician_from_my_home/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Inside America's Unprecedented Nuclear Plan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vd2wod/inside_americas_unprecedented_nuclear_plan/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Japan aims to rebuild two to five nuclear reactors by 2040s",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vctmdy/japan_aims_to_rebuild_two_to_five_nuclear/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "What does your reactor use for a startup neutron source?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vcsddj/what_does_your_reactor_use_for_a_startup_neutron/"
+    },
     {
       "date": "2026-07-31",
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
@@ -26,14 +86,59 @@
   ],
   "updates_today": [
     {
-      "date": "2026-07-31",
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do"
+      "date": "2026-08-02",
+      "title": "DOE selected five campus finalists for co-located enrichment, fuel fabrication, and waste. whic…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdx4g7/doe_selected_five_campus_finalists_for_colocated/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Regarding Iran and medical grade isotopes.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdx2zr/regarding_iran_and_medical_grade_isotopes/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Just how crazily safe are the current fleet of nuclear reactors? Lets talk...",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdqyt4/just_how_crazily_safe_are_the_current_fleet_of/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Canada built its nuclear industry to avoid foreign fuel. Its new reactors will depend on it",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdqlwm/canada_built_its_nuclear_industry_to_avoid/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "State Insurers Secure NPCIL Nuclear Insurance with Unprecedented Discount, ETEnergyworld",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdoxdm/state_insurers_secure_npcil_nuclear_insurance/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "US: Strategic partnership could accelerate 100 MW SMR deployment",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdn5nk/us_strategic_partnership_could_accelerate_100_mw/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Hungary to shut down sole nuclear plant as Danube falls to record low",
+      "url": "https://www.reuters.com/business/energy/hungarys-paks-nuclear-plant-could-be-powered-down-this-weekend-pm-says-2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "China makes major nuclear expansion move, adds four new projects",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vdishg/china_makes_major_nuclear_expansion_move_adds/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Hey there! An anti nuclear politician from my home state of Tennessee wrote this. I would love …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vd66hz/hey_there_an_anti_nuclear_politician_from_my_home/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Inside America's Unprecedented Nuclear Plan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vd2wod/inside_americas_unprecedented_nuclear_plan/"
     }
   ],
-  "latest_date": "2026-07-31",
-  "count_7d": 4,
-  "count_today": 1,
+  "latest_date": "2026-08-02",
+  "count_7d": 16,
+  "count_today": 10,
   "has_error": false,
   "error": null,
   "warning": null
