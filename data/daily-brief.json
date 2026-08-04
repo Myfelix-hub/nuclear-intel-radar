@@ -1,21 +1,82 @@
 {
-  "generated_at": "2026-08-04T16:57:50.579863+00:00",
+  "generated_at": "2026-08-04T18:44:56.356495+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-d0974e54b7a4c751",
+      "story_id": "story-df595a3aa8178ee4",
       "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "representative_url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vez9q7/romania_blasts_rock_to_divert_water_from/",
       "first_published_at": "2026-08-03T16:34:32+00:00",
       "sources": [
+        "reddit_nuclear",
         "hn_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 6.095329850015803
+    },
+    {
+      "story_id": "story-d0706d0d1b5a76e5",
+      "title": "Dual SMR-300 reactors to boost US Gulf South grid with 680 MW power",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vfg9tc/dual_smr300_reactors_to_boost_us_gulf_south_grid/",
+      "first_published_at": "2026-08-04T17:03:33+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-cf256c77ca7fcd7a",
+      "title": "Nuclear Reactors shutting down all over Europe",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vf29bd/nuclear_reactors_shutting_down_all_over_europe/",
+      "first_published_at": "2026-08-04T06:25:17+00:00",
+      "sources": [
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
       "source_tier": "community",
       "source_tier_rank": 5,
       "primary_section": "community",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-fe87382dd3d05600",
+      "title": "Hualong One nuclear power unit starts operation in south China",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vezjuu/hualong_one_nuclear_power_unit_starts_operation/",
+      "first_published_at": "2026-08-04T04:00:01+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "newbuild",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-082312df35b77cc6",
+      "title": "A thermal natural uranium breeder reactor for large and small applications with passive safegua…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vexn2k/a_thermal_natural_uranium_breeder_reactor_for/",
+      "first_published_at": "2026-08-04T02:27:50+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
       "score": 3.5999999999999996
     },
     {
@@ -52,7 +113,7 @@
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-04T16:57:50.579863+00:00",
+      "first_published_at": "2026-08-04T18:44:56.356495+00:00",
       "sources": [
         "kairos"
       ],
@@ -67,7 +128,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-04T16:57:50.579863+00:00",
+      "first_published_at": "2026-08-04T18:44:56.356495+00:00",
       "sources": [
         "kairos"
       ],
@@ -82,7 +143,7 @@
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-04T16:57:50.579863+00:00",
+      "first_published_at": "2026-08-04T18:44:56.356495+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -92,66 +153,6 @@
       "source_tier_rank": 3,
       "primary_section": "china",
       "score": 2.4
-    },
-    {
-      "story_id": "story-6dc9add4ab243f52",
-      "title": "这家核电机组FCD！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-04T16:57:50.579863+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-d2dfbefa1439140c",
-      "title": "ANS webinar looks at radiation studies and living near nuclear plants",
-      "representative_url": "https://www.ans.org/news/2026-08-03/article-8263/ans-webinar-looks-at-radiation-studies-and-living-near-nuclear-plants/",
-      "first_published_at": "2026-08-03T12:26:14+00:00",
-      "sources": [
-        "ans_newswire"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.95,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "safety",
-      "score": 1.9
-    },
-    {
-      "story_id": "story-ede95f29343b223b",
-      "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
-      "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-08-04T16:57:50.579863+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "fuel",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-5e7a7765e34fe669",
-      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-08-04T16:57:50.579863+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 1.7999999999999998
     }
   ]
 }
