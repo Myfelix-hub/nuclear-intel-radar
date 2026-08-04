@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-04T18:44:56.356495+00:00",
+  "generated_at": "2026-08-04T20:37:30.616303+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-04",
+      "title": "Groves Update: The Science of Starting a Nuclear Reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vfkif4/groves_update_the_science_of_starting_a_nuclear/"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "US-Canada firms join hands to test thorium nuclear fuel in reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vfjmz2/uscanada_firms_join_hands_to_test_thorium_nuclear/"
+    },
     {
       "date": "2026-08-04",
       "title": "Dual SMR-300 reactors to boost US Gulf South grid with 680 MW power",
@@ -60,23 +70,8 @@
     },
     {
       "date": "2026-08-03",
-      "title": "Work in an nuclear plant - dangerous?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vegz8k/work_in_an_nuclear_plant_dangerous/"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "India’s nuclear power push is becoming more expensive than planned. Govt tells why",
-      "url": "https://www.reddit.com/r/nuclear/comments/1veb60y/indias_nuclear_power_push_is_becoming_more/"
-    },
-    {
-      "date": "2026-08-03",
       "title": "Romania explodes rock to get more water flow to nuclear reactor",
       "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Italy looking to reboot nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1ve36ba/italy_looking_to_reboot_nuclear_power/"
     },
     {
       "date": "2026-08-02",
@@ -100,6 +95,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-08-04",
+      "title": "Groves Update: The Science of Starting a Nuclear Reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vfkif4/groves_update_the_science_of_starting_a_nuclear/"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "US-Canada firms join hands to test thorium nuclear fuel in reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vfjmz2/uscanada_firms_join_hands_to_test_thorium_nuclear/"
+    },
     {
       "date": "2026-08-04",
       "title": "Dual SMR-300 reactors to boost US Gulf South grid with 680 MW power",
@@ -137,8 +142,8 @@
     }
   ],
   "latest_date": "2026-08-04",
-  "count_7d": 19,
-  "count_today": 7,
+  "count_7d": 18,
+  "count_today": 9,
   "has_error": false,
   "error": null,
   "warning": null
