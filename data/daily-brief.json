@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T03:17:11.577731+00:00",
+  "generated_at": "2026-08-05T06:08:00.639683+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -52,7 +52,7 @@
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-05T03:17:11.577731+00:00",
+      "first_published_at": "2026-08-05T06:08:00.639683+00:00",
       "sources": [
         "kairos"
       ],
@@ -67,7 +67,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-05T03:17:11.577731+00:00",
+      "first_published_at": "2026-08-05T06:08:00.639683+00:00",
       "sources": [
         "kairos"
       ],
@@ -82,7 +82,7 @@
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-05T03:17:11.577731+00:00",
+      "first_published_at": "2026-08-05T06:08:00.639683+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -97,7 +97,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-05T03:17:11.577731+00:00",
+      "first_published_at": "2026-08-05T06:08:00.639683+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -107,6 +107,21 @@
       "source_tier_rank": 3,
       "primary_section": "newbuild",
       "score": 2.4
+    },
+    {
+      "story_id": "story-38323e8fc371e374",
+      "title": "Nuclear Charge Radii of Sr Isotopes: Reevaluation based on Transition Frequency Measurements in…",
+      "representative_url": "https://arxiv.org/abs/2605.04281",
+      "first_published_at": "2026-08-05T04:00:00+00:00",
+      "sources": [
+        "arxiv_nuclex"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.75,
+      "source_tier": "research",
+      "source_tier_rank": 2,
+      "primary_section": "research",
+      "score": 2.25
     },
     {
       "story_id": "story-d2dfbefa1439140c",
@@ -127,7 +142,7 @@
       "story_id": "story-ede95f29343b223b",
       "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
       "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-08-05T03:17:11.577731+00:00",
+      "first_published_at": "2026-08-05T06:08:00.639683+00:00",
       "sources": [
         "kairos"
       ],
@@ -136,21 +151,6 @@
       "source_tier": "industry",
       "source_tier_rank": 2,
       "primary_section": "fuel",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-5e7a7765e34fe669",
-      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-08-05T03:17:11.577731+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
       "score": 1.7999999999999998
     }
   ]
