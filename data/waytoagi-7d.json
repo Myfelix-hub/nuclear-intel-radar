@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T20:10:44.793357+00:00",
+  "generated_at": "2026-08-05T21:49:43.423790+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -55,11 +55,6 @@
     },
     {
       "date": "2026-08-03",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
-    },
-    {
-      "date": "2026-08-03",
       "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor",
       "url": "https://www.reuters.com/business/energy/hungarys-nuclear-plant-shutdown-due-low-danube-gets-reprieve-until-later-week-2026-08-03/"
     },
@@ -107,7 +102,7 @@
     }
   ],
   "latest_date": "2026-08-05",
-  "count_7d": 16,
+  "count_7d": 15,
   "count_today": 4,
   "has_error": false,
   "error": null,
