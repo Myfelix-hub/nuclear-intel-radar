@@ -1,8 +1,63 @@
 {
-  "generated_at": "2026-08-06T00:53:48.336344+00:00",
+  "generated_at": "2026-08-06T04:19:19.103389+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-06",
+      "title": "First measurement of antineutrinos from spent nuclear fuel confirms emissions persist after rea…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vgtr1n/first_measurement_of_antineutrinos_from_spent/"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Inverted D-coil tokamak",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vgpn1w/inverted_dcoil_tokamak/"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "South Korea’s KEPCO E&C advances marine reactor plan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vgey0z/south_koreas_kepco_ec_advances_marine_reactor_plan/"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "How Much Water Is Consumed by Nuclear Power Plants for Cooling Purposes? → Learn",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vgainu/how_much_water_is_consumed_by_nuclear_power/"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "We’re open to nuclear energy deal with US",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vg5iau/were_open_to_nuclear_energy_deal_with_us/"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Can nuclear power the AI factory? Crusoe and Aalo find out - Capacity",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vfxgtn/can_nuclear_power_the_ai_factory_crusoe_and_aalo/"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Groves Update: The Science of Starting a Nuclear Reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vfkif4/groves_update_the_science_of_starting_a_nuclear/"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "US-Canada firms join hands to test thorium nuclear fuel in reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vfjmz2/uscanada_firms_join_hands_to_test_thorium_nuclear/"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Dual SMR-300 reactors to boost US Gulf South grid with 680 MW power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vfg9tc/dual_smr300_reactors_to_boost_us_gulf_south_grid/"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Nuclear Reactors shutting down all over Europe",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vf29bd/nuclear_reactors_shutting_down_all_over_europe/"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
+    },
     {
       "date": "2026-08-03",
       "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor",
@@ -31,18 +86,18 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-03",
-      "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor",
-      "url": "https://www.reuters.com/business/energy/hungarys-nuclear-plant-shutdown-due-low-danube-gets-reprieve-until-later-week-2026-08-03/"
+      "date": "2026-08-06",
+      "title": "First measurement of antineutrinos from spent nuclear fuel confirms emissions persist after rea…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vgtr1n/first_measurement_of_antineutrinos_from_spent/"
     },
     {
-      "date": "2026-08-03",
-      "title": "Romania explodes rock to get more water flow to nuclear reactor",
-      "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates"
+      "date": "2026-08-06",
+      "title": "Inverted D-coil tokamak",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vgpn1w/inverted_dcoil_tokamak/"
     }
   ],
-  "latest_date": "2026-08-03",
-  "count_7d": 5,
+  "latest_date": "2026-08-06",
+  "count_7d": 16,
   "count_today": 2,
   "has_error": false,
   "error": null,
