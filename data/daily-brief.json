@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-06T12:27:41.221604+00:00",
+  "generated_at": "2026-08-06T14:57:18.724026+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-f8be38324e8b9b2a",
+      "title": "Curio, NuScale, Framatome Join to Support Fuel Solution for Advanced Reactors",
+      "representative_url": "https://www.powermag.com/curio-nuscale-framatome-join-to-support-fuel-solution-for-advanced-reactors/",
+      "first_published_at": "2026-08-06T14:37:56+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.1,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "fuel",
+      "score": 5.5
+    },
+    {
+      "story_id": "story-70358db232576496",
+      "title": "Oklo’s Groves Becomes Fifth DOE Pilot Reactor to Reach Criticality, First on Private Land",
+      "representative_url": "https://www.powermag.com/oklos-groves-becomes-fifth-doe-pilot-reactor-to-reach-criticality-first-on-private-land/",
+      "first_published_at": "2026-08-06T13:27:08+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.1,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "hot",
+      "score": 5.5
+    },
+    {
+      "story_id": "story-15667d5e24c5c720",
+      "title": "DOE Approves Safety Design of Deep Fission’s Underground SMR",
+      "representative_url": "https://www.powermag.com/doe-approves-safety-design-of-deep-fissions-underground-smr/",
+      "first_published_at": "2026-08-06T13:47:17+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.05,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "tech",
+      "score": 5.25
+    },
     {
       "story_id": "story-3d3c053185171037",
       "title": "JET’s final fusion campaigns set a new energy record and hand ITER a legacy of irreplaceable da…",
@@ -19,40 +64,10 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-d0974e54b7a4c751",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "representative_url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
-      "first_published_at": "2026-08-03T16:34:32+00:00",
-      "sources": [
-        "hn_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-25f73d23b9d9452d",
-      "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor",
-      "representative_url": "https://www.reuters.com/business/energy/hungarys-nuclear-plant-shutdown-due-low-danube-gets-reprieve-until-later-week-2026-08-03/",
-      "first_published_at": "2026-08-03T15:47:04+00:00",
-      "sources": [
-        "hn_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-06T12:27:41.221604+00:00",
+      "first_published_at": "2026-08-06T14:57:18.724026+00:00",
       "sources": [
         "kairos"
       ],
@@ -67,7 +82,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-06T12:27:41.221604+00:00",
+      "first_published_at": "2026-08-06T14:57:18.724026+00:00",
       "sources": [
         "kairos"
       ],
@@ -82,7 +97,7 @@
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-06T12:27:41.221604+00:00",
+      "first_published_at": "2026-08-06T14:57:18.724026+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -97,7 +112,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-06T12:27:41.221604+00:00",
+      "first_published_at": "2026-08-06T14:57:18.724026+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -112,7 +127,7 @@
       "story_id": "story-ede95f29343b223b",
       "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
       "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-08-06T12:27:41.221604+00:00",
+      "first_published_at": "2026-08-06T14:57:18.724026+00:00",
       "sources": [
         "kairos"
       ],
@@ -127,7 +142,7 @@
       "story_id": "story-5e7a7765e34fe669",
       "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-08-06T12:27:41.221604+00:00",
+      "first_published_at": "2026-08-06T14:57:18.724026+00:00",
       "sources": [
         "kairos"
       ],
@@ -137,21 +152,6 @@
       "source_tier_rank": 2,
       "primary_section": "policy",
       "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-2ae0559d60396e3b",
-      "title": "试验成功！漳州核电，快发电了！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
-      "first_published_at": "2026-08-06T12:27:41.221604+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "china",
-      "score": 1.6
     }
   ]
 }
