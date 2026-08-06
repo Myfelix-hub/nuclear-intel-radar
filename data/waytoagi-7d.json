@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-06T07:18:55.743696+00:00",
+  "generated_at": "2026-08-06T10:11:53.117112+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-03",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
+    },
     {
       "date": "2026-08-03",
       "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor",
@@ -17,14 +22,14 @@
       "date": "2026-07-31",
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "url": "https://www.bbc.com/news/articles/cn0nqv05g0do"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Low Danube river levels force Romania to shut down its nuclear power reactors",
-      "url": "https://www.reuters.com/business/energy/low-danube-river-levels-force-romania-shut-down-both-its-nuclear-power-reactors-2026-07-29/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-08-03",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
+    },
     {
       "date": "2026-08-03",
       "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor",
@@ -38,7 +43,7 @@
   ],
   "latest_date": "2026-08-03",
   "count_7d": 4,
-  "count_today": 2,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
