@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T20:50:03.767365+00:00",
+  "generated_at": "2026-08-07T21:46:46.326140+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -17,11 +17,6 @@
       "date": "2026-08-07",
       "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
       "url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
     },
     {
       "date": "2026-08-06",
@@ -84,16 +79,11 @@
       "date": "2026-08-07",
       "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
       "url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
     }
   ],
   "latest_date": "2026-08-07",
-  "count_7d": 13,
-  "count_today": 4,
+  "count_7d": 12,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
