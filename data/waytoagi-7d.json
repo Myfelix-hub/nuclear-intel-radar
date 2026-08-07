@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-07T00:43:18.984234+00:00",
+  "generated_at": "2026-08-07T03:54:34.590176+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-07",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
+    },
     {
       "date": "2026-08-06",
       "title": "Oklo cleared to start up test reactor",
@@ -81,34 +86,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-06",
-      "title": "Oklo cleared to start up test reactor",
-      "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "How a Reactor Reaches Initial Criticality: Inside Groves' First Chain Reaction",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vh3sdr/how_a_reactor_reaches_initial_criticality_inside/"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vh2sig/oklos_groves_reactor_achieves_first_criticality/"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "First measurement of antineutrinos from spent nuclear fuel confirms emissions persist after rea…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vgtr1n/first_measurement_of_antineutrinos_from_spent/"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Inverted D-coil tokamak",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vgpn1w/inverted_dcoil_tokamak/"
+      "date": "2026-08-07",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
     }
   ],
-  "latest_date": "2026-08-06",
-  "count_7d": 15,
-  "count_today": 5,
+  "latest_date": "2026-08-07",
+  "count_7d": 16,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
