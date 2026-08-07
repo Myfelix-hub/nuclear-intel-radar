@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-07T21:46:46.326140+00:00",
+  "generated_at": "2026-08-07T22:44:44.999431+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-07",
+      "title": "Drought threatens nuclear generation on the Danube",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vif3k7/drought_threatens_nuclear_generation_on_the_danube/"
+    },
     {
       "date": "2026-08-07",
       "title": "Finnish Radiation and Nuclear Safety Authority gives positive statement and safety review for F…",
@@ -17,6 +22,11 @@
       "date": "2026-08-07",
       "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
       "url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
     },
     {
       "date": "2026-08-06",
@@ -67,6 +77,11 @@
   "updates_today": [
     {
       "date": "2026-08-07",
+      "title": "Drought threatens nuclear generation on the Danube",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vif3k7/drought_threatens_nuclear_generation_on_the_danube/"
+    },
+    {
+      "date": "2026-08-07",
       "title": "Finnish Radiation and Nuclear Safety Authority gives positive statement and safety review for F…",
       "url": "https://www.reddit.com/r/nuclear/comments/1via6na/finnish_radiation_and_nuclear_safety_authority/"
     },
@@ -79,11 +94,16 @@
       "date": "2026-08-07",
       "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
       "url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
     }
   ],
   "latest_date": "2026-08-07",
-  "count_7d": 12,
-  "count_today": 3,
+  "count_7d": 14,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
