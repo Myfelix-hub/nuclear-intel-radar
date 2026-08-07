@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-08-07T10:05:48.763117+00:00",
+  "generated_at": "2026-08-07T11:24:39.793883+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-07",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
-    },
     {
       "date": "2026-08-06",
       "title": "Oklo cleared to start up test reactor",
@@ -26,13 +21,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-07",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
+      "date": "2026-08-06",
+      "title": "Oklo cleared to start up test reactor",
+      "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor"
     }
   ],
-  "latest_date": "2026-08-07",
-  "count_7d": 4,
+  "latest_date": "2026-08-06",
+  "count_7d": 3,
   "count_today": 1,
   "has_error": false,
   "error": null,

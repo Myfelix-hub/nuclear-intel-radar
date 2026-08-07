@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 12,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -19,17 +19,17 @@
       "warning": null
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
       "ok": true,
-      "item_count": 7,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
       "item_count": 10,
       "duration_ms": 0,
@@ -46,10 +46,10 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 10,
+      "item_count": 7,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -210,10 +210,10 @@
     {
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
-      "ok": false,
-      "item_count": 0,
+      "ok": true,
+      "item_count": 141,
       "duration_ms": 0,
-      "error": "nucleartownhall: direct fetch failed — ConnectTimeout: HTTPSConnectionPool(host='nucleartownhall.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host=",
+      "error": null,
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2557,
+      "duration_ms": 2778,
       "error": null,
       "warning": null
     },
@@ -302,12 +302,12 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5021,
+      "duration_ms": 5031,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
   ],
-  "successful_sites": 26,
+  "successful_sites": 27,
   "failed_sites": [
     {
       "site_id": "nucnet",
@@ -325,15 +325,6 @@
       "item_count": 0,
       "duration_ms": 0,
       "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — RetryError: HTTPSConnectionPool(host='www.nrc.gov', port=443): Max retries exceeded with url: | Jina: R",
-      "warning": null
-    },
-    {
-      "site_id": "nucleartownhall",
-      "site_name": "Nuclear Town Hall",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucleartownhall: direct fetch failed — ConnectTimeout: HTTPSConnectionPool(host='nucleartownhall.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host=",
       "warning": null
     },
     {
@@ -377,13 +368,13 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5021,
+      "duration_ms": 5031,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
   ],
-  "fetched_raw_items": 150,
-  "items_before_topic_filter": 150,
+  "fetched_raw_items": 291,
+  "items_before_topic_filter": 291,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
