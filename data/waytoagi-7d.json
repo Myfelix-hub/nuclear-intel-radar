@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T03:54:34.590176+00:00",
+  "generated_at": "2026-08-07T05:45:48.522314+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-08-07",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
+      "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/"
     },
     {
       "date": "2026-08-06",
@@ -60,11 +60,6 @@
     },
     {
       "date": "2026-08-04",
-      "title": "Dual SMR-300 reactors to boost US Gulf South grid with 680 MW power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vfg9tc/dual_smr300_reactors_to_boost_us_gulf_south_grid/"
-    },
-    {
-      "date": "2026-08-04",
       "title": "Nuclear Reactors shutting down all over Europe",
       "url": "https://www.reddit.com/r/nuclear/comments/1vf29bd/nuclear_reactors_shutting_down_all_over_europe/"
     },
@@ -87,12 +82,12 @@
   "updates_today": [
     {
       "date": "2026-08-07",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
+      "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/"
     }
   ],
   "latest_date": "2026-08-07",
-  "count_7d": 16,
+  "count_7d": 15,
   "count_today": 1,
   "has_error": false,
   "error": null,
