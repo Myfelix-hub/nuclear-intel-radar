@@ -1,10 +1,37 @@
 {
   "sites": [
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 5,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -19,28 +46,10 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 12,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 8,
+      "item_count": 5,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -52,15 +61,6 @@
       "item_count": 9,
       "duration_ms": 0,
       "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
       "warning": null
     },
     {
@@ -154,6 +154,15 @@
       "warning": null
     },
     {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
+    },
+    {
       "site_id": "edf_nuclear",
       "site_name": "EDF",
       "ok": true,
@@ -163,10 +172,10 @@
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "iter_org",
+      "site_name": "ITER",
       "ok": true,
-      "item_count": 20,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -176,15 +185,6 @@
       "site_name": "World Nuclear News",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "iter_org",
-      "site_name": "ITER",
-      "ok": true,
-      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -211,10 +211,10 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 142,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
     },
     {
       "site_id": "nei_magazine",
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2798,
+      "duration_ms": 2558,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 5479,
+      "item_count": 11,
+      "duration_ms": 5515,
       "error": null,
       "warning": null
     }
@@ -364,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 301,
-  "items_before_topic_filter": 301,
+  "fetched_raw_items": 130,
+  "items_before_topic_filter": 130,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
