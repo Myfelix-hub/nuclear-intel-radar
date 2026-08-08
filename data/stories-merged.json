@@ -1,13 +1,343 @@
 {
-  "generated_at": "2026-08-08T14:59:58.134174+00:00",
+  "generated_at": "2026-08-08T15:39:11.841052+00:00",
   "window_hours": 72,
-  "total_stories": 27,
+  "total_stories": 46,
   "stories": [
+    {
+      "story_id": "story-08ea510827b27440",
+      "title": "核能安全关乎产业未来，中国如何确保核能安全？",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17535",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "5c5b9198321f318b",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "核能安全关乎产业未来，中国如何确保核能安全？",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17535",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.3375,
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "china"
+          ],
+          "primary_section": "china"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "china"
+    },
+    {
+      "story_id": "story-2ae0559d60396e3b",
+      "title": "试验成功！漳州核电，快发电了！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "8ae9f975eb7889a7",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "试验成功！漳州核电，快发电了！",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.45,
+          "nuclear_kw_score": 0.4,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "china"
+          ],
+          "primary_section": "china"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "china"
+    },
+    {
+      "story_id": "story-09edd47f6ce41eb8",
+      "title": "中广核新能源江西分公司原总经理邓东被查！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17539",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "85d66fe33c50e3c3",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "中广核新能源江西分公司原总经理邓东被查！",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17539",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.45,
+          "nuclear_kw_score": 0.4,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "china"
+          ],
+          "primary_section": "china"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "china"
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "add26bc4c8431ee1",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "中核集团人事密集调整！涉及江苏核电等！",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.675,
+          "nuclear_kw_score": 0.6,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "china"
+          ],
+          "primary_section": "china"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "china"
+    },
+    {
+      "story_id": "story-85e3fecf94751faf",
+      "title": "国常会核准5个核电项目，合计11台机组，拉动千亿级投资！ ...",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17541",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "1a95ace164d2363f",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "国常会核准5个核电项目，合计11台机组，拉动千亿级投资！ ...",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17541",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.3375,
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "newbuild"
+          ],
+          "primary_section": "newbuild"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "newbuild"
+    },
+    {
+      "story_id": "story-3c2f05c2a6736566",
+      "title": "辛安核电项目有进展",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17543",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "9afdf79cea71cd5a",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "辛安核电项目有进展",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17543",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.3375,
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "china"
+          ],
+          "primary_section": "china"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "china"
+    },
+    {
+      "story_id": "story-ae7f243428aa1ad7",
+      "title": "中核二三领导班子调整",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17544",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "21317b3cebbff693",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "中核二三领导班子调整",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17544",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.3375,
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "china"
+          ],
+          "primary_section": "china"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "china"
+    },
+    {
+      "story_id": "story-6e2e47c1e3742afb",
+      "title": "31省份2025年9月发电量数据出炉！火电/水电/核电/风电/光伏增长几何？ ...",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17545",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "978567e35ffd7dab",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "31省份2025年9月发电量数据出炉！火电/水电/核电/风电/光伏增长几何？ ...",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17545",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.45,
+          "nuclear_kw_score": 0.4,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "china"
+          ],
+          "primary_section": "china"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "china"
+    },
+    {
+      "story_id": "story-da9b990c2c9451f5",
+      "title": "中法两国关于持续推进和平利用核能领域合作的联合声明 ...",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17548",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "64248f1be0393b77",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "中法两国关于持续推进和平利用核能领域合作的联合声明 ...",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17548",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.3375,
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "china"
+          ],
+          "primary_section": "china"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "china"
+    },
+    {
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "items": [
+        {
+          "id": "f8f997bac3267505",
+          "site_id": "nuclear_net_cn",
+          "site_name": "中国核网",
+          "source": "中国核网",
+          "title": "这家核电机组FCD！",
+          "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.675,
+          "nuclear_kw_score": 0.6,
+          "nuclear_is_related": true,
+          "source_tier": "aggregator",
+          "source_tier_rank": 3,
+          "source_tier_importance": 0.45,
+          "sections": [
+            "newbuild"
+          ],
+          "primary_section": "newbuild"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "newbuild"
+    },
     {
       "story_id": "story-ede95f29343b223b",
       "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
       "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-08-08T14:59:58.134174+00:00",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
       "sources": [
         "kairos"
       ],
@@ -19,8 +349,8 @@
           "source": "Kairos Power",
           "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
           "url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-          "published_at": "2026-08-08T14:59:58.134174+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -40,7 +370,7 @@
       "story_id": "story-3f65633957e0454a",
       "title": "How Kairos Power is Shaking Things Up with Seismic Isolation Systems",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-shaking-things-up-with-seismic-isolation-systems",
-      "first_published_at": "2026-08-08T14:59:58.134174+00:00",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
       "sources": [
         "kairos"
       ],
@@ -52,8 +382,8 @@
           "source": "Kairos Power",
           "title": "How Kairos Power is Shaking Things Up with Seismic Isolation Systems",
           "url": "https://www.kairospower.com/updates/how-kairos-power-is-shaking-things-up-with-seismic-isolation-systems",
-          "published_at": "2026-08-08T14:59:58.134174+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -73,7 +403,7 @@
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-08T14:59:58.134174+00:00",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
       "sources": [
         "kairos"
       ],
@@ -85,8 +415,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
           "url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-          "published_at": "2026-08-08T14:59:58.134174+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.9,
           "nuclear_is_related": true,
@@ -106,7 +436,7 @@
       "story_id": "story-5e7a7765e34fe669",
       "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-08-08T14:59:58.134174+00:00",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
       "sources": [
         "kairos"
       ],
@@ -118,8 +448,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
           "url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-          "published_at": "2026-08-08T14:59:58.134174+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -141,7 +471,7 @@
       "story_id": "story-4766d8bafac02f7f",
       "title": "Kairos Power Earns ISO 9001:2015 Certification for Alameda Manufacturing Facility",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-earns-iso-9001-2015-certification-for-alameda-manufacturing-facility",
-      "first_published_at": "2026-08-08T14:59:58.134174+00:00",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
       "sources": [
         "kairos"
       ],
@@ -153,8 +483,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Earns ISO 9001:2015 Certification for Alameda Manufacturing Facility",
           "url": "https://www.kairospower.com/updates/kairos-power-earns-iso-9001-2015-certification-for-alameda-manufacturing-facility",
-          "published_at": "2026-08-08T14:59:58.134174+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -174,7 +504,7 @@
       "story_id": "story-1dd2e1dac03fc370",
       "title": "Kairos Power Names Dr. Mike McGuire as Vice President, Operations & Site Delivery",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-names-dr-mike-mcguire-as-vice-president-operations-site-delivery",
-      "first_published_at": "2026-08-08T14:59:58.134174+00:00",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
       "sources": [
         "kairos"
       ],
@@ -186,8 +516,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Names Dr. Mike McGuire as Vice President, Operations & Site Delivery",
           "url": "https://www.kairospower.com/updates/kairos-power-names-dr-mike-mcguire-as-vice-president-operations-site-delivery",
-          "published_at": "2026-08-08T14:59:58.134174+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -207,7 +537,7 @@
       "story_id": "story-5b0d7dcbccbf406a",
       "title": "Kairos Power Ramps Up Pebble Production with New and Improved Automation Process",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-ramps-up-pebble-production-with-new-and-improved-automation-process",
-      "first_published_at": "2026-08-08T14:59:58.134174+00:00",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
       "sources": [
         "kairos"
       ],
@@ -219,8 +549,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Ramps Up Pebble Production with New and Improved Automation Process",
           "url": "https://www.kairospower.com/updates/kairos-power-ramps-up-pebble-production-with-new-and-improved-automation-process",
-          "published_at": "2026-08-08T14:59:58.134174+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -240,7 +570,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-08T14:59:58.134174+00:00",
+      "first_published_at": "2026-08-08T15:39:11.841052+00:00",
       "sources": [
         "kairos"
       ],
@@ -252,8 +582,8 @@
           "source": "Kairos Power",
           "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
           "url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-          "published_at": "2026-08-08T14:59:58.134174+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "published_at": "2026-08-08T15:39:11.841052+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.9,
           "nuclear_is_related": true,
@@ -269,6 +599,108 @@
       ],
       "duplicate_count": 1,
       "primary_section": "safety"
+    },
+    {
+      "story_id": "story-10db3b516bf6e8cf",
+      "title": "I built a browser reactor stand you can actually drive — point kinetics, feedbacks, xenon, seco…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1viwnia/i_built_a_browser_reactor_stand_you_can_actually/",
+      "first_published_at": "2026-08-08T13:54:58+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "b857ca56f2ed0c5f",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "I built a browser reactor stand you can actually drive — point kinetics, feedbacks, xenon, seco…",
+          "url": "https://www.reddit.com/r/nuclear/comments/1viwnia/i_built_a_browser_reactor_stand_you_can_actually/",
+          "published_at": "2026-08-08T13:54:58+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
+      "story_id": "story-11d632aa7f2515b1",
+      "title": "Research/Architecture Thesis Question: What are the sizing limitations of nuclear reactors?",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vitjlh/researcharchitecture_thesis_question_what_are_the/",
+      "first_published_at": "2026-08-08T11:27:13+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "294d2861b2ce2e68",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "Research/Architecture Thesis Question: What are the sizing limitations of nuclear reactors?",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vitjlh/researcharchitecture_thesis_question_what_are_the/",
+          "published_at": "2026-08-08T11:27:13+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.375,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.6,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "research"
+          ],
+          "primary_section": "research"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "research"
+    },
+    {
+      "story_id": "story-e1253bc0e5c55fbc",
+      "title": "Drought threatens nuclear generation on the Danube",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vif3k7/drought_threatens_nuclear_generation_on_the_danube/",
+      "first_published_at": "2026-08-07T22:40:45+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "98b013e1245667f6",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "Drought threatens nuclear generation on the Danube",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vif3k7/drought_threatens_nuclear_generation_on_the_danube/",
+          "published_at": "2026-08-07T22:40:45+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
     },
     {
       "story_id": "story-1839d0c637fb44bf",
@@ -287,7 +719,7 @@
           "title": "The transformation of the NRC: 50 years of commissioners",
           "url": "https://www.ans.org/news/2026-08-07/article-8222/the-transformation-of-the-nrc-50-years-of-commissioners/",
           "published_at": "2026-08-07T19:55:38+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "The dust is beginning to settle following the whirlwind of changes at the Nuclear Regulatory Commission over the past year, and 2025 ultimately may be viewed as a transformative year, as well as the year the NRC celebrated its golden anniversary. The 12 months of that milestone year brought more cha",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.9562,
@@ -298,6 +730,41 @@
           "source_tier_importance": 0.85,
           "sections": [
             "policy"
+          ],
+          "primary_section": "policy"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "policy"
+    },
+    {
+      "story_id": "story-35308e98add23fe6",
+      "title": "Finnish Radiation and Nuclear Safety Authority gives positive statement and safety review for F…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1via6na/finnish_radiation_and_nuclear_safety_authority/",
+      "first_published_at": "2026-08-07T19:25:10+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "f03cb90986a6a95f",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "Finnish Radiation and Nuclear Safety Authority gives positive statement and safety review for F…",
+          "url": "https://www.reddit.com/r/nuclear/comments/1via6na/finnish_radiation_and_nuclear_safety_authority/",
+          "published_at": "2026-08-07T19:25:10+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.5625,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.9,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "policy",
+            "safety"
           ],
           "primary_section": "policy"
         }
@@ -322,7 +789,7 @@
           "title": "Centrus, X-energy sign enrichment contract as TRISO-X expands TX-1 campus",
           "url": "https://www.ans.org/news/2026-08-07/article-8279/centrus-xenergy-sign-enrichment-contract-as-trisox-expands-tx1-campus/",
           "published_at": "2026-08-07T16:57:09+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Centrus Energy Corp. will be providing X-energy with enrichment services for low-enriched uranium and high-assay, low-enriched uranium to support X-energy’s planned deployments of Xe-100 small modular reactors and TRISO-X fuel, according to the terms of a new contract signed by the companies. The fu",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 1.0,
@@ -341,12 +808,13 @@
       "primary_section": "fuel"
     },
     {
-      "story_id": "story-5dddf1068e8323e4",
+      "story_id": "story-72fd8fc15d2b0ccf",
       "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
       "representative_url": "https://www.ans.org/news/2026-08-07/article-8278/undeclared-uranium-hitches-a-ride-on-cobalt-exports-from-congo-study-says/",
       "first_published_at": "2026-08-07T14:29:08+00:00",
       "sources": [
-        "ans_newswire"
+        "ans_newswire",
+        "reddit_nuclear"
       ],
       "items": [
         {
@@ -357,7 +825,7 @@
           "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
           "url": "https://www.ans.org/news/2026-08-07/article-8278/undeclared-uranium-hitches-a-ride-on-cobalt-exports-from-congo-study-says/",
           "published_at": "2026-08-07T14:29:08+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Philippe (left) and Manzuk quantified the amount of uranium that has been exported from the DRC in cobalt shipments or left behind in the environment. (Photo: Joel Hallberg/UW–Madison)Researchers at the University of Wisconsin–Madison and Princeton University have published a study in Nature Communi",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.6375,
@@ -371,9 +839,31 @@
             "research"
           ],
           "primary_section": "fuel"
+        },
+        {
+          "id": "b9f478750dc2af2c",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vimq4u/undeclared_uranium_hitches_a_ride_on_cobalt/",
+          "published_at": "2026-08-08T04:48:28+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "fuel",
+            "research"
+          ],
+          "primary_section": "fuel"
         }
       ],
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "primary_section": "fuel"
     },
     {
@@ -393,7 +883,7 @@
           "title": "ORNL, Rutherford Energy Ventures launch fusion partnership",
           "url": "https://www.ans.org/news/2026-08-07/article-8276/ornl-rutherford-energy-ventures-launch-fusion-partnership/",
           "published_at": "2026-08-07T12:03:28+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Fusion Upscaled Leveraged Consortia for Rapid Acceleration (FULCRA) is the new public-private partnership between Oak Ridge National Laboratory and Rutherford Energy Ventures, a fusion consultancy company headquartered in Cambridge, Mass. FULCRA intends to create shared fusion test bed infrastructur",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.85,
@@ -412,6 +902,40 @@
       "primary_section": "tech"
     },
     {
+      "story_id": "story-3b558270f472c148",
+      "title": "There is absolutely no reason to be using coal, switch it all to nuclear.",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vhy1jf/there_is_absolutely_no_reason_to_be_using_coal/",
+      "first_published_at": "2026-08-07T11:30:28+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "d215e30b30210f2b",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "There is absolutely no reason to be using coal, switch it all to nuclear.",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vhy1jf/there_is_absolutely_no_reason_to_be_using_coal/",
+          "published_at": "2026-08-07T11:30:28+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
       "story_id": "story-51e8bb77cfbc9c70",
       "title": "Research Reactors Drive Innovation in Science, Health, and Industry",
       "representative_url": "http://www.iaea.org/newscenter/news/research-reactors-drive-innovation-in-science-health-and-industry",
@@ -428,7 +952,7 @@
           "title": "Research Reactors Drive Innovation in Science, Health, and Industry",
           "url": "http://www.iaea.org/newscenter/news/research-reactors-drive-innovation-in-science-health-and-industry",
           "published_at": "2026-08-07T07:30:05+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "",
           "feed_title": "https://www.iaea.org/newscenter",
           "nuclear_relevance": 0.75,
@@ -447,6 +971,40 @@
       "primary_section": "policy"
     },
     {
+      "story_id": "story-90998baae3e1a118",
+      "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/",
+      "first_published_at": "2026-08-07T04:08:18+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "16d4578857794b4b",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/",
+          "published_at": "2026-08-07T04:08:18+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.375,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.6,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
       "story_id": "story-d0974e54b7a4c751",
       "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
       "representative_url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
@@ -463,7 +1021,7 @@
           "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
           "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
           "published_at": "2026-08-07T01:30:22+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "points": 3,
           "comments": 0,
           "nuclear_relevance": 0.375,
@@ -499,7 +1057,7 @@
           "title": "Oklo’s Isotope Test Reactor achieves criticality",
           "url": "https://www.ans.org/news/2026-08-06/article-8277/oklos-isotope-test-reactor-achieves-criticality/",
           "published_at": "2026-08-06T20:36:45+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Oklo’s Groves Isotope Test Reactor became the fifth Department of Energy–authorized reactor to achieve criticality under the agency’s authorization process, it was announced earlier today.Criticality was reached at 9:19 p.m. (EDT) on Wednesday at the company’s Groves facility in Lockhart, Texas, acc",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 1.0,
@@ -534,7 +1092,7 @@
           "title": "North Anna power plant seeks ESP renewal",
           "url": "https://www.ans.org/news/2026-08-06/article-8275/north-anna-power-plant-seeks-esp-renewal/",
           "published_at": "2026-08-06T17:32:03+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Dominion Energy Virginia is seeking a 20-year renewal of the early site permit (ESP) the Nuclear Regulatory Commission issued for its North Anna nuclear power plant site in Virginia. North Anna’s current ESP is set to expire on November 27, 2027.On July 14, Dominion submitted the ESP renewal request",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.6375,
@@ -569,7 +1127,7 @@
           "title": "Curio, NuScale, Framatome Join to Support Fuel Solution for Advanced Reactors",
           "url": "https://www.powermag.com/curio-nuscale-framatome-join-to-support-fuel-solution-for-advanced-reactors/",
           "published_at": "2026-08-06T14:37:56+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Three companies at the forefront of nuclear energy technology have signed a memorandum of understanding (MOU) to evaluate fuel technologies to support advancement of next-generation nuclear power.\nThe post Curio, NuScale, Framatome Join to Support Fuel Solution for Advanced Reactors appeared first o",
           "feed_title": "https://www.powermag.com",
           "nuclear_relevance": 0.825,
@@ -605,7 +1163,7 @@
           "title": "Industry Update—August 2026",
           "url": "https://www.ans.org/news/2026-08-06/article-8226/industry-updateaugust-2026/",
           "published_at": "2026-08-06T14:31:00+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Here is a recap of recent industry happenings:ADVANCED REACTOR MARKETPLACE NuScale looks to Paragon for I&amp;CParagon Energy Solutions, a Mirion Technologies company, has won a contract from NuScale Power to complete the final design development of Paragon’s Highly Integrated Protection System (HIP",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 1.0,
@@ -640,7 +1198,7 @@
           "title": "Update 361 – IAEA Director General Statement on Situation in Ukraine",
           "url": "http://www.iaea.org/newscenter/pressreleases/update-361-iaea-director-general-statement-on-situation-in-ukraine",
           "published_at": "2026-08-06T13:53:12+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "",
           "feed_title": "https://www.iaea.org/newscenter",
           "nuclear_relevance": 0.75,
@@ -675,7 +1233,7 @@
           "title": "DOE Approves Safety Design of Deep Fission’s Underground SMR",
           "url": "https://www.powermag.com/doe-approves-safety-design-of-deep-fissions-underground-smr/",
           "published_at": "2026-08-06T13:47:17+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "California-based Deep Fission said the DOE signed off on the Nuclear Safety Design Agreement (NSDA) for its Gravity Nuclear Reactor. The group called it a major regulatory milestone that confirms Deep Fission's reactor design warrants advancement under the DOE Reactor Pilot Program.\nThe post DOE App",
           "feed_title": "https://www.powermag.com",
           "nuclear_relevance": 0.7875,
@@ -710,7 +1268,7 @@
           "title": "Oklo’s Groves Becomes Fifth DOE Pilot Reactor to Reach Criticality, First on Private Land",
           "url": "https://www.powermag.com/oklos-groves-becomes-fifth-doe-pilot-reactor-to-reach-criticality-first-on-private-land/",
           "published_at": "2026-08-06T13:27:08+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Oklo’s Groves Isotope Test Reactor in Lockhart, Texas, has become the fifth reactor to achieve criticality under the U.S. Department of Energy’s Reactor Pilot Program (RPP), and the first under the program to do so on private land. The low-power test reactor reached criticality at 9:19 p.m. ET Aug. ",
           "feed_title": "https://www.powermag.com",
           "nuclear_relevance": 0.825,
@@ -745,7 +1303,7 @@
           "title": "Oklo cleared to start up test reactor",
           "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor",
           "published_at": "2026-08-06T13:16:52+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "points": 1,
           "comments": 0,
           "nuclear_relevance": 0.375,
@@ -765,6 +1323,74 @@
       "primary_section": "tech"
     },
     {
+      "story_id": "story-82db0742269a5789",
+      "title": "How a Reactor Reaches Initial Criticality: Inside Groves' First Chain Reaction",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vh3sdr/how_a_reactor_reaches_initial_criticality_inside/",
+      "first_published_at": "2026-08-06T13:08:30+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "b7acd8e772be9e2f",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "How a Reactor Reaches Initial Criticality: Inside Groves' First Chain Reaction",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vh3sdr/how_a_reactor_reaches_initial_criticality_inside/",
+          "published_at": "2026-08-06T13:08:30+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.375,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.6,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
+      "story_id": "story-81e2526233413f6b",
+      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vh2sig/oklos_groves_reactor_achieves_first_criticality/",
+      "first_published_at": "2026-08-06T12:25:37+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "dbf4eb4f3fb041b5",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vh2sig/oklos_groves_reactor_achieves_first_criticality/",
+          "published_at": "2026-08-06T12:25:37+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.5625,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.9,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
       "story_id": "story-21d4960f46e0191e",
       "title": "Ontario invests in medical radioisotope production at McMaster",
       "representative_url": "https://www.ans.org/news/2026-08-06/article-8274/ontario-invests-in-medical-radioisotope-production-at-mcmaster/",
@@ -781,7 +1407,7 @@
           "title": "Ontario invests in medical radioisotope production at McMaster",
           "url": "https://www.ans.org/news/2026-08-06/article-8274/ontario-invests-in-medical-radioisotope-production-at-mcmaster/",
           "published_at": "2026-08-06T12:03:07+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "With a new investment of C$4.6 million (approximately $3.3 million) from the government of Ontario, Canada, operations of the McMaster Nuclear Reactor (MNR) at McMaster University are being expanded to 24 hours a day, seven days a week, in order to boost the production of medical radioisotopes.",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 1.0,
@@ -816,7 +1442,7 @@
           "title": "Office of Nuclear Energy Celebrates Fifth Advanced Reactor Criticality",
           "url": "https://www.energy.gov/ne/articles/office-nuclear-energy-celebrates-fifth-advanced-reactor-criticality",
           "published_at": "2026-08-06T11:15:00+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Oklo’s Groves Isotope Test Reactor successfully achieved criticality, becoming the fifth DOE-authorized reactor to go critical this summer.",
           "feed_title": "https://www.energy.gov/ne/listings/ne-press-releases",
           "nuclear_relevance": 1.0,
@@ -835,6 +1461,40 @@
       "primary_section": "tech"
     },
     {
+      "story_id": "story-9f83f9cdd6992cd5",
+      "title": "First measurement of antineutrinos from spent nuclear fuel confirms emissions persist after rea…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vgtr1n/first_measurement_of_antineutrinos_from_spent/",
+      "first_published_at": "2026-08-06T04:11:49+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "2c6aeae418f50a1a",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "First measurement of antineutrinos from spent nuclear fuel confirms emissions persist after rea…",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vgtr1n/first_measurement_of_antineutrinos_from_spent/",
+          "published_at": "2026-08-06T04:11:49+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "fuel"
+          ],
+          "primary_section": "fuel"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "fuel"
+    },
+    {
       "story_id": "story-951116e86c81b57f",
       "title": "Holtec moves forward on Oyster Creek, looks to Gulf South",
       "representative_url": "https://www.ans.org/news/2026-08-05/article-8273/holtec-moves-forward-on-oyster-creek-looks-to-gulf-south/",
@@ -851,7 +1511,7 @@
           "title": "Holtec moves forward on Oyster Creek, looks to Gulf South",
           "url": "https://www.ans.org/news/2026-08-05/article-8273/holtec-moves-forward-on-oyster-creek-looks-to-gulf-south/",
           "published_at": "2026-08-05T20:06:18+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "In the past week, Holtec has made two significant announcements: the Nuclear Regulatory Commission has approved its license termination plan (LTP) for Oyster Creek nuclear power plant, and the company has partnered with Entergy and Hyundai Engineering and Construction to evaluate new reactor deploym",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.7437,
@@ -871,6 +1531,40 @@
       "primary_section": "policy"
     },
     {
+      "story_id": "story-2cc95e17f682258e",
+      "title": "South Korea’s KEPCO E&C advances marine reactor plan",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vgey0z/south_koreas_kepco_ec_advances_marine_reactor_plan/",
+      "first_published_at": "2026-08-05T18:03:02+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "2b75d3c3f7ba504e",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "South Korea’s KEPCO E&C advances marine reactor plan",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vgey0z/south_koreas_kepco_ec_advances_marine_reactor_plan/",
+          "published_at": "2026-08-05T18:03:02+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
       "story_id": "story-60d5e63fe1c8c967",
       "title": "Westinghouse updates: AP1000 potential, IPO, Amentum partnership",
       "representative_url": "https://www.ans.org/news/2026-08-05/article-8272/westinghouse-updates-ap1000-potential-ipo-amentum-partnership/",
@@ -887,7 +1581,7 @@
           "title": "Westinghouse updates: AP1000 potential, IPO, Amentum partnership",
           "url": "https://www.ans.org/news/2026-08-05/article-8272/westinghouse-updates-ap1000-potential-ipo-amentum-partnership/",
           "published_at": "2026-08-05T17:33:41+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
           "summary": "Westinghouse's long-term vision for its AP1000 includes seeing up to 91 of its flagship reactors being deployed worldwide, in one of several items of interest announced in recent days by Westinghouse and Cameco, which along with Brookfield Asset Management is part owner of Westinghouse.",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.9562,
@@ -904,26 +1598,21 @@
       ],
       "duplicate_count": 1,
       "primary_section": "hot"
-    },
+    }
+  ],
+  "merge_events": [
     {
-      "story_id": "story-5d651116c00d68dc",
-      "title": "Knoxville’s nuclear workshop opens with a full house and a long to-do list",
-      "representative_url": "https://www.ans.org/news/2026-08-05/article-8271/knoxvilles-nuclear-workshop-opens-with-a-full-house-and-a-long-todo-list/",
-      "first_published_at": "2026-08-05T15:10:53+00:00",
-      "sources": [
-        "ans_newswire"
-      ],
       "items": [
         {
-          "id": "0b70137e0e31157f",
+          "id": "ad5ac3dada3a447a",
           "site_id": "ans_newswire",
           "site_name": "ANS Newswire",
           "source": "ANS Newswire",
-          "title": "Knoxville’s nuclear workshop opens with a full house and a long to-do list",
-          "url": "https://www.ans.org/news/2026-08-05/article-8271/knoxvilles-nuclear-workshop-opens-with-a-full-house-and-a-long-todo-list/",
-          "published_at": "2026-08-05T15:10:53+00:00",
-          "added_at": "2026-08-08T14:59:58.134174+00:00",
-          "summary": "The East Tennessee Economic Council’s Nuclear Opportunities Workshop opened yesterday morning at the Knoxville Convention Center, drawing registrants from around the country, and will close later today following a packed lineup of policy and industry leaders.",
+          "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
+          "url": "https://www.ans.org/news/2026-08-07/article-8278/undeclared-uranium-hitches-a-ride-on-cobalt-exports-from-congo-study-says/",
+          "published_at": "2026-08-07T14:29:08+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "summary": "Philippe (left) and Manzuk quantified the amount of uranium that has been exported from the DRC in cobalt shipments or left behind in the environment. (Photo: Joel Hallberg/UW–Madison)Researchers at the University of Wisconsin–Madison and Princeton University have published a study in Nature Communi",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.6375,
           "nuclear_kw_score": 0.3,
@@ -932,14 +1621,36 @@
           "source_tier_rank": 1,
           "source_tier_importance": 0.85,
           "sections": [
-            "hot"
+            "fuel",
+            "research"
           ],
-          "primary_section": "hot"
+          "primary_section": "fuel"
+        },
+        {
+          "id": "b9f478750dc2af2c",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vimq4u/undeclared_uranium_hitches_a_ride_on_cobalt/",
+          "published_at": "2026-08-08T04:48:28+00:00",
+          "added_at": "2026-08-08T15:39:11.841052+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclear",
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "fuel",
+            "research"
+          ],
+          "primary_section": "fuel"
         }
       ],
-      "duplicate_count": 1,
-      "primary_section": "hot"
+      "reason": "title_similarity",
+      "similarity": 1.0
     }
-  ],
-  "merge_events": []
+  ]
 }
