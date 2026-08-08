@@ -1,72 +1,12 @@
 {
-  "generated_at": "2026-08-08T15:39:11.841052+00:00",
+  "generated_at": "2026-08-08T16:41:50.733295+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-08-08",
-      "title": "I built a browser reactor stand you can actually drive — point kinetics, feedbacks, xenon, seco…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1viwnia/i_built_a_browser_reactor_stand_you_can_actually/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Research/Architecture Thesis Question: What are the sizing limitations of nuclear reactors?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vitjlh/researcharchitecture_thesis_question_what_are_the/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vimq4u/undeclared_uranium_hitches_a_ride_on_cobalt/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Drought threatens nuclear generation on the Danube",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vif3k7/drought_threatens_nuclear_generation_on_the_danube/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Finnish Radiation and Nuclear Safety Authority gives positive statement and safety review for F…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1via6na/finnish_radiation_and_nuclear_safety_authority/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "There is absolutely no reason to be using coal, switch it all to nuclear.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vhy1jf/there_is_absolutely_no_reason_to_be_using_coal/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
-    },
-    {
       "date": "2026-08-06",
       "title": "Oklo cleared to start up test reactor",
       "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "How a Reactor Reaches Initial Criticality: Inside Groves' First Chain Reaction",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vh3sdr/how_a_reactor_reaches_initial_criticality_inside/"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vh2sig/oklos_groves_reactor_achieves_first_criticality/"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "First measurement of antineutrinos from spent nuclear fuel confirms emissions persist after rea…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vgtr1n/first_measurement_of_antineutrinos_from_spent/"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "South Korea’s KEPCO E&C advances marine reactor plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vgey0z/south_koreas_kepco_ec_advances_marine_reactor_plan/"
     },
     {
       "date": "2026-08-03",
@@ -81,24 +21,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-08",
-      "title": "I built a browser reactor stand you can actually drive — point kinetics, feedbacks, xenon, seco…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1viwnia/i_built_a_browser_reactor_stand_you_can_actually/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Research/Architecture Thesis Question: What are the sizing limitations of nuclear reactors?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vitjlh/researcharchitecture_thesis_question_what_are_the/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vimq4u/undeclared_uranium_hitches_a_ride_on_cobalt/"
+      "date": "2026-08-06",
+      "title": "Oklo cleared to start up test reactor",
+      "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor"
     }
   ],
-  "latest_date": "2026-08-08",
-  "count_7d": 15,
-  "count_today": 3,
+  "latest_date": "2026-08-06",
+  "count_7d": 3,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
