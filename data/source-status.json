@@ -1,26 +1,8 @@
 {
   "sites": [
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": true,
-      "item_count": 6,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
@@ -28,8 +10,8 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
@@ -46,10 +28,19 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 20,
+      "item_count": 6,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -64,13 +55,22 @@
       "warning": null
     },
     {
-      "site_id": "wechat_cnnp",
-      "site_name": "中国核电网 (CNNP)",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 0,
+      "item_count": 9,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "warning": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "wechat_cnnc",
@@ -145,22 +145,13 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "wechat_cnnp",
+      "site_name": "中国核电网 (CNNP)",
       "ok": true,
-      "item_count": 1,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "edf_nuclear",
@@ -172,8 +163,8 @@
       "warning": null
     },
     {
-      "site_id": "iter_org",
-      "site_name": "ITER",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
       "item_count": 1,
       "duration_ms": 0,
@@ -185,6 +176,15 @@
       "site_name": "World Nuclear News",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iter_org",
+      "site_name": "ITER",
+      "ok": true,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -210,10 +210,10 @@
     {
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
-      "ok": true,
-      "item_count": 142,
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null,
+      "error": "nucleartownhall: direct fetch failed — ConnectTimeout: HTTPSConnectionPool(host='nucleartownhall.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host=",
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2933,
+      "duration_ms": 2761,
       "error": null,
       "warning": null
     },
@@ -302,12 +302,12 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5215,
+      "duration_ms": 4946,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
   ],
-  "successful_sites": 27,
+  "successful_sites": 26,
   "failed_sites": [
     {
       "site_id": "nucnet",
@@ -325,6 +325,15 @@
       "item_count": 0,
       "duration_ms": 0,
       "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — RetryError: HTTPSConnectionPool(host='www.nrc.gov', port=443): Max retries exceeded with url: | Jina: R",
+      "warning": null
+    },
+    {
+      "site_id": "nucleartownhall",
+      "site_name": "Nuclear Town Hall",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucleartownhall: direct fetch failed — ConnectTimeout: HTTPSConnectionPool(host='nucleartownhall.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host=",
       "warning": null
     },
     {
@@ -368,13 +377,13 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5215,
+      "duration_ms": 4946,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
   ],
-  "fetched_raw_items": 263,
-  "items_before_topic_filter": 263,
+  "fetched_raw_items": 121,
+  "items_before_topic_filter": 121,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
