@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-09T18:51:17.142622+00:00",
+  "generated_at": "2026-08-09T19:39:13.290772+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-09",
+      "title": "Nuclear Reactor//Martin Gendell [video]",
+      "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
+    },
     {
       "date": "2026-08-06",
       "title": "Oklo cleared to start up test reactor",
@@ -21,13 +26,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-06",
-      "title": "Oklo cleared to start up test reactor",
-      "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor"
+      "date": "2026-08-09",
+      "title": "Nuclear Reactor//Martin Gendell [video]",
+      "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
     }
   ],
-  "latest_date": "2026-08-06",
-  "count_7d": 3,
+  "latest_date": "2026-08-09",
+  "count_7d": 4,
   "count_today": 1,
   "has_error": false,
   "error": null,
