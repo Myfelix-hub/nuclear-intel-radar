@@ -1,38 +1,8 @@
 {
-  "generated_at": "2026-08-08T23:35:25.642935+00:00",
+  "generated_at": "2026-08-09T02:13:13.567412+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-08",
-      "title": "Where to find info on current commercial nuclear deals?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vj95q4/where_to_find_info_on_current_commercial_nuclear/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Mentour Pilot, breakdown of the Fukushima nuclear disaster",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vj8r2w/mentour_pilot_breakdown_of_the_fukushima_nuclear/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Wordle for Nuclear?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vhd8pe/wordle_for_nuclear/"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Kansans are up in arms over an underground nuclear site",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vhctun/kansans_are_up_in_arms_over_an_underground/"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "DOE New Initiative. Bury Nuclear Waste Deep In The Ground in 5 States! Any Concerns?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vh7pwg/doe_new_initiative_bury_nuclear_waste_deep_in_the/"
-    },
     {
       "date": "2026-08-06",
       "title": "Oklo cleared to start up test reactor",
@@ -51,19 +21,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-08",
-      "title": "Where to find info on current commercial nuclear deals?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vj95q4/where_to_find_info_on_current_commercial_nuclear/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Mentour Pilot, breakdown of the Fukushima nuclear disaster",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vj8r2w/mentour_pilot_breakdown_of_the_fukushima_nuclear/"
+      "date": "2026-08-06",
+      "title": "Oklo cleared to start up test reactor",
+      "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor"
     }
   ],
-  "latest_date": "2026-08-08",
-  "count_7d": 9,
-  "count_today": 2,
+  "latest_date": "2026-08-06",
+  "count_7d": 3,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
