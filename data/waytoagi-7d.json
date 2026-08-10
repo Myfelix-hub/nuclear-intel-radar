@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T02:21:05.369282+00:00",
+  "generated_at": "2026-08-10T04:14:53.174285+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -65,11 +65,6 @@
     },
     {
       "date": "2026-08-07",
-      "title": "Project Janus Explained: Why the U.S. Army Wants Nuclear Microreactors on Military Bases",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vhq7k9/project_janus_explained_why_the_us_army_wants/"
-    },
-    {
-      "date": "2026-08-07",
       "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
       "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
     },
@@ -107,7 +102,7 @@
     }
   ],
   "latest_date": "2026-08-09",
-  "count_7d": 17,
+  "count_7d": 16,
   "count_today": 3,
   "has_error": false,
   "error": null,
