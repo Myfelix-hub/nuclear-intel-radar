@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-10T20:52:06.391299+00:00",
+  "generated_at": "2026-08-10T21:50:05.105027+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-10",
+      "title": "Rosatom staff begin returning to Iran's Bushehr nuclear plant | Aug 10 2026",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vkxsi3/rosatom_staff_begin_returning_to_irans_bushehr/"
+    },
     {
       "date": "2026-08-10",
       "title": "FISSION now streaming!",
@@ -64,17 +69,17 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vimq4u/undeclared_uranium_hitches_a_ride_on_cobalt/"
     },
     {
-      "date": "2026-08-07",
-      "title": "Drought threatens nuclear generation on the Danube",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vif3k7/drought_threatens_nuclear_generation_on_the_danube/"
-    },
-    {
       "date": "2026-08-06",
       "title": "Oklo cleared to start up test reactor",
       "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-08-10",
+      "title": "Rosatom staff begin returning to Iran's Bushehr nuclear plant | Aug 10 2026",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vkxsi3/rosatom_staff_begin_returning_to_irans_bushehr/"
+    },
     {
       "date": "2026-08-10",
       "title": "FISSION now streaming!",
@@ -93,7 +98,7 @@
   ],
   "latest_date": "2026-08-10",
   "count_7d": 14,
-  "count_today": 3,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
