@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-08-10T18:27:32.868061+00:00",
+  "generated_at": "2026-08-10T19:35:14.860106+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-10",
+      "title": "FISSION now streaming!",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vkfcj3/fission_now_streaming/"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "This nuclear startup and Halliburton repurposed oil drilling to solve the radioactive waste pro…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vkdjpw/this_nuclear_startup_and_halliburton_repurposed/"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vkbegd/the_view_from_the_proving_grounds_for/"
+    },
     {
       "date": "2026-08-09",
       "title": "Romania Extends Nuclear Reactor Output by Nine Days After Danube Blasts",
@@ -12,6 +27,46 @@
       "date": "2026-08-09",
       "title": "Nuclear Reactor//Martin Gendell [video]",
       "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "Reactor at Kansai Electric’s Oi plant stops after alarm",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vjfkad/reactor_at_kansai_electrics_oi_plant_stops_after/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Where to find info on commercial nuclear deals?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vj9695/where_to_find_info_on_commercial_nuclear_deals/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "US collaboration to study used nuclear fuel recycling",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vj2n6g/us_collaboration_to_study_used_nuclear_fuel/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Thermal energy storage integration with nuclear power: A critical review - Aug 2024",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vj237f/thermal_energy_storage_integration_with_nuclear/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "I built a browser reactor stand you can actually drive — point kinetics, feedbacks, xenon, seco…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1viwnia/i_built_a_browser_reactor_stand_you_can_actually/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Research/Architecture Thesis Question: What are the sizing limitations of nuclear reactors?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vitjlh/researcharchitecture_thesis_question_what_are_the/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vimq4u/undeclared_uranium_hitches_a_ride_on_cobalt/"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Drought threatens nuclear generation on the Danube",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vif3k7/drought_threatens_nuclear_generation_on_the_danube/"
     },
     {
       "date": "2026-08-06",
@@ -21,19 +76,24 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-09",
-      "title": "Romania Extends Nuclear Reactor Output by Nine Days After Danube Blasts",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/romania-extends-reactor-output-by-nine-days-after-danube-blasts"
+      "date": "2026-08-10",
+      "title": "FISSION now streaming!",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vkfcj3/fission_now_streaming/"
     },
     {
-      "date": "2026-08-09",
-      "title": "Nuclear Reactor//Martin Gendell [video]",
-      "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
+      "date": "2026-08-10",
+      "title": "This nuclear startup and Halliburton repurposed oil drilling to solve the radioactive waste pro…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vkdjpw/this_nuclear_startup_and_halliburton_repurposed/"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vkbegd/the_view_from_the_proving_grounds_for/"
     }
   ],
-  "latest_date": "2026-08-09",
-  "count_7d": 3,
-  "count_today": 2,
+  "latest_date": "2026-08-10",
+  "count_7d": 14,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
