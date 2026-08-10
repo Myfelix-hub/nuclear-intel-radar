@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:09:45.684857+00:00",
+  "generated_at": "2026-08-10T16:24:51.165799+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -17,11 +17,6 @@
       "date": "2026-08-06",
       "title": "Oklo cleared to start up test reactor",
       "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor",
-      "url": "https://www.reuters.com/business/energy/hungarys-nuclear-plant-shutdown-due-low-danube-gets-reprieve-until-later-week-2026-08-03/"
     }
   ],
   "updates_today": [
@@ -37,7 +32,7 @@
     }
   ],
   "latest_date": "2026-08-09",
-  "count_7d": 4,
+  "count_7d": 3,
   "count_today": 2,
   "has_error": false,
   "error": null,
