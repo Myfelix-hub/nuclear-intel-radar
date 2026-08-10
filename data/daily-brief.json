@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-08-10T05:57:22.677338+00:00",
+  "generated_at": "2026-08-10T07:58:00.868122+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-29963b2e17c22f29",
+      "title": "DOE Announces Oklo as Fifth Advanced Nuclear Reactor to Achieve Criticality This Summer",
+      "representative_url": "https://www.energy.gov/ne/articles/office-nuclear-energy-celebrates-fifth-advanced-reactor-criticality",
+      "first_published_at": "2026-08-10T07:58:00.868122+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.8
+    },
+    {
+      "story_id": "story-419de9902cdf8d5f",
+      "title": "Historic U.S. Nuclear Site Eyes Four SMR-300 Reactors After 49 Years of Service",
+      "representative_url": "https://interestingengineering.com/energy/49-year-u-s-nuclear-power-site-prepares-for-future-with-four-smr-300-reactors",
+      "first_published_at": "2026-08-10T07:58:00.868122+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-53f05e876a519734",
+      "title": "The U.S.-Saudi Nuclear Deal Is a Test Case for South Korean Uranium Enrichment",
+      "representative_url": "https://keia.org/analysis/the-u-s-saudi-nuclear-deal-is-a-test-case-for-south-korean-uranium-enrichment/",
+      "first_published_at": "2026-08-10T07:58:00.868122+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-148a3f9d77d48192",
+      "title": "Curio, NuScale Power, and Framatome Sign Strategic MOU to Advance the Future Nuclear Fuel Cycle",
+      "representative_url": "https://www.businesswire.com/news/home/20260806687946/en/Curio-NuScale-Power-and-Framatome-Sign-Strategic-MOU-to-Advance-the-Future-Nuclear-Fuel-Cycle",
+      "first_published_at": "2026-08-10T07:58:00.868122+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-c5f9ee723702c2d9",
+      "title": "Nuclear Startup Oklo Splits Its First Atoms in Test Reactor",
+      "representative_url": "https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor",
+      "first_published_at": "2026-08-10T07:58:00.868122+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-1263806f03fa62c7",
+      "title": "NRC Debuts Modernized Hearing Process for Nation’s First Advanced Reactor Construction Permit R…",
+      "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-075.pdf",
+      "first_published_at": "2026-08-10T07:58:00.868122+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-f3e6ef59d35ce6aa",
+      "title": "TVA Planning Small Modular Reactors at Abandoned Bellefonte Nuclear Plant",
+      "representative_url": "https://www.timesfreepress.com/news/2026/aug/05/tva-planning-small-modular-reactors-at-abandoned/",
+      "first_published_at": "2026-08-10T07:58:00.868122+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 3.6
+    },
     {
       "story_id": "story-96ce565d4fe55d0b",
       "title": "Romania Extends Nuclear Reactor Output by Nine Days After Danube Blasts",
@@ -47,111 +152,6 @@
       "source_tier_rank": 2,
       "primary_section": "tech",
       "score": 2.8331265897019486
-    },
-    {
-      "story_id": "story-7b8904e7ba721454",
-      "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-10T05:57:22.677338+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-10T05:57:22.677338+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-ec275d024c79f1bd",
-      "title": "中核集团人事密集调整！涉及江苏核电等！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-10T05:57:22.677338+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "china",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-6dc9add4ab243f52",
-      "title": "这家核电机组FCD！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-10T05:57:22.677338+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-92b7af7855105f85",
-      "title": "Oklo’s Groves Research Reactor Achieves First Criticality",
-      "representative_url": "https://neutronbytes.com/2026/08/08/oklos-groves-research-reactor-achieves-first-criticality/",
-      "first_published_at": "2026-08-09T01:24:08+00:00",
-      "sources": [
-        "neutronbytes"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.2,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "hot",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-4e4c25a7fe28b076",
-      "title": "Centrus, X-energy sign enrichment contract as TRISO-X expands TX-1 campus",
-      "representative_url": "https://www.ans.org/news/2026-08-07/article-8279/centrus-xenergy-sign-enrichment-contract-as-trisox-expands-tx1-campus/",
-      "first_published_at": "2026-08-07T16:57:09+00:00",
-      "sources": [
-        "ans_newswire"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.15,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "fuel",
-      "score": 2.3
-    },
-    {
-      "story_id": "story-a3c1a002e78e7495",
-      "title": "Nuclear Fuel Deals Frame the Future of Advanced Reactors",
-      "representative_url": "https://neutronbytes.com/2026/08/08/nuclear-fuel-deals-frame-the-future-of-advanced-reactors/",
-      "first_published_at": "2026-08-09T01:33:10+00:00",
-      "sources": [
-        "neutronbytes"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.05,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "fuel",
-      "score": 2.1
     }
   ]
 }
