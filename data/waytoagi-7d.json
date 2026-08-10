@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:14:53.174285+00:00",
+  "generated_at": "2026-08-10T05:57:22.677338+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -12,56 +12,6 @@
       "date": "2026-08-09",
       "title": "Nuclear Reactor//Martin Gendell [video]",
       "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "Reactor at Kansai Electric’s Oi plant stops after alarm",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vjfkad/reactor_at_kansai_electrics_oi_plant_stops_after/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Where to find info on commercial nuclear deals?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vj9695/where_to_find_info_on_commercial_nuclear_deals/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "US collaboration to study used nuclear fuel recycling",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vj2n6g/us_collaboration_to_study_used_nuclear_fuel/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Thermal energy storage integration with nuclear power: A critical review - Aug 2024",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vj237f/thermal_energy_storage_integration_with_nuclear/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "I built a browser reactor stand you can actually drive — point kinetics, feedbacks, xenon, seco…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1viwnia/i_built_a_browser_reactor_stand_you_can_actually/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Research/Architecture Thesis Question: What are the sizing limitations of nuclear reactors?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vitjlh/researcharchitecture_thesis_question_what_are_the/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vimq4u/undeclared_uranium_hitches_a_ride_on_cobalt/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Drought threatens nuclear generation on the Danube",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vif3k7/drought_threatens_nuclear_generation_on_the_danube/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Finnish Radiation and Nuclear Safety Authority gives positive statement and safety review for F…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1via6na/finnish_radiation_and_nuclear_safety_authority/"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "There is absolutely no reason to be using coal, switch it all to nuclear.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vhy1jf/there_is_absolutely_no_reason_to_be_using_coal/"
     },
     {
       "date": "2026-08-07",
@@ -94,16 +44,11 @@
       "date": "2026-08-09",
       "title": "Nuclear Reactor//Martin Gendell [video]",
       "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "Reactor at Kansai Electric’s Oi plant stops after alarm",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vjfkad/reactor_at_kansai_electrics_oi_plant_stops_after/"
     }
   ],
   "latest_date": "2026-08-09",
-  "count_7d": 16,
-  "count_today": 3,
+  "count_7d": 6,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
