@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:18:16.442596+00:00",
+  "generated_at": "2026-08-11T08:31:32.100578+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -17,6 +17,16 @@
       "date": "2026-08-10",
       "title": "Rosatom staff begin returning to Iran's Bushehr nuclear plant | Aug 10 2026",
       "url": "https://www.reddit.com/r/nuclear/comments/1vkxsi3/rosatom_staff_begin_returning_to_irans_bushehr/"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Nuclear research",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vkr5oy/nuclear_research/"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "To anyone working around TRIGA/Breazeale reactors: do you ever get the urge to touch the water?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vkfxf1/to_anyone_working_around_trigabreazeale_reactors/"
     },
     {
       "date": "2026-08-10",
@@ -45,6 +55,11 @@
     },
     {
       "date": "2026-08-09",
+      "title": "America's energy future? Gates, Buffett and a Wyoming town go nuclear",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vjyn99/americas_energy_future_gates_buffett_and_a/"
+    },
+    {
+      "date": "2026-08-09",
       "title": "Reactor at Kansai Electric’s Oi plant stops after alarm",
       "url": "https://www.reddit.com/r/nuclear/comments/1vjfkad/reactor_at_kansai_electrics_oi_plant_stops_after/"
     },
@@ -52,6 +67,16 @@
       "date": "2026-08-08",
       "title": "Where to find info on commercial nuclear deals?",
       "url": "https://www.reddit.com/r/nuclear/comments/1vj9695/where_to_find_info_on_commercial_nuclear_deals/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Where to find info on current commercial nuclear deals?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vj95q4/where_to_find_info_on_current_commercial_nuclear/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Mentour Pilot, breakdown of the Fukushima nuclear disaster",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vj8r2w/mentour_pilot_breakdown_of_the_fukushima_nuclear/"
     },
     {
       "date": "2026-08-08",
@@ -74,6 +99,11 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vitjlh/researcharchitecture_thesis_question_what_are_the/"
     },
     {
+      "date": "2026-08-07",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
+    },
+    {
       "date": "2026-08-06",
       "title": "Oklo cleared to start up test reactor",
       "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor"
@@ -92,7 +122,7 @@
     }
   ],
   "latest_date": "2026-08-11",
-  "count_7d": 15,
+  "count_7d": 21,
   "count_today": 2,
   "has_error": false,
   "error": null,
