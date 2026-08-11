@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-11T05:36:46.407821+00:00",
+  "generated_at": "2026-08-11T07:18:16.442596+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-11",
+      "title": "Does Dunkirk have what N.Y. is looking for in search for more nuclear power?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vl9mfc/does_dunkirk_have_what_ny_is_looking_for_in/"
+    },
     {
       "date": "2026-08-11",
       "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
@@ -77,13 +82,18 @@
   "updates_today": [
     {
       "date": "2026-08-11",
+      "title": "Does Dunkirk have what N.Y. is looking for in search for more nuclear power?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vl9mfc/does_dunkirk_have_what_ny_is_looking_for_in/"
+    },
+    {
+      "date": "2026-08-11",
       "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
       "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
     }
   ],
   "latest_date": "2026-08-11",
-  "count_7d": 14,
-  "count_today": 1,
+  "count_7d": 15,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
