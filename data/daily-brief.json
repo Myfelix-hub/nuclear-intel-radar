@@ -1,38 +1,8 @@
 {
-  "generated_at": "2026-08-11T08:31:32.100578+00:00",
+  "generated_at": "2026-08-11T10:04:46.537813+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
-    {
-      "story_id": "story-16dbb6aa87d7f0be",
-      "title": "This nuclear startup and Halliburton repurposed oil drilling to solve the radioactive waste pro…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vkdjpw/this_nuclear_startup_and_halliburton_repurposed/",
-      "first_published_at": "2026-08-10T06:59:17+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "safety",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-f0bc1bfc746e82fa",
-      "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vkbegd/the_view_from_the_proving_grounds_for/",
-      "first_published_at": "2026-08-10T04:56:36+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
     {
       "story_id": "story-96ce565d4fe55d0b",
       "title": "Romania Extends Nuclear Reactor Output by Nine Days After Danube Blasts",
@@ -64,56 +34,10 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-11d632aa7f2515b1",
-      "title": "Research/Architecture Thesis Question: What are the sizing limitations of nuclear reactors?",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vitjlh/researcharchitecture_thesis_question_what_are_the/",
-      "first_published_at": "2026-08-08T11:27:13+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "research",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-544a0aab00e5103d",
-      "title": "Rosatom staff begin returning to Iran's Bushehr nuclear plant | Aug 10 2026",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vkxsi3/rosatom_staff_begin_returning_to_irans_bushehr/",
-      "first_published_at": "2026-08-10T11:09:54+00:00",
-      "sources": [
-        "reddit_nuclear",
-        "wnn"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.0476649250079015
-    },
-    {
-      "story_id": "story-de597a47fcf6d014",
-      "title": "Where to find info on current commercial nuclear deals?",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vj95q4/where_to_find_info_on_current_commercial_nuclear/",
-      "first_published_at": "2026-08-08T22:37:51+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.0476649250079015
-    },
-    {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-11T08:31:32.100578+00:00",
+      "first_published_at": "2026-08-11T10:04:46.537813+00:00",
       "sources": [
         "kairos"
       ],
@@ -128,7 +52,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-11T08:31:32.100578+00:00",
+      "first_published_at": "2026-08-11T10:04:46.537813+00:00",
       "sources": [
         "kairos"
       ],
@@ -140,19 +64,94 @@
       "score": 2.7
     },
     {
-      "story_id": "story-15de20a804520555",
-      "title": "America's energy future? Gates, Buffett and a Wyoming town go nuclear",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vjyn99/americas_energy_future_gates_buffett_and_a/",
-      "first_published_at": "2026-08-09T19:19:02+00:00",
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-08-11T10:04:46.537813+00:00",
       "sources": [
-        "reddit_nuclear"
+        "nuclear_net_cn"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-08-11T10:04:46.537813+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-92b7af7855105f85",
+      "title": "Oklo’s Groves Research Reactor Achieves First Criticality",
+      "representative_url": "https://neutronbytes.com/2026/08/08/oklos-groves-research-reactor-achieves-first-criticality/",
+      "first_published_at": "2026-08-09T01:24:08+00:00",
+      "sources": [
+        "neutronbytes"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "hot",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-a3c1a002e78e7495",
+      "title": "Nuclear Fuel Deals Frame the Future of Advanced Reactors",
+      "representative_url": "https://neutronbytes.com/2026/08/08/nuclear-fuel-deals-frame-the-future-of-advanced-reactors/",
+      "first_published_at": "2026-08-09T01:33:10+00:00",
+      "sources": [
+        "neutronbytes"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.05,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "fuel",
+      "score": 2.1
+    },
+    {
+      "story_id": "story-ede95f29343b223b",
+      "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
+      "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
+      "first_published_at": "2026-08-11T10:04:46.537813+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "fuel",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-5e7a7765e34fe669",
+      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
+      "first_published_at": "2026-08-11T10:04:46.537813+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "policy",
+      "score": 1.7999999999999998
     }
   ]
 }
