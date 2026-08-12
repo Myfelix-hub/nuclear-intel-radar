@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:27:39.375338+00:00",
+  "generated_at": "2026-08-12T17:33:40.083528+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -64,11 +64,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vkdjpw/this_nuclear_startup_and_halliburton_repurposed/"
     },
     {
-      "date": "2026-08-10",
-      "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vkbegd/the_view_from_the_proving_grounds_for/"
-    },
-    {
       "date": "2026-08-09",
       "title": "Romania Extends Nuclear Reactor Output by Nine Days After Danube Blasts",
       "url": "https://www.bloomberg.com/news/articles/2026-08-09/romania-extends-reactor-output-by-nine-days-after-danube-blasts"
@@ -117,7 +112,7 @@
     }
   ],
   "latest_date": "2026-08-12",
-  "count_7d": 17,
+  "count_7d": 16,
   "count_today": 5,
   "has_error": false,
   "error": null,

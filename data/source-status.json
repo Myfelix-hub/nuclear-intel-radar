@@ -1,19 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 5,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 14,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -28,8 +19,8 @@
       "warning": null
     },
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
       "item_count": 10,
       "duration_ms": 0,
@@ -37,10 +28,10 @@
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 20,
+      "item_count": 5,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -55,10 +46,19 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 10,
+      "item_count": 14,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -145,21 +145,21 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
-      "ok": true,
-      "item_count": 1,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "nucnet",
       "site_name": "NucNet",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
       "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
+    },
+    {
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
+      "ok": true,
+      "item_count": 1,
+      "duration_ms": 0,
+      "error": null,
       "warning": null
     },
     {
@@ -172,19 +172,19 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "wnn",
-      "site_name": "World Nuclear News",
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
       "ok": true,
-      "item_count": 20,
+      "item_count": 5,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
+      "site_id": "wnn",
+      "site_name": "World Nuclear News",
       "ok": true,
-      "item_count": 5,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -235,12 +235,12 @@
       "warning": null
     },
     {
-      "site_id": "terrapower",
-      "site_name": "TerraPower",
+      "site_id": "rosatom",
+      "site_name": "Rosatom",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "terrapower: all start_urls returned 200 HTML but no containers matched, and Jina fallback failed — RuntimeError: terrapower: Jina returned HTTP 403 for https://www.terrapower.com/newsroom/",
+      "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
       "warning": null
     },
     {
@@ -280,12 +280,12 @@
       "warning": null
     },
     {
-      "site_id": "rosatom",
-      "site_name": "Rosatom",
+      "site_id": "terrapower",
+      "site_name": "TerraPower",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
+      "error": "terrapower: all start_urls + Jina failed — https://www.terrapower.com/newsroom/: ConnectTimeout: HTTPSConnectionPool(host='www.terrapower.com', port=443): Max retries exceeded w || https://www.terrapo",
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 8,
-      "duration_ms": 2739,
+      "duration_ms": 2812,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 5537,
+      "item_count": 9,
+      "duration_ms": 5609,
       "error": null,
       "warning": null
     }
@@ -337,12 +337,12 @@
       "warning": null
     },
     {
-      "site_id": "terrapower",
-      "site_name": "TerraPower",
+      "site_id": "rosatom",
+      "site_name": "Rosatom",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "terrapower: all start_urls returned 200 HTML but no containers matched, and Jina fallback failed — RuntimeError: terrapower: Jina returned HTTP 403 for https://www.terrapower.com/newsroom/",
+      "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
       "warning": null
     },
     {
@@ -355,17 +355,17 @@
       "warning": null
     },
     {
-      "site_id": "rosatom",
-      "site_name": "Rosatom",
+      "site_id": "terrapower",
+      "site_name": "TerraPower",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
+      "error": "terrapower: all start_urls + Jina failed — https://www.terrapower.com/newsroom/: ConnectTimeout: HTTPSConnectionPool(host='www.terrapower.com', port=443): Max retries exceeded w || https://www.terrapo",
       "warning": null
     }
   ],
-  "fetched_raw_items": 315,
-  "items_before_topic_filter": 315,
+  "fetched_raw_items": 314,
+  "items_before_topic_filter": 314,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
