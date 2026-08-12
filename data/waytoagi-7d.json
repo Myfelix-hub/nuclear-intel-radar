@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-12T12:25:48.860337+00:00",
+  "generated_at": "2026-08-12T13:59:42.942646+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-12",
+      "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
+      "url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/"
+    },
     {
       "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -82,6 +87,11 @@
   "updates_today": [
     {
       "date": "2026-08-12",
+      "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
+      "url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/"
+    },
+    {
+      "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
     },
@@ -97,8 +107,8 @@
     }
   ],
   "latest_date": "2026-08-12",
-  "count_7d": 15,
-  "count_today": 3,
+  "count_7d": 16,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
