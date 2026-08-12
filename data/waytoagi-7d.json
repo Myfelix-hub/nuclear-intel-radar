@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:59:42.942646+00:00",
+  "generated_at": "2026-08-12T15:09:06.534852+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -14,54 +14,9 @@
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
     },
     {
-      "date": "2026-08-12",
-      "title": "New Updates to Nuclear Toolkit App!",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vmbf2l/new_updates_to_nuclear_toolkit_app/"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "Bill Gates is building a $4-billion nuclear facility in a Wyoming coal town of just 2,400. Loca…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vlz8go/bill_gates_is_building_a_4billion_nuclear/"
-    },
-    {
       "date": "2026-08-11",
-      "title": "Could Tritium Batteries Be the Key to Surviving the Long Lunar Night?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vlwk4g/could_tritium_batteries_be_the_key_to_surviving/"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "France's Power Prices Jump 22% as Heatwave Trims Nuclear Output",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vlndcp/frances_power_prices_jump_22_as_heatwave_trims/"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "India's upcoming Isotope Production Reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vlfb9h/indias_upcoming_isotope_production_reactor/"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Does Dunkirk have what N.Y. is looking for in search for more nuclear power?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vl9mfc/does_dunkirk_have_what_ny_is_looking_for_in/"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "Rosatom staff begin returning to Iran's Bushehr nuclear plant | Aug 10 2026",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vkxsi3/rosatom_staff_begin_returning_to_irans_bushehr/"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "FISSION now streaming!",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vkfcj3/fission_now_streaming/"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "This nuclear startup and Halliburton repurposed oil drilling to solve the radioactive waste pro…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vkdjpw/this_nuclear_startup_and_halliburton_repurposed/"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vkbegd/the_view_from_the_proving_grounds_for/"
+      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
+      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
     },
     {
       "date": "2026-08-09",
@@ -94,21 +49,11 @@
       "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "New Updates to Nuclear Toolkit App!",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vmbf2l/new_updates_to_nuclear_toolkit_app/"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "Bill Gates is building a $4-billion nuclear facility in a Wyoming coal town of just 2,400. Loca…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vlz8go/bill_gates_is_building_a_4billion_nuclear/"
     }
   ],
   "latest_date": "2026-08-12",
-  "count_7d": 16,
-  "count_today": 4,
+  "count_7d": 7,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
