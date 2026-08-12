@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:24:07.236035+00:00",
+  "generated_at": "2026-08-12T09:42:40.509697+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,6 +7,11 @@
       "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
+      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
     },
     {
       "date": "2026-08-09",
@@ -17,6 +22,11 @@
       "date": "2026-08-09",
       "title": "Nuclear Reactor//Martin Gendell [video]",
       "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
     },
     {
       "date": "2026-08-06",
@@ -32,7 +42,7 @@
     }
   ],
   "latest_date": "2026-08-12",
-  "count_7d": 4,
+  "count_7d": 6,
   "count_today": 1,
   "has_error": false,
   "error": null,
