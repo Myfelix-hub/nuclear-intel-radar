@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-13T20:51:58.033842+00:00",
+  "generated_at": "2026-08-13T21:53:36.854945+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-13",
+      "title": "French nuclear output hits 8-year high for July despite heat | Montel News",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vnnajg/french_nuclear_output_hits_8year_high_for_july/"
+    },
     {
       "date": "2026-08-13",
       "title": "First criticality for Mochovce 4",
@@ -64,16 +69,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vlfb9h/indias_upcoming_isotope_production_reactor/"
     },
     {
-      "date": "2026-08-11",
-      "title": "Does Dunkirk have what N.Y. is looking for in search for more nuclear power?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vl9mfc/does_dunkirk_have_what_ny_is_looking_for_in/"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
-      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
-    },
-    {
       "date": "2026-08-09",
       "title": "Romania Extends Nuclear Reactor Output by Nine Days After Danube Blasts",
       "url": "https://www.bloomberg.com/news/articles/2026-08-09/romania-extends-reactor-output-by-nine-days-after-danube-blasts"
@@ -90,6 +85,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-08-13",
+      "title": "French nuclear output hits 8-year high for July despite heat | Montel News",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vnnajg/french_nuclear_output_hits_8year_high_for_july/"
+    },
     {
       "date": "2026-08-13",
       "title": "First criticality for Mochovce 4",
@@ -117,8 +117,8 @@
     }
   ],
   "latest_date": "2026-08-13",
-  "count_7d": 17,
-  "count_today": 5,
+  "count_7d": 16,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
