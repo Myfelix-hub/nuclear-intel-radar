@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-13T15:31:44.714868+00:00",
+  "generated_at": "2026-08-13T17:03:00.540648+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-13",
+      "title": "First criticality for Mochovce 4",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vnfw9v/first_criticality_for_mochovce_4/"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "5 indigenous small modular reactors targeted by India by 2033, Jitendra Singh tells LS",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vnfw0z/5_indigenous_small_modular_reactors_targeted_by/"
+    },
     {
       "date": "2026-08-13",
       "title": "Fusion technology developer relocating U.S. headquarters to Oak Ridge, investing $47M",
@@ -59,9 +69,9 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vl9mfc/does_dunkirk_have_what_ny_is_looking_for_in/"
     },
     {
-      "date": "2026-08-10",
-      "title": "Rosatom staff begin returning to Iran's Bushehr nuclear plant | Aug 10 2026",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vkxsi3/rosatom_staff_begin_returning_to_irans_bushehr/"
+      "date": "2026-08-11",
+      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
+      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
     },
     {
       "date": "2026-08-09",
@@ -82,6 +92,16 @@
   "updates_today": [
     {
       "date": "2026-08-13",
+      "title": "First criticality for Mochovce 4",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vnfw9v/first_criticality_for_mochovce_4/"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "5 indigenous small modular reactors targeted by India by 2033, Jitendra Singh tells LS",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vnfw0z/5_indigenous_small_modular_reactors_targeted_by/"
+    },
+    {
+      "date": "2026-08-13",
       "title": "Fusion technology developer relocating U.S. headquarters to Oak Ridge, investing $47M",
       "url": "https://www.reddit.com/r/nuclear/comments/1vn184m/fusion_technology_developer_relocating_us/"
     },
@@ -97,8 +117,8 @@
     }
   ],
   "latest_date": "2026-08-13",
-  "count_7d": 15,
-  "count_today": 3,
+  "count_7d": 17,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
