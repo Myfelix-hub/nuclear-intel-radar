@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-08-14T14:32:26.856858+00:00",
+  "generated_at": "2026-08-14T15:57:36.889049+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-14",
+      "title": "US collaboration to study used nuclear fuel recycling - Aug 7, 2026",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vob6l2/us_collaboration_to_study_used_nuclear_fuel/"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Spain extends Almaraz nuclear plant permit angering defenders of renewables",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vob4wm/spain_extends_almaraz_nuclear_plant_permit/"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "China loads first fuel into new 1.2GW reactor at Tianwan nuclear plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vo9igj/china_loads_first_fuel_into_new_12gw_reactor_at/"
+    },
     {
       "date": "2026-08-14",
       "title": "Ever see a Nuclear Reactor rolling down the street?",
@@ -60,11 +75,6 @@
     },
     {
       "date": "2026-08-12",
-      "title": "New Updates to Nuclear Toolkit App!",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vmbf2l/new_updates_to_nuclear_toolkit_app/"
-    },
-    {
-      "date": "2026-08-12",
       "title": "Bill Gates is building a $4-billion nuclear facility in a Wyoming coal town of just 2,400. Loca…",
       "url": "https://www.reddit.com/r/nuclear/comments/1vlz8go/bill_gates_is_building_a_4billion_nuclear/"
     },
@@ -82,13 +92,28 @@
   "updates_today": [
     {
       "date": "2026-08-14",
+      "title": "US collaboration to study used nuclear fuel recycling - Aug 7, 2026",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vob6l2/us_collaboration_to_study_used_nuclear_fuel/"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Spain extends Almaraz nuclear plant permit angering defenders of renewables",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vob4wm/spain_extends_almaraz_nuclear_plant_permit/"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "China loads first fuel into new 1.2GW reactor at Tianwan nuclear plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vo9igj/china_loads_first_fuel_into_new_12gw_reactor_at/"
+    },
+    {
+      "date": "2026-08-14",
       "title": "Ever see a Nuclear Reactor rolling down the street?",
       "url": "https://www.reddit.com/r/nuclear/comments/1vnuuoi/ever_see_a_nuclear_reactor_rolling_down_the_street/"
     }
   ],
   "latest_date": "2026-08-14",
-  "count_7d": 15,
-  "count_today": 1,
+  "count_7d": 17,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
