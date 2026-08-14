@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:34:03.757129+00:00",
+  "generated_at": "2026-08-14T11:50:18.066798+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -17,6 +17,11 @@
       "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
+      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
     },
     {
       "date": "2026-08-09",
@@ -47,7 +52,7 @@
     }
   ],
   "latest_date": "2026-08-12",
-  "count_7d": 5,
+  "count_7d": 6,
   "count_today": 3,
   "has_error": false,
   "error": null,
