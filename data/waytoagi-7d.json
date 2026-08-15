@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:26:11.643294+00:00",
+  "generated_at": "2026-08-15T11:48:20.251040+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -84,11 +84,6 @@
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
     },
     {
-      "date": "2026-08-11",
-      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
-      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
-    },
-    {
       "date": "2026-08-09",
       "title": "Romania Extends Nuclear Reactor Output by Nine Days After Danube Blasts",
       "url": "https://www.bloomberg.com/news/articles/2026-08-09/romania-extends-reactor-output-by-nine-days-after-danube-blasts"
@@ -122,7 +117,7 @@
     }
   ],
   "latest_date": "2026-08-15",
-  "count_7d": 19,
+  "count_7d": 18,
   "count_today": 4,
   "has_error": false,
   "error": null,
