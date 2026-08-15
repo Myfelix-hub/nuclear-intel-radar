@@ -10,33 +10,6 @@
       "warning": null
     },
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
       "site_id": "arxiv_nuclex",
       "site_name": "arXiv nucl-ex",
       "ok": true,
@@ -55,12 +28,39 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 9,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
       "warning": null
     },
     {
@@ -145,12 +145,12 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
-      "ok": true,
-      "item_count": 20,
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 2630,
+      "duration_ms": 2664,
       "error": null,
       "warning": null
     },
@@ -302,7 +302,7 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 5395,
+      "duration_ms": 5795,
       "error": null,
       "warning": null
     }
