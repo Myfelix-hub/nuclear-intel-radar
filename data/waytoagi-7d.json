@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-16T20:29:54.602864+00:00",
+  "generated_at": "2026-08-16T20:53:52.149268+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-16",
+      "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
+      "url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/"
+    },
     {
       "date": "2026-08-16",
       "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
@@ -75,18 +80,8 @@
     },
     {
       "date": "2026-08-12",
-      "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
-      "url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/"
-    },
-    {
-      "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
-      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
     },
     {
       "date": "2026-08-09",
@@ -95,6 +90,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-08-16",
+      "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
+      "url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/"
+    },
     {
       "date": "2026-08-16",
       "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
@@ -107,8 +107,8 @@
     }
   ],
   "latest_date": "2026-08-16",
-  "count_7d": 18,
-  "count_today": 2,
+  "count_7d": 17,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
