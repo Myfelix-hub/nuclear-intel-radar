@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:53:52.149268+00:00",
+  "generated_at": "2026-08-16T21:26:24.571654+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -69,11 +69,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vo9igj/china_loads_first_fuel_into_new_12gw_reactor_at/"
     },
     {
-      "date": "2026-08-13",
-      "title": "French nuclear output hits 8-year high for July despite heat | Montel News",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vnnajg/french_nuclear_output_hits_8year_high_for_july/"
-    },
-    {
       "date": "2026-08-12",
       "title": "Nuclear power push ramps up uranium mill – and tribal health concerns",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns"
@@ -82,11 +77,6 @@
       "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "Romania Extends Nuclear Reactor Output by Nine Days After Danube Blasts",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/romania-extends-reactor-output-by-nine-days-after-danube-blasts"
     }
   ],
   "updates_today": [
@@ -107,7 +97,7 @@
     }
   ],
   "latest_date": "2026-08-16",
-  "count_7d": 17,
+  "count_7d": 15,
   "count_today": 3,
   "has_error": false,
   "error": null,
