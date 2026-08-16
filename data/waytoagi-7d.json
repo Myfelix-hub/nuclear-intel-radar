@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:37:37.041643+00:00",
+  "generated_at": "2026-08-16T19:25:45.405148+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -92,11 +92,6 @@
       "date": "2026-08-09",
       "title": "Romania Extends Nuclear Reactor Output by Nine Days After Danube Blasts",
       "url": "https://www.bloomberg.com/news/articles/2026-08-09/romania-extends-reactor-output-by-nine-days-after-danube-blasts"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "Nuclear Reactor//Martin Gendell [video]",
-      "url": "https://www.youtube.com/watch?v=gwRWRDrfrvA"
     }
   ],
   "updates_today": [
@@ -112,7 +107,7 @@
     }
   ],
   "latest_date": "2026-08-16",
-  "count_7d": 19,
+  "count_7d": 18,
   "count_today": 2,
   "has_error": false,
   "error": null,
