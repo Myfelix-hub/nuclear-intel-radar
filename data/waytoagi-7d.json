@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-17T01:44:13.881480+00:00",
+  "generated_at": "2026-08-17T03:06:14.235478+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-17",
+      "title": "Worlds largest tower crane assembled at Zhangzhou nuclear plant (@realTZV on X)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vqeyyq/worlds_largest_tower_crane_assembled_at_zhangzhou/"
+    },
     {
       "date": "2026-08-16",
       "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
@@ -59,11 +64,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vob4wm/spain_extends_almaraz_nuclear_plant_permit/"
     },
     {
-      "date": "2026-08-14",
-      "title": "China loads first fuel into new 1.2GW reactor at Tianwan nuclear plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vo9igj/china_loads_first_fuel_into_new_12gw_reactor_at/"
-    },
-    {
       "date": "2026-08-12",
       "title": "Nuclear power push ramps up uranium mill – and tribal health concerns",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns"
@@ -81,24 +81,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-16",
-      "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
-      "url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "Feels really disheartening how the environmentalists are anti-nuclear, ans a lot of other thing…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vput6r/feels_really_disheartening_how_the/"
+      "date": "2026-08-17",
+      "title": "Worlds largest tower crane assembled at Zhangzhou nuclear plant (@realTZV on X)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vqeyyq/worlds_largest_tower_crane_assembled_at_zhangzhou/"
     }
   ],
-  "latest_date": "2026-08-16",
+  "latest_date": "2026-08-17",
   "count_7d": 15,
-  "count_today": 3,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
