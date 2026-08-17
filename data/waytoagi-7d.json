@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-17T13:45:39.042325+00:00",
+  "generated_at": "2026-08-17T14:34:44.583855+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-17",
+      "title": "How sinking 260-feet barges could keep a nuclear plant operational",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vqtrua/how_sinking_260feet_barges_could_keep_a_nuclear/"
+    },
     {
       "date": "2026-08-17",
       "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating …",
@@ -55,11 +60,6 @@
     },
     {
       "date": "2026-08-14",
-      "title": "Slovakia’s newest reactor achieves criticality",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vohwc9/slovakias_newest_reactor_achieves_criticality/"
-    },
-    {
-      "date": "2026-08-14",
       "title": "Spain extends Almaraz nuclear plant permit angering defenders of renewables",
       "url": "https://www.reddit.com/r/nuclear/comments/1vob4wm/spain_extends_almaraz_nuclear_plant_permit/"
     },
@@ -77,6 +77,11 @@
   "updates_today": [
     {
       "date": "2026-08-17",
+      "title": "How sinking 260-feet barges could keep a nuclear plant operational",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vqtrua/how_sinking_260feet_barges_could_keep_a_nuclear/"
+    },
+    {
+      "date": "2026-08-17",
       "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating …",
       "url": "https://www.reddit.com/r/nuclear/comments/1vqptre/deliberate_negligence_russian_nuclear_power/"
     },
@@ -88,7 +93,7 @@
   ],
   "latest_date": "2026-08-17",
   "count_7d": 14,
-  "count_today": 2,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
