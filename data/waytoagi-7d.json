@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-08-17T10:38:23.896643+00:00",
+  "generated_at": "2026-08-17T11:31:54.452879+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-17",
-      "title": "More Renewables Lead To Lower Demand For Methane In Europe - awkward for the nuclear-bro claim …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqo20c/more_renewables_lead_to_lower_demand_for_methane/"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "How long does it take for a VVER-440 nuclear reactor to switch from the external grid to its se…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqlufr/how_long_does_it_take_for_a_vver440_nuclear/"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "Do nuclear power plants have any chance of competing with solar and BESS at this point?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqkifx/do_nuclear_power_plants_have_any_chance_of/"
-    },
     {
       "date": "2026-08-17",
       "title": "Worlds largest tower crane assembled at Zhangzhou nuclear plant (@realTZV on X)",
@@ -25,18 +10,8 @@
     },
     {
       "date": "2026-08-16",
-      "title": "Working in Nuclear Power",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqccc6/working_in_nuclear_power/"
-    },
-    {
-      "date": "2026-08-16",
       "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
       "url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "Nuclear power plants are being shut down as Europe’s drought becomes an energy crisis",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vq5emo/nuclear_power_plants_are_being_shut_down_as/"
     },
     {
       "date": "2026-08-16",
@@ -47,21 +22,6 @@
       "date": "2026-08-16",
       "title": "Feels really disheartening how the environmentalists are anti-nuclear, ans a lot of other thing…",
       "url": "https://www.reddit.com/r/nuclear/comments/1vput6r/feels_really_disheartening_how_the/"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "Nuclear the Biggest Producer of Electricity in the European Union in 2023",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vplnf6/nuclear_the_biggest_producer_of_electricity_in/"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "Civil Engineers in Nuclear/Power Sector",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vpd7v6/civil_engineers_in_nuclearpower_sector/"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "Class project on nuclear waste transport safety, would love to pick the brain of anyone in the …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vp7x9m/class_project_on_nuclear_waste_transport_safety/"
     },
     {
       "date": "2026-08-15",
@@ -122,28 +82,13 @@
   "updates_today": [
     {
       "date": "2026-08-17",
-      "title": "More Renewables Lead To Lower Demand For Methane In Europe - awkward for the nuclear-bro claim …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqo20c/more_renewables_lead_to_lower_demand_for_methane/"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "How long does it take for a VVER-440 nuclear reactor to switch from the external grid to its se…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqlufr/how_long_does_it_take_for_a_vver440_nuclear/"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "Do nuclear power plants have any chance of competing with solar and BESS at this point?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqkifx/do_nuclear_power_plants_have_any_chance_of/"
-    },
-    {
-      "date": "2026-08-17",
       "title": "Worlds largest tower crane assembled at Zhangzhou nuclear plant (@realTZV on X)",
       "url": "https://www.reddit.com/r/nuclear/comments/1vqeyyq/worlds_largest_tower_crane_assembled_at_zhangzhou/"
     }
   ],
   "latest_date": "2026-08-17",
-  "count_7d": 23,
-  "count_today": 4,
+  "count_7d": 15,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
