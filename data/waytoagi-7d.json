@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:28:50.057727+00:00",
+  "generated_at": "2026-08-17T23:52:27.390803+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -50,6 +50,11 @@
     },
     {
       "date": "2026-08-15",
+      "title": "Nuclear costs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vowrao/nuclear_costs/"
+    },
+    {
+      "date": "2026-08-15",
       "title": "PM Modi: 5 New Nuclear Reactors This Decade For Self-Reliant India",
       "url": "https://www.reddit.com/r/nuclear/comments/1vowgle/pm_modi_5_new_nuclear_reactors_this_decade_for/"
     },
@@ -87,7 +92,7 @@
     }
   ],
   "latest_date": "2026-08-17",
-  "count_7d": 13,
+  "count_7d": 14,
   "count_today": 3,
   "has_error": false,
   "error": null,

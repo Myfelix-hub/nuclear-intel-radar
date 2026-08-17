@@ -19,19 +19,19 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
       "ok": true,
-      "item_count": 4,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 9,
+      "item_count": 4,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -55,10 +55,10 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
       "ok": true,
-      "item_count": 12,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -154,19 +154,19 @@
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 2,
+      "item_count": 9,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
-      "item_count": 3,
+      "item_count": 2,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 5,
-      "duration_ms": 2878,
+      "duration_ms": 3126,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 9,
-      "duration_ms": 5681,
+      "item_count": 10,
+      "duration_ms": 5594,
       "error": null,
       "warning": null
     }
@@ -364,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 292,
-  "items_before_topic_filter": 292,
+  "fetched_raw_items": 293,
+  "items_before_topic_filter": 293,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
