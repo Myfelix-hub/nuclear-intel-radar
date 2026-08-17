@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-08-17T07:34:26.042182+00:00",
+  "generated_at": "2026-08-17T08:52:10.820233+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-17",
-      "title": "Do nuclear power plants have any chance of competing with solar and BESS at this point?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqkifx/do_nuclear_power_plants_have_any_chance_of/"
-    },
     {
       "date": "2026-08-17",
       "title": "Worlds largest tower crane assembled at Zhangzhou nuclear plant (@realTZV on X)",
@@ -15,23 +10,8 @@
     },
     {
       "date": "2026-08-16",
-      "title": "Working in Nuclear Power",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqccc6/working_in_nuclear_power/"
-    },
-    {
-      "date": "2026-08-16",
       "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
       "url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "Nuclear power plants are being shut down as Europe’s drought becomes an energy crisis",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vq5emo/nuclear_power_plants_are_being_shut_down_as/"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "Is nuclear power a good form of energy?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vq4qov/is_nuclear_power_a_good_form_of_energy/"
     },
     {
       "date": "2026-08-16",
@@ -42,21 +22,6 @@
       "date": "2026-08-16",
       "title": "Feels really disheartening how the environmentalists are anti-nuclear, ans a lot of other thing…",
       "url": "https://www.reddit.com/r/nuclear/comments/1vput6r/feels_really_disheartening_how_the/"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "Nuclear the Biggest Producer of Electricity in the European Union in 2023",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vplnf6/nuclear_the_biggest_producer_of_electricity_in/"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "Civil Engineers in Nuclear/Power Sector",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vpd7v6/civil_engineers_in_nuclearpower_sector/"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "Class project on nuclear waste transport safety, would love to pick the brain of anyone in the …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vp7x9m/class_project_on_nuclear_waste_transport_safety/"
     },
     {
       "date": "2026-08-15",
@@ -99,21 +64,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vob4wm/spain_extends_almaraz_nuclear_plant_permit/"
     },
     {
-      "date": "2026-08-14",
-      "title": "CSIRO's final 2025-26 GenCost is out. Nuclear got every head start: no grid costs counted, no f…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vo2vz0/csiros_final_202526_gencost_is_out_nuclear_got/"
-    },
-    {
-      "date": "2026-08-14",
-      "title": "What’s the deal with nuclear power recently?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vo2ny7/whats_the_deal_with_nuclear_power_recently/"
-    },
-    {
-      "date": "2026-08-14",
-      "title": "Nuclear Fans Love to Cite Renewables' 'Hidden System Costs.' Scientists Finally Added Them All …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vo237w/nuclear_fans_love_to_cite_renewables_hidden/"
-    },
-    {
       "date": "2026-08-12",
       "title": "Nuclear power push ramps up uranium mill – and tribal health concerns",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns"
@@ -122,19 +72,9 @@
       "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
-      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
     }
   ],
   "updates_today": [
-    {
-      "date": "2026-08-17",
-      "title": "Do nuclear power plants have any chance of competing with solar and BESS at this point?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqkifx/do_nuclear_power_plants_have_any_chance_of/"
-    },
     {
       "date": "2026-08-17",
       "title": "Worlds largest tower crane assembled at Zhangzhou nuclear plant (@realTZV on X)",
@@ -142,8 +82,8 @@
     }
   ],
   "latest_date": "2026-08-17",
-  "count_7d": 25,
-  "count_today": 2,
+  "count_7d": 14,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null

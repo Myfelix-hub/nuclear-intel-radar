@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:34:26.042182+00:00",
+  "generated_at": "2026-08-17T08:52:10.820233+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -32,6 +32,81 @@
       "source_tier_rank": 5,
       "primary_section": "safety",
       "score": 4.199999999999999
+    },
+    {
+      "story_id": "story-5a2a2a9ca2498e0f",
+      "title": "Ukraine and IAEA Coordinate Steps to Strengthen Nuclear Safety and Protect Critical Energy Infr…",
+      "representative_url": "https://mezha.net/eng/bukvy/0e95a3b7_ukraine_and_iaea/",
+      "first_published_at": "2026-08-17T08:52:10.820233+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 4.0
+    },
+    {
+      "story_id": "story-3de77824c9fc9909",
+      "title": "California Officials Scrambled as Spring Wildfire Neared Former Nuclear Reactor Site, Emails Sh…",
+      "representative_url": "https://insideclimatenews.org/news/12082026/california-sandy-fire-santa-susana-nuclear-site-safety/",
+      "first_published_at": "2026-08-17T08:52:10.820233+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "safety",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-566c5191b7554ea9",
+      "title": "Transporting HALEU is a Key Milestone on the Critical Path for Startup of Advanced Reactors",
+      "representative_url": "https://neutronbytes.com/2026/08/12/transporting-haleu-is-a-key-milestone-on-the-critical-path-for-startup-of-advanced-reactors/",
+      "first_published_at": "2026-08-17T08:52:10.820233+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-d42643b56e844631",
+      "title": "Slovakia’s Newest Nuclear Reactor Reaches First Criticality",
+      "representative_url": "https://world-nuclear-news.org/articles/first-criticality-achieved-for-mochovce-unit-4",
+      "first_published_at": "2026-08-17T08:52:10.820233+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-d90e2eaa86fa7713",
+      "title": "‘Near-Autonomous’ AI Agents Attack Taiwan’s Nuclear Safety Agency",
+      "representative_url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
+      "first_published_at": "2026-08-17T08:52:10.820233+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
     },
     {
       "story_id": "story-cce08ceed5636a23",
@@ -77,81 +152,6 @@
       "source_tier_rank": 5,
       "primary_section": "community",
       "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-459a6c4e3adc9e28",
-      "title": "Slovakia’s newest reactor achieves criticality",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vohwc9/slovakias_newest_reactor_achieves_criticality/",
-      "first_published_at": "2026-08-14T20:02:29+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-687e674edcb43834",
-      "title": "Nuclear power plants are being shut down as Europe’s drought becomes an energy crisis",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vq5emo/nuclear_power_plants_are_being_shut_down_as/",
-      "first_published_at": "2026-08-16T18:58:22+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.5,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.0
-    },
-    {
-      "story_id": "story-7b8904e7ba721454",
-      "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-17T07:34:26.042182+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-17T07:34:26.042182+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-03ef9e8b99ba1114",
-      "title": "Do nuclear power plants have any chance of competing with solar and BESS at this point?",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vqkifx/do_nuclear_power_plants_have_any_chance_of/",
-      "first_published_at": "2026-08-17T06:33:54+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
     }
   ]
 }
