@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-08-17T16:34:55.215639+00:00",
+  "generated_at": "2026-08-17T17:33:20.922665+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-17",
-      "title": "How sinking 260-feet barges could keep a nuclear plant operational",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vqtrua/how_sinking_260feet_barges_could_keep_a_nuclear/"
-    },
     {
       "date": "2026-08-17",
       "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating …",
@@ -59,6 +54,11 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vosy2y/how_do_i_stop_larping_and_actually_interact_with/"
     },
     {
+      "date": "2026-08-14",
+      "title": "Slovakia’s newest reactor achieves criticality",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vohwc9/slovakias_newest_reactor_achieves_criticality/"
+    },
+    {
       "date": "2026-08-12",
       "title": "Nuclear power push ramps up uranium mill – and tribal health concerns",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns"
@@ -67,14 +67,14 @@
       "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
+      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
     }
   ],
   "updates_today": [
-    {
-      "date": "2026-08-17",
-      "title": "How sinking 260-feet barges could keep a nuclear plant operational",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vqtrua/how_sinking_260feet_barges_could_keep_a_nuclear/"
-    },
     {
       "date": "2026-08-17",
       "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating …",
@@ -87,8 +87,8 @@
     }
   ],
   "latest_date": "2026-08-17",
-  "count_7d": 13,
-  "count_today": 3,
+  "count_7d": 14,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
