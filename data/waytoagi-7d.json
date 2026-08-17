@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:34:44.583855+00:00",
+  "generated_at": "2026-08-17T16:34:55.215639+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -59,11 +59,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vosy2y/how_do_i_stop_larping_and_actually_interact_with/"
     },
     {
-      "date": "2026-08-14",
-      "title": "Spain extends Almaraz nuclear plant permit angering defenders of renewables",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vob4wm/spain_extends_almaraz_nuclear_plant_permit/"
-    },
-    {
       "date": "2026-08-12",
       "title": "Nuclear power push ramps up uranium mill – and tribal health concerns",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns"
@@ -92,7 +87,7 @@
     }
   ],
   "latest_date": "2026-08-17",
-  "count_7d": 14,
+  "count_7d": 13,
   "count_today": 3,
   "has_error": false,
   "error": null,

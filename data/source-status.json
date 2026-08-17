@@ -13,7 +13,7 @@
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 6,
+      "item_count": 7,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -23,6 +23,15 @@
       "site_name": "IAEA News",
       "ok": true,
       "item_count": 9,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 7,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -46,21 +55,12 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 7,
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
       "warning": null
     },
     {
@@ -145,12 +145,12 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "error": null,
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 5,
-      "duration_ms": 2861,
+      "duration_ms": 3052,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 5845,
+      "item_count": 9,
+      "duration_ms": 5467,
       "error": null,
       "warning": null
     }
