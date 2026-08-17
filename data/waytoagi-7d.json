@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:49:02.758104+00:00",
+  "generated_at": "2026-08-17T01:44:13.881480+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -55,11 +55,6 @@
     },
     {
       "date": "2026-08-14",
-      "title": "Researchers uncover hidden pore network within nuclear fuel",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vobx71/researchers_uncover_hidden_pore_network_within/"
-    },
-    {
-      "date": "2026-08-14",
       "title": "Spain extends Almaraz nuclear plant permit angering defenders of renewables",
       "url": "https://www.reddit.com/r/nuclear/comments/1vob4wm/spain_extends_almaraz_nuclear_plant_permit/"
     },
@@ -77,6 +72,11 @@
       "date": "2026-08-12",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
+      "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
     }
   ],
   "updates_today": [
