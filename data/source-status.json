@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
@@ -19,10 +10,10 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 11,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -46,6 +37,15 @@
       "warning": null
     },
     {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 15,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "nucnet",
       "site_name": "NucNet",
       "ok": false,
@@ -55,10 +55,10 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
-      "item_count": 15,
+      "item_count": 2,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -145,19 +145,19 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 20,
+      "item_count": 11,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
       "ok": true,
-      "item_count": 2,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -172,15 +172,6 @@
       "warning": null
     },
     {
-      "site_id": "wnn",
-      "site_name": "World Nuclear News",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "iter_org",
       "site_name": "ITER",
       "ok": true,
@@ -188,6 +179,15 @@
       "duration_ms": 0,
       "error": null,
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "wnn",
+      "site_name": "World Nuclear News",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
     },
     {
       "site_id": "eurofusion",
@@ -211,10 +211,10 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 0,
+      "item_count": 139,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
+      "warning": null
     },
     {
       "site_id": "nei_magazine",
@@ -293,21 +293,21 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2881,
+      "duration_ms": 2915,
       "error": null,
       "warning": null
     },
     {
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 5494,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 5337,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
   ],
-  "successful_sites": 28,
+  "successful_sites": 27,
   "failed_sites": [
     {
       "site_id": "nucnet",
@@ -362,10 +362,19 @@
       "duration_ms": 0,
       "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
       "warning": null
+    },
+    {
+      "site_id": "reddit_nuclear",
+      "site_name": "Reddit Nuclear",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 5337,
+      "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
+      "warning": null
     }
   ],
-  "fetched_raw_items": 181,
-  "items_before_topic_filter": 181,
+  "fetched_raw_items": 311,
+  "items_before_topic_filter": 311,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
