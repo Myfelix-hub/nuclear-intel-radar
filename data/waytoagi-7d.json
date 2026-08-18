@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-18T15:37:58.507441+00:00",
+  "generated_at": "2026-08-18T16:38:38.954666+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-18",
+      "title": "Philippines Energy Department Identifying More Potential Nuclear Power Plant Sites",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vrtf4e/philippines_energy_department_identifying_more/"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Magyar casts doubt on Hungary-Russia nuclear power deal",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vrt5dm/magyar_casts_doubt_on_hungaryrussia_nuclear_power/"
+    },
     {
       "date": "2026-08-18",
       "title": "Should nuclear energy be run by the government?",
@@ -62,6 +72,16 @@
   "updates_today": [
     {
       "date": "2026-08-18",
+      "title": "Philippines Energy Department Identifying More Potential Nuclear Power Plant Sites",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vrtf4e/philippines_energy_department_identifying_more/"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Magyar casts doubt on Hungary-Russia nuclear power deal",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vrt5dm/magyar_casts_doubt_on_hungaryrussia_nuclear_power/"
+    },
+    {
+      "date": "2026-08-18",
       "title": "Should nuclear energy be run by the government?",
       "url": "https://www.reddit.com/r/nuclear/comments/1vrqxe1/should_nuclear_energy_be_run_by_the_government/"
     },
@@ -82,8 +102,8 @@
     }
   ],
   "latest_date": "2026-08-18",
-  "count_7d": 11,
-  "count_today": 4,
+  "count_7d": 13,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
