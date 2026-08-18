@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-08-18T03:01:53.428824+00:00",
+  "generated_at": "2026-08-18T04:09:11.160105+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
-    {
-      "story_id": "story-27c52faac37fdc09",
-      "title": "Next-gen molten salt reactor designed to generate 300 to 500 MWe from nuclear waste",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1voxusa/nextgen_molten_salt_reactor_designed_to_generate/",
-      "first_published_at": "2026-08-15T08:57:51+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 5.4
-    },
     {
       "story_id": "story-c18eb42b86e2a9da",
       "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
@@ -49,40 +34,10 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-3d48ed3639f536ca",
-      "title": "Small Modular Reactor Screening",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vp4xry/small_modular_reactor_screening/",
-      "first_published_at": "2026-08-15T14:56:07+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-cbd6998b4950de28",
-      "title": "PM Modi: 5 New Nuclear Reactors This Decade For Self-Reliant India",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vowgle/pm_modi_5_new_nuclear_reactors_this_decade_for/",
-      "first_published_at": "2026-08-15T07:32:58+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-18T03:01:53.428824+00:00",
+      "first_published_at": "2026-08-18T04:09:11.160105+00:00",
       "sources": [
         "kairos"
       ],
@@ -97,7 +52,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-18T03:01:53.428824+00:00",
+      "first_published_at": "2026-08-18T04:09:11.160105+00:00",
       "sources": [
         "kairos"
       ],
@@ -109,25 +64,10 @@
       "score": 2.7
     },
     {
-      "story_id": "story-164e1e297ea995fc",
-      "title": "GOP Rep. Mike Lawler eyes nuclear power plant to tackle NY's sky-high electricity costs",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vrcv13/gop_rep_mike_lawler_eyes_nuclear_power_plant_to/",
-      "first_published_at": "2026-08-18T02:45:29+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
-    },
-    {
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-18T03:01:53.428824+00:00",
+      "first_published_at": "2026-08-18T04:09:11.160105+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -142,7 +82,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-18T03:01:53.428824+00:00",
+      "first_published_at": "2026-08-18T04:09:11.160105+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -152,6 +92,66 @@
       "source_tier_rank": 3,
       "primary_section": "newbuild",
       "score": 2.4
+    },
+    {
+      "story_id": "story-5a3e155b4f06b5b7",
+      "title": "X-energy, TerraPower share updates on advanced reactor projects",
+      "representative_url": "https://www.ans.org/news/2026-08-17/article-8297/xenergy-terrapower-share-updates-on-advanced-reactor-projects/",
+      "first_published_at": "2026-08-17T12:11:53+00:00",
+      "sources": [
+        "ans_newswire"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.0,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "tech",
+      "score": 2.0
+    },
+    {
+      "story_id": "story-ede95f29343b223b",
+      "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
+      "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
+      "first_published_at": "2026-08-18T04:09:11.160105+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "fuel",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-5e7a7765e34fe669",
+      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
+      "first_published_at": "2026-08-18T04:09:11.160105+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "policy",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-2ae0559d60396e3b",
+      "title": "试验成功！漳州核电，快发电了！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
+      "first_published_at": "2026-08-18T04:09:11.160105+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 1.6
     }
   ]
 }
