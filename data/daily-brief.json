@@ -1,83 +1,37 @@
 {
-  "generated_at": "2026-08-18T12:58:04.407931+00:00",
+  "generated_at": "2026-08-18T13:50:23.910314+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-e3e64a98ab00b173",
-      "title": "St. Lucie Nuclear Power Plant Unit 1 Manually Shut Down After 3 Control Rods Drop Into Reactor …",
+      "story_id": "story-a61fb257bb676eed",
+      "title": "How long does it take for a VVER-440 nuclear reactor to switch from the external grid to its se…",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vqlufr/how_long_does_it_take_for_a_vver440_nuclear/",
+      "first_published_at": "2026-08-17T07:52:19+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 5.4
+    },
+    {
+      "story_id": "story-c18eb42b86e2a9da",
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
       "representative_url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
       "first_published_at": "2026-08-16T15:16:06+00:00",
       "sources": [
-        "nucleartownhall",
         "hn_nuclear"
       ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.8,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 5.4180709777918254
-    },
-    {
-      "story_id": "story-89c1b9c63f0cc514",
-      "title": "Copper Endures 2,595°F in US Nuclear Fusion Reactor Material Test, Defies Earlier Models",
-      "representative_url": "https://interestingengineering.com/energy/copper-endures-high-temperature",
-      "first_published_at": "2026-08-18T12:58:04.407931+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-e4fd47f8a4f2c5d7",
-      "title": "Korean Containership with Molten Salt Nuclear Reactor Gets ABS Approval",
-      "representative_url": "https://maritime-executive.com/index.php/article/korean-containership-with-molten-salt-nuclear-reactor-gets-abs-approval",
-      "first_published_at": "2026-08-18T12:58:04.407931+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-335c840a06fda263",
-      "title": "TEPCO Begins Removal of Radioactive Spent Fuel from Fukushima No. 2 Reactor",
-      "representative_url": "https://www.japantimes.co.jp/news/2026/08/18/japan/tepco-fuel-removal/",
-      "first_published_at": "2026-08-18T12:58:04.407931+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
+      "nuclear_score": 0.7,
+      "source_tier": "community",
+      "source_tier_rank": 5,
       "primary_section": "safety",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-d90e2eaa86fa7713",
-      "title": "‘Near-Autonomous’ AI Agents Attack Taiwan’s Nuclear Safety Agency",
-      "representative_url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-      "first_published_at": "2026-08-18T12:58:04.407931+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
+      "score": 4.199999999999999
     },
     {
       "story_id": "story-e35d3481e01d0986",
@@ -125,10 +79,40 @@
       "score": 3.5999999999999996
     },
     {
+      "story_id": "story-f37aafae7a11999a",
+      "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating …",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vrjyb1/deliberate_negligence_russian_nuclear_power/",
+      "first_published_at": "2026-08-17T11:36:25+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.3,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "newbuild",
+      "score": 3.0476649250079015
+    },
+    {
+      "story_id": "story-687e674edcb43834",
+      "title": "Nuclear power plants are being shut down as Europe’s drought becomes an energy crisis",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vq5emo/nuclear_power_plants_are_being_shut_down_as/",
+      "first_published_at": "2026-08-16T18:58:22+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.5,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.0
+    },
+    {
       "story_id": "story-7b8904e7ba721454",
       "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-18T12:58:04.407931+00:00",
+      "first_published_at": "2026-08-18T13:50:23.910314+00:00",
       "sources": [
         "kairos"
       ],
@@ -143,7 +127,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-18T12:58:04.407931+00:00",
+      "first_published_at": "2026-08-18T13:50:23.910314+00:00",
       "sources": [
         "kairos"
       ],
@@ -153,6 +137,21 @@
       "source_tier_rank": 2,
       "primary_section": "safety",
       "score": 2.7
+    },
+    {
+      "story_id": "story-164e1e297ea995fc",
+      "title": "GOP Rep. Mike Lawler eyes nuclear power plant to tackle NY's sky-high electricity costs",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vrcv13/gop_rep_mike_lawler_eyes_nuclear_power_plant_to/",
+      "first_published_at": "2026-08-18T02:45:29+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
     }
   ]
 }

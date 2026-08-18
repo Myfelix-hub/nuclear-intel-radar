@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-18T12:58:04.407931+00:00",
+  "generated_at": "2026-08-18T13:50:23.910314+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-18",
+      "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vrjyb1/deliberate_negligence_russian_nuclear_power/"
+    },
     {
       "date": "2026-08-18",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -12,6 +17,11 @@
       "date": "2026-08-18",
       "title": "GOP Rep. Mike Lawler eyes nuclear power plant to tackle NY's sky-high electricity costs",
       "url": "https://www.reddit.com/r/nuclear/comments/1vrcv13/gop_rep_mike_lawler_eyes_nuclear_power_plant_to/"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Can you combine Marine Energy and Nuclear Energy?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vr79xz/can_you_combine_marine_energy_and_nuclear_energy/"
     },
     {
       "date": "2026-08-17",
@@ -25,13 +35,38 @@
     },
     {
       "date": "2026-08-17",
+      "title": "More Renewables Lead To Lower Demand For Methane In Europe - awkward for the nuclear-bro claim …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqo20c/more_renewables_lead_to_lower_demand_for_methane/"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "How long does it take for a VVER-440 nuclear reactor to switch from the external grid to its se…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqlufr/how_long_does_it_take_for_a_vver440_nuclear/"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Do nuclear power plants have any chance of competing with solar and BESS at this point?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqkifx/do_nuclear_power_plants_have_any_chance_of/"
+    },
+    {
+      "date": "2026-08-17",
       "title": "Worlds largest tower crane assembled at Zhangzhou nuclear plant (@realTZV on X)",
       "url": "https://www.reddit.com/r/nuclear/comments/1vqeyyq/worlds_largest_tower_crane_assembled_at_zhangzhou/"
     },
     {
       "date": "2026-08-16",
+      "title": "Working in Nuclear Power",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vqccc6/working_in_nuclear_power/"
+    },
+    {
+      "date": "2026-08-16",
       "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
       "url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nuclear power plants are being shut down as Europe’s drought becomes an energy crisis",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vq5emo/nuclear_power_plants_are_being_shut_down_as/"
     },
     {
       "date": "2026-08-16",
@@ -42,6 +77,21 @@
       "date": "2026-08-16",
       "title": "Feels really disheartening how the environmentalists are anti-nuclear, ans a lot of other thing…",
       "url": "https://www.reddit.com/r/nuclear/comments/1vput6r/feels_really_disheartening_how_the/"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nuclear the Biggest Producer of Electricity in the European Union in 2023",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vplnf6/nuclear_the_biggest_producer_of_electricity_in/"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Civil Engineers in Nuclear/Power Sector",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vpd7v6/civil_engineers_in_nuclearpower_sector/"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Class project on nuclear waste transport safety, would love to pick the brain of anyone in the …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vp7x9m/class_project_on_nuclear_waste_transport_safety/"
     },
     {
       "date": "2026-08-15",
@@ -62,6 +112,11 @@
   "updates_today": [
     {
       "date": "2026-08-18",
+      "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vrjyb1/deliberate_negligence_russian_nuclear_power/"
+    },
+    {
+      "date": "2026-08-18",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
     },
@@ -72,8 +127,8 @@
     }
   ],
   "latest_date": "2026-08-18",
-  "count_7d": 11,
-  "count_today": 2,
+  "count_7d": 21,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null

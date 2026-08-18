@@ -1,19 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 20,
+      "item_count": 7,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -28,6 +19,15 @@
       "warning": null
     },
     {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "arxiv_insdet",
       "site_name": "arXiv ins-det",
       "ok": true,
@@ -37,10 +37,19 @@
       "warning": null
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 7,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -52,15 +61,6 @@
       "item_count": 0,
       "duration_ms": 0,
       "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
-      "warning": null
-    },
-    {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
       "warning": null
     },
     {
@@ -145,19 +145,19 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
       "ok": true,
-      "item_count": 2,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
-      "item_count": 9,
+      "item_count": 2,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -210,10 +210,10 @@
     {
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
-      "ok": true,
-      "item_count": 139,
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null,
+      "error": "nucleartownhall: direct fetch failed — ConnectTimeout: HTTPSConnectionPool(host='nucleartownhall.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host=",
       "warning": null
     },
     {
@@ -262,15 +262,6 @@
       "warning": null
     },
     {
-      "site_id": "rosatom",
-      "site_name": "Rosatom",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
-      "warning": null
-    },
-    {
       "site_id": "cgn_news",
       "site_name": "中广核",
       "ok": true,
@@ -289,11 +280,20 @@
       "warning": null
     },
     {
+      "site_id": "rosatom",
+      "site_name": "Rosatom",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
+      "warning": null
+    },
+    {
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 3120,
+      "duration_ms": 3095,
       "error": null,
       "warning": null
     },
@@ -301,13 +301,13 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 7,
-      "duration_ms": 6224,
+      "item_count": 17,
+      "duration_ms": 6373,
       "error": null,
       "warning": null
     }
   ],
-  "successful_sites": 28,
+  "successful_sites": 27,
   "failed_sites": [
     {
       "site_id": "nucnet",
@@ -325,6 +325,15 @@
       "item_count": 0,
       "duration_ms": 0,
       "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — RetryError: HTTPSConnectionPool(host='www.nrc.gov', port=443): Max retries exceeded with url: | Jina: R",
+      "warning": null
+    },
+    {
+      "site_id": "nucleartownhall",
+      "site_name": "Nuclear Town Hall",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucleartownhall: direct fetch failed — ConnectTimeout: HTTPSConnectionPool(host='nucleartownhall.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host=",
       "warning": null
     },
     {
@@ -364,8 +373,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 316,
-  "items_before_topic_filter": 316,
+  "fetched_raw_items": 188,
+  "items_before_topic_filter": 188,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
