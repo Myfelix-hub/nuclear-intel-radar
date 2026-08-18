@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:45:44.407452+00:00",
+  "generated_at": "2026-08-18T09:39:47.515590+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -54,11 +54,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vp3zsn/indian_parliamentarians_stress_urgency_for/"
     },
     {
-      "date": "2026-08-15",
-      "title": "Next-gen molten salt reactor designed to generate 300 to 500 MWe from nuclear waste",
-      "url": "https://www.reddit.com/r/nuclear/comments/1voxusa/nextgen_molten_salt_reactor_designed_to_generate/"
-    },
-    {
       "date": "2026-08-12",
       "title": "Nuclear power push ramps up uranium mill – and tribal health concerns",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns"
@@ -77,7 +72,7 @@
     }
   ],
   "latest_date": "2026-08-18",
-  "count_7d": 12,
+  "count_7d": 11,
   "count_today": 2,
   "has_error": false,
   "error": null,
