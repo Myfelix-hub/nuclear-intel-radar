@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:32:21.654800+00:00",
+  "generated_at": "2026-08-18T20:31:17.842790+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -23,7 +23,7 @@
       "story_id": "story-89c1b9c63f0cc514",
       "title": "Copper Endures 2,595°F in US Nuclear Fusion Reactor Material Test, Defies Earlier Models",
       "representative_url": "https://interestingengineering.com/energy/copper-endures-high-temperature",
-      "first_published_at": "2026-08-18T19:32:21.654800+00:00",
+      "first_published_at": "2026-08-18T20:31:17.842790+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -38,7 +38,7 @@
       "story_id": "story-e4fd47f8a4f2c5d7",
       "title": "Korean Containership with Molten Salt Nuclear Reactor Gets ABS Approval",
       "representative_url": "https://maritime-executive.com/index.php/article/korean-containership-with-molten-salt-nuclear-reactor-gets-abs-approval",
-      "first_published_at": "2026-08-18T19:32:21.654800+00:00",
+      "first_published_at": "2026-08-18T20:31:17.842790+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -53,7 +53,7 @@
       "story_id": "story-335c840a06fda263",
       "title": "TEPCO Begins Removal of Radioactive Spent Fuel from Fukushima No. 2 Reactor",
       "representative_url": "https://www.japantimes.co.jp/news/2026/08/18/japan/tepco-fuel-removal/",
-      "first_published_at": "2026-08-18T19:32:21.654800+00:00",
+      "first_published_at": "2026-08-18T20:31:17.842790+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -68,7 +68,7 @@
       "story_id": "story-d90e2eaa86fa7713",
       "title": "‘Near-Autonomous’ AI Agents Attack Taiwan’s Nuclear Safety Agency",
       "representative_url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-      "first_published_at": "2026-08-18T19:32:21.654800+00:00",
+      "first_published_at": "2026-08-18T20:31:17.842790+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -110,25 +110,10 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-7b8904e7ba721454",
-      "title": "Kairos Power Completes Graphite Qualification Testing for Advanced Reactors",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-graphite-qualification-testing-for-advanced-reactors",
-      "first_published_at": "2026-08-18T19:32:21.654800+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.7
-    },
-    {
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-18T19:32:21.654800+00:00",
+      "first_published_at": "2026-08-18T20:31:17.842790+00:00",
       "sources": [
         "kairos"
       ],
@@ -143,7 +128,7 @@
       "story_id": "story-fdf2bfdde7eb7bff",
       "title": "NUCLEAR FISSIONARY",
       "representative_url": "http://nuclearfissionary.com/",
-      "first_published_at": "2026-08-18T19:32:21.654800+00:00",
+      "first_published_at": "2026-08-18T20:31:17.842790+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -152,6 +137,21 @@
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "tech",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-08-18T20:31:17.842790+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
       "score": 2.4
     }
   ]
