@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-08-19T18:44:24.136984+00:00",
+  "generated_at": "2026-08-19T19:31:24.295001+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-19",
+      "title": "Job With Highest Risk of Radiation Cancer Revealed Out of Over 500 Occupations",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsj2t2/job_with_highest_risk_of_radiation_cancer/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "nuclear powerplant weight",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsizmr/nuclear_powerplant_weight/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "nuclear powerplant weight",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsiz5d/nuclear_powerplant_weight/"
+    },
     {
       "date": "2026-08-19",
       "title": "Port of Long Beach could bring new nuclear power to California for first time in 50 years",
@@ -17,6 +32,16 @@
       "date": "2026-08-19",
       "title": "New sensors enable real-time tracking to tackle US’ 94,000-ton nuclear waste stockpile",
       "url": "https://www.reddit.com/r/nuclear/comments/1vsag0t/new_sensors_enable_realtime_tracking_to_tackle_us/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Port of Long Beach could bring new nuclear power to California for first time in 50 years",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vs90k7/port_of_long_beach_could_bring_new_nuclear_power/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Philippines Energy Department Identifying More Potential Nuclear Power Plant Sites",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vs6w4i/philippines_energy_department_identifying_more/"
     },
     {
       "date": "2026-08-18",
@@ -50,6 +75,11 @@
     },
     {
       "date": "2026-08-18",
+      "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vrjyb1/deliberate_negligence_russian_nuclear_power/"
+    },
+    {
+      "date": "2026-08-18",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
     },
@@ -72,6 +102,21 @@
   "updates_today": [
     {
       "date": "2026-08-19",
+      "title": "Job With Highest Risk of Radiation Cancer Revealed Out of Over 500 Occupations",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsj2t2/job_with_highest_risk_of_radiation_cancer/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "nuclear powerplant weight",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsizmr/nuclear_powerplant_weight/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "nuclear powerplant weight",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsiz5d/nuclear_powerplant_weight/"
+    },
+    {
+      "date": "2026-08-19",
       "title": "Port of Long Beach could bring new nuclear power to California for first time in 50 years",
       "url": "https://www.reddit.com/r/nuclear/comments/1vsilob/port_of_long_beach_could_bring_new_nuclear_power/"
     },
@@ -84,11 +129,21 @@
       "date": "2026-08-19",
       "title": "New sensors enable real-time tracking to tackle US’ 94,000-ton nuclear waste stockpile",
       "url": "https://www.reddit.com/r/nuclear/comments/1vsag0t/new_sensors_enable_realtime_tracking_to_tackle_us/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Port of Long Beach could bring new nuclear power to California for first time in 50 years",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vs90k7/port_of_long_beach_could_bring_new_nuclear_power/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Philippines Energy Department Identifying More Potential Nuclear Power Plant Sites",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vs6w4i/philippines_energy_department_identifying_more/"
     }
   ],
   "latest_date": "2026-08-19",
-  "count_7d": 13,
-  "count_today": 3,
+  "count_7d": 19,
+  "count_today": 8,
   "has_error": false,
   "error": null,
   "warning": null
