@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-19T03:04:01.372124+00:00",
+  "generated_at": "2026-08-19T04:09:39.134987+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-19",
+      "title": "High-speed centrifuge recycles spent nuclear fuel to unlock 90% wasted energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vsaghd/highspeed_centrifuge_recycles_spent_nuclear_fuel/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "New sensors enable real-time tracking to tackle US’ 94,000-ton nuclear waste stockpile",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vsag0t/new_sensors_enable_realtime_tracking_to_tackle_us/"
+    },
     {
       "date": "2026-08-18",
       "title": "Russia Pushes Ahead With Uzbekistan Nuclear Plans Despite Money Troubles",
@@ -42,16 +52,6 @@
       "date": "2026-08-18",
       "title": "GOP Rep. Mike Lawler eyes nuclear power plant to tackle NY's sky-high electricity costs",
       "url": "https://www.reddit.com/r/nuclear/comments/1vrcv13/gop_rep_mike_lawler_eyes_nuclear_power_plant_to/"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "The Uranium Supply Trap - Why US Utilities Are More Exposed Than They Think",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vr46e6/the_uranium_supply_trap_why_us_utilities_are_more/"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "Worlds largest tower crane assembled at Zhangzhou nuclear plant (@realTZV on X)",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vqeyyq/worlds_largest_tower_crane_assembled_at_zhangzhou/"
     },
     {
       "date": "2026-08-16",
@@ -71,49 +71,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-18",
-      "title": "Russia Pushes Ahead With Uzbekistan Nuclear Plans Despite Money Troubles",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vry7b9/russia_pushes_ahead_with_uzbekistan_nuclear_plans/"
+      "date": "2026-08-19",
+      "title": "High-speed centrifuge recycles spent nuclear fuel to unlock 90% wasted energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vsaghd/highspeed_centrifuge_recycles_spent_nuclear_fuel/"
     },
     {
-      "date": "2026-08-18",
-      "title": "Short sellers reap $2bn profit as modular nuclear reactor stocks tumble",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrwubb/short_sellers_reap_2bn_profit_as_modular_nuclear/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Philippines Energy Department Identifying More Potential Nuclear Power Plant Sites",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrtf4e/philippines_energy_department_identifying_more/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Magyar casts doubt on Hungary-Russia nuclear power deal",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrt5dm/magyar_casts_doubt_on_hungaryrussia_nuclear_power/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Should nuclear energy be run by the government?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrqxe1/should_nuclear_energy_be_run_by_the_government/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "The nuclear industry has a new AI tool — with Nvidia backing",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrq8dk/the_nuclear_industry_has_a_new_ai_tool_with/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "GOP Rep. Mike Lawler eyes nuclear power plant to tackle NY's sky-high electricity costs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrcv13/gop_rep_mike_lawler_eyes_nuclear_power_plant_to/"
+      "date": "2026-08-19",
+      "title": "New sensors enable real-time tracking to tackle US’ 94,000-ton nuclear waste stockpile",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vsag0t/new_sensors_enable_realtime_tracking_to_tackle_us/"
     }
   ],
-  "latest_date": "2026-08-18",
+  "latest_date": "2026-08-19",
   "count_7d": 13,
-  "count_today": 8,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
