@@ -1,128 +1,8 @@
 {
-  "generated_at": "2026-08-19T20:35:26.125084+00:00",
+  "generated_at": "2026-08-19T21:31:32.810202+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
-    {
-      "story_id": "story-d89b365043dbe6e3",
-      "title": "X-energy, TerraPower Share Updates on Advanced Reactor Projects",
-      "representative_url": "https://www.ans.org/news/2026-08-17/article-8297/xenergy-terrapower-share-updates-on-advanced-reactor-projects/",
-      "first_published_at": "2026-08-19T20:35:26.125084+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 4.0
-    },
-    {
-      "story_id": "story-b79f47cd804e2c1f",
-      "title": "Oklo Built a Nuclear Reactor in 229 Days. Here’s Why the CEO Calls It a World Record.",
-      "representative_url": "https://finance.yahoo.com/energy/articles/oklo-built-nuclear-reactor-229-161000450.html",
-      "first_published_at": "2026-08-19T20:35:26.125084+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-e4fd47f8a4f2c5d7",
-      "title": "Korean Containership with Molten Salt Nuclear Reactor Gets ABS Approval",
-      "representative_url": "https://maritime-executive.com/index.php/article/korean-containership-with-molten-salt-nuclear-reactor-gets-abs-approval",
-      "first_published_at": "2026-08-19T20:35:26.125084+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-630dc4060cacb4d3",
-      "title": "Nuclear Microreactors Outpace SMRs as Startups Secure Record Funding",
-      "representative_url": "https://www.ctvc.co/micro-reactor-funding-goes-macro-309/",
-      "first_published_at": "2026-08-19T20:35:26.125084+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-335c840a06fda263",
-      "title": "TEPCO Begins Removal of Radioactive Spent Fuel from Fukushima No. 2 Reactor",
-      "representative_url": "https://www.japantimes.co.jp/news/2026/08/18/japan/tepco-fuel-removal/",
-      "first_published_at": "2026-08-19T20:35:26.125084+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "safety",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-d90e2eaa86fa7713",
-      "title": "‘Near-Autonomous’ AI Agents Attack Taiwan’s Nuclear Safety Agency",
-      "representative_url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-      "first_published_at": "2026-08-19T20:35:26.125084+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-322153a610e8a899",
-      "title": "‘Creating a Blueprint’: Kairos Power, ORNL to Train Workers for Nuclear Renaissance",
-      "representative_url": "https://www.wate.com/news/top-stories/creating-a-blueprint-kairos-power-ornl-to-train-workers-for-nuclear-renaissance/",
-      "first_published_at": "2026-08-19T20:35:26.125084+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-3e44c71de67af03f",
-      "title": "Short sellers reap $2bn profit as modular nuclear reactor stocks tumble",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vrwubb/short_sellers_reap_2bn_profit_as_modular_nuclear/",
-      "first_published_at": "2026-08-18T18:00:38+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
     {
       "story_id": "story-e35d3481e01d0986",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -139,19 +19,139 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-cce08ceed5636a23",
-      "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
-      "representative_url": "https://www.reuters.com/business/energy/jellyfish-hit-french-nuclear-plant-shuts-down-three-reactors-2026-08-11/",
-      "first_published_at": "2026-08-16T20:41:29+00:00",
+      "story_id": "story-4cac66c6fef215a4",
+      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
+      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
+      "first_published_at": "2026-08-19T21:31:32.810202+00:00",
       "sources": [
-        "hn_nuclear"
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-08-19T21:31:32.810202+00:00",
+      "sources": [
+        "nuclear_net_cn"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-08-19T21:31:32.810202+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-46212111455f7b45",
+      "title": "FANCO informs NRC of its intent to build HALEU fuel fabrication facility",
+      "representative_url": "https://www.ans.org/news/2026-08-19/article-8308/fanco-informs-nrc-of-its-intent-to-build-haleu-fuel-fabrication-facility/",
+      "first_published_at": "2026-08-19T17:32:06+00:00",
+      "sources": [
+        "ans_newswire"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.05,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "fuel",
+      "score": 2.1
+    },
+    {
+      "story_id": "story-5a3e155b4f06b5b7",
+      "title": "X-energy, TerraPower share updates on advanced reactor projects",
+      "representative_url": "https://www.ans.org/news/2026-08-17/article-8297/xenergy-terrapower-share-updates-on-advanced-reactor-projects/",
+      "first_published_at": "2026-08-17T12:11:53+00:00",
+      "sources": [
+        "ans_newswire"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.0,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "tech",
+      "score": 2.0
+    },
+    {
+      "story_id": "story-ede95f29343b223b",
+      "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
+      "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
+      "first_published_at": "2026-08-19T21:31:32.810202+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "fuel",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-393a12f15e557211",
+      "title": "Kairos Power Announces New Collaboration to Advance Nuclear Manufacturing, Construction, and Wo…",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-announces-new-collaboration-to-advance-nuclear-manufacturing-construction-and-workforce-development-in-east-tennessee",
+      "first_published_at": "2026-08-19T21:31:32.810202+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "newbuild",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-5e7a7765e34fe669",
+      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
+      "first_published_at": "2026-08-19T21:31:32.810202+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "policy",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-2ae0559d60396e3b",
+      "title": "试验成功！漳州核电，快发电了！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
+      "first_published_at": "2026-08-19T21:31:32.810202+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 1.6
     }
   ]
 }
