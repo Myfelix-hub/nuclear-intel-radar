@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-08-20T22:34:25.450276+00:00",
+  "generated_at": "2026-08-20T23:31:39.019706+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-078bc99236a2febf",
+      "story_id": "story-8b3cf5a2a39be9b7",
       "title": "(free link) WSJ: Inside the Race to Build America’s First Nuclear Reactor in a Generation",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vtl3e5/free_link_wsj_inside_the_race_to_build_americas/",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vtk64r/free_link_wsj_inside_the_race_to_build_americas/",
       "first_published_at": "2026-08-20T13:54:03+00:00",
       "sources": [
         "reddit_nuclear"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "nuclear_score": 0.6,
       "source_tier": "community",
       "source_tier_rank": 5,
       "primary_section": "community",
-      "score": 6.095329850015803
-    },
-    {
-      "story_id": "story-4e61bdb167260d3a",
-      "title": "Short sellers reap $2bn profit as modular nuclear reactor stocks tumble",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vtisqe/short_sellers_reap_2bn_profit_as_modular_nuclear/",
-      "first_published_at": "2026-08-18T18:00:38+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 6.095329850015803
+      "score": 3.5999999999999996
     },
     {
       "story_id": "story-5035893018183bc5",
@@ -46,6 +31,21 @@
       "source_tier": "community",
       "source_tier_rank": 5,
       "primary_section": "safety",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-3e44c71de67af03f",
+      "title": "Short sellers reap $2bn profit as modular nuclear reactor stocks tumble",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vrwubb/short_sellers_reap_2bn_profit_as_modular_nuclear/",
+      "first_published_at": "2026-08-18T18:00:38+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
       "score": 3.5999999999999996
     },
     {
@@ -80,55 +80,10 @@
       "score": 3.5556090791758854
     },
     {
-      "story_id": "story-253ab660ea6ce1c4",
-      "title": "Port of Corpus Christi signs agreement to explore nuclear technology for ships, port operations",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vtb6io/port_of_corpus_christi_signs_agreement_to_explore/",
-      "first_published_at": "2026-08-19T21:36:52+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "newbuild",
-      "score": 3.0476649250079015
-    },
-    {
-      "story_id": "story-c974a1f590e0b235",
-      "title": "nuclear powerplant weight",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vsiz5d/nuclear_powerplant_weight/",
-      "first_published_at": "2026-08-19T10:50:21+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.0476649250079015
-    },
-    {
-      "story_id": "story-ae7c0c66ff2b99ff",
-      "title": "Port of Long Beach could bring new nuclear power to California for first time in 50 years",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vs90k7/port_of_long_beach_could_bring_new_nuclear_power/",
-      "first_published_at": "2026-08-19T01:59:38+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.0476649250079015
-    },
-    {
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-20T22:34:25.450276+00:00",
+      "first_published_at": "2026-08-20T23:31:39.019706+00:00",
       "sources": [
         "kairos"
       ],
@@ -140,10 +95,25 @@
       "score": 2.7
     },
     {
-      "story_id": "story-278d6ada11e973e0",
-      "title": "AI usage in nuclear power plants - INTERVIEW.",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vto8s4/ai_usage_in_nuclear_power_plants_interview/",
-      "first_published_at": "2026-08-20T16:25:34+00:00",
+      "story_id": "story-36cb5de4eda46006",
+      "title": "High-speed centrifuge recycles spent nuclear fuel to unlock 90% wasted energy",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vsaghd/highspeed_centrifuge_recycles_spent_nuclear_fuel/",
+      "first_published_at": "2026-08-19T03:05:25+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-2c72f3ab40b372cd",
+      "title": "Should nuclear energy be run by the government?",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vrqxe1/should_nuclear_energy_be_run_by_the_government/",
+      "first_published_at": "2026-08-18T14:33:51+00:00",
       "sources": [
         "reddit_nuclear"
       ],
@@ -153,6 +123,36 @@
       "source_tier_rank": 5,
       "primary_section": "community",
       "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-08-20T23:31:39.019706+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-08-20T23:31:39.019706+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.4
     }
   ]
 }
