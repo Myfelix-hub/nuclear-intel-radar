@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-20T04:09:33.372108+00:00",
+  "generated_at": "2026-08-20T05:05:55.962769+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-5035893018183bc5",
+      "title": "Nuclear power revival sparks global race, from uranium mines in Texas to seas of Japan",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vt2h5u/nuclear_power_revival_sparks_global_race_from/",
+      "first_published_at": "2026-08-19T23:16:41+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "safety",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-3e44c71de67af03f",
+      "title": "Short sellers reap $2bn profit as modular nuclear reactor stocks tumble",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vrwubb/short_sellers_reap_2bn_profit_as_modular_nuclear/",
+      "first_published_at": "2026-08-18T18:00:38+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
+    },
     {
       "story_id": "story-e35d3481e01d0986",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -19,10 +49,26 @@
       "score": 3.5999999999999996
     },
     {
+      "story_id": "story-802d6dce68a8c160",
+      "title": "FANCO informs NRC of its intent to build HALEU fuel fabrication facility",
+      "representative_url": "https://www.ans.org/news/2026-08-19/article-8308/fanco-informs-nrc-of-its-intent-to-build-haleu-fuel-fabrication-facility/",
+      "first_published_at": "2026-08-19T17:32:06+00:00",
+      "sources": [
+        "ans_newswire",
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 1.05,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "fuel",
+      "score": 3.5556090791758854
+    },
+    {
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-20T04:09:33.372108+00:00",
+      "first_published_at": "2026-08-20T05:05:55.962769+00:00",
       "sources": [
         "kairos"
       ],
@@ -34,10 +80,40 @@
       "score": 2.7
     },
     {
+      "story_id": "story-36cb5de4eda46006",
+      "title": "High-speed centrifuge recycles spent nuclear fuel to unlock 90% wasted energy",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vsaghd/highspeed_centrifuge_recycles_spent_nuclear_fuel/",
+      "first_published_at": "2026-08-19T03:05:25+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-2c72f3ab40b372cd",
+      "title": "Should nuclear energy be run by the government?",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vrqxe1/should_nuclear_energy_be_run_by_the_government/",
+      "first_published_at": "2026-08-18T14:33:51+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-20T04:09:33.372108+00:00",
+      "first_published_at": "2026-08-20T05:05:55.962769+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -52,7 +128,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-20T04:09:33.372108+00:00",
+      "first_published_at": "2026-08-20T05:05:55.962769+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -62,21 +138,6 @@
       "source_tier_rank": 3,
       "primary_section": "newbuild",
       "score": 2.4
-    },
-    {
-      "story_id": "story-46212111455f7b45",
-      "title": "FANCO informs NRC of its intent to build HALEU fuel fabrication facility",
-      "representative_url": "https://www.ans.org/news/2026-08-19/article-8308/fanco-informs-nrc-of-its-intent-to-build-haleu-fuel-fabrication-facility/",
-      "first_published_at": "2026-08-19T17:32:06+00:00",
-      "sources": [
-        "ans_newswire"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.05,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "fuel",
-      "score": 2.1
     },
     {
       "story_id": "story-5a3e155b4f06b5b7",
@@ -92,66 +153,6 @@
       "source_tier_rank": 1,
       "primary_section": "tech",
       "score": 2.0
-    },
-    {
-      "story_id": "story-ede95f29343b223b",
-      "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
-      "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-08-20T04:09:33.372108+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "fuel",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-393a12f15e557211",
-      "title": "Kairos Power Announces New Collaboration to Advance Nuclear Manufacturing, Construction, and Wo…",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-announces-new-collaboration-to-advance-nuclear-manufacturing-construction-and-workforce-development-in-east-tennessee",
-      "first_published_at": "2026-08-20T04:09:33.372108+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "newbuild",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-5e7a7765e34fe669",
-      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-08-20T04:09:33.372108+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-2ae0559d60396e3b",
-      "title": "试验成功！漳州核电，快发电了！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
-      "first_published_at": "2026-08-20T04:09:33.372108+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "china",
-      "score": 1.6
     }
   ]
 }
