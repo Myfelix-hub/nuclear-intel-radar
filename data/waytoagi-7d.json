@@ -1,38 +1,8 @@
 {
-  "generated_at": "2026-08-20T01:40:30.345784+00:00",
+  "generated_at": "2026-08-20T03:03:42.719196+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-19",
-      "title": "Job With Highest Risk of Radiation Cancer Revealed Out of Over 500 Occupations",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsj2t2/job_with_highest_risk_of_radiation_cancer/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "nuclear powerplant weight",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsizmr/nuclear_powerplant_weight/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "nuclear powerplant weight",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsiz5d/nuclear_powerplant_weight/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Port of Long Beach could bring new nuclear power to California for first time in 50 years",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vs90k7/port_of_long_beach_could_bring_new_nuclear_power/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Philippines Energy Department Identifying More Potential Nuclear Power Plant Sites",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vs6w4i/philippines_energy_department_identifying_more/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vrjyb1/deliberate_negligence_russian_nuclear_power/"
-    },
     {
       "date": "2026-08-18",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -51,34 +21,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-19",
-      "title": "Job With Highest Risk of Radiation Cancer Revealed Out of Over 500 Occupations",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsj2t2/job_with_highest_risk_of_radiation_cancer/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "nuclear powerplant weight",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsizmr/nuclear_powerplant_weight/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "nuclear powerplant weight",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsiz5d/nuclear_powerplant_weight/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Port of Long Beach could bring new nuclear power to California for first time in 50 years",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vs90k7/port_of_long_beach_could_bring_new_nuclear_power/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Philippines Energy Department Identifying More Potential Nuclear Power Plant Sites",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vs6w4i/philippines_energy_department_identifying_more/"
+      "date": "2026-08-18",
+      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
     }
   ],
-  "latest_date": "2026-08-19",
-  "count_7d": 9,
-  "count_today": 5,
+  "latest_date": "2026-08-18",
+  "count_7d": 3,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
