@@ -1,63 +1,8 @@
 {
-  "generated_at": "2026-08-20T05:58:48.592148+00:00",
+  "generated_at": "2026-08-20T07:00:40.567865+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-20",
-      "title": "We Energies signs 20-year Point Beach nuclear power deal",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vt9d7g/we_energies_signs_20year_point_beach_nuclear/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Nuclear power revival sparks global race, from uranium mines in Texas to seas of Japan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vt2h5u/nuclear_power_revival_sparks_global_race_from/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Port of Corpus Christi signs agreement to explore nuclear technology for ships, port operations",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vszyet/port_of_corpus_christi_signs_agreement_to_explore/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "FANCO informs NRC of its intent to build HALEU fuel fabrication facility",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vsy0mg/fanco_informs_nrc_of_its_intent_to_build_haleu/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Port of Long Beach could bring new nuclear power to California for first time in 50 years",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vsilob/port_of_long_beach_could_bring_new_nuclear_power/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "High-speed centrifuge recycles spent nuclear fuel to unlock 90% wasted energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vsaghd/highspeed_centrifuge_recycles_spent_nuclear_fuel/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "New sensors enable real-time tracking to tackle US’ 94,000-ton nuclear waste stockpile",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vsag0t/new_sensors_enable_realtime_tracking_to_tackle_us/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Short sellers reap $2bn profit as modular nuclear reactor stocks tumble",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrwubb/short_sellers_reap_2bn_profit_as_modular_nuclear/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Magyar casts doubt on Hungary-Russia nuclear power deal",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrt5dm/magyar_casts_doubt_on_hungaryrussia_nuclear_power/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Should nuclear energy be run by the government?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrqxe1/should_nuclear_energy_be_run_by_the_government/"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "The nuclear industry has a new AI tool — with Nvidia backing",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vrq8dk/the_nuclear_industry_has_a_new_ai_tool_with/"
-    },
     {
       "date": "2026-08-18",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -76,13 +21,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-20",
-      "title": "We Energies signs 20-year Point Beach nuclear power deal",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vt9d7g/we_energies_signs_20year_point_beach_nuclear/"
+      "date": "2026-08-18",
+      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
     }
   ],
-  "latest_date": "2026-08-20",
-  "count_7d": 14,
+  "latest_date": "2026-08-18",
+  "count_7d": 3,
   "count_today": 1,
   "has_error": false,
   "error": null,
