@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-21T03:09:38.584129+00:00",
+  "generated_at": "2026-08-21T04:11:12.793242+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-21",
+      "title": "Port of Corpus Christi Joins U.S. Push for Nuclear-Powered Shipping",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vu4ng2/port_of_corpus_christi_joins_us_push_for/"
+    },
     {
       "date": "2026-08-20",
       "title": "Vernon weighs future of Vermont Yankee site as decommissioning advances",
@@ -44,11 +49,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1vsaghd/highspeed_centrifuge_recycles_spent_nuclear_fuel/"
     },
     {
-      "date": "2026-08-19",
-      "title": "New sensors enable real-time tracking to tackle US’ 94,000-ton nuclear waste stockpile",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vsag0t/new_sensors_enable_realtime_tracking_to_tackle_us/"
-    },
-    {
       "date": "2026-08-18",
       "title": "Short sellers reap $2bn profit as modular nuclear reactor stocks tumble",
       "url": "https://www.reddit.com/r/nuclear/comments/1vrwubb/short_sellers_reap_2bn_profit_as_modular_nuclear/"
@@ -71,24 +71,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-20",
-      "title": "Vernon weighs future of Vermont Yankee site as decommissioning advances",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu06jt/vernon_weighs_future_of_vermont_yankee_site_as/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "(free link) WSJ: Inside the Race to Build America’s First Nuclear Reactor in a Generation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vtk64r/free_link_wsj_inside_the_race_to_build_americas/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "We Energies signs 20-year Point Beach nuclear power deal",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vt9d7g/we_energies_signs_20year_point_beach_nuclear/"
+      "date": "2026-08-21",
+      "title": "Port of Corpus Christi Joins U.S. Push for Nuclear-Powered Shipping",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vu4ng2/port_of_corpus_christi_joins_us_push_for/"
     }
   ],
-  "latest_date": "2026-08-20",
+  "latest_date": "2026-08-21",
   "count_7d": 13,
-  "count_today": 3,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
