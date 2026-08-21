@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-21T10:02:51.242584+00:00",
+  "generated_at": "2026-08-21T10:59:22.866778+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-21",
+      "title": "Seeking input from experienced Nuclear/SMR Engineers & IT/OT Architects for a security research…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vu7jll/seeking_input_from_experienced_nuclearsmr/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Nuclear Toolkit Update: Added a Bunch More Stuff",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtva07/nuclear_toolkit_update_added_a_bunch_more_stuff/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "AI usage in nuclear power plants - INTERVIEW.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vto8s4/ai_usage_in_nuclear_power_plants_interview/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "(free link) WSJ: Inside the Race to Build America’s First Nuclear Reactor in a Generation",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtl3e5/free_link_wsj_inside_the_race_to_build_americas/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Short sellers reap $2bn profit as modular nuclear reactor stocks tumble",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtisqe/short_sellers_reap_2bn_profit_as_modular_nuclear/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Port of Corpus Christi signs agreement to explore nuclear technology for ships, port operations",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtb6io/port_of_corpus_christi_signs_agreement_to_explore/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Job With Highest Risk of Radiation Cancer Revealed Out of Over 500 Occupations",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vsj2t2/job_with_highest_risk_of_radiation_cancer/"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Port of Long Beach could bring new nuclear power to California for first time in 50 years",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vs90k7/port_of_long_beach_could_bring_new_nuclear_power/"
+    },
     {
       "date": "2026-08-18",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -21,13 +61,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-18",
-      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
+      "date": "2026-08-21",
+      "title": "Seeking input from experienced Nuclear/SMR Engineers & IT/OT Architects for a security research…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vu7jll/seeking_input_from_experienced_nuclearsmr/"
     }
   ],
-  "latest_date": "2026-08-18",
-  "count_7d": 3,
+  "latest_date": "2026-08-21",
+  "count_7d": 11,
   "count_today": 1,
   "has_error": false,
   "error": null,
