@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-21T10:59:22.866778+00:00",
+  "generated_at": "2026-08-21T11:35:45.455861+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
       "story_id": "story-681cce9c04932acf",
       "title": "(free link) WSJ: Inside the Race to Build America’s First Nuclear Reactor in a Generation",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vtl3e5/free_link_wsj_inside_the_race_to_build_americas/",
-      "first_published_at": "2026-08-20T14:29:10+00:00",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vtk64r/free_link_wsj_inside_the_race_to_build_americas/",
+      "first_published_at": "2026-08-20T13:54:03+00:00",
       "sources": [
         "reddit_nuclear",
         "nucleartownhall"
@@ -20,10 +20,26 @@
       "score": 6.095329850015803
     },
     {
+      "story_id": "story-802d6dce68a8c160",
+      "title": "FANCO Informs NRC of its Intent to Build HALEU Fuel Fabrication Facility",
+      "representative_url": "https://www.ans.org/news/2026-08-19/article-8308/fanco-informs-nrc-of-its-intent-to-build-haleu-fuel-fabrication-facility/",
+      "first_published_at": "2026-08-19T20:23:46+00:00",
+      "sources": [
+        "nucleartownhall",
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 4.063553233343868
+    },
+    {
       "story_id": "story-7c201c32db8d0a82",
       "title": "TerraPower’s Nuclear Reactor Has a Secret Weapon for Powering AI Data Centers",
       "representative_url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "first_published_at": "2026-08-21T10:59:22.866778+00:00",
+      "first_published_at": "2026-08-21T11:35:45.455861+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -38,7 +54,7 @@
       "story_id": "story-630dc4060cacb4d3",
       "title": "Nuclear Microreactors Outpace SMRs as Startups Secure Record Funding",
       "representative_url": "https://www.ctvc.co/micro-reactor-funding-goes-macro-309/",
-      "first_published_at": "2026-08-21T10:59:22.866778+00:00",
+      "first_published_at": "2026-08-21T11:35:45.455861+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -53,7 +69,7 @@
       "story_id": "story-335c840a06fda263",
       "title": "TEPCO Begins Removal of Radioactive Spent Fuel from Fukushima No. 2 Reactor",
       "representative_url": "https://www.japantimes.co.jp/news/2026/08/18/japan/tepco-fuel-removal/",
-      "first_published_at": "2026-08-21T10:59:22.866778+00:00",
+      "first_published_at": "2026-08-21T11:35:45.455861+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -68,7 +84,7 @@
       "story_id": "story-d90e2eaa86fa7713",
       "title": "‘Near-Autonomous’ AI Agents Attack Taiwan’s Nuclear Safety Agency",
       "representative_url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-      "first_published_at": "2026-08-21T10:59:22.866778+00:00",
+      "first_published_at": "2026-08-21T11:35:45.455861+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -83,7 +99,7 @@
       "story_id": "story-322153a610e8a899",
       "title": "‘Creating a Blueprint’: Kairos Power, ORNL to Train Workers for Nuclear Renaissance",
       "representative_url": "https://www.wate.com/news/top-stories/creating-a-blueprint-kairos-power-ornl-to-train-workers-for-nuclear-renaissance/",
-      "first_published_at": "2026-08-21T10:59:22.866778+00:00",
+      "first_published_at": "2026-08-21T11:35:45.455861+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -95,25 +111,10 @@
       "score": 3.6
     },
     {
-      "story_id": "story-336830267bac65f6",
-      "title": "Seeking input from experienced Nuclear/SMR Engineers & IT/OT Architects for a security research…",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vu7jll/seeking_input_from_experienced_nuclearsmr/",
-      "first_published_at": "2026-08-21T05:43:43+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-a9e55b63ba1dc9da",
-      "title": "Short sellers reap $2bn profit as modular nuclear reactor stocks tumble",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vtisqe/short_sellers_reap_2bn_profit_as_modular_nuclear/",
-      "first_published_at": "2026-08-20T12:58:15+00:00",
+      "story_id": "story-72ffefca3571a75b",
+      "title": "MIT spinoff Apollo Atomics grabs $31M seed to shrink nuclear reactors by 40x",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vub88o/mit_spinoff_apollo_atomics_grabs_31m_seed_to/",
+      "first_published_at": "2026-08-21T09:17:36+00:00",
       "sources": [
         "reddit_nuclear"
       ],
@@ -125,34 +126,34 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-a5226e8bffc9502b",
-      "title": "Bluecore Floating Nuclear Power Plant A First For Black Entrepreneur",
-      "representative_url": "https://www.forbes.com/sites/edgarsten/2026/08/18/bluecore-floating-nuclear-power-plant-a-first-for-black-entrepreneur/",
-      "first_published_at": "2026-08-21T10:59:22.866778+00:00",
+      "story_id": "story-158da608ab81bb0f",
+      "title": "Standard Nuclear Executes Fuel Supply Agreement with Radiant for TRISO Nuclear Fuel",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vu8aup/standard_nuclear_executes_fuel_supply_agreement/",
+      "first_published_at": "2026-08-21T06:25:13+00:00",
       "sources": [
-        "nucleartownhall"
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 2.8
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 3.5999999999999996
     },
     {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-21T10:59:22.866778+00:00",
+      "story_id": "story-5035893018183bc5",
+      "title": "Nuclear power revival sparks global race, from uranium mines in Texas to seas of Japan",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vt2h5u/nuclear_power_revival_sparks_global_race_from/",
+      "first_published_at": "2026-08-19T23:16:41+00:00",
       "sources": [
-        "kairos"
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
       "primary_section": "safety",
-      "score": 2.7
+      "score": 3.5999999999999996
     }
   ]
 }
