@@ -1,63 +1,8 @@
 {
-  "generated_at": "2026-08-21T23:54:40.714456+00:00",
+  "generated_at": "2026-08-22T01:38:44.662655+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-21",
-      "title": "Blue Ghost to carry nuclear power source to the Moon",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vuo51w/blue_ghost_to_carry_nuclear_power_source_to_the/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Nuclear Toolkit Update: Added a Bunch More Stuff",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vunpxy/nuclear_toolkit_update_added_a_bunch_more_stuff/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "US nuclear fuel plant to add 24 cascades in 50% capacity boost",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vujvxs/us_nuclear_fuel_plant_to_add_24_cascades_in_50/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "MIT spinoff Apollo Atomics grabs $31M seed to shrink nuclear reactors by 40x",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vub88o/mit_spinoff_apollo_atomics_grabs_31m_seed_to/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Opponents of nuclear power now hauling in $400k per hour - Aug 12, 2026",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu8nz9/opponents_of_nuclear_power_now_hauling_in_400k/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Nuclearn and GSE Solutions Announce a Strategic Collaboration to Bring AI to Nuclear Plant Simu…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu8ev5/nuclearn_and_gse_solutions_announce_a_strategic/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Standard Nuclear Executes Fuel Supply Agreement with Radiant for TRISO Nuclear Fuel",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu8aup/standard_nuclear_executes_fuel_supply_agreement/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Port of Corpus Christi Joins U.S. Push for Nuclear-Powered Shipping",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu4ng2/port_of_corpus_christi_joins_us_push_for/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "Vernon weighs future of Vermont Yankee site as decommissioning advances",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu06jt/vernon_weighs_future_of_vermont_yankee_site_as/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "(free link) WSJ: Inside the Race to Build America’s First Nuclear Reactor in a Generation",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vtk64r/free_link_wsj_inside_the_race_to_build_americas/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "We Energies signs 20-year Point Beach nuclear power deal",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vt9d7g/we_energies_signs_20year_point_beach_nuclear/"
-    },
     {
       "date": "2026-08-18",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -76,49 +21,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-21",
-      "title": "Blue Ghost to carry nuclear power source to the Moon",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vuo51w/blue_ghost_to_carry_nuclear_power_source_to_the/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Nuclear Toolkit Update: Added a Bunch More Stuff",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vunpxy/nuclear_toolkit_update_added_a_bunch_more_stuff/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "US nuclear fuel plant to add 24 cascades in 50% capacity boost",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vujvxs/us_nuclear_fuel_plant_to_add_24_cascades_in_50/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "MIT spinoff Apollo Atomics grabs $31M seed to shrink nuclear reactors by 40x",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vub88o/mit_spinoff_apollo_atomics_grabs_31m_seed_to/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Opponents of nuclear power now hauling in $400k per hour - Aug 12, 2026",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu8nz9/opponents_of_nuclear_power_now_hauling_in_400k/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Nuclearn and GSE Solutions Announce a Strategic Collaboration to Bring AI to Nuclear Plant Simu…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu8ev5/nuclearn_and_gse_solutions_announce_a_strategic/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Standard Nuclear Executes Fuel Supply Agreement with Radiant for TRISO Nuclear Fuel",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu8aup/standard_nuclear_executes_fuel_supply_agreement/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Port of Corpus Christi Joins U.S. Push for Nuclear-Powered Shipping",
-      "url": "https://www.reddit.com/r/nuclear/comments/1vu4ng2/port_of_corpus_christi_joins_us_push_for/"
+      "date": "2026-08-18",
+      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
     }
   ],
-  "latest_date": "2026-08-21",
-  "count_7d": 14,
-  "count_today": 8,
+  "latest_date": "2026-08-18",
+  "count_7d": 3,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
