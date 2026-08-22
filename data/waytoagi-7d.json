@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-22T14:52:35.300502+00:00",
+  "generated_at": "2026-08-22T15:27:54.431934+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-22",
+      "title": "New physics: LBL/Davis showing fusion persists at ultra low energies",
+      "url": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/"
+    },
     {
       "date": "2026-08-18",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -21,13 +26,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-18",
-      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
+      "date": "2026-08-22",
+      "title": "New physics: LBL/Davis showing fusion persists at ultra low energies",
+      "url": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/"
     }
   ],
-  "latest_date": "2026-08-18",
-  "count_7d": 3,
+  "latest_date": "2026-08-22",
+  "count_7d": 4,
   "count_today": 1,
   "has_error": false,
   "error": null,
