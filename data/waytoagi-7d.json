@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:39:01.805022+00:00",
+  "generated_at": "2026-08-22T19:27:30.629640+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,6 +7,41 @@
       "date": "2026-08-22",
       "title": "New physics: LBL/Davis showing fusion persists at ultra low energies",
       "url": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Power output of the three Danube-cooled nuclear plants (Paks, Kozloduy, Cernavodă) during the A…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vuk3jm/power_output_of_the_three_danubecooled_nuclear/"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Grad paper on fusion alternatives",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vuf4r0/grad_paper_on_fusion_alternatives/"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Seeking input from experienced Nuclear/SMR Engineers & IT/OT Architects for a security research…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vu7jll/seeking_input_from_experienced_nuclearsmr/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Nuclear Toolkit Update: Added a Bunch More Stuff",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtva07/nuclear_toolkit_update_added_a_bunch_more_stuff/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "AI usage in nuclear power plants - INTERVIEW.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vto8s4/ai_usage_in_nuclear_power_plants_interview/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "(free link) WSJ: Inside the Race to Build America’s First Nuclear Reactor in a Generation",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtl3e5/free_link_wsj_inside_the_race_to_build_americas/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Port of Corpus Christi signs agreement to explore nuclear technology for ships, port operations",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtb6io/port_of_corpus_christi_signs_agreement_to_explore/"
     },
     {
       "date": "2026-08-18",
@@ -32,7 +67,7 @@
     }
   ],
   "latest_date": "2026-08-22",
-  "count_7d": 4,
+  "count_7d": 11,
   "count_today": 1,
   "has_error": false,
   "error": null,
