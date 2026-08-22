@@ -1,43 +1,8 @@
 {
-  "generated_at": "2026-08-22T11:26:32.515510+00:00",
+  "generated_at": "2026-08-22T11:49:51.218099+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-21",
-      "title": "Power output of the three Danube-cooled nuclear plants (Paks, Kozloduy, Cernavodă) during the A…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vuk3jm/power_output_of_the_three_danubecooled_nuclear/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Grad paper on fusion alternatives",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vuf4r0/grad_paper_on_fusion_alternatives/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Seeking input from experienced Nuclear/SMR Engineers & IT/OT Architects for a security research…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vu7jll/seeking_input_from_experienced_nuclearsmr/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "Nuclear Toolkit Update: Added a Bunch More Stuff",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtva07/nuclear_toolkit_update_added_a_bunch_more_stuff/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "AI usage in nuclear power plants - INTERVIEW.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vto8s4/ai_usage_in_nuclear_power_plants_interview/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "(free link) WSJ: Inside the Race to Build America’s First Nuclear Reactor in a Generation",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtl3e5/free_link_wsj_inside_the_race_to_build_americas/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "Port of Corpus Christi signs agreement to explore nuclear technology for ships, port operations",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vtb6io/port_of_corpus_christi_signs_agreement_to_explore/"
-    },
     {
       "date": "2026-08-18",
       "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
@@ -56,24 +21,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-21",
-      "title": "Power output of the three Danube-cooled nuclear plants (Paks, Kozloduy, Cernavodă) during the A…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vuk3jm/power_output_of_the_three_danubecooled_nuclear/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Grad paper on fusion alternatives",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vuf4r0/grad_paper_on_fusion_alternatives/"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Seeking input from experienced Nuclear/SMR Engineers & IT/OT Architects for a security research…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vu7jll/seeking_input_from_experienced_nuclearsmr/"
+      "date": "2026-08-18",
+      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html"
     }
   ],
-  "latest_date": "2026-08-21",
-  "count_7d": 10,
-  "count_today": 3,
+  "latest_date": "2026-08-18",
+  "count_7d": 3,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
