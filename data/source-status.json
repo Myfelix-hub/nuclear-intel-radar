@@ -10,6 +10,33 @@
       "warning": null
     },
     {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
@@ -32,33 +59,6 @@
       "site_name": "IAEA News",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
-      "ok": true,
-      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -145,28 +145,28 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
       "ok": true,
-      "item_count": 0,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "warning": null
     },
     {
       "site_id": "edf_nuclear",
       "site_name": "EDF",
       "ok": true,
       "item_count": 5,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
+      "ok": true,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2890,
+      "duration_ms": 2968,
       "error": null,
       "warning": null
     },
@@ -302,7 +302,7 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5187,
+      "duration_ms": 5278,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
@@ -368,7 +368,7 @@
       "site_name": "Reddit Nuclear",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5187,
+      "duration_ms": 5278,
       "error": "reddit_nuclear: both subreddits failed — r/nuclear: RuntimeError: HTTP 403 | r/nuclearpower: RetryError: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/nuclear",
       "warning": null
     }
