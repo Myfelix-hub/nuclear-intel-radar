@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-08-24T15:11:26.935856+00:00",
+  "generated_at": "2026-08-24T16:05:13.390996+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-08-23",
-      "title": "The Forgotten History of Small Nuclear Reactors:Economics killed small nuclear power plants in …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vwezlh/the_forgotten_history_of_small_nuclear/"
+      "date": "2026-08-24",
+      "title": "An Indianapolis company wants to press uranium gas into ceramic pellets the size of a pencil er…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vx2ie7/an_indianapolis_company_wants_to_press_uranium/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "ASIA WATCH: Indonesia eyes uninhabited island for 1st nuclear power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vwtfvz/asia_watch_indonesia_eyes_uninhabited_island_for/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Lesser-known nuclear energy facts",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvoylt/lesserknown_nuclear_energy_facts/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "US to study reliable power from floating nuclear power plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvny22/us_to_study_reliable_power_from_floating_nuclear/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Russia’s Rosatom Returns Workers to Iran’s Bushehr Nuclear Plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvnwat/russias_rosatom_returns_workers_to_irans_bushehr/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "New process spins nuclear waste into radioactive 'gold'",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvi67u/new_process_spins_nuclear_waste_into_radioactive/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "EDF to prepare site for two new nuclear reactors at Gravelines plant in France",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvgnsp/edf_to_prepare_site_for_two_new_nuclear_reactors/"
     },
     {
       "date": "2026-08-22",
@@ -14,9 +44,24 @@
       "url": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/"
     },
     {
+      "date": "2026-08-22",
+      "title": "Russia plans to add 30 GW nuclear capacity, expand exports",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vv48c3/russia_plans_to_add_30_gw_nuclear_capacity_expand/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Nuclear power, Jørgensen: Eligible modular‑reactor projects by end‑2026",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vv1n69/nuclear_power_jørgensen_eligible_modularreactor/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Philippines to become a regional nuclear training hub with new US-backed SMR control room simul…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vuzypy/philippines_to_become_a_regional_nuclear_training/"
+    },
+    {
       "date": "2026-08-21",
-      "title": "Power output of the three Danube-cooled nuclear plants (Paks, Kozloduy, Cernavodă) during the A…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vuk3jm/power_output_of_the_three_danubecooled_nuclear/"
+      "title": "Blue Ghost to carry nuclear power source to the Moon",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vuo51w/blue_ghost_to_carry_nuclear_power_source_to_the/"
     },
     {
       "date": "2026-08-18",
@@ -26,14 +71,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-23",
-      "title": "The Forgotten History of Small Nuclear Reactors:Economics killed small nuclear power plants in …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vwezlh/the_forgotten_history_of_small_nuclear/"
+      "date": "2026-08-24",
+      "title": "An Indianapolis company wants to press uranium gas into ceramic pellets the size of a pencil er…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vx2ie7/an_indianapolis_company_wants_to_press_uranium/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "ASIA WATCH: Indonesia eyes uninhabited island for 1st nuclear power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vwtfvz/asia_watch_indonesia_eyes_uninhabited_island_for/"
     }
   ],
-  "latest_date": "2026-08-23",
-  "count_7d": 4,
-  "count_today": 1,
+  "latest_date": "2026-08-24",
+  "count_7d": 13,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
