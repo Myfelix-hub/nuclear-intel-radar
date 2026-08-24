@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-24T23:27:37.334665+00:00",
+  "generated_at": "2026-08-24T23:51:22.170522+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-24",
+      "title": "NRIC selects new Nuclear Energy Launch Pad participants to boost nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxj5cn/nric_selects_new_nuclear_energy_launch_pad/"
+    },
     {
       "date": "2026-08-24",
       "title": "Russia builds 15 small 175-MWt marine nuclear reactors for icebreakers",
@@ -77,6 +82,11 @@
   "updates_today": [
     {
       "date": "2026-08-24",
+      "title": "NRIC selects new Nuclear Energy Launch Pad participants to boost nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxj5cn/nric_selects_new_nuclear_energy_launch_pad/"
+    },
+    {
+      "date": "2026-08-24",
       "title": "Russia builds 15 small 175-MWt marine nuclear reactors for icebreakers",
       "url": "https://www.reddit.com/r/nuclear/comments/1vx7gdc/russia_builds_15_small_175mwt_marine_nuclear/"
     },
@@ -92,8 +102,8 @@
     }
   ],
   "latest_date": "2026-08-24",
-  "count_7d": 14,
-  "count_today": 3,
+  "count_7d": 15,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
