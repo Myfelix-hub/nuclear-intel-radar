@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-08-24T14:13:15.916241+00:00",
+  "generated_at": "2026-08-24T15:11:26.935856+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
+      "date": "2026-08-23",
+      "title": "The Forgotten History of Small Nuclear Reactors:Economics killed small nuclear power plants in …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vwezlh/the_forgotten_history_of_small_nuclear/"
+    },
+    {
       "date": "2026-08-22",
       "title": "New physics: LBL/Davis showing fusion persists at ultra low energies",
       "url": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Power output of the three Danube-cooled nuclear plants (Paks, Kozloduy, Cernavodă) during the A…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vuk3jm/power_output_of_the_three_danubecooled_nuclear/"
     },
     {
       "date": "2026-08-18",
@@ -16,13 +26,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-22",
-      "title": "New physics: LBL/Davis showing fusion persists at ultra low energies",
-      "url": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/"
+      "date": "2026-08-23",
+      "title": "The Forgotten History of Small Nuclear Reactors:Economics killed small nuclear power plants in …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1vwezlh/the_forgotten_history_of_small_nuclear/"
     }
   ],
-  "latest_date": "2026-08-22",
-  "count_7d": 2,
+  "latest_date": "2026-08-23",
+  "count_7d": 4,
   "count_today": 1,
   "has_error": false,
   "error": null,
