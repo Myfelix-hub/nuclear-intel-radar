@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:37:52.005033+00:00",
+  "generated_at": "2026-08-24T21:35:40.440271+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -17,6 +17,11 @@
       "date": "2026-08-24",
       "title": "ASIA WATCH: Indonesia eyes uninhabited island for 1st nuclear power plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1vwtfvz/asia_watch_indonesia_eyes_uninhabited_island_for/"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "OpenStar demonstrates dipole fusion reactor concept",
+      "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept"
     },
     {
       "date": "2026-08-22",
@@ -87,7 +92,7 @@
     }
   ],
   "latest_date": "2026-08-24",
-  "count_7d": 13,
+  "count_7d": 14,
   "count_today": 3,
   "has_error": false,
   "error": null,
