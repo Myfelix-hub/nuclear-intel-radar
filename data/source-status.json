@@ -10,12 +10,21 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 10,
+      "item_count": 7,
       "duration_ms": 0,
       "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
       "warning": null
     },
     {
@@ -23,6 +32,15 @@
       "site_name": "arXiv nucl-ex",
       "ok": true,
       "item_count": 4,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -37,30 +55,12 @@
       "warning": null
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
-      "item_count": 7,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 12,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
       "warning": null
     },
     {
@@ -145,10 +145,10 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 1,
+      "item_count": 12,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 2903,
+      "duration_ms": 2966,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 11,
-      "duration_ms": 5911,
+      "item_count": 12,
+      "duration_ms": 5933,
       "error": null,
       "warning": null
     }
@@ -364,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 296,
-  "items_before_topic_filter": 296,
+  "fetched_raw_items": 297,
+  "items_before_topic_filter": 297,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},

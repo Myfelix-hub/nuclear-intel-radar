@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-08-24T16:05:13.390996+00:00",
+  "generated_at": "2026-08-24T17:06:56.629929+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-24",
+      "title": "Russia builds 15 small 175-MWt marine nuclear reactors for icebreakers",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vx7gdc/russia_builds_15_small_175mwt_marine_nuclear/"
+    },
     {
       "date": "2026-08-24",
       "title": "An Indianapolis company wants to press uranium gas into ceramic pellets the size of a pencil er…",
@@ -72,6 +77,11 @@
   "updates_today": [
     {
       "date": "2026-08-24",
+      "title": "Russia builds 15 small 175-MWt marine nuclear reactors for icebreakers",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vx7gdc/russia_builds_15_small_175mwt_marine_nuclear/"
+    },
+    {
+      "date": "2026-08-24",
       "title": "An Indianapolis company wants to press uranium gas into ceramic pellets the size of a pencil er…",
       "url": "https://www.reddit.com/r/nuclear/comments/1vx2ie7/an_indianapolis_company_wants_to_press_uranium/"
     },
@@ -82,8 +92,8 @@
     }
   ],
   "latest_date": "2026-08-24",
-  "count_7d": 13,
-  "count_today": 2,
+  "count_7d": 14,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
