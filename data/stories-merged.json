@@ -1,528 +1,13 @@
 {
-  "generated_at": "2026-08-25T17:58:48.226383+00:00",
+  "generated_at": "2026-08-25T18:52:22.126832+00:00",
   "window_hours": 72,
-  "total_stories": 152,
+  "total_stories": 61,
   "stories": [
-    {
-      "story_id": "story-befdb105498e71c7",
-      "title": "ANS NUCLEAR CAFE",
-      "representative_url": "http://ansnuclearcafe.org/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "de21d295eb904c46",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "ANS NUCLEAR CAFE",
-          "url": "http://ansnuclearcafe.org/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-c1a921fc3b64880b",
-      "title": "FREEDOM FOR FISSION",
-      "representative_url": "http://freedomforfission.blogspot.com/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "8565e910c3fc853c",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "FREEDOM FOR FISSION",
-          "url": "http://freedomforfission.blogspot.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "tech"
-          ],
-          "primary_section": "tech"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "tech"
-    },
-    {
-      "story_id": "story-bad02679ccac2537",
-      "title": "NEI NUCLEAR NOTES",
-      "representative_url": "http://neinuclearnotes.blogspot.com/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "77b80837150c28ba",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NEI NUCLEAR NOTES",
-          "url": "http://neinuclearnotes.blogspot.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-02e5356e72a9b63d",
-      "title": "NATIONAL NUCLEAR SECURITY ADMINISTRATION",
-      "representative_url": "http://nnsa.energy.gov/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "e25763bf798a3577",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NATIONAL NUCLEAR SECURITY ADMINISTRATION",
-          "url": "http://nnsa.energy.gov/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-6f94128a3365f003",
-      "title": "NUCLEAR AUSTRALIA",
-      "representative_url": "http://nuclearaustralia.blogspot.com/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "aee073ce833b574b",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR AUSTRALIA",
-          "url": "http://nuclearaustralia.blogspot.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-6d492a884498fb75",
-      "title": "NUCLEAR DREAMS",
-      "representative_url": "http://nucleardreams.wordpress.com/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "620a97704a762654",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR DREAMS",
-          "url": "http://nucleardreams.wordpress.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-fdf2bfdde7eb7bff",
-      "title": "NUCLEAR FISSIONARY",
-      "representative_url": "http://nuclearfissionary.com/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "4e123a48bb7948de",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR FISSIONARY",
-          "url": "http://nuclearfissionary.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "tech"
-          ],
-          "primary_section": "tech"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "tech"
-    },
-    {
-      "story_id": "story-439fc7d4ab5e2883",
-      "title": "NUCLEAR GREEN",
-      "representative_url": "http://nucleargreen.blogspot.com/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "b4976575c6f8b36e",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR GREEN",
-          "url": "http://nucleargreen.blogspot.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-f4c70b0656e8b25e",
-      "title": "NUCLEAR POWER? YES, PLEASE",
-      "representative_url": "http://nuclearpoweryesplease.org/forum/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "256f8899822fb028",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR POWER? YES, PLEASE",
-          "url": "http://nuclearpoweryesplease.org/forum/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-b77064108e1a0059",
-      "title": "NUCLEAR STREET",
-      "representative_url": "http://nuclearstreet.com/nuclear_power_industry_news/b/nuclear_power_news",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "4bbf4b38c82df29b",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR STREET",
-          "url": "http://nuclearstreet.com/nuclear_power_industry_news/b/nuclear_power_news",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-4518a2f802c1908b",
-      "title": "NUCLEAR POWER TALK",
-      "representative_url": "http://nukepowertalk.blogspot.com/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "8928a312b981b9e9",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR POWER TALK",
-          "url": "http://nukepowertalk.blogspot.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        },
-        {
-          "id": "f86a03f69088a797",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR POWER DAILY",
-          "url": "http://www.nuclearpowerdaily.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 2,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-e61339086941bc69",
-      "title": "AMERICAN NUCLEAR SOCIETY",
-      "representative_url": "http://www.ans.org/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "b22fb317c05c0197",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "AMERICAN NUCLEAR SOCIETY",
-          "url": "http://www.ans.org/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-de623cad90065919",
-      "title": "NUCLEAR ENERGY INSTITUTE",
-      "representative_url": "http://www.nei.org/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "f991d7966fd62aa1",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR ENERGY INSTITUTE",
-          "url": "http://www.nei.org/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-c866f36b3ce9bc8e",
-      "title": "NUCLEAR ENGINEERING INTERNATIONAL",
-      "representative_url": "http://www.neimagazine.com/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "cc254f3334908725",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR ENGINEERING INTERNATIONAL",
-          "url": "http://www.neimagazine.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-f217471ab101785f",
-      "title": "NUCLEAR REGULATORY COMMISSION",
-      "representative_url": "http://www.nrc.gov/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "54e3ad7c50c1ac74",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR REGULATORY COMMISSION",
-          "url": "http://www.nrc.gov/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "policy"
-          ],
-          "primary_section": "policy"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "policy"
-    },
     {
       "story_id": "story-08ea510827b27440",
       "title": "核能安全关乎产业未来，中国如何确保核能安全？",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17535",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -534,8 +19,8 @@
           "source": "中国核网",
           "title": "核能安全关乎产业未来，中国如何确保核能安全？",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17535",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.3375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -555,7 +40,7 @@
       "story_id": "story-2ae0559d60396e3b",
       "title": "试验成功！漳州核电，快发电了！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -567,8 +52,8 @@
           "source": "中国核网",
           "title": "试验成功！漳州核电，快发电了！",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.45,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -588,7 +73,7 @@
       "story_id": "story-09edd47f6ce41eb8",
       "title": "中广核新能源江西分公司原总经理邓东被查！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17539",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -600,8 +85,8 @@
           "source": "中国核网",
           "title": "中广核新能源江西分公司原总经理邓东被查！",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17539",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.45,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -621,7 +106,7 @@
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -633,8 +118,8 @@
           "source": "中国核网",
           "title": "中核集团人事密集调整！涉及江苏核电等！",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.675,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -654,7 +139,7 @@
       "story_id": "story-85e3fecf94751faf",
       "title": "国常会核准5个核电项目，合计11台机组，拉动千亿级投资！ ...",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17541",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -666,8 +151,8 @@
           "source": "中国核网",
           "title": "国常会核准5个核电项目，合计11台机组，拉动千亿级投资！ ...",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17541",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.3375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -687,7 +172,7 @@
       "story_id": "story-3c2f05c2a6736566",
       "title": "辛安核电项目有进展",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17543",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -699,8 +184,8 @@
           "source": "中国核网",
           "title": "辛安核电项目有进展",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17543",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.3375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -720,7 +205,7 @@
       "story_id": "story-ae7f243428aa1ad7",
       "title": "中核二三领导班子调整",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17544",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -732,8 +217,8 @@
           "source": "中国核网",
           "title": "中核二三领导班子调整",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17544",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.3375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -753,7 +238,7 @@
       "story_id": "story-6e2e47c1e3742afb",
       "title": "31省份2025年9月发电量数据出炉！火电/水电/核电/风电/光伏增长几何？ ...",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17545",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -765,8 +250,8 @@
           "source": "中国核网",
           "title": "31省份2025年9月发电量数据出炉！火电/水电/核电/风电/光伏增长几何？ ...",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17545",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.45,
           "nuclear_kw_score": 0.4,
           "nuclear_is_related": true,
@@ -786,7 +271,7 @@
       "story_id": "story-da9b990c2c9451f5",
       "title": "中法两国关于持续推进和平利用核能领域合作的联合声明 ...",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17548",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -798,8 +283,8 @@
           "source": "中国核网",
           "title": "中法两国关于持续推进和平利用核能领域合作的联合声明 ...",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17548",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.3375,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -819,7 +304,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -831,8 +316,8 @@
           "source": "中国核网",
           "title": "这家核电机组FCD！",
           "url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.675,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -847,1768 +332,12 @@
       ],
       "duplicate_count": 1,
       "primary_section": "newbuild"
-    },
-    {
-      "story_id": "story-93f13e3ef3a91ab7",
-      "title": "RADIATION ANSWERS",
-      "representative_url": "http://www.radiationanswers.org/radiation-blog.html",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "c2851508370e0dfe",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "RADIATION ANSWERS",
-          "url": "http://www.radiationanswers.org/radiation-blog.html",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "safety"
-          ],
-          "primary_section": "safety"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "safety"
-    },
-    {
-      "story_id": "story-74b3a3efe92f8e3b",
-      "title": "U.S. NUCLEAR ENERGY FOUNDATION",
-      "representative_url": "http://www.usnuclearenergy.org/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "403b1d27a6d7fee4",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "U.S. NUCLEAR ENERGY FOUNDATION",
-          "url": "http://www.usnuclearenergy.org/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-0e193a5d6acb1fce",
-      "title": "WHAT IS NUCLEAR?",
-      "representative_url": "http://www.whatisnuclear.com/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "593fac8c5225aa22",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "WHAT IS NUCLEAR?",
-          "url": "http://www.whatisnuclear.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-d0be78613ca0f27d",
-      "title": "WORLD NUCLEAR NEWS",
-      "representative_url": "http://www.world-nuclear-news.org/default.aspx",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "39dc26f01b8368ac",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "WORLD NUCLEAR NEWS",
-          "url": "http://www.world-nuclear-news.org/default.aspx",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-040f002625172356",
-      "title": "SUSTAINABLE FUEL CYCLE TASK FORCE",
-      "representative_url": "http://www.yuccamountainproject.org/sustainable-fuel-cycle-task-force.html",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "8d6fd06847fd8369",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "SUSTAINABLE FUEL CYCLE TASK FORCE",
-          "url": "http://www.yuccamountainproject.org/sustainable-fuel-cycle-task-force.html",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel",
-            "community"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-49f915790ad0cbaf",
-      "title": "Rosatom’s Egyptian Scandal Threatens Kremlin’s Nuclear Energy Export Asset",
-      "representative_url": "https://eualive.net/rosatoms-egyptian-scandal-threatens-kremlins-nuclear-energy-export-asset/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "c215743cbcd316df",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Rosatom’s Egyptian Scandal Threatens Kremlin’s Nuclear Energy Export Asset",
-          "url": "https://eualive.net/rosatoms-egyptian-scandal-threatens-kremlins-nuclear-energy-export-asset/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-c5f8937e495eae84",
-      "title": "Tennessee Helped Usher in the Nuclear age. It Wants to Lead the Way Again.",
-      "representative_url": "https://grist.org/energy/tennessee-helped-usher-in-the-nuclear-age-it-wants-to-lead-the-way-again/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "065c412c7ddaf48f",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Tennessee Helped Usher in the Nuclear age. It Wants to Lead the Way Again.",
-          "url": "https://grist.org/energy/tennessee-helped-usher-in-the-nuclear-age-it-wants-to-lead-the-way-again/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-7ccc2cd2d64d64e2",
-      "title": "New Nuclear Plan Could Deliver Up to 6 GW of Power to Data Centers by 2040",
-      "representative_url": "https://interestingengineering.com/energy/advanced-nuclear-power-ai-data-centers",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "56561b6101d64ced",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "New Nuclear Plan Could Deliver Up to 6 GW of Power to Data Centers by 2040",
-          "url": "https://interestingengineering.com/energy/advanced-nuclear-power-ai-data-centers",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-7b74d3f5b6e8a170",
-      "title": "Compact Nuclear Reactor with 40-Fold Smaller Footprint Bags $31M to Deploy in Two Years",
-      "representative_url": "https://interestingengineering.com/energy/compact-nuclear-reactor-funding-apollo-atomics",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "d6e1605f9a6d321b",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Compact Nuclear Reactor with 40-Fold Smaller Footprint Bags $31M to Deploy in Two Years",
-          "url": "https://interestingengineering.com/energy/compact-nuclear-reactor-funding-apollo-atomics",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-26c1eabd308a8978",
-      "title": "Russia Builds 15 Small Marine Nuclear Reactors with 175-MWt Capacity for Icebreakers",
-      "representative_url": "https://interestingengineering.com/energy/russia-builds-15-small-marine-reactors",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "7334a93d8cf97aa5",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Russia Builds 15 Small Marine Nuclear Reactors with 175-MWt Capacity for Icebreakers",
-          "url": "https://interestingengineering.com/energy/russia-builds-15-small-marine-reactors",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-f897109a3a4cf788",
-      "title": "How Sinking 260-Feet Barges Could Keep a 2,000 MW Nuclear Plant Operational",
-      "representative_url": "https://interestingengineering.com/energy/sinking-barges-nuclear-plant-running",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "5942162b69c5ea4e",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "How Sinking 260-Feet Barges Could Keep a 2,000 MW Nuclear Plant Operational",
-          "url": "https://interestingengineering.com/energy/sinking-barges-nuclear-plant-running",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "newbuild"
-          ],
-          "primary_section": "newbuild"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "newbuild"
-    },
-    {
-      "story_id": "story-c73b8349fd2cf56e",
-      "title": "US Explores 1 MW Nuclear Batteries That Fit Inside 20-Foot Shipping Containers",
-      "representative_url": "https://interestingengineering.com/energy/us-explores-1-mw-nuclear-batteries-that-fit-inside-20-foot-shipping-containers",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "f25fd7babc5f647a",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "US Explores 1 MW Nuclear Batteries That Fit Inside 20-Foot Shipping Containers",
-          "url": "https://interestingengineering.com/energy/us-explores-1-mw-nuclear-batteries-that-fit-inside-20-foot-shipping-containers",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-0e8faef0afcf6091",
-      "title": "DAN YURMAN, NEUTRON BYTES: A Compass Reading on the Direction of the Nuclear Renaissance",
-      "representative_url": "https://neutronbytes.com/2026/08/17/opinion-a-compass-reading-on-the-direction-of-the-nuclear-renaissance/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "790a76bd5b548096",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "DAN YURMAN, NEUTRON BYTES: A Compass Reading on the Direction of the Nuclear Renaissance",
-          "url": "https://neutronbytes.com/2026/08/17/opinion-a-compass-reading-on-the-direction-of-the-nuclear-renaissance/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-96835c9d8cc64e66",
-      "title": "Atomic Canyon Launches AI Virtual Assistant for Nuclear Reactor Operations",
-      "representative_url": "https://neutronbytes.com/2026/08/20/atomic-canyon-launches-ai-virtual-assistant-for-nuclear-reactor-operations/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "0874f15e561503a0",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Atomic Canyon Launches AI Virtual Assistant for Nuclear Reactor Operations",
-          "url": "https://neutronbytes.com/2026/08/20/atomic-canyon-launches-ai-virtual-assistant-for-nuclear-reactor-operations/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "newbuild"
-          ],
-          "primary_section": "newbuild"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "newbuild"
-    },
-    {
-      "story_id": "story-25d52cbe8d32f570",
-      "title": "Why Nuclear, Why New Hampshire, Why Now?",
-      "representative_url": "https://newhampshirebulletin.com/2026/08/24/why-nuclear-why-new-hampshire-why-now/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "c12476596c346204",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Why Nuclear, Why New Hampshire, Why Now?",
-          "url": "https://newhampshirebulletin.com/2026/08/24/why-nuclear-why-new-hampshire-why-now/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-28c3f85becd5f218",
-      "title": "North Dakota Lawmakers Want Public Involved As They Pursue Nuclear Power Industry",
-      "representative_url": "https://northdakotamonitor.com/2026/08/20/lawmakers-want-public-involved-as-they-pursue-nuclear-power-industry/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "34573d7ce0602647",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "North Dakota Lawmakers Want Public Involved As They Pursue Nuclear Power Industry",
-          "url": "https://northdakotamonitor.com/2026/08/20/lawmakers-want-public-involved-as-they-pursue-nuclear-power-industry/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-6c6ae148ccd13b73",
-      "title": "Russia Pushes Ahead With Uzbekistan Nuclear Plans Despite Money Troubles",
-      "representative_url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Russia-Pushes-Ahead-With-Uzbekistan-Nuclear-Plans-Despite-Money-Troubles.html",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "d65b5f29d3add508",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Russia Pushes Ahead With Uzbekistan Nuclear Plans Despite Money Troubles",
-          "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Russia-Pushes-Ahead-With-Uzbekistan-Nuclear-Plans-Despite-Money-Troubles.html",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-7c34910788b0edd5",
-      "title": "Oklo: The Nuclear Renaissance Could Leave a Trail of Busted SMR Companies",
-      "representative_url": "https://seekingalpha.com/article/4939875-oklo-the-nuclear-renaissance-could-leave-a-trail-of-busted-smr-companies",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "9d8b9008409ae8c6",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Oklo: The Nuclear Renaissance Could Leave a Trail of Busted SMR Companies",
-          "url": "https://seekingalpha.com/article/4939875-oklo-the-nuclear-renaissance-could-leave-a-trail-of-busted-smr-companies",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 1.0,
-          "nuclear_kw_score": 0.9,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "tech"
-          ],
-          "primary_section": "tech"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "tech"
-    },
-    {
-      "story_id": "story-240b9e4a917e269d",
-      "title": "Space Nuclear Programs Face Near- and Long-Term Challenges",
-      "representative_url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "8a8b559e4351f38a",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Space Nuclear Programs Face Near- and Long-Term Challenges",
-          "url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-1b2a214a78b1629d",
-      "title": "Arkansas Representative Plans to Sponsor Nuclear Power Bill Next Year",
-      "representative_url": "https://talkbusiness.net/2026/08/rep-ladyman-plans-to-sponsor-nuclear-power-bill/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "0bb31c2145663084",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Arkansas Representative Plans to Sponsor Nuclear Power Bill Next Year",
-          "url": "https://talkbusiness.net/2026/08/rep-ladyman-plans-to-sponsor-nuclear-power-bill/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-d5ba0eee28b00918",
-      "title": "PJ SEEL, BREAKTHROUGH INSTITUTE: Why Modernization of the NRC’s Radiation Protection Framework …",
-      "representative_url": "https://thebreakthrough.org/issues/nuclear-energy-innovation/why-modernization-of-the-nuclear-regulatory-commissions-radiation-protection-framework-requires-coordination-across-federal-law",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "5ba0fd28cdf0849b",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "PJ SEEL, BREAKTHROUGH INSTITUTE: Why Modernization of the NRC’s Radiation Protection Framework …",
-          "url": "https://thebreakthrough.org/issues/nuclear-energy-innovation/why-modernization-of-the-nuclear-regulatory-commissions-radiation-protection-framework-requires-coordination-across-federal-law",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "policy",
-            "safety",
-            "tech"
-          ],
-          "primary_section": "policy"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "policy"
-    },
-    {
-      "story_id": "story-0fe65e88e50f9e53",
-      "title": "France’s Nuclear Reactors Are Running Hot and Still Keeping the Lights On",
-      "representative_url": "https://theconversation.com/frances-nuclear-reactors-are-running-hot-and-still-keeping-the-lights-on-289694",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "1fd412e0e64cc339",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "France’s Nuclear Reactors Are Running Hot and Still Keeping the Lights On",
-          "url": "https://theconversation.com/frances-nuclear-reactors-are-running-hot-and-still-keeping-the-lights-on-289694",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-a4bb6ce998e19e10",
-      "title": "SUBSCRIBE TO NUCLEARTOWNHALL.COM NEWSLETTER",
-      "representative_url": "https://visitor.r20.constantcontact.com/d.jsp?llr=54flrwdab&p=oi&m=54flrwdab&sit=lmotznffb&f=b9d036bc-7556-4825-9156-baf761fad0f6",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "e58d53f6e1d4c72e",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "SUBSCRIBE TO NUCLEARTOWNHALL.COM NEWSLETTER",
-          "url": "https://visitor.r20.constantcontact.com/d.jsp?llr=54flrwdab&p=oi&m=54flrwdab&sit=lmotznffb&f=b9d036bc-7556-4825-9156-baf761fad0f6",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-1186584443dcd9a2",
-      "title": "Doosan Enerbility Secures Contract for Chinese Nuclear Plant Forgings",
-      "representative_url": "https://world-nuclear-news.org/articles/further-chinese-order-for-doosan-enerbility-forgings",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "eb10c2256af1fb38",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Doosan Enerbility Secures Contract for Chinese Nuclear Plant Forgings",
-          "url": "https://world-nuclear-news.org/articles/further-chinese-order-for-doosan-enerbility-forgings",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "safety"
-          ],
-          "primary_section": "safety"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "safety"
-    },
-    {
-      "story_id": "story-d1f951699102d290",
-      "title": "China Completes Hot Testing at Third Haiyang Nuclear Reactor",
-      "representative_url": "https://world-nuclear-news.org/articles/hot-tests-completed-at-third-haiyang-unit",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "18d6a914ba949e3f",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "China Completes Hot Testing at Third Haiyang Nuclear Reactor",
-          "url": "https://world-nuclear-news.org/articles/hot-tests-completed-at-third-haiyang-unit",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-7e0aacec5f26f34a",
-      "title": "India Begins Public Consultation on SHANTI Nuclear Bill Rules",
-      "representative_url": "https://world-nuclear-news.org/articles/india-begins-public-consultation-on-shanti-bill-rules",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "07fdf20d6ba7bd01",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "India Begins Public Consultation on SHANTI Nuclear Bill Rules",
-          "url": "https://world-nuclear-news.org/articles/india-begins-public-consultation-on-shanti-bill-rules",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-ad67b1bf7b34795e",
-      "title": "Kazatomprom CEO Says Era of Cheap Uranium Is Fading as Global Demand Accelerates",
-      "representative_url": "https://world-nuclear-news.org/articles/new-realities-for-kazatomprom-as-demand-accelerates",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "5bd3eeef27df1339",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Kazatomprom CEO Says Era of Cheap Uranium Is Fading as Global Demand Accelerates",
-          "url": "https://world-nuclear-news.org/articles/new-realities-for-kazatomprom-as-demand-accelerates",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-abed49aaf3d7bfad",
-      "title": "Ukraine Regulators Approve Expansion of Chernobyl Radioactive Waste Disposal Facility",
-      "representative_url": "https://world-nuclear-news.org/articles/regulatory-approval-for-expansion-of-chernobyl-waste-facility",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "5a9b1635f73d0193",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Ukraine Regulators Approve Expansion of Chernobyl Radioactive Waste Disposal Facility",
-          "url": "https://world-nuclear-news.org/articles/regulatory-approval-for-expansion-of-chernobyl-waste-facility",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "safety"
-          ],
-          "primary_section": "safety"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "safety"
-    },
-    {
-      "story_id": "story-746144fce7b622e8",
-      "title": "Russia Plans to Add 30 Gigawatts of Nuclear Capacity and Expand Global Exports",
-      "representative_url": "https://world-nuclear-news.org/articles/russia-plans-to-add-30-gw-nuclear-capacity-expand-exports",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "77edcb88700e030f",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Russia Plans to Add 30 Gigawatts of Nuclear Capacity and Expand Global Exports",
-          "url": "https://world-nuclear-news.org/articles/russia-plans-to-add-30-gw-nuclear-capacity-expand-exports",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-0e0a41fa29a1f9de",
-      "title": "Singapore and China Sign Memorandum on Nuclear Technology Cooperation",
-      "representative_url": "https://world-nuclear-news.org/articles/singapore-china-agree-to-nuclear-cooperation",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "fe7ce891436db006",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Singapore and China Sign Memorandum on Nuclear Technology Cooperation",
-          "url": "https://world-nuclear-news.org/articles/singapore-china-agree-to-nuclear-cooperation",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "newbuild",
-            "tech"
-          ],
-          "primary_section": "newbuild"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "newbuild"
-    },
-    {
-      "story_id": "story-2a34b92a06f63de0",
-      "title": "Ur-Energy Makes First Shipment from Wyoming Uranium Project",
-      "representative_url": "https://world-nuclear-news.org/articles/ur-energy-makes-first-shipment-from-wyoming-uranium-project",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "711b870b0cc331d3",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Ur-Energy Makes First Shipment from Wyoming Uranium Project",
-          "url": "https://world-nuclear-news.org/articles/ur-energy-makes-first-shipment-from-wyoming-uranium-project",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-9fa0e6deda8e0e36",
-      "title": "Putin Says Russia to Expand Distribution of New Nuclear Power Units to Far East, Siberia, Urals",
-      "representative_url": "https://www.aa.com.tr/en/world/putin-says-russia-to-expand-distribution-of-new-nuclear-power-units-to-far-east-siberia-urals/4033159",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "02472aa141da875d",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Putin Says Russia to Expand Distribution of New Nuclear Power Units to Far East, Siberia, Urals",
-          "url": "https://www.aa.com.tr/en/world/putin-says-russia-to-expand-distribution-of-new-nuclear-power-units-to-far-east-siberia-urals/4033159",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-a6b538e6191f6fc2",
-      "title": "DOE Official Discusses Future of Nuclear Waste Disposal in ANS Webinar",
-      "representative_url": "https://www.ans.org/news/2026-08-19/article-8309/does-marla-morales-talks-with-anss-craig-piercy/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "e97b4fc37295ecba",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "DOE Official Discusses Future of Nuclear Waste Disposal in ANS Webinar",
-          "url": "https://www.ans.org/news/2026-08-19/article-8309/does-marla-morales-talks-with-anss-craig-piercy/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-b268ca4c99e4c39c",
-      "title": "Nuclear Industry Leaders Discuss Expanding US Uranium Enrichment at Global 2026",
-      "representative_url": "https://www.ans.org/news/2026-08-21/article-8323/panelists-talk-domestic-enrichment-expansion-at-global-2026/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "fe486bbf8ecedde9",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Nuclear Industry Leaders Discuss Expanding US Uranium Enrichment at Global 2026",
-          "url": "https://www.ans.org/news/2026-08-21/article-8323/panelists-talk-domestic-enrichment-expansion-at-global-2026/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 1.0,
-          "nuclear_kw_score": 0.9,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-89150febf056cddd",
-      "title": "Fusion Startup Shine Technologies Hires Goldman, JPM for IPO",
-      "representative_url": "https://www.axios.com/pro/climate-deals/2026/08/19/shine-technologies-ipo-goldman-sachs-jp-morgan",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "8c2685cec96f4dad",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Fusion Startup Shine Technologies Hires Goldman, JPM for IPO",
-          "url": "https://www.axios.com/pro/climate-deals/2026/08/19/shine-technologies-ipo-goldman-sachs-jp-morgan",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "newbuild",
-            "tech"
-          ],
-          "primary_section": "newbuild"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "newbuild"
-    },
-    {
-      "story_id": "story-99e7b9f6cf58d637",
-      "title": "India Sets Draft Rules to Open Nuclear Power to Private Firms",
-      "representative_url": "https://www.bloomberg.com/news/articles/2026-08-15/india-sets-draft-rules-to-open-nuclear-power-to-private-firms",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "811773dff3543c9e",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "India Sets Draft Rules to Open Nuclear Power to Private Firms",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/india-sets-draft-rules-to-open-nuclear-power-to-private-firms",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-6c6ce4d2a825cfc7",
-      "title": "Standard Nuclear Executes Fuel Supply Agreement with Radiant for TRISO Nuclear Fuel",
-      "representative_url": "https://www.businesswire.com/news/home/20260820982967/en/Standard-Nuclear-Executes-Fuel-Supply-Agreement-with-Radiant-for-TRISO-Nuclear-Fuel",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "e21cf3b422d1d8b2",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Standard Nuclear Executes Fuel Supply Agreement with Radiant for TRISO Nuclear Fuel",
-          "url": "https://www.businesswire.com/news/home/20260820982967/en/Standard-Nuclear-Executes-Fuel-Supply-Agreement-with-Radiant-for-TRISO-Nuclear-Fuel",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-945466108c3f7b24",
-      "title": "NuScale Power Deploys Nuclear-Specific AI from NPX and Nuclearn to Speed Development of Its Adv…",
-      "representative_url": "https://www.businesswire.com/news/home/20260825531761/en/NuScale-Power-Deploys-Nuclear-Specific-AI-from-NPX-and-Nuclearn-to-Speed-Development-of-Its-Advanced-Reactor-Program",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "a1485bd2db16c8c4",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NuScale Power Deploys Nuclear-Specific AI from NPX and Nuclearn to Speed Development of Its Adv…",
-          "url": "https://www.businesswire.com/news/home/20260825531761/en/NuScale-Power-Deploys-Nuclear-Specific-AI-from-NPX-and-Nuclearn-to-Speed-Development-of-Its-Advanced-Reactor-Program",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-63b0fd2969bf3894",
-      "title": "Why Nuclear Energy Is Making a Global Comeback",
-      "representative_url": "https://www.cfr.org/articles/what-is-nuclear-energy-and-why-is-it-making-a-comeback",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "848dd99dd9f05038",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Why Nuclear Energy Is Making a Global Comeback",
-          "url": "https://www.cfr.org/articles/what-is-nuclear-energy-and-why-is-it-making-a-comeback",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-26face59e59a3869",
-      "title": "The Search for Nuclear Fuel Expands, From Uranium Mines to Oceans to the Moon",
-      "representative_url": "https://www.channelnewsasia.com/cna-insider/nuclear-power-revival-sparks-global-race-uranium-mines-fuel-6329336",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "e363290a6130a643",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "The Search for Nuclear Fuel Expands, From Uranium Mines to Oceans to the Moon",
-          "url": "https://www.channelnewsasia.com/cna-insider/nuclear-power-revival-sparks-global-race-uranium-mines-fuel-6329336",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "safety",
-            "fuel"
-          ],
-          "primary_section": "safety"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "safety"
-    },
-    {
-      "story_id": "story-fd932400d96b9423",
-      "title": "South Korea Looks to US Nuclear Market with Westinghouse Tie-Up",
-      "representative_url": "https://www.chosun.com/english/national-en/2025/08/21/SS2VZYL5HRFGREKLQMGTADXCPA/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "9060f8a8189ac2ab",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "South Korea Looks to US Nuclear Market with Westinghouse Tie-Up",
-          "url": "https://www.chosun.com/english/national-en/2025/08/21/SS2VZYL5HRFGREKLQMGTADXCPA/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-61a650ea904ba389",
-      "title": "JACK SPENCER, DAILY SIGNAL: Every State Can Open Its Doors to Nuclear Energy",
-      "representative_url": "https://www.dailysignal.com/2026/08/24/every-state-can-open-its-doors-to-nuclear-energy/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "7858716dbe37e076",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "JACK SPENCER, DAILY SIGNAL: Every State Can Open Its Doors to Nuclear Energy",
-          "url": "https://www.dailysignal.com/2026/08/24/every-state-can-open-its-doors-to-nuclear-energy/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-0611c4288e76839a",
-      "title": "Corpus Christi Advances US Nuclear Shipping Push",
-      "representative_url": "https://www.engine.online/news/corpus-christi-advances-us-nuclear-shipping-push-8018",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "6b462eb252e7a010",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Corpus Christi Advances US Nuclear Shipping Push",
-          "url": "https://www.engine.online/news/corpus-christi-advances-us-nuclear-shipping-push-8018",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-f437c00b17e6cc1f",
-      "title": "Nuclear Power is China’s Key for Transitioning to a Fully Renewable Grid Design",
-      "representative_url": "https://www.fastcompany.com/91591707/nuclear-power-is-chinas-key-for-transitioning-to-a-fully-renewable-grid-design",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "e269d9bffc1720bd",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Nuclear Power is China’s Key for Transitioning to a Fully Renewable Grid Design",
-          "url": "https://www.fastcompany.com/91591707/nuclear-power-is-chinas-key-for-transitioning-to-a-fully-renewable-grid-design",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "tech"
-          ],
-          "primary_section": "tech"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "tech"
-    },
-    {
-      "story_id": "story-0c37ef3c2a0b5063",
-      "title": "Oklo’s CEO Says Used Nuclear Fuel in the U.S. Is Worth More Than Saudi Arabia’s Oil Reserves. H…",
-      "representative_url": "https://www.fool.com/investing/2026/08/24/oklos-ceo-says-used-nuclear-fuel-in-the-us-is-wort/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "99f258a3550eb629",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Oklo’s CEO Says Used Nuclear Fuel in the U.S. Is Worth More Than Saudi Arabia’s Oil Reserves. H…",
-          "url": "https://www.fool.com/investing/2026/08/24/oklos-ceo-says-used-nuclear-fuel-in-the-us-is-wort/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-a5226e8bffc9502b",
-      "title": "Bluecore Floating Nuclear Power Plant A First For Black Entrepreneur",
-      "representative_url": "https://www.forbes.com/sites/edgarsten/2026/08/18/bluecore-floating-nuclear-power-plant-a-first-for-black-entrepreneur/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "a7daeee03a18a4ee",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Bluecore Floating Nuclear Power Plant A First For Black Entrepreneur",
-          "url": "https://www.forbes.com/sites/edgarsten/2026/08/18/bluecore-floating-nuclear-power-plant-a-first-for-black-entrepreneur/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.7875,
-          "nuclear_kw_score": 0.7,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-e003189ac1fd5bae",
-      "title": "Heat Waves Affect All Types Of Power Generation, Not Just Nuclear",
-      "representative_url": "https://www.forbes.com/sites/scottmontgomery/2026/07/17/heat-waves-affect-all-types-of-power-generation-not-just-nuclear/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "94a485feff292328",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Heat Waves Affect All Types Of Power Generation, Not Just Nuclear",
-          "url": "https://www.forbes.com/sites/scottmontgomery/2026/07/17/heat-waves-affect-all-types-of-power-generation-not-just-nuclear/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-dd276153c5b5d59a",
-      "title": "US Plans Nuclear-Powered Merchant Fleet to Challenge China’s Shipbuilding Dominance",
-      "representative_url": "https://www.ft.com/content/bb60f5f1-bf4c-439e-b78b-3b018062c400?syn-25a6b1a6=1",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "c71a94b094d9ea63",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "US Plans Nuclear-Powered Merchant Fleet to Challenge China’s Shipbuilding Dominance",
-          "url": "https://www.ft.com/content/bb60f5f1-bf4c-439e-b78b-3b018062c400?syn-25a6b1a6=1",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "newbuild"
-          ],
-          "primary_section": "newbuild"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "newbuild"
-    },
-    {
-      "story_id": "story-17a7759b16b13c9e",
-      "title": "GAO: NNSA Must Report $140 Billion Cost Estimate for Uranium Enrichment Efforts",
-      "representative_url": "https://www.gao.gov/products/gao-26-107385",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "1ef4ef07416bdccb",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "GAO: NNSA Must Report $140 Billion Cost Estimate for Uranium Enrichment Efforts",
-          "url": "https://www.gao.gov/products/gao-26-107385",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-6562f64c3603915f",
-      "title": "HERITAGE FOUNDATION – NUCLEAR ENERGY",
-      "representative_url": "https://www.heritage.org/nuclear-energy",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "5a974762244a1856",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "HERITAGE FOUNDATION – NUCLEAR ENERGY",
-          "url": "https://www.heritage.org/nuclear-energy",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-d6e29868e0c537ee",
-      "title": "New IAEA Project to Strengthen Testing of Nuclear Fuels and Materials in Research Reactors",
-      "representative_url": "https://www.iaea.org/newscenter/news/new-iaea-project-to-strengthen-testing-of-nuclear-fuels-and-materials-in-research-reactors",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "0fb34b0962e8b61a",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "New IAEA Project to Strengthen Testing of Nuclear Fuels and Materials in Research Reactors",
-          "url": "https://www.iaea.org/newscenter/news/new-iaea-project-to-strengthen-testing-of-nuclear-fuels-and-materials-in-research-reactors",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 1.0,
-          "nuclear_kw_score": 0.9,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-335c840a06fda263",
-      "title": "TEPCO Begins Removal of Radioactive Spent Fuel from Fukushima No. 2 Reactor",
-      "representative_url": "https://www.japantimes.co.jp/news/2026/08/18/japan/tepco-fuel-removal/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "be5f6ebff934d001",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "TEPCO Begins Removal of Radioactive Spent Fuel from Fukushima No. 2 Reactor",
-          "url": "https://www.japantimes.co.jp/news/2026/08/18/japan/tepco-fuel-removal/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 1.0,
-          "nuclear_kw_score": 0.9,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "safety",
-            "fuel"
-          ],
-          "primary_section": "safety"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "safety"
-    },
-    {
-      "story_id": "story-8df382485efb4ba6",
-      "title": "Japanese Nuclear Power Plant Death Threatens to Delay Restart",
-      "representative_url": "https://www.japantimes.co.jp/news/2026/08/19/japan/hokkaido-nuclear-plant-death/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "81f0d09ed95592a7",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Japanese Nuclear Power Plant Death Threatens to Delay Restart",
-          "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/hokkaido-nuclear-plant-death/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
     },
     {
       "story_id": "story-ede95f29343b223b",
       "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
       "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "kairos"
       ],
@@ -2620,8 +349,8 @@
           "source": "Kairos Power",
           "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
           "url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -2641,7 +370,7 @@
       "story_id": "story-3f65633957e0454a",
       "title": "How Kairos Power is Shaking Things Up with Seismic Isolation Systems",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-shaking-things-up-with-seismic-isolation-systems",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "kairos"
       ],
@@ -2653,8 +382,8 @@
           "source": "Kairos Power",
           "title": "How Kairos Power is Shaking Things Up with Seismic Isolation Systems",
           "url": "https://www.kairospower.com/updates/how-kairos-power-is-shaking-things-up-with-seismic-isolation-systems",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -2674,7 +403,7 @@
       "story_id": "story-393a12f15e557211",
       "title": "Kairos Power Announces New Collaboration to Advance Nuclear Manufacturing, Construction, and Wo…",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-announces-new-collaboration-to-advance-nuclear-manufacturing-construction-and-workforce-development-in-east-tennessee",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "kairos"
       ],
@@ -2686,8 +415,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Announces New Collaboration to Advance Nuclear Manufacturing, Construction, and Wo…",
           "url": "https://www.kairospower.com/updates/kairos-power-announces-new-collaboration-to-advance-nuclear-manufacturing-construction-and-workforce-development-in-east-tennessee",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -2707,7 +436,7 @@
       "story_id": "story-5e7a7765e34fe669",
       "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "kairos"
       ],
@@ -2719,8 +448,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
           "url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.6,
           "nuclear_is_related": true,
@@ -2742,7 +471,7 @@
       "story_id": "story-4766d8bafac02f7f",
       "title": "Kairos Power Earns ISO 9001:2015 Certification for Alameda Manufacturing Facility",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-earns-iso-9001-2015-certification-for-alameda-manufacturing-facility",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "kairos"
       ],
@@ -2754,8 +483,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Earns ISO 9001:2015 Certification for Alameda Manufacturing Facility",
           "url": "https://www.kairospower.com/updates/kairos-power-earns-iso-9001-2015-certification-for-alameda-manufacturing-facility",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -2775,7 +504,7 @@
       "story_id": "story-1dd2e1dac03fc370",
       "title": "Kairos Power Names Dr. Mike McGuire as Vice President, Operations & Site Delivery",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-names-dr-mike-mcguire-as-vice-president-operations-site-delivery",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "kairos"
       ],
@@ -2787,8 +516,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Names Dr. Mike McGuire as Vice President, Operations & Site Delivery",
           "url": "https://www.kairospower.com/updates/kairos-power-names-dr-mike-mcguire-as-vice-president-operations-site-delivery",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -2808,7 +537,7 @@
       "story_id": "story-5b0d7dcbccbf406a",
       "title": "Kairos Power Ramps Up Pebble Production with New and Improved Automation Process",
       "representative_url": "https://www.kairospower.com/updates/kairos-power-ramps-up-pebble-production-with-new-and-improved-automation-process",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "kairos"
       ],
@@ -2820,8 +549,8 @@
           "source": "Kairos Power",
           "title": "Kairos Power Ramps Up Pebble Production with New and Improved Automation Process",
           "url": "https://www.kairospower.com/updates/kairos-power-ramps-up-pebble-production-with-new-and-improved-automation-process",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.525,
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
@@ -2841,7 +570,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
       "sources": [
         "kairos"
       ],
@@ -2853,8 +582,8 @@
           "source": "Kairos Power",
           "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
           "url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "published_at": "2026-08-25T18:52:22.126832+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 1.0,
           "nuclear_kw_score": 0.9,
           "nuclear_is_related": true,
@@ -2872,62 +601,30 @@
       "primary_section": "safety"
     },
     {
-      "story_id": "story-dcf30bb991c2cd83",
-      "title": "Is Texas Entering a Nuclear Power Renaissance?",
-      "representative_url": "https://www.khou.com/video/news/local/is-texas-entering-a-nuclear-power-renaissance/285-31f1edbb-e4dc-42d5-98f2-8cdbbe1884ed",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
+      "story_id": "story-e74dabd5a6d9f629",
+      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vy7apt/pacific_fusions_next_fusion_machine_could_clear_a/",
+      "first_published_at": "2026-08-25T18:00:40+00:00",
       "sources": [
-        "nucleartownhall"
+        "reddit_nuclear"
       ],
       "items": [
         {
-          "id": "77e8cc5b85389ee6",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Is Texas Entering a Nuclear Power Renaissance?",
-          "url": "https://www.khou.com/video/news/local/is-texas-entering-a-nuclear-power-renaissance/285-31f1edbb-e4dc-42d5-98f2-8cdbbe1884ed",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
+          "id": "0576dafcb0f453c9",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclear",
+          "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
+          "url": "https://www.reddit.com/r/nuclear/comments/1vy7apt/pacific_fusions_next_fusion_machine_could_clear_a/",
+          "published_at": "2026-08-25T18:00:40+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-9ac73b12739a5541",
-      "title": "New England Governors Plan Regional Summit to Explore Advanced Nuclear and Fusion Energy",
-      "representative_url": "https://www.lowellsun.com/2026/08/21/healey-plans-nuclear-energy-summit/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "c35f5dea749e4d12",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "New England Governors Plan Regional Summit to Explore Advanced Nuclear and Fusion Energy",
-          "url": "https://www.lowellsun.com/2026/08/21/healey-plans-nuclear-energy-summit/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.7875,
-          "nuclear_kw_score": 0.7,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
           "sections": [
             "tech"
           ],
@@ -2936,866 +633,6 @@
       ],
       "duplicate_count": 1,
       "primary_section": "tech"
-    },
-    {
-      "story_id": "story-9a83f1daf0d76107",
-      "title": "Niger Awards Former Orano-Operated Uranium Mine to State Company",
-      "representative_url": "https://www.mining.com/web/niger-awards-former-orano-operated-uranium-mine-to-state-company/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "508fadc3a0b4a2a2",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Niger Awards Former Orano-Operated Uranium Mine to State Company",
-          "url": "https://www.mining.com/web/niger-awards-former-orano-operated-uranium-mine-to-state-company/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-a13ce57743b9548d",
-      "title": "JIHONG CHEN & ZHENG WAN, NATURE: Plans for Nuclear-Powered Merchant Ships Must Confront Risks",
-      "representative_url": "https://www.nature.com/articles/d41586-026-02388-6",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "875f011ae3dbe6a7",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "JIHONG CHEN & ZHENG WAN, NATURE: Plans for Nuclear-Powered Merchant Ships Must Confront Risks",
-          "url": "https://www.nature.com/articles/d41586-026-02388-6",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-18c1511f12ded49b",
-      "title": "New UK ‘Immersive Facility’ Helps Nuclear Specialists Plan Decommissioning Projects",
-      "representative_url": "https://www.nucnet.org/news/new-uk-immersive-facility-helps-nuclear-specialists-plan-decommissioning-projects-8-4-2026",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "70f5de027a665c32",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "New UK ‘Immersive Facility’ Helps Nuclear Specialists Plan Decommissioning Projects",
-          "url": "https://www.nucnet.org/news/new-uk-immersive-facility-helps-nuclear-specialists-plan-decommissioning-projects-8-4-2026",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "newbuild"
-          ],
-          "primary_section": "newbuild"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "newbuild"
-    },
-    {
-      "story_id": "story-b83ba74ed67dabc6",
-      "title": "DANIEL PONEMAN, NEW YORK TIMES: Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
-      "representative_url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "b44658cb52f05e42",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "DANIEL PONEMAN, NEW YORK TIMES: Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
-          "url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-ad6ebbcc7fac2017",
-      "title": "NEW YORK TIMES – NUCLEAR ENERGY",
-      "representative_url": "https://www.nytimes.com/topic/subject/nuclear-energy?searchResultPosition=0",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "3a3ae106a710c5ec",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NEW YORK TIMES – NUCLEAR ENERGY",
-          "url": "https://www.nytimes.com/topic/subject/nuclear-energy?searchResultPosition=0",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-4f72558ca4606dee",
-      "title": "Regulators Approve Medical Isotope Hot Cell Facility at Bruce Power",
-      "representative_url": "https://www.owensoundsuntimes.com/news/local-news/regulators-approve-medical-isotope-hot-cell-facility-at-bruce-power",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "254e022795de1a50",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Regulators Approve Medical Isotope Hot Cell Facility at Bruce Power",
-          "url": "https://www.owensoundsuntimes.com/news/local-news/regulators-approve-medical-isotope-hot-cell-facility-at-bruce-power",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-a67293a0fa7d6326",
-      "title": "PNNL Researchers Explore Recycling Used Nuclear Fuel to Enhance Energy Security",
-      "representative_url": "https://www.pnnl.gov/news-media/new-life-used-nuclear-fuel",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "252a6e2a05abebe4",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "PNNL Researchers Explore Recycling Used Nuclear Fuel to Enhance Energy Security",
-          "url": "https://www.pnnl.gov/news-media/new-life-used-nuclear-fuel",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-952d0caaf678391d",
-      "title": "‘Deliberate Negligence’: Russian Nuclear Power Company with EU Operations Accused of Violating …",
-      "representative_url": "https://www.politico.eu/article/rosatom-hungary-nuclear-energy-egypt-russia-el-dabaa-paks-ii-russia-safety-standards-violations/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "f65da17e4737b0ee",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "‘Deliberate Negligence’: Russian Nuclear Power Company with EU Operations Accused of Violating …",
-          "url": "https://www.politico.eu/article/rosatom-hungary-nuclear-energy-egypt-russia-el-dabaa-paks-ii-russia-safety-standards-violations/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "newbuild"
-          ],
-          "primary_section": "newbuild"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "newbuild"
-    },
-    {
-      "story_id": "story-24c7b6288fcb8d6e",
-      "title": "Ukraine Urges EU Sanctions on Rosatom Over Allegations of Nuclear Safety Violations",
-      "representative_url": "https://www.politico.eu/article/ukraine-eu-sanctions-rosatom-nuclear-safety-violations-andrii-sybiha/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "5567ec6a5042c69c",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Ukraine Urges EU Sanctions on Rosatom Over Allegations of Nuclear Safety Violations",
-          "url": "https://www.politico.eu/article/ukraine-eu-sanctions-rosatom-nuclear-safety-violations-andrii-sybiha/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "policy"
-          ],
-          "primary_section": "policy"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "policy"
-    },
-    {
-      "story_id": "story-42c9b89b2a2b2a3e",
-      "title": "EDWARD MCGINNIS, POWER MAG: Don’t Ask States to Become Nuclear Waste Dumps. Make Them Partners …",
-      "representative_url": "https://www.powermag.com/dont-ask-states-to-become-nuclear-waste-dumps-make-them-partners-in-solving-the-problem/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "ac300ef47840279a",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "EDWARD MCGINNIS, POWER MAG: Don’t Ask States to Become Nuclear Waste Dumps. Make Them Partners …",
-          "url": "https://www.powermag.com/dont-ask-states-to-become-nuclear-waste-dumps-make-them-partners-in-solving-the-problem/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-a7e3de5568b9585d",
-      "title": "BRET DUBLINSKE, POWER MAG: Will Siting Keep SMRs From Reaching Critical Mass?",
-      "representative_url": "https://www.powermag.com/will-siting-keep-smrs-from-reaching-critical-mass/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "7911449cf0bbb7d6",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "BRET DUBLINSKE, POWER MAG: Will Siting Keep SMRs From Reaching Critical Mass?",
-          "url": "https://www.powermag.com/will-siting-keep-smrs-from-reaching-critical-mass/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "tech"
-          ],
-          "primary_section": "tech"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "tech"
-    },
-    {
-      "story_id": "story-11ec2fd86f4b7766",
-      "title": "Port of Long Beach Could Bring New Nuclear Power to California for First Time in 50 Years",
-      "representative_url": "https://www.pressenterprise.com/2026/08/17/port-of-long-beach-could-bring-nuclear-power-to-california-for-first-time-in-50-years/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "b92038326eed7c70",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Port of Long Beach Could Bring New Nuclear Power to California for First Time in 50 Years",
-          "url": "https://www.pressenterprise.com/2026/08/17/port-of-long-beach-could-bring-nuclear-power-to-california-for-first-time-in-50-years/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-ca90271d3d8af25b",
-      "title": "Radiant Locks TRISO Fuel Supply Through Early 2030s",
-      "representative_url": "https://www.radiantnuclear.com/blog/triso-fuel-supply/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "88b2e7d5b755fbc9",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Radiant Locks TRISO Fuel Supply Through Early 2030s",
-          "url": "https://www.radiantnuclear.com/blog/triso-fuel-supply/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "fuel"
-          ],
-          "primary_section": "fuel"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "fuel"
-    },
-    {
-      "story_id": "story-ce829bfe1271909c",
-      "title": "India’s Draft SHANTI Rules Pave the Way for Private Nuclear Investment",
-      "representative_url": "https://www.rediff.com/news/report/shanti-rules-boost-nuclear-investment/20260824.htm",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "797ef00647be64c2",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "India’s Draft SHANTI Rules Pave the Way for Private Nuclear Investment",
-          "url": "https://www.rediff.com/news/report/shanti-rules-boost-nuclear-investment/20260824.htm",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-5f5c2a7452a5e88d",
-      "title": "Eni Eyes Europe Fusion Plant by Early 2040s",
-      "representative_url": "https://www.reuters.com/business/energy/eni-eyes-europe-fusion-plant-by-early-2040s-ft-reports-2026-08-23/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "eecaa14d48aa05dd",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Eni Eyes Europe Fusion Plant by Early 2040s",
-          "url": "https://www.reuters.com/business/energy/eni-eyes-europe-fusion-plant-by-early-2040s-ft-reports-2026-08-23/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "tech"
-          ],
-          "primary_section": "tech"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "tech"
-    },
-    {
-      "story_id": "story-a69aeae083e41af4",
-      "title": "Hungary Paks Nuclear Plant Could Operate at Full Capacity by Wednesday, PM Magyar Says",
-      "representative_url": "https://www.reuters.com/business/energy/hungary-paks-nuclear-plant-could-operate-full-capacity-by-wednesday-pm-magyar-2026-08-23/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "ff5178923dc8992a",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Hungary Paks Nuclear Plant Could Operate at Full Capacity by Wednesday, PM Magyar Says",
-          "url": "https://www.reuters.com/business/energy/hungary-paks-nuclear-plant-could-operate-full-capacity-by-wednesday-pm-magyar-2026-08-23/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-e5286994006368d8",
-      "title": "Hungary’s Nuclear Plant Avoids Shutdown as Water Level Expected to Stay High Enough",
-      "representative_url": "https://www.reuters.com/business/energy/hungarys-nuclear-plant-avoids-shutdown-water-level-expected-stay-high-enough-2026-08-19/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "e1c83936daea1a3b",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Hungary’s Nuclear Plant Avoids Shutdown as Water Level Expected to Stay High Enough",
-          "url": "https://www.reuters.com/business/energy/hungarys-nuclear-plant-avoids-shutdown-water-level-expected-stay-high-enough-2026-08-19/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "safety"
-          ],
-          "primary_section": "safety"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "safety"
-    },
-    {
-      "story_id": "story-426ecfacee835a22",
-      "title": "Solar Gives Hungary’s Power System Vital Cover From Nuclear Fallout",
-      "representative_url": "https://www.reuters.com/commentary/reuters-open-interest/solar-gives-hungarys-power-system-vital-cover-nuclear-fallout-2026-08-21/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "c6a790beb19013e6",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Solar Gives Hungary’s Power System Vital Cover From Nuclear Fallout",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/solar-gives-hungarys-power-system-vital-cover-nuclear-fallout-2026-08-21/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-e868b5e3c29aa0ad",
-      "title": "U.S. Nuclear Industry to Make Comprehensive Submissions to India on SHANTI Rules",
-      "representative_url": "https://www.thehindu.com/news/national/us-nuclear-industry-to-make-comprehensive-submissions-to-india-on-shanti-rules/article71372470.ece",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "810a70f65fe4663c",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "U.S. Nuclear Industry to Make Comprehensive Submissions to India on SHANTI Rules",
-          "url": "https://www.thehindu.com/news/national/us-nuclear-industry-to-make-comprehensive-submissions-to-india-on-shanti-rules/article71372470.ece",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-4029ed2159c5e350",
-      "title": "ARDEN ROWELL & JUD MATHEWS, THE REGULATORY REVIEW: The End of NRC Independence and the Future o…",
-      "representative_url": "https://www.theregreview.org/2026/07/27/rowell-mathews-the-end-of-nrc-independence-and-the-future-of-nuclear-safety/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "e368d79de6e5f10e",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "ARDEN ROWELL & JUD MATHEWS, THE REGULATORY REVIEW: The End of NRC Independence and the Future o…",
-          "url": "https://www.theregreview.org/2026/07/27/rowell-mathews-the-end-of-nrc-independence-and-the-future-of-nuclear-safety/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "policy"
-          ],
-          "primary_section": "policy"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "policy"
-    },
-    {
-      "story_id": "story-d3f2bbb3adf8a525",
-      "title": "U.S. NUCLEAR INDUSTRY COUNCIL",
-      "representative_url": "https://www.usnic.org/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "ee043d498e865c74",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "U.S. NUCLEAR INDUSTRY COUNCIL",
-          "url": "https://www.usnic.org/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-56a51def316a6eac",
-      "title": "Commonwealth Fusion Systems Aims to Complete Demonstration Reactor with $1B Funding Round",
-      "representative_url": "https://www.utilitydive.com/news/what-a-billion-dollar-funding-means-for-commonwealth-fusion-systems-and-its/828515/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "2e03a27664118d06",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Commonwealth Fusion Systems Aims to Complete Demonstration Reactor with $1B Funding Round",
-          "url": "https://www.utilitydive.com/news/what-a-billion-dollar-funding-means-for-commonwealth-fusion-systems-and-its/828515/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "tech"
-          ],
-          "primary_section": "tech"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "tech"
-    },
-    {
-      "story_id": "story-abfc618844902c3a",
-      "title": "Could We See An Offshore Nuclear Power Plant?",
-      "representative_url": "https://www.washingtonexaminer.com/daily-on-energy/4693453/daily-on-energy-could-we-see-offshore-nuclear-power-plant/#google_vignette",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "2f61c6b8f70bc772",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Could We See An Offshore Nuclear Power Plant?",
-          "url": "https://www.washingtonexaminer.com/daily-on-energy/4693453/daily-on-energy-could-we-see-offshore-nuclear-power-plant/#google_vignette",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-a8e47a401da87cd2",
-      "title": "WASHINGTON EXAMINER: A Saudi Nuclear Deal Worth Making",
-      "representative_url": "https://www.washingtonexaminer.com/opinion/4662442/saudi-nuclear-deal-worth-making/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "80dc1d3a3c16286c",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "WASHINGTON EXAMINER: A Saudi Nuclear Deal Worth Making",
-          "url": "https://www.washingtonexaminer.com/opinion/4662442/saudi-nuclear-deal-worth-making/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
-    },
-    {
-      "story_id": "story-93bd6a8e70de97d5",
-      "title": "Construction Begins at Rook I Uranium Mine in Saskatchewan",
-      "representative_url": "https://www.world-nuclear-news.org/articles/construction-starts-at-saskatchewan-uranium-mine",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "242ef6403f9132a0",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Construction Begins at Rook I Uranium Mine in Saskatchewan",
-          "url": "https://www.world-nuclear-news.org/articles/construction-starts-at-saskatchewan-uranium-mine",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "newbuild",
-            "fuel",
-            "community"
-          ],
-          "primary_section": "newbuild"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "newbuild"
-    },
-    {
-      "story_id": "story-9275075b98eb2b62",
-      "title": "Schumer Urges Army to Place Nuclear Microreactor at Fort Drum",
-      "representative_url": "https://www.wwnytv.com/2026/08/18/schumer-urges-army-place-nuclear-microreactor-fort-drum/",
-      "first_published_at": "2026-08-25T17:58:48.226383+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "items": [
-        {
-          "id": "d7385bd0d9d090d4",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Schumer Urges Army to Place Nuclear Microreactor at Fort Drum",
-          "url": "https://www.wwnytv.com/2026/08/18/schumer-urges-army-place-nuclear-microreactor-fort-drum/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.675,
-          "nuclear_kw_score": 0.6,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
     },
     {
       "story_id": "story-4d75aef17a14ee81",
@@ -3814,10 +651,78 @@
           "title": "Interview participants wanted! AI and nuclear power plant risk management.",
           "url": "https://www.reddit.com/r/nuclear/comments/1vy6pjw/interview_participants_wanted_ai_and_nuclear/",
           "published_at": "2026-08-25T17:39:50+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.25,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.4,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
+      "story_id": "story-950cdaf7c0cfbb78",
+      "title": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dump…",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vy4ub5/environmental_violence_inside_the_fight_to_save/",
+      "first_published_at": "2026-08-25T16:33:33+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "844fbec8608c0953",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclearpower",
+          "title": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dump…",
+          "url": "https://www.reddit.com/r/NuclearPower/comments/1vy4ub5/environmental_violence_inside_the_fight_to_save/",
+          "published_at": "2026-08-25T16:33:33+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclearpower",
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
+      "story_id": "story-4907fa7331713ac7",
+      "title": "Struggling to land a graduate nuclear engineering job",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vy3u4w/struggling_to_land_a_graduate_nuclear_engineering/",
+      "first_published_at": "2026-08-25T15:57:43+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "e47adfb0df33997f",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclearpower",
+          "title": "Struggling to land a graduate nuclear engineering job",
+          "url": "https://www.reddit.com/r/NuclearPower/comments/1vy3u4w/struggling_to_land_a_graduate_nuclear_engineering/",
+          "published_at": "2026-08-25T15:57:43+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclearpower",
+          "nuclear_kw_score": 0.3,
           "nuclear_is_related": true,
           "source_tier": "community",
           "source_tier_rank": 5,
@@ -3848,7 +753,7 @@
           "title": "Blykalla submits second SMR plant application",
           "url": "https://www.world-nuclear-news.org/articles/blykalla-submits-second-smr-plant-application",
           "published_at": "2026-08-25T15:27:22+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "Sweden's Blykalla has submitted a proposal to the Swedish government for a nuclear power plant at Untra in the Tierp municipality which would feature up to eight lead-cooled small modular reactors with a total capacity of up to 440 MWe.\n&nbsp;",
           "feed_title": "https://www.world-nuclear-news.org",
           "nuclear_relevance": 1.0,
@@ -3883,7 +788,7 @@
           "title": "GAO report analyzes nuclear fuel efforts in national security and commercial sectors",
           "url": "https://www.ans.org/news/2026-08-25/article-8336/gao-report-analyzes-nuclear-fuel-efforts-in-national-security-and-commercial-sectors/",
           "published_at": "2026-08-25T15:25:44+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "The Government Accountability Office has released a report to Congress titled “Nuclear Fuel: Actions Needed to Enhance Cost Reporting and Economic Analysis for Federal Uranium Supply Efforts.” The report describes National Nuclear Security Administration estimates of enriched uranium supplies and de",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.9562,
@@ -3918,7 +823,7 @@
           "title": "Advanced nuclear power could bring 6 GW to data centers by 2040",
           "url": "https://www.reddit.com/r/nuclear/comments/1vy1pgb/advanced_nuclear_power_could_bring_6_gw_to_data/",
           "published_at": "2026-08-25T14:39:02+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -3952,7 +857,7 @@
           "title": "Core Power teams up with US Administration on maritime nuclear",
           "url": "https://www.world-nuclear-news.org/articles/core-power-teams-up-with-us-administration-on-maritime-nuclear",
           "published_at": "2026-08-25T13:29:51+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "Core Power said it is targeting first construction &quot;from 2028&quot; under a newly announced federal-private cooperation framework to accelerate the commercial, industrial and regulatory pathway for a future fleet of US-flagged nuclear-powered merchant ships.\n&nbsp;",
           "feed_title": "https://www.world-nuclear-news.org",
           "nuclear_relevance": 0.6375,
@@ -3988,7 +893,7 @@
           "title": "Criticality testing milestone for Westinghouse's eVinci reactor",
           "url": "https://www.world-nuclear-news.org/articles/criticality-testing-milestone-for-westinghouses-evinci-microreactor",
           "published_at": "2026-08-25T13:26:57+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "Zero-power criticality testing for the eVinci microreactor has been successfully completed, Westinghouse Electric Company has announced.\n&nbsp;",
           "feed_title": "https://www.world-nuclear-news.org",
           "nuclear_relevance": 1.0,
@@ -4023,7 +928,7 @@
           "title": "Inertia and LLNL accelerate fusion fuel manufacturing",
           "url": "https://www.ans.org/news/2026-08-25/article-8335/inertia-and-llnl-accelerate-fusion-fuel-manufacturing/",
           "published_at": "2026-08-25T12:46:10+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "Cut-away schematic and example radiograph of the fusion fuel capsule, showing the outer spherical carbon shell and the D-T fuel “ice” layer with a gas core. For Inertia, this capsule has a diameter of about 4–5 mm. Formation of a sufficiently smooth D-T ice layer is crucial for ignition. (Image: Ine",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.6375,
@@ -4059,7 +964,7 @@
           "title": "Myanmar SMR site work 'could start in 2027'",
           "url": "https://www.world-nuclear-news.org/articles/myanmar-smr-site-work-could-start-in-2027",
           "published_at": "2026-08-25T11:38:56+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "Russia's state nuclear corporation Rosatom expects to sign a contract for initial engineering surveys in Myanmar by the end of the year, with work on site beginning in 2027.\n&nbsp;",
           "feed_title": "https://www.world-nuclear-news.org",
           "nuclear_relevance": 0.9562,
@@ -4078,12 +983,13 @@
       "primary_section": "tech"
     },
     {
-      "story_id": "story-93d7759789d14fe6",
+      "story_id": "story-d87f743bab65c374",
       "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
       "representative_url": "https://www.powermag.com/nric-adds-13-projects-to-nuclear-energy-launch-pad-expanding-advanced-reactor-and-fuel-cycle-pipeline/",
       "first_published_at": "2026-08-25T11:09:05+00:00",
       "sources": [
-        "powermag"
+        "powermag",
+        "reddit_nuclear"
       ],
       "items": [
         {
@@ -4094,7 +1000,7 @@
           "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
           "url": "https://www.powermag.com/nric-adds-13-projects-to-nuclear-energy-launch-pad-expanding-advanced-reactor-and-fuel-cycle-pipeline/",
           "published_at": "2026-08-25T11:09:05+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "The Department of Energy&#8217;s (DOE&#8217;s) National Reactor Innovation Center (NRIC) has selected 13 new projects across 12 companies for its Nuclear Energy Launch Pad initiative in a significant expansion of the DOE-authorization pathway that channels advanced reactor and fuel-cycle developers ",
           "feed_title": "https://www.powermag.com",
           "nuclear_relevance": 0.75,
@@ -4108,9 +1014,31 @@
             "tech"
           ],
           "primary_section": "fuel"
+        },
+        {
+          "id": "65d7c8e55a71c6a3",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclearpower",
+          "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
+          "url": "https://www.reddit.com/r/NuclearPower/comments/1vy76rm/nric_adds_13_projects_to_nuclear_energy_launch/",
+          "published_at": "2026-08-25T17:56:55+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
+          "nuclear_relevance": 0.625,
+          "subreddit": "nuclearpower",
+          "nuclear_kw_score": 1.0,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "fuel",
+            "tech"
+          ],
+          "primary_section": "fuel"
         }
       ],
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "primary_section": "fuel"
     },
     {
@@ -4130,7 +1058,7 @@
           "title": "Xudabao control room simulator commissioned",
           "url": "https://www.world-nuclear-news.org/articles/xudabao-control-room-simulator-commissioned",
           "published_at": "2026-08-25T10:57:03+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "The full-scope simulator for units 1 and 2 of the Xudabao nuclear power plant in China's Liaoning province has entered operation and will be used for training operators of the two CAP1000 reactors.\n&nbsp;",
           "feed_title": "https://www.world-nuclear-news.org",
           "nuclear_relevance": 1.0,
@@ -4149,6 +1077,40 @@
       "primary_section": "hot"
     },
     {
+      "story_id": "story-bac283aa1108f058",
+      "title": "My reactor design",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vxv8l4/my_reactor_design/",
+      "first_published_at": "2026-08-25T09:48:15+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "0cce23366530c953",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclearpower",
+          "title": "My reactor design",
+          "url": "https://www.reddit.com/r/NuclearPower/comments/1vxv8l4/my_reactor_design/",
+          "published_at": "2026-08-25T09:48:15+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
+          "nuclear_relevance": 0.1875,
+          "subreddit": "nuclearpower",
+          "nuclear_kw_score": 0.3,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "tech"
+          ],
+          "primary_section": "tech"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "tech"
+    },
+    {
       "story_id": "story-814b95f7a7f046c0",
       "title": "IAEA-led Study Finds 5-star Rating System Can Help Make CT Imaging Safer",
       "representative_url": "http://www.iaea.org/newscenter/news/iaea-led-study-finds-5-star-rating-system-can-help-make-ct-imaging-safer",
@@ -4165,7 +1127,7 @@
           "title": "IAEA-led Study Finds 5-star Rating System Can Help Make CT Imaging Safer",
           "url": "http://www.iaea.org/newscenter/news/iaea-led-study-finds-5-star-rating-system-can-help-make-ct-imaging-safer",
           "published_at": "2026-08-25T07:12:15+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "",
           "feed_title": "https://www.iaea.org/newscenter",
           "nuclear_relevance": 0.75,
@@ -4200,7 +1162,7 @@
           "title": "Theory of inverse beta decay for reactor antineutrinos",
           "url": "https://arxiv.org/abs/2512.07956",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2512.07956v2 Announce Type: replace-cross \nAbstract: Inverse beta decay (IBD), $\\overline{\\nu}_e p \\to e^+ n \\left( \\gamma \\right)$, is the main detection channel for reactor antineutrinos in water- and hydrocarbon-based detectors. As reactor antineutrino experiments now target sub-percent-lev",
           "feed_title": "https://arxiv.org/list/nucl-ex/recent",
           "nuclear_relevance": 0.4875,
@@ -4235,7 +1197,7 @@
           "title": "Radiative corrections to inverse beta decay: a precision analysis for reactor neutrinos",
           "url": "https://arxiv.org/abs/2512.07957",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2512.07957v2 Announce Type: replace-cross \nAbstract: We present a complete calculation of radiative corrections to the inverse beta decay reaction, $\\overline{\\nu}_e + p \\rightarrow e^+ + n$, at reactor antineutrino energies using heavy-baryon chiral perturbation theory. Our analysis consisten",
           "feed_title": "https://arxiv.org/list/nucl-ex/recent",
           "nuclear_relevance": 0.4875,
@@ -4270,7 +1232,7 @@
           "title": "Optical characterization and ionizing-radiation response of the BCF-20XL scintillating-waveleng…",
           "url": "https://arxiv.org/abs/2608.21397",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2608.21397v1 Announce Type: cross \nAbstract: We report optical characterization and ionizing-radiation measurements of the scintillating-wavelength-shifting (Sci-WLS) fiber BCF-20XL from Luxium Solutions. Attenuation lengths were obtained from transmitted emission spectra using a 3.0 m fiber w",
           "feed_title": "https://arxiv.org/list/nucl-ex/recent",
           "nuclear_relevance": 0.4875,
@@ -4305,7 +1267,7 @@
           "title": "Photon production from gluon splitting and fusion induced by a magnetic field of arbitrary stre…",
           "url": "https://arxiv.org/abs/2608.21600",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2608.21600v1 Announce Type: cross \nAbstract: We compute the yield and elliptic flow coefficient for photons produced during the pre-equilibrium stage of semi-central relativistic heavy-ion collisions from the gluon fusion and splitting processes induced by the presence of a magnetic field. The",
           "feed_title": "https://arxiv.org/list/nucl-ex/recent",
           "nuclear_relevance": 0.4875,
@@ -4340,7 +1302,7 @@
           "title": "Precise Modeling of a Complex Solenoidal Magnetic Field Using a Combination of Analytic Functio…",
           "url": "https://arxiv.org/abs/2608.21658",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2608.21658v1 Announce Type: new \nAbstract: We demonstrate an iterative approach to modeling a sparsely measured magnetic field in a large-bore solenoid. This approach uses a hybrid of traditional and machine learning techniques. The traditional technique is a linear least-squares fit using a s",
           "feed_title": "https://arxiv.org/list/physics.ins-det/recent",
           "nuclear_relevance": 0.4875,
@@ -4375,7 +1337,7 @@
           "title": "How Architecture and Training Affect TPC Representations Across Experiments",
           "url": "https://arxiv.org/abs/2608.21756",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2608.21756v1 Announce Type: cross \nAbstract: Deep-learning efforts have increasingly shifted toward foundation model approaches. In experimental physics, this allows models and learned representations to be reused beyond the experiments in which they were developed. This work evaluates the reu",
           "feed_title": "https://arxiv.org/list/nucl-ex/recent",
           "nuclear_relevance": 0.4875,
@@ -4410,7 +1372,7 @@
           "title": "Isoscalar Giant Resonances in the even-A Pd Isotopes",
           "url": "https://arxiv.org/abs/2608.22109",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2608.22109v1 Announce Type: new \nAbstract: Studies of the isoscalar giant monopole resonance (ISGMR) across the chart of nuclides provide insight into the incompressibility of nuclear matter near saturation density, K(infinity). Such studies had revealed a discrepancy between theoretical appro",
           "feed_title": "https://arxiv.org/list/nucl-ex/recent",
           "nuclear_relevance": 0.975,
@@ -4445,7 +1407,7 @@
           "title": "Nuclear excitation by radiative electron-ion recombination",
           "url": "https://arxiv.org/abs/2608.22803",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2608.22803v1 Announce Type: new \nAbstract: A nuclear excitation mechanism, nuclear excitation by radiative electron-ion recombination (NERER), is put forward theoretically here. NERER is a third-order process that proceeds via a virtual electronic state: an electron recombines into an atomic v",
           "feed_title": "https://arxiv.org/list/nucl-th/recent",
           "nuclear_relevance": 0.4875,
@@ -4480,7 +1442,7 @@
           "title": "Microscopic study of quasifission dynamics in hot fusion reactions for synthesizing superheavy …",
           "url": "https://arxiv.org/abs/2608.22947",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2608.22947v1 Announce Type: new \nAbstract: In the synthesis of superheavy element (SHE) via heavy-ion fusion reactions, quasifission is one of the major factors hindering superheavy nuclei (SHN) formation and the mechanism behind this process is intricate. We investigate dynamics of quasifissi",
           "feed_title": "https://arxiv.org/list/nucl-th/recent",
           "nuclear_relevance": 0.975,
@@ -4516,7 +1478,7 @@
           "title": "Post-diffusion cooling effects on Hall-derived active lithium donor profiles in high-purity ger…",
           "url": "https://arxiv.org/abs/2608.23511",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2608.23511v1 Announce Type: new \nAbstract: Lithium (Li) diffusion is commonly used to form $n^{+}$ contacts in high-purity germanium (HPGe) detectors, but the final electrically active donor profile can be sensitive to the post-diffusion thermal history. Li was introduced into HPGe coupons usi",
           "feed_title": "https://arxiv.org/list/physics.ins-det/recent",
           "nuclear_relevance": 0.4875,
@@ -4551,7 +1513,7 @@
           "title": "Core Breaking at Low Spin in $^{68}$Zn from Nuclear Resonance Fluorescence",
           "url": "https://arxiv.org/abs/2608.23514",
           "published_at": "2026-08-25T04:00:00+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "arXiv:2608.23514v1 Announce Type: new \nAbstract: Low-spin excited states in $^{68}$Zn have been studied at the High Intensity Gamma-Ray Source (HI$\\gamma$S) from the ground state up to the particle emission threshold using the nuclear resonance fluorescence technique (NRF) and the newly developed Cl",
           "feed_title": "https://arxiv.org/list/nucl-ex/recent",
           "nuclear_relevance": 0.4875,
@@ -4586,7 +1548,7 @@
           "title": "NRC licensing pathways explained",
           "url": "https://www.reddit.com/r/nuclear/comments/1vxkdzr/nrc_licensing_pathways_explained/",
           "published_at": "2026-08-25T00:21:35+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -4604,35 +1566,14 @@
       "primary_section": "policy"
     },
     {
-      "story_id": "story-9188bba0124151ae",
-      "title": "NRIC Selects New Nuclear Energy Launch Pad Participants to Boost Nuclear Energy",
-      "representative_url": "https://inl.gov/news-release/nric-selects-new-nuclear-energy-launch-pad-participants-to-boost-nuclear-energy/",
+      "story_id": "story-1a98ffc9aa62f07e",
+      "title": "NRIC selects new Nuclear Energy Launch Pad participants to boost nuclear energy",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vxj5cn/nric_selects_new_nuclear_energy_launch_pad/",
       "first_published_at": "2026-08-24T23:29:29+00:00",
       "sources": [
-        "nucleartownhall",
         "reddit_nuclear"
       ],
       "items": [
-        {
-          "id": "40bc2802bf782202",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NRIC Selects New Nuclear Energy Launch Pad Participants to Boost Nuclear Energy",
-          "url": "https://inl.gov/news-release/nric-selects-new-nuclear-energy-launch-pad-participants-to-boost-nuclear-energy/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        },
         {
           "id": "f2bfc04b0f040748",
           "site_id": "reddit_nuclear",
@@ -4641,7 +1582,7 @@
           "title": "NRIC selects new Nuclear Energy Launch Pad participants to boost nuclear energy",
           "url": "https://www.reddit.com/r/nuclear/comments/1vxj5cn/nric_selects_new_nuclear_energy_launch_pad/",
           "published_at": "2026-08-24T23:29:29+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.25,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.4,
@@ -4655,7 +1596,7 @@
           "primary_section": "community"
         }
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "primary_section": "community"
     },
     {
@@ -4675,7 +1616,7 @@
           "title": "A closer look at the initial NLIC selections—Part 2",
           "url": "https://www.ans.org/news/2026-08-24/article-8334/a-closer-look-at-the-initial-nlic-selectionspart-2/",
           "published_at": "2026-08-24T20:13:54+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "In January, the Department of Energy announced its new Nuclear Lifecycle Innovation Campus (NLIC) program, inviting states via a request for information to express their interest in hosting a facility supporting work from the front to the back end of the nuclear fuel cycle.By April, 26 states had ex",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.7437,
@@ -4710,7 +1651,7 @@
           "title": "Global 2026 draws attention to nuclear fuel developments",
           "url": "https://www.ans.org/news/2026-08-24/article-8333/global-2026-draws-attention-to-nuclear-fuel-developments/",
           "published_at": "2026-08-24T17:21:56+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "Last week in Chicago, the American Nuclear Society’s Fuel Cycle &amp; Waste Management Division hosted Global 2026, where it was abundantly clear that there are many exciting fuel-related developments in the nuclear power industry. Developments announced last week run the gamut of the fuel cycle, in",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.9562,
@@ -4729,6 +1670,40 @@
       "primary_section": "fuel"
     },
     {
+      "story_id": "story-03b141d34415795b",
+      "title": "Masters in Nuclear energy/engineering",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vx83am/masters_in_nuclear_energyengineering/",
+      "first_published_at": "2026-08-24T16:43:17+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "cfe2e6129d67266b",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclearpower",
+          "title": "Masters in Nuclear energy/engineering",
+          "url": "https://www.reddit.com/r/NuclearPower/comments/1vx83am/masters_in_nuclear_energyengineering/",
+          "published_at": "2026-08-24T16:43:17+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
+          "nuclear_relevance": 0.25,
+          "subreddit": "nuclearpower",
+          "nuclear_kw_score": 0.4,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
       "story_id": "story-2c8b442899accc14",
       "title": "Russia builds 15 small 175-MWt marine nuclear reactors for icebreakers",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1vx7gdc/russia_builds_15_small_175mwt_marine_nuclear/",
@@ -4745,7 +1720,7 @@
           "title": "Russia builds 15 small 175-MWt marine nuclear reactors for icebreakers",
           "url": "https://www.reddit.com/r/nuclear/comments/1vx7gdc/russia_builds_15_small_175mwt_marine_nuclear/",
           "published_at": "2026-08-24T16:20:45+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.375,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.6,
@@ -4779,7 +1754,7 @@
           "title": "Corpus Christi seaport latest to partner with MARAD on maritime reactors",
           "url": "https://www.ans.org/news/2026-08-24/article-8332/corpus-christi-seaport-latest-to-partner-with-marad-on-maritime-reactors/",
           "published_at": "2026-08-24T15:23:28+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "The Department of Transportation’s Maritime Administration (MARAD) has signed its second memorandum of cooperation with a U.S. seaport to advance the development of small modular reactors to power commercial vessels, ports, and other maritime assets—this time, shifting its attention to the Gulf coas",
           "feed_title": "https://www.ans.org/news",
           "nuclear_relevance": 0.9562,
@@ -4814,7 +1789,7 @@
           "title": "An Indianapolis company wants to press uranium gas into ceramic pellets the size of a pencil er…",
           "url": "https://www.reddit.com/r/nuclear/comments/1vx2ie7/an_indianapolis_company_wants_to_press_uranium/",
           "published_at": "2026-08-24T13:14:53+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.1875,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.3,
@@ -4848,7 +1823,7 @@
           "title": "Reactors installed on nuclear-powered icebreaker <i>Leningrad</i>",
           "url": "https://www.world-nuclear-news.org/articles/reactors-installed-on-nuclear-powered-icebreaker-leningrad",
           "published_at": "2026-08-24T11:48:46+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "The two RITM-200 nuclear reactors have been installed on the nuclear-powered icebreaker Leningrad, which is under construction at the Baltic Shipyard.\n&nbsp;",
           "feed_title": "https://www.world-nuclear-news.org",
           "nuclear_relevance": 1.0,
@@ -4867,35 +1842,14 @@
       "primary_section": "newbuild"
     },
     {
-      "story_id": "story-01c6011c59ee1bb6",
-      "title": "The Reactor Isn’t the Bottleneck. The Forge Is.",
+      "story_id": "story-12264880a5c8ceba",
+      "title": "The Reactor Isn’t the Bottleneck. The Forge Is",
       "representative_url": "https://neutronbytes.com/2026/08/24/the-reactor-isnt-the-bottleneck-the-forge-is/",
       "first_published_at": "2026-08-24T10:59:37+00:00",
       "sources": [
-        "nucleartownhall",
         "neutronbytes"
       ],
       "items": [
-        {
-          "id": "13c5ab39de228e8b",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "The Reactor Isn’t the Bottleneck. The Forge Is.",
-          "url": "https://neutronbytes.com/2026/08/24/the-reactor-isnt-the-bottleneck-the-forge-is/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        },
         {
           "id": "bd1f211ade497311",
           "site_id": "neutronbytes",
@@ -4904,7 +1858,7 @@
           "title": "The Reactor Isn’t the Bottleneck. The Forge Is",
           "url": "https://neutronbytes.com/2026/08/24/the-reactor-isnt-the-bottleneck-the-forge-is/",
           "published_at": "2026-08-24T10:59:37+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "Guest Blog Post By:&#160; Elliot Marsh, NeutronRise&#160; Why the Delivery Timing of the Pressure Vessel Sets the Pace The reactor pressure vessel is the steel shell that holds the reactor core. Vendors want it forged as a small number of &#8230; Continue reading &#8594;",
           "feed_title": "https://neutronbytes.com",
           "nuclear_relevance": 0.7437,
@@ -4919,8 +1873,8 @@
           "primary_section": "hot"
         }
       ],
-      "duplicate_count": 2,
-      "primary_section": "community"
+      "duplicate_count": 1,
+      "primary_section": "hot"
     },
     {
       "story_id": "story-e6c583dea9f84404",
@@ -4939,7 +1893,7 @@
           "title": "Nuclear Energy Side Events at the 70th IAEA General Conference",
           "url": "http://www.iaea.org/newscenter/news/nuclear-energy-side-events-at-the-70th-iaea-general-conference",
           "published_at": "2026-08-24T10:54:13+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "The IAEA Department of Nuclear Energy will host its regular Operators' Forum and three side events during the 70th IAEA General Conference, to be held in Vienna from 14 to 18 September 2026. Programmes of the side events will be published on this page as they become available.&nbsp;",
           "feed_title": "https://www.iaea.org/newscenter",
           "nuclear_relevance": 1.0,
@@ -4975,7 +1929,7 @@
           "title": "JT-60SA Experiment Team and EUROfusion researchers advance preparations for the next campaign",
           "url": "https://euro-fusion.org/eurofusion-news/jt-60sa-experiment-team-and-eurofusion-researchers-advance-preparations-for-the-next-campaign/",
           "published_at": "2026-08-24T07:33:47+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "summary": "\n\nPreparations for the upcoming JT-60SA experimental campaign are gaining momentum. While technical teams are focused on completing the planned integrated commissioning on schedule, the Experiment Team is advancing the development of tools and software to maximize the scientific impact of the next o",
           "feed_title": "https://www.euro-fusion.org",
           "nuclear_relevance": 0.4875,
@@ -4995,35 +1949,14 @@
       "primary_section": "tech"
     },
     {
-      "story_id": "story-dc1f675a3ab4b0df",
-      "title": "Indonesia Eyes Uninhabited Island for 1st Nuclear Power Plant",
-      "representative_url": "https://www.bangkokpost.com/world/3305568/asia-watch-indonesia-eyes-uninhabited-island-for-1st-nuclear-power-plant#google_vignette",
+      "story_id": "story-0bd74c7f6488bb67",
+      "title": "ASIA WATCH: Indonesia eyes uninhabited island for 1st nuclear power plant",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vwtfvz/asia_watch_indonesia_eyes_uninhabited_island_for/",
       "first_published_at": "2026-08-24T05:09:23+00:00",
       "sources": [
-        "nucleartownhall",
         "reddit_nuclear"
       ],
       "items": [
-        {
-          "id": "b514d73ed7e80cfa",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Indonesia Eyes Uninhabited Island for 1st Nuclear Power Plant",
-          "url": "https://www.bangkokpost.com/world/3305568/asia-watch-indonesia-eyes-uninhabited-island-for-1st-nuclear-power-plant#google_vignette",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        },
         {
           "id": "eb771024eec541d2",
           "site_id": "reddit_nuclear",
@@ -5032,7 +1965,7 @@
           "title": "ASIA WATCH: Indonesia eyes uninhabited island for 1st nuclear power plant",
           "url": "https://www.reddit.com/r/nuclear/comments/1vwtfvz/asia_watch_indonesia_eyes_uninhabited_island_for/",
           "published_at": "2026-08-24T05:09:23+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.25,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.4,
@@ -5046,7 +1979,7 @@
           "primary_section": "community"
         }
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "primary_section": "community"
     },
     {
@@ -5066,7 +1999,7 @@
           "title": "OpenStar demonstrates dipole fusion reactor concept",
           "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept",
           "published_at": "2026-08-23T20:31:10+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "points": 14,
           "comments": 1,
           "nuclear_relevance": 0.375,
@@ -5086,6 +2019,40 @@
       "primary_section": "tech"
     },
     {
+      "story_id": "story-d0aff5992b3e3c8a",
+      "title": "The Forgotten History of Small Nuclear Reactors:Economics killed small nuclear power plants in …",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vwezlh/the_forgotten_history_of_small_nuclear/",
+      "first_published_at": "2026-08-23T18:31:26+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "items": [
+        {
+          "id": "6bd758280e8501f1",
+          "site_id": "reddit_nuclear",
+          "site_name": "Reddit",
+          "source": "r/nuclearpower",
+          "title": "The Forgotten History of Small Nuclear Reactors:Economics killed small nuclear power plants in …",
+          "url": "https://www.reddit.com/r/NuclearPower/comments/1vwezlh/the_forgotten_history_of_small_nuclear/",
+          "published_at": "2026-08-23T18:31:26+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
+          "nuclear_relevance": 0.4375,
+          "subreddit": "nuclearpower",
+          "nuclear_kw_score": 0.7,
+          "nuclear_is_related": true,
+          "source_tier": "community",
+          "source_tier_rank": 5,
+          "source_tier_importance": 0.25,
+          "sections": [
+            "community"
+          ],
+          "primary_section": "community"
+        }
+      ],
+      "duplicate_count": 1,
+      "primary_section": "community"
+    },
+    {
       "story_id": "story-3b0703c3270cc48f",
       "title": "Lesser-known nuclear energy facts",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1vvoylt/lesserknown_nuclear_energy_facts/",
@@ -5102,7 +2069,7 @@
           "title": "Lesser-known nuclear energy facts",
           "url": "https://www.reddit.com/r/nuclear/comments/1vvoylt/lesserknown_nuclear_energy_facts/",
           "published_at": "2026-08-22T21:48:37+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.25,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.4,
@@ -5136,7 +2103,7 @@
           "title": "US to study reliable power from floating nuclear power plants",
           "url": "https://www.reddit.com/r/nuclear/comments/1vvny22/us_to_study_reliable_power_from_floating_nuclear/",
           "published_at": "2026-08-22T21:05:24+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
           "nuclear_relevance": 0.25,
           "subreddit": "nuclear",
           "nuclear_kw_score": 0.4,
@@ -5152,230 +2119,59 @@
       ],
       "duplicate_count": 1,
       "primary_section": "research"
-    },
-    {
-      "story_id": "story-1d90d3d849a41b69",
-      "title": "Russia’s Rosatom Returns Workers to Iran’s Bushehr Nuclear Plant",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vvnwat/russias_rosatom_returns_workers_to_irans_bushehr/",
-      "first_published_at": "2026-08-22T21:03:31+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "items": [
-        {
-          "id": "c260826003b4d27c",
-          "site_id": "reddit_nuclear",
-          "site_name": "Reddit",
-          "source": "r/nuclear",
-          "title": "Russia’s Rosatom Returns Workers to Iran’s Bushehr Nuclear Plant",
-          "url": "https://www.reddit.com/r/nuclear/comments/1vvnwat/russias_rosatom_returns_workers_to_irans_bushehr/",
-          "published_at": "2026-08-22T21:03:31+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.1875,
-          "subreddit": "nuclear",
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "community",
-          "source_tier_rank": 5,
-          "source_tier_importance": 0.25,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "duplicate_count": 1,
-      "primary_section": "community"
     }
   ],
   "merge_events": [
     {
       "items": [
         {
-          "id": "8928a312b981b9e9",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR POWER TALK",
-          "url": "http://nukepowertalk.blogspot.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
+          "id": "c7b44d239fc3c13f",
+          "site_id": "powermag",
+          "site_name": "POWER Magazine",
+          "source": "POWER Magazine",
+          "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
+          "url": "https://www.powermag.com/nric-adds-13-projects-to-nuclear-energy-launch-pad-expanding-advanced-reactor-and-fuel-cycle-pipeline/",
+          "published_at": "2026-08-25T11:09:05+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
+          "summary": "The Department of Energy&#8217;s (DOE&#8217;s) National Reactor Innovation Center (NRIC) has selected 13 new projects across 12 companies for its Nuclear Energy Launch Pad initiative in a significant expansion of the DOE-authorization pathway that channels advanced reactor and fuel-cycle developers ",
+          "feed_title": "https://www.powermag.com",
+          "nuclear_relevance": 0.75,
+          "nuclear_kw_score": 1.0,
           "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
+          "source_tier": "general_media",
+          "source_tier_rank": 4,
+          "source_tier_importance": 0.3,
           "sections": [
-            "community"
+            "fuel",
+            "tech"
           ],
-          "primary_section": "community"
+          "primary_section": "fuel"
         },
         {
-          "id": "f86a03f69088a797",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NUCLEAR POWER DAILY",
-          "url": "http://www.nuclearpowerdaily.com/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "reason": "title_similarity",
-      "similarity": 0.8648648648648649
-    },
-    {
-      "items": [
-        {
-          "id": "40bc2802bf782202",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "NRIC Selects New Nuclear Energy Launch Pad Participants to Boost Nuclear Energy",
-          "url": "https://inl.gov/news-release/nric-selects-new-nuclear-energy-launch-pad-participants-to-boost-nuclear-energy/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        },
-        {
-          "id": "f2bfc04b0f040748",
+          "id": "65d7c8e55a71c6a3",
           "site_id": "reddit_nuclear",
           "site_name": "Reddit",
-          "source": "r/nuclear",
-          "title": "NRIC selects new Nuclear Energy Launch Pad participants to boost nuclear energy",
-          "url": "https://www.reddit.com/r/nuclear/comments/1vxj5cn/nric_selects_new_nuclear_energy_launch_pad/",
-          "published_at": "2026-08-24T23:29:29+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.25,
-          "subreddit": "nuclear",
-          "nuclear_kw_score": 0.4,
+          "source": "r/nuclearpower",
+          "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
+          "url": "https://www.reddit.com/r/NuclearPower/comments/1vy76rm/nric_adds_13_projects_to_nuclear_energy_launch/",
+          "published_at": "2026-08-25T17:56:55+00:00",
+          "added_at": "2026-08-25T18:52:22.126832+00:00",
+          "nuclear_relevance": 0.625,
+          "subreddit": "nuclearpower",
+          "nuclear_kw_score": 1.0,
           "nuclear_is_related": true,
           "source_tier": "community",
           "source_tier_rank": 5,
           "source_tier_importance": 0.25,
           "sections": [
-            "community"
+            "fuel",
+            "tech"
           ],
-          "primary_section": "community"
+          "primary_section": "fuel"
         }
       ],
       "reason": "title_similarity",
       "similarity": 1.0
-    },
-    {
-      "items": [
-        {
-          "id": "13c5ab39de228e8b",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "The Reactor Isn’t the Bottleneck. The Forge Is.",
-          "url": "https://neutronbytes.com/2026/08/24/the-reactor-isnt-the-bottleneck-the-forge-is/",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.3375,
-          "nuclear_kw_score": 0.3,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        },
-        {
-          "id": "bd1f211ade497311",
-          "site_id": "neutronbytes",
-          "site_name": "Neutron Bytes",
-          "source": "Neutron Bytes",
-          "title": "The Reactor Isn’t the Bottleneck. The Forge Is",
-          "url": "https://neutronbytes.com/2026/08/24/the-reactor-isnt-the-bottleneck-the-forge-is/",
-          "published_at": "2026-08-24T10:59:37+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "summary": "Guest Blog Post By:&#160; Elliot Marsh, NeutronRise&#160; Why the Delivery Timing of the Pressure Vessel Sets the Pace The reactor pressure vessel is the steel shell that holds the reactor core. Vendors want it forged as a small number of &#8230; Continue reading &#8594;",
-          "feed_title": "https://neutronbytes.com",
-          "nuclear_relevance": 0.7437,
-          "nuclear_kw_score": 0.35,
-          "nuclear_is_related": true,
-          "source_tier": "nuclear_media",
-          "source_tier_rank": 1,
-          "source_tier_importance": 0.85,
-          "sections": [
-            "hot"
-          ],
-          "primary_section": "hot"
-        }
-      ],
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "items": [
-        {
-          "id": "b514d73ed7e80cfa",
-          "site_id": "nucleartownhall",
-          "site_name": "Nuclear Town Hall",
-          "source": "Nuclear Town Hall",
-          "title": "Indonesia Eyes Uninhabited Island for 1st Nuclear Power Plant",
-          "url": "https://www.bangkokpost.com/world/3305568/asia-watch-indonesia-eyes-uninhabited-island-for-1st-nuclear-power-plant#google_vignette",
-          "published_at": "2026-08-25T17:58:48.226383+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.45,
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "aggregator",
-          "source_tier_rank": 3,
-          "source_tier_importance": 0.45,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        },
-        {
-          "id": "eb771024eec541d2",
-          "site_id": "reddit_nuclear",
-          "site_name": "Reddit",
-          "source": "r/nuclear",
-          "title": "ASIA WATCH: Indonesia eyes uninhabited island for 1st nuclear power plant",
-          "url": "https://www.reddit.com/r/nuclear/comments/1vwtfvz/asia_watch_indonesia_eyes_uninhabited_island_for/",
-          "published_at": "2026-08-24T05:09:23+00:00",
-          "added_at": "2026-08-25T17:58:48.226383+00:00",
-          "nuclear_relevance": 0.25,
-          "subreddit": "nuclear",
-          "nuclear_kw_score": 0.4,
-          "nuclear_is_related": true,
-          "source_tier": "community",
-          "source_tier_rank": 5,
-          "source_tier_importance": 0.25,
-          "sections": [
-            "community"
-          ],
-          "primary_section": "community"
-        }
-      ],
-      "reason": "title_similarity",
-      "similarity": 0.9104477611940298
     }
   ]
 }
