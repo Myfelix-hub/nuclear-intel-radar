@@ -1,38 +1,22 @@
 {
-  "generated_at": "2026-08-25T18:52:22.126832+00:00",
+  "generated_at": "2026-08-25T19:37:17.989821+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-d87f743bab65c374",
+      "story_id": "story-93d7759789d14fe6",
       "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
       "representative_url": "https://www.powermag.com/nric-adds-13-projects-to-nuclear-energy-launch-pad-expanding-advanced-reactor-and-fuel-cycle-pipeline/",
       "first_published_at": "2026-08-25T11:09:05+00:00",
       "sources": [
-        "powermag",
-        "reddit_nuclear"
+        "powermag"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "nuclear_score": 1.0,
       "source_tier": "general_media",
       "source_tier_rank": 4,
       "primary_section": "fuel",
-      "score": 8.465735902799727
-    },
-    {
-      "story_id": "story-d0aff5992b3e3c8a",
-      "title": "The Forgotten History of Small Nuclear Reactors:Economics killed small nuclear power plants in …",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vwezlh/the_forgotten_history_of_small_nuclear/",
-      "first_published_at": "2026-08-23T18:31:26+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 4.199999999999999
+      "score": 5.0
     },
     {
       "story_id": "story-2c8b442899accc14",
@@ -68,7 +52,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-25T18:52:22.126832+00:00",
+      "first_published_at": "2026-08-25T19:37:17.989821+00:00",
       "sources": [
         "kairos"
       ],
@@ -110,21 +94,6 @@
       "score": 2.4000000000000004
     },
     {
-      "story_id": "story-03b141d34415795b",
-      "title": "Masters in Nuclear energy/engineering",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vx83am/masters_in_nuclear_energyengineering/",
-      "first_published_at": "2026-08-24T16:43:17+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
-    },
-    {
       "story_id": "story-0bd74c7f6488bb67",
       "title": "ASIA WATCH: Indonesia eyes uninhabited island for 1st nuclear power plant",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1vwtfvz/asia_watch_indonesia_eyes_uninhabited_island_for/",
@@ -153,6 +122,36 @@
       "source_tier_rank": 5,
       "primary_section": "community",
       "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-46882f6e101de882",
+      "title": "US to study reliable power from floating nuclear power plants",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vvny22/us_to_study_reliable_power_from_floating_nuclear/",
+      "first_published_at": "2026-08-22T21:05:24+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "research",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-08-25T19:37:17.989821+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 2.4
     }
   ]
 }
