@@ -1,12 +1,62 @@
 {
-  "generated_at": "2026-08-25T09:09:49.900405+00:00",
+  "generated_at": "2026-08-25T10:02:33.389620+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
+      "date": "2026-08-25",
+      "title": "NRC licensing pathways explained",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxkdzr/nrc_licensing_pathways_explained/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "NRIC selects new Nuclear Energy Launch Pad participants to boost nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxj5cn/nric_selects_new_nuclear_energy_launch_pad/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "Russia builds 15 small 175-MWt marine nuclear reactors for icebreakers",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vx7gdc/russia_builds_15_small_175mwt_marine_nuclear/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "An Indianapolis company wants to press uranium gas into ceramic pellets the size of a pencil er…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vx2ie7/an_indianapolis_company_wants_to_press_uranium/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "ASIA WATCH: Indonesia eyes uninhabited island for 1st nuclear power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vwtfvz/asia_watch_indonesia_eyes_uninhabited_island_for/"
+    },
+    {
       "date": "2026-08-23",
       "title": "OpenStar demonstrates dipole fusion reactor concept",
       "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Lesser-known nuclear energy facts",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvoylt/lesserknown_nuclear_energy_facts/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "US to study reliable power from floating nuclear power plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvny22/us_to_study_reliable_power_from_floating_nuclear/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Russia’s Rosatom Returns Workers to Iran’s Bushehr Nuclear Plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvnwat/russias_rosatom_returns_workers_to_irans_bushehr/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "New process spins nuclear waste into radioactive 'gold'",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvi67u/new_process_spins_nuclear_waste_into_radioactive/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "EDF to prepare site for two new nuclear reactors at Gravelines plant in France",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vvgnsp/edf_to_prepare_site_for_two_new_nuclear_reactors/"
     },
     {
       "date": "2026-08-22",
@@ -16,13 +66,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-23",
-      "title": "OpenStar demonstrates dipole fusion reactor concept",
-      "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept"
+      "date": "2026-08-25",
+      "title": "NRC licensing pathways explained",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxkdzr/nrc_licensing_pathways_explained/"
     }
   ],
-  "latest_date": "2026-08-23",
-  "count_7d": 2,
+  "latest_date": "2026-08-25",
+  "count_7d": 12,
   "count_today": 1,
   "has_error": false,
   "error": null,
