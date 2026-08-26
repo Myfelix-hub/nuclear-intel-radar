@@ -1,8 +1,63 @@
 {
-  "generated_at": "2026-08-26T13:09:50.559061+00:00",
+  "generated_at": "2026-08-26T14:20:16.325590+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-26",
+      "title": "Myanmar SMR site work 'could start in 2027'",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vyrllq/myanmar_smr_site_work_could_start_in_2027/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "NuScale Power Deploys Nuclear-Specific AI from NPX and Nuclearn to Speed Development of Its Adv…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vyr946/nuscale_power_deploys_nuclearspecific_ai_from_npx/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vy7apt/pacific_fusions_next_fusion_machine_could_clear_a/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Interview participants wanted! AI and nuclear power plant risk management.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vy6pjw/interview_participants_wanted_ai_and_nuclear/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Advanced nuclear power could bring 6 GW to data centers by 2040",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vy1pgb/advanced_nuclear_power_could_bring_6_gw_to_data/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "MARAD and CORE POWER⁠￼ have signed a Memorandum of Cooperation aimed at creating the framework …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxz751/marad_and_core_power_have_signed_a_memorandum_of/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "NRC licensing pathways explained",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxkdzr/nrc_licensing_pathways_explained/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "NRIC selects new Nuclear Energy Launch Pad participants to boost nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxj5cn/nric_selects_new_nuclear_energy_launch_pad/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "Russia builds 15 small 175-MWt marine nuclear reactors for icebreakers",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vx7gdc/russia_builds_15_small_175mwt_marine_nuclear/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "An Indianapolis company wants to press uranium gas into ceramic pellets the size of a pencil er…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vx2ie7/an_indianapolis_company_wants_to_press_uranium/"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "ASIA WATCH: Indonesia eyes uninhabited island for 1st nuclear power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vwtfvz/asia_watch_indonesia_eyes_uninhabited_island_for/"
+    },
     {
       "date": "2026-08-23",
       "title": "OpenStar demonstrates dipole fusion reactor concept",
@@ -16,14 +71,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-23",
-      "title": "OpenStar demonstrates dipole fusion reactor concept",
-      "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept"
+      "date": "2026-08-26",
+      "title": "Myanmar SMR site work 'could start in 2027'",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vyrllq/myanmar_smr_site_work_could_start_in_2027/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "NuScale Power Deploys Nuclear-Specific AI from NPX and Nuclearn to Speed Development of Its Adv…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vyr946/nuscale_power_deploys_nuclearspecific_ai_from_npx/"
     }
   ],
-  "latest_date": "2026-08-23",
-  "count_7d": 2,
-  "count_today": 1,
+  "latest_date": "2026-08-26",
+  "count_7d": 13,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
