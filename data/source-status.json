@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 2974,
+      "duration_ms": 2684,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 17,
-      "duration_ms": 6696,
+      "item_count": 9,
+      "duration_ms": 5836,
       "error": null,
       "warning": null
     }
@@ -364,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 316,
-  "items_before_topic_filter": 316,
+  "fetched_raw_items": 308,
+  "items_before_topic_filter": 308,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},

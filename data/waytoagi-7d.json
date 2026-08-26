@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-08-26T04:11:20.311644+00:00",
+  "generated_at": "2026-08-26T05:06:57.669469+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-08-26",
-      "title": "What makes nuclear safe?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vyl7ai/what_makes_nuclear_safe/"
-    },
     {
       "date": "2026-08-25",
       "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
@@ -15,23 +10,8 @@
     },
     {
       "date": "2026-08-25",
-      "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vy76rm/nric_adds_13_projects_to_nuclear_energy_launch/"
-    },
-    {
-      "date": "2026-08-25",
       "title": "Interview participants wanted! AI and nuclear power plant risk management.",
       "url": "https://www.reddit.com/r/nuclear/comments/1vy6pjw/interview_participants_wanted_ai_and_nuclear/"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dump…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vy4ub5/environmental_violence_inside_the_fight_to_save/"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "Struggling to land a graduate nuclear engineering job",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vy3u4w/struggling_to_land_a_graduate_nuclear_engineering/"
     },
     {
       "date": "2026-08-25",
@@ -41,17 +21,7 @@
     {
       "date": "2026-08-25",
       "title": "MARAD and CORE POWER⁠￼ have signed a Memorandum of Cooperation aimed at creating the framework …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vxz7iq/marad_and_core_power_have_signed_a_memorandum_of/"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "MARAD and CORE POWER⁠￼ have signed a Memorandum of Cooperation aimed at creating the framework …",
       "url": "https://www.reddit.com/r/nuclear/comments/1vxz751/marad_and_core_power_have_signed_a_memorandum_of/"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "My reactor design",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vxv8l4/my_reactor_design/"
     },
     {
       "date": "2026-08-25",
@@ -62,11 +32,6 @@
       "date": "2026-08-24",
       "title": "NRIC selects new Nuclear Energy Launch Pad participants to boost nuclear energy",
       "url": "https://www.reddit.com/r/nuclear/comments/1vxj5cn/nric_selects_new_nuclear_energy_launch_pad/"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "Masters in Nuclear energy/engineering",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vx83am/masters_in_nuclear_energyengineering/"
     },
     {
       "date": "2026-08-24",
@@ -89,11 +54,6 @@
       "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept"
     },
     {
-      "date": "2026-08-23",
-      "title": "The Forgotten History of Small Nuclear Reactors:Economics killed small nuclear power plants in …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vwezlh/the_forgotten_history_of_small_nuclear/"
-    },
-    {
       "date": "2026-08-22",
       "title": "New physics: LBL/Davis showing fusion persists at ultra low energies",
       "url": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/"
@@ -101,14 +61,34 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-26",
-      "title": "What makes nuclear safe?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1vyl7ai/what_makes_nuclear_safe/"
+      "date": "2026-08-25",
+      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vy7apt/pacific_fusions_next_fusion_machine_could_clear_a/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Interview participants wanted! AI and nuclear power plant risk management.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vy6pjw/interview_participants_wanted_ai_and_nuclear/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Advanced nuclear power could bring 6 GW to data centers by 2040",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vy1pgb/advanced_nuclear_power_could_bring_6_gw_to_data/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "MARAD and CORE POWER⁠￼ have signed a Memorandum of Cooperation aimed at creating the framework …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxz751/marad_and_core_power_have_signed_a_memorandum_of/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "NRC licensing pathways explained",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vxkdzr/nrc_licensing_pathways_explained/"
     }
   ],
-  "latest_date": "2026-08-26",
-  "count_7d": 19,
-  "count_today": 1,
+  "latest_date": "2026-08-25",
+  "count_7d": 11,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
