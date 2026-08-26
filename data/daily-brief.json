@@ -1,160 +1,157 @@
 {
-  "generated_at": "2026-08-26T18:18:24.072757+00:00",
+  "generated_at": "2026-08-26T20:58:49.100344+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-d87f743bab65c374",
+      "story_id": "story-93d7759789d14fe6",
       "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
       "representative_url": "https://www.powermag.com/nric-adds-13-projects-to-nuclear-energy-launch-pad-expanding-advanced-reactor-and-fuel-cycle-pipeline/",
       "first_published_at": "2026-08-25T11:09:05+00:00",
       "sources": [
-        "powermag",
-        "reddit_nuclear"
+        "powermag"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "nuclear_score": 1.0,
       "source_tier": "general_media",
       "source_tier_rank": 4,
       "primary_section": "fuel",
-      "score": 8.465735902799727
+      "score": 5.0
     },
     {
-      "story_id": "story-d0aff5992b3e3c8a",
-      "title": "The Forgotten History of Small Nuclear Reactors:Economics killed small nuclear power plants in …",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1vwezlh/the_forgotten_history_of_small_nuclear/",
-      "first_published_at": "2026-08-23T18:31:26+00:00",
+      "story_id": "story-99d0039ebd77ab83",
+      "title": "Westinghouse eVinci Reaches Criticality Milestone at Nevada Test Site",
+      "representative_url": "https://www.powermag.com/westinghouse-evinci-reaches-criticality-milestone-at-nevada-test-site/",
+      "first_published_at": "2026-08-26T13:58:01+00:00",
       "sources": [
-        "reddit_nuclear"
+        "powermag"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 4.199999999999999
+      "nuclear_score": 0.6,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "tech",
+      "score": 3.0
     },
     {
-      "story_id": "story-966c36b473ad0628",
-      "title": "NuScale Power Deploys Nuclear-Specific AI from NPX and Nuclearn to Speed Development of Its Adv…",
-      "representative_url": "https://www.businesswire.com/news/home/20260825531761/en/NuScale-Power-Deploys-Nuclear-Specific-AI-from-NPX-and-Nuclearn-to-Speed-Development-of-Its-Advanced-Reactor-Program",
-      "first_published_at": "2026-08-26T08:36:48+00:00",
+      "story_id": "story-4cac66c6fef215a4",
+      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
+      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
+      "first_published_at": "2026-08-26T20:58:49.100344+00:00",
       "sources": [
-        "nucleartownhall",
-        "reddit_nuclear"
+        "kairos"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-1a0ab25b0d5e3147",
+      "title": "Photonuclear Cross Sections for the $^{197}$Au($\\gamma$,pn)$^{195m}$Pt Reaction Near Threshold",
+      "representative_url": "https://arxiv.org/abs/2602.07637",
+      "first_published_at": "2026-08-26T04:00:00+00:00",
+      "sources": [
+        "arxiv_nuclex"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "research",
+      "source_tier_rank": 2,
+      "primary_section": "research",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-08-26T20:58:49.100344+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
       "nuclear_score": 0.6,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 4.063553233343868
+      "primary_section": "china",
+      "score": 2.4
     },
     {
-      "story_id": "story-349e03d9b9534530",
-      "title": "Global 2026 Conference Showcases Advancements in the Nuclear Fuel Cycle",
-      "representative_url": "https://www.ans.org/news/2026-08-24/article-8333/global-2026-draws-attention-to-nuclear-fuel-developments/",
-      "first_published_at": "2026-08-24T17:21:56+00:00",
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-08-26T20:58:49.100344+00:00",
       "sources": [
-        "nucleartownhall",
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-5ca4203cdeb113a2",
+      "title": "U.S. Army Mobilizes $2.2B Janus Program to Deploy More Than 20 Commercial Microreactors",
+      "representative_url": "https://www.powermag.com/u-s-army-mobilizes-2-2b-janus-program-to-deploy-more-than-20-commercial-microreactors/",
+      "first_published_at": "2026-08-26T20:32:59+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.45,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "hot",
+      "score": 2.25
+    },
+    {
+      "story_id": "story-51d4aff4563d2b4d",
+      "title": "Reactor criticality, states’ new nuclear plans among NECX 2026 highlights",
+      "representative_url": "https://www.ans.org/news/2026-08-26/article-8342/reactor-criticality-states-new-nuclear-plans-among-necx-2026-highlights/",
+      "first_published_at": "2026-08-26T20:39:27+00:00",
+      "sources": [
         "ans_newswire"
       ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 4.063553233343868
+      "duplicate_count": 1,
+      "nuclear_score": 1.1,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "hot",
+      "score": 2.2
     },
     {
-      "story_id": "story-7c34910788b0edd5",
-      "title": "Oklo: The Nuclear Renaissance Could Leave a Trail of Busted SMR Companies",
-      "representative_url": "https://seekingalpha.com/article/4939875-oklo-the-nuclear-renaissance-could-leave-a-trail-of-busted-smr-companies",
-      "first_published_at": "2026-08-26T18:18:24.072757+00:00",
+      "story_id": "story-68935c48436b41e1",
+      "title": "Transport properties of nuclear matter from anomalous fission yields",
+      "representative_url": "https://arxiv.org/abs/2509.24590",
+      "first_published_at": "2026-08-26T04:00:00+00:00",
       "sources": [
-        "nucleartownhall"
+        "arxiv_nuclth"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
+      "nuclear_score": 0.65,
+      "source_tier": "research",
+      "source_tier_rank": 2,
       "primary_section": "tech",
-      "score": 3.6
+      "score": 1.9500000000000002
     },
     {
-      "story_id": "story-b268ca4c99e4c39c",
-      "title": "Nuclear Industry Leaders Discuss Expanding US Uranium Enrichment at Global 2026",
-      "representative_url": "https://www.ans.org/news/2026-08-21/article-8323/panelists-talk-domestic-enrichment-expansion-at-global-2026/",
-      "first_published_at": "2026-08-26T18:18:24.072757+00:00",
+      "story_id": "story-ede95f29343b223b",
+      "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
+      "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
+      "first_published_at": "2026-08-26T20:58:49.100344+00:00",
       "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-d6e29868e0c537ee",
-      "title": "New IAEA Project to Strengthen Testing of Nuclear Fuels and Materials in Research Reactors",
-      "representative_url": "https://www.iaea.org/newscenter/news/new-iaea-project-to-strengthen-testing-of-nuclear-fuels-and-materials-in-research-reactors",
-      "first_published_at": "2026-08-26T18:18:24.072757+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-335c840a06fda263",
-      "title": "TEPCO Begins Removal of Radioactive Spent Fuel from Fukushima No. 2 Reactor",
-      "representative_url": "https://www.japantimes.co.jp/news/2026/08/18/japan/tepco-fuel-removal/",
-      "first_published_at": "2026-08-26T18:18:24.072757+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "safety",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-418a1452b0fce75e",
-      "title": "NuScale Power Deploys Nuclear-Specific AI Tools to Accelerate Reactor Development",
-      "representative_url": "https://www.nuscalepower.com/press-releases/2026/nuscale-power-deploys-nuclear-specific-ai-from-npx-and-nuclearn-to-speed-development-of-its-advanced-reactor-program",
-      "first_published_at": "2026-08-26T18:18:24.072757+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-6224ef2c645baaae",
-      "title": "Westinghouse eVinci™ Microreactor Achieves Zero-Power Criticality",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vz3v5z/westinghouse_evinci_microreactor_achieves/",
-      "first_published_at": "2026-08-26T17:35:10+00:00",
-      "sources": [
-        "reddit_nuclear"
+        "kairos"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "fuel",
+      "score": 1.7999999999999998
     }
   ]
 }
