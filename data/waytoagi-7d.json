@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-08-27T11:05:39.914262+00:00",
+  "generated_at": "2026-08-27T21:07:09.588541+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-27",
+      "title": "What do you actually do day to day as a Nuclear engineer?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w038zh/what_do_you_actually_do_day_to_day_as_a_nuclear/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Leveraging the High Flux Isotope Reactor for nuclear fuel development: a review of experiments,…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzq1li/leveraging_the_high_flux_isotope_reactor_for/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Navigating Nuclear: From Atoms for Peace to a New Course for Commercial Nuclear Shipping Under …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzlxzj/navigating_nuclear_from_atoms_for_peace_to_a_new/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Japan Seeks to Maximize Nuclear Power, Renewable Energy; Also Working to Bypass Hormuz for Oil …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzjq49/japan_seeks_to_maximize_nuclear_power_renewable/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzgccm/us_army_taps_5_firms_to_build_onbase/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "Civil or Nuclear (Read description) Sorry if this is the wrong sub for advice",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzd2g7/civil_or_nuclear_read_description_sorry_if_this/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "US Army Betting Nuclear Microreactors Could Keep Bases Powered",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzaws1/us_army_betting_nuclear_microreactors_could_keep/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "A Dallas startup says it made advanced-reactor fuel with a calutron",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vz5fsg/a_dallas_startup_says_it_made_advancedreactor/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "Reactor technology selection process progresses in Netherlands",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vz4hv0/reactor_technology_selection_process_progresses/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "Westinghouse eVinci™ Microreactor Achieves Zero-Power Criticality",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vz3v5z/westinghouse_evinci_microreactor_achieves/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "Myanmar SMR site work 'could start in 2027'",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vyrllq/myanmar_smr_site_work_could_start_in_2027/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "NuScale Power Deploys Nuclear-Specific AI from NPX and Nuclearn to Speed Development of Its Adv…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vyr946/nuscale_power_deploys_nuclearspecific_ai_from_npx/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Advanced nuclear power could bring 6 GW to data centers by 2040",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vy1pgb/advanced_nuclear_power_could_bring_6_gw_to_data/"
+    },
     {
       "date": "2026-08-23",
       "title": "OpenStar demonstrates dipole fusion reactor concept",
@@ -16,14 +81,34 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-23",
-      "title": "OpenStar demonstrates dipole fusion reactor concept",
-      "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept"
+      "date": "2026-08-27",
+      "title": "What do you actually do day to day as a Nuclear engineer?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w038zh/what_do_you_actually_do_day_to_day_as_a_nuclear/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Leveraging the High Flux Isotope Reactor for nuclear fuel development: a review of experiments,…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzq1li/leveraging_the_high_flux_isotope_reactor_for/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Navigating Nuclear: From Atoms for Peace to a New Course for Commercial Nuclear Shipping Under …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzlxzj/navigating_nuclear_from_atoms_for_peace_to_a_new/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Japan Seeks to Maximize Nuclear Power, Renewable Energy; Also Working to Bypass Hormuz for Oil …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzjq49/japan_seeks_to_maximize_nuclear_power_renewable/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzgccm/us_army_taps_5_firms_to_build_onbase/"
     }
   ],
-  "latest_date": "2026-08-23",
-  "count_7d": 2,
-  "count_today": 1,
+  "latest_date": "2026-08-27",
+  "count_7d": 15,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
