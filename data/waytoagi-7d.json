@@ -1,8 +1,83 @@
 {
-  "generated_at": "2026-08-28T05:34:44.463133+00:00",
+  "generated_at": "2026-08-28T18:29:33.055281+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-28",
+      "title": "India's largest Nuclear power operator plans new design unit to support private players",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0x0xk/indias_largest_nuclear_power_operator_plans_new/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "IAEA launches the Atomic Technologies Licensed for Applications at Sea (ATLAS)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0vnpp/iaea_launches_the_atomic_technologies_licensed/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Army Awards $2.2B for 'Microreactors' On U.S. Bases",
+      "url": "https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Pressurised heavy water reactors emerge as top pick for Indian companies in nuclear power expan…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0sj1o/pressurised_heavy_water_reactors_emerge_as_top/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+      "url": "https://www.nature.com/articles/d41586-026-02506-4"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Ghost in the Machine: Physicists Measure 'Glow' from Shut-Down Nuclear Reactors",
+      "url": "https://www.sciencealert.com/ghost-in-the-machine-physicists-measure-the-eerie-glow-from-shut-down-nuclear-reactors-for-the-first-time"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Impact of input uncertainties on the failure frequency of Korean nuclear piping systems based o…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0n42t/impact_of_input_uncertainties_on_the_failure/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Uranium Paradox in Australia Explained | Jonathan Fisher, Uranium CEO",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0jv9r/uranium_paradox_in_australia_explained_jonathan/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "NRC Part 51 NEPA comment period closed August 21, finalizing public input on the largest propos…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0a8t5/nrc_part_51_nepa_comment_period_closed_august_21/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "What do you actually do day to day as a Nuclear engineer?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w038zh/what_do_you_actually_do_day_to_day_as_a_nuclear/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Leveraging the High Flux Isotope Reactor for nuclear fuel development: a review of experiments,…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzq1li/leveraging_the_high_flux_isotope_reactor_for/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Japan Seeks to Maximize Nuclear Power, Renewable Energy; Also Working to Bypass Hormuz for Oil …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzjq49/japan_seeks_to_maximize_nuclear_power_renewable/"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzgccm/us_army_taps_5_firms_to_build_onbase/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "US Army Betting Nuclear Microreactors Could Keep Bases Powered",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vzaws1/us_army_betting_nuclear_microreactors_could_keep/"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "Westinghouse eVinci™ Microreactor Achieves Zero-Power Criticality",
+      "url": "https://www.reddit.com/r/nuclear/comments/1vz3v5z/westinghouse_evinci_microreactor_achieves/"
+    },
     {
       "date": "2026-08-23",
       "title": "OpenStar demonstrates dipole fusion reactor concept",
@@ -16,14 +91,49 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-23",
-      "title": "OpenStar demonstrates dipole fusion reactor concept",
-      "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept"
+      "date": "2026-08-28",
+      "title": "India's largest Nuclear power operator plans new design unit to support private players",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0x0xk/indias_largest_nuclear_power_operator_plans_new/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "IAEA launches the Atomic Technologies Licensed for Applications at Sea (ATLAS)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0vnpp/iaea_launches_the_atomic_technologies_licensed/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Army Awards $2.2B for 'Microreactors' On U.S. Bases",
+      "url": "https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Pressurised heavy water reactors emerge as top pick for Indian companies in nuclear power expan…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0sj1o/pressurised_heavy_water_reactors_emerge_as_top/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+      "url": "https://www.nature.com/articles/d41586-026-02506-4"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Ghost in the Machine: Physicists Measure 'Glow' from Shut-Down Nuclear Reactors",
+      "url": "https://www.sciencealert.com/ghost-in-the-machine-physicists-measure-the-eerie-glow-from-shut-down-nuclear-reactors-for-the-first-time"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Impact of input uncertainties on the failure frequency of Korean nuclear piping systems based o…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0n42t/impact_of_input_uncertainties_on_the_failure/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Uranium Paradox in Australia Explained | Jonathan Fisher, Uranium CEO",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0jv9r/uranium_paradox_in_australia_explained_jonathan/"
     }
   ],
-  "latest_date": "2026-08-23",
-  "count_7d": 2,
-  "count_today": 1,
+  "latest_date": "2026-08-28",
+  "count_7d": 17,
+  "count_today": 8,
   "has_error": false,
   "error": null,
   "warning": null
