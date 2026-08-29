@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T14:21:06.442051+00:00",
+  "generated_at": "2026-08-29T17:50:41.190406+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -27,11 +27,6 @@
       "date": "2026-08-23",
       "title": "OpenStar demonstrates dipole fusion reactor concept",
       "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept"
-    },
-    {
-      "date": "2026-08-22",
-      "title": "New physics: LBL/Davis showing fusion persists at ultra low energies",
-      "url": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/"
     }
   ],
   "updates_today": [
@@ -57,7 +52,7 @@
     }
   ],
   "latest_date": "2026-08-28",
-  "count_7d": 6,
+  "count_7d": 5,
   "count_today": 4,
   "has_error": false,
   "error": null,
