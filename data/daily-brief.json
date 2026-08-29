@@ -1,45 +1,15 @@
 {
-  "generated_at": "2026-08-28T18:29:33.055281+00:00",
+  "generated_at": "2026-08-29T01:53:30.979653+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-dea0f7a81fe83a8d",
-      "title": "Leveraging the High Flux Isotope Reactor for nuclear fuel development: a review of experiments,…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vzq1li/leveraging_the_high_flux_isotope_reactor_for/",
-      "first_published_at": "2026-08-27T10:22:20+00:00",
+      "story_id": "story-08063d9a33335a30",
+      "title": "Forgotten History of Small Nuclear Reactors",
+      "representative_url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
+      "first_published_at": "2026-08-28T22:05:39+00:00",
       "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "fuel",
-      "score": 5.4
-    },
-    {
-      "story_id": "story-205ff9543adf5fd6",
-      "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vzgccm/us_army_taps_5_firms_to_build_onbase/",
-      "first_published_at": "2026-08-27T01:39:07+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 4.199999999999999
-    },
-    {
-      "story_id": "story-d361e6085fbe01c0",
-      "title": "Pressurised heavy water reactors emerge as top pick for Indian companies in nuclear power expan…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w0sj1o/pressurised_heavy_water_reactors_emerge_as_top/",
-      "first_published_at": "2026-08-28T14:43:46+00:00",
-      "sources": [
-        "reddit_nuclear"
+        "hn_nuclear"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
@@ -70,36 +40,6 @@
       "first_published_at": "2026-08-28T11:23:51+00:00",
       "sources": [
         "hn_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-64a516117a48ac4a",
-      "title": "US Army Betting Nuclear Microreactors Could Keep Bases Powered",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vzaws1/us_army_betting_nuclear_microreactors_could_keep/",
-      "first_published_at": "2026-08-26T21:47:56+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-6224ef2c645baaae",
-      "title": "Westinghouse eVinci™ Microreactor Achieves Zero-Power Criticality",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1vz3v5z/westinghouse_evinci_microreactor_achieves/",
-      "first_published_at": "2026-08-26T17:35:10+00:00",
-      "sources": [
-        "reddit_nuclear"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
@@ -142,7 +82,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-28T18:29:33.055281+00:00",
+      "first_published_at": "2026-08-29T01:53:30.979653+00:00",
       "sources": [
         "kairos"
       ],
@@ -152,6 +92,66 @@
       "source_tier_rank": 2,
       "primary_section": "safety",
       "score": 2.7
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-08-29T01:53:30.979653+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-08-29T01:53:30.979653+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-5ca4203cdeb113a2",
+      "title": "U.S. Army Mobilizes $2.2B Janus Program to Deploy More Than 20 Commercial Microreactors",
+      "representative_url": "https://www.powermag.com/u-s-army-mobilizes-2-2b-janus-program-to-deploy-more-than-20-commercial-microreactors/",
+      "first_published_at": "2026-08-26T20:32:59+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.45,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "hot",
+      "score": 2.25
+    },
+    {
+      "story_id": "story-51d4aff4563d2b4d",
+      "title": "Reactor criticality, states’ new nuclear plans among NECX 2026 highlights",
+      "representative_url": "https://www.ans.org/news/2026-08-26/article-8342/reactor-criticality-states-new-nuclear-plans-among-necx-2026-highlights/",
+      "first_published_at": "2026-08-26T20:39:27+00:00",
+      "sources": [
+        "ans_newswire"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.1,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "hot",
+      "score": 2.2
     }
   ]
 }
