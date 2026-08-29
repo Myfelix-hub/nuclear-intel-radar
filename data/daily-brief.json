@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-29T20:48:54.772512+00:00",
+  "generated_at": "2026-08-29T23:11:34.593973+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-d54aeb26add4d8e8",
+      "title": "Army Awards $2.2 Billion to Build Nuclear ‘Microreactors’ at 5 U.S. Bases",
+      "representative_url": "https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html",
+      "first_published_at": "2026-08-28T15:19:46+00:00",
+      "sources": [
+        "nucleartownhall",
+        "hn_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-93d7759789d14fe6",
+      "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
+      "representative_url": "https://www.powermag.com/nric-adds-13-projects-to-nuclear-energy-launch-pad-expanding-advanced-reactor-and-fuel-cycle-pipeline/",
+      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 4.0
+    },
+    {
+      "story_id": "story-d6e29868e0c537ee",
+      "title": "New IAEA Project to Strengthen Testing of Nuclear Fuels and Materials in Research Reactors",
+      "representative_url": "https://www.iaea.org/newscenter/news/new-iaea-project-to-strengthen-testing-of-nuclear-fuels-and-materials-in-research-reactors",
+      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 3.6
+    },
     {
       "story_id": "story-08063d9a33335a30",
       "title": "Forgotten History of Small Nuclear Reactors",
@@ -49,25 +95,40 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-630e0ebd3a121b67",
-      "title": "The Janus Five: 20+ Commercial Nuclear Microreactors, Starting in 2028",
-      "representative_url": "https://www.powermag.com/the-janus-five-20-commercial-nuclear-microreactors-starting-in-2028/",
-      "first_published_at": "2026-08-27T15:07:54+00:00",
+      "story_id": "story-855fd1afc3d4bbac",
+      "title": "Nano Nuclear Energy Bring Microreactors to UAE",
+      "representative_url": "https://www.bloomberg.com/news/videos/2026-08-26/nano-nuclear-energy-bring-microreactors-to-uae-video",
+      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
       "sources": [
-        "powermag"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 3.0
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 2.8
+    },
+    {
+      "story_id": "story-26245754737be4a2",
+      "title": "DeWine Visits Piketon Uranium Facility as Centrus Highlights Ohio’s Role in Nuclear Energy",
+      "representative_url": "https://www.portsmouth-dailytimes.com/news/dewine-visits-piketon-uranium-facility-as-centrus-highlights-ohio-s-role-in-nuclear-energy/article_8ac5c3ae-1737-4973-b7e2-700c06c623a1.html",
+      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 2.8
     },
     {
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-29T20:48:54.772512+00:00",
+      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
       "sources": [
         "kairos"
       ],
@@ -79,79 +140,19 @@
       "score": 2.7
     },
     {
-      "story_id": "story-ec275d024c79f1bd",
-      "title": "中核集团人事密集调整！涉及江苏核电等！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-08-29T20:48:54.772512+00:00",
+      "story_id": "story-fdf2bfdde7eb7bff",
+      "title": "NUCLEAR FISSIONARY",
+      "representative_url": "http://nuclearfissionary.com/",
+      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
       "sources": [
-        "nuclear_net_cn"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "china",
+      "primary_section": "tech",
       "score": 2.4
-    },
-    {
-      "story_id": "story-6dc9add4ab243f52",
-      "title": "这家核电机组FCD！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-08-29T20:48:54.772512+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-ede95f29343b223b",
-      "title": "Bridging the Gap to Commercial Fuel: A Look Inside Kairos Power’s TRISO Development Lab",
-      "representative_url": "https://www.kairospower.com/updates/bridging-the-gap-to-commercial-fuel-a-look-inside-kairos-powers-triso-development-lab",
-      "first_published_at": "2026-08-29T20:48:54.772512+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "fuel",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-393a12f15e557211",
-      "title": "Kairos Power Announces New Collaboration to Advance Nuclear Manufacturing, Construction, and Wo…",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-announces-new-collaboration-to-advance-nuclear-manufacturing-construction-and-workforce-development-in-east-tennessee",
-      "first_published_at": "2026-08-29T20:48:54.772512+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "newbuild",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-5e7a7765e34fe669",
-      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-08-29T20:48:54.772512+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 1.7999999999999998
     }
   ]
 }
