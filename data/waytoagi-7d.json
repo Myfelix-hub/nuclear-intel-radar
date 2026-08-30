@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:02:05.532651+00:00",
+  "generated_at": "2026-08-30T21:26:46.369314+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -22,11 +22,6 @@
       "date": "2026-08-28",
       "title": "Ghost in the Machine: Physicists Measure 'Glow' from Shut-Down Nuclear Reactors",
       "url": "https://www.sciencealert.com/ghost-in-the-machine-physicists-measure-the-eerie-glow-from-shut-down-nuclear-reactors-for-the-first-time"
-    },
-    {
-      "date": "2026-08-23",
-      "title": "OpenStar demonstrates dipole fusion reactor concept",
-      "url": "https://www.world-nuclear-news.org/articles/openstar-demonstrates-dipole-fusion-reactor-concept"
     }
   ],
   "updates_today": [
@@ -52,7 +47,7 @@
     }
   ],
   "latest_date": "2026-08-28",
-  "count_7d": 5,
+  "count_7d": 4,
   "count_today": 4,
   "has_error": false,
   "error": null,
