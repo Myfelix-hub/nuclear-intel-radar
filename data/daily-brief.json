@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T23:11:34.593973+00:00",
+  "generated_at": "2026-08-30T01:34:06.136205+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -23,7 +23,7 @@
       "story_id": "story-93d7759789d14fe6",
       "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle P…",
       "representative_url": "https://www.powermag.com/nric-adds-13-projects-to-nuclear-energy-launch-pad-expanding-advanced-reactor-and-fuel-cycle-pipeline/",
-      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
+      "first_published_at": "2026-08-30T01:34:06.136205+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -38,7 +38,7 @@
       "story_id": "story-d6e29868e0c537ee",
       "title": "New IAEA Project to Strengthen Testing of Nuclear Fuels and Materials in Research Reactors",
       "representative_url": "https://www.iaea.org/newscenter/news/new-iaea-project-to-strengthen-testing-of-nuclear-fuels-and-materials-in-research-reactors",
-      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
+      "first_published_at": "2026-08-30T01:34:06.136205+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -56,6 +56,21 @@
       "first_published_at": "2026-08-28T22:05:39+00:00",
       "sources": [
         "hn_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-d361e6085fbe01c0",
+      "title": "Pressurised heavy water reactors emerge as top pick for Indian companies in nuclear power expan…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w0sj1o/pressurised_heavy_water_reactors_emerge_as_top/",
+      "first_published_at": "2026-08-28T14:43:46+00:00",
+      "sources": [
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
@@ -98,7 +113,7 @@
       "story_id": "story-855fd1afc3d4bbac",
       "title": "Nano Nuclear Energy Bring Microreactors to UAE",
       "representative_url": "https://www.bloomberg.com/news/videos/2026-08-26/nano-nuclear-energy-bring-microreactors-to-uae-video",
-      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
+      "first_published_at": "2026-08-30T01:34:06.136205+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -113,7 +128,7 @@
       "story_id": "story-26245754737be4a2",
       "title": "DeWine Visits Piketon Uranium Facility as Centrus Highlights Ohio’s Role in Nuclear Energy",
       "representative_url": "https://www.portsmouth-dailytimes.com/news/dewine-visits-piketon-uranium-facility-as-centrus-highlights-ohio-s-role-in-nuclear-energy/article_8ac5c3ae-1737-4973-b7e2-700c06c623a1.html",
-      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
+      "first_published_at": "2026-08-30T01:34:06.136205+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -128,7 +143,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
+      "first_published_at": "2026-08-30T01:34:06.136205+00:00",
       "sources": [
         "kairos"
       ],
@@ -138,21 +153,6 @@
       "source_tier_rank": 2,
       "primary_section": "safety",
       "score": 2.7
-    },
-    {
-      "story_id": "story-fdf2bfdde7eb7bff",
-      "title": "NUCLEAR FISSIONARY",
-      "representative_url": "http://nuclearfissionary.com/",
-      "first_published_at": "2026-08-29T23:11:34.593973+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 2.4
     }
   ]
 }
