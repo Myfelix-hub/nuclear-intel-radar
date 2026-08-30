@@ -1,17 +1,67 @@
 {
-  "generated_at": "2026-08-30T21:26:46.369314+00:00",
+  "generated_at": "2026-08-30T23:46:27.528423+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
+      "date": "2026-08-30",
+      "title": "Nuclear Energy Technology in India Sustainable and Self-Reliant Future (official press release)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w2jggr/nuclear_energy_technology_in_india_sustainable/"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Offshore nuclear barges could power ports and data centers—starting with California",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w1shhq/offshore_nuclear_barges_could_power_ports_and/"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Niger transfers uranium mining rights previously held by Orano and GoviEx",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w1ob1t/niger_transfers_uranium_mining_rights_previously/"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Nuclear group files complaint against broadcaster",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w1d4qj/nuclear_group_files_complaint_against_broadcaster/"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Oklo’s FERC Complaint Reveals a Previously Undisclosed 750 MW Virginia Project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w1b1ph/oklos_ferc_complaint_reveals_a_previously/"
+    },
+    {
       "date": "2026-08-28",
       "title": "Forgotten History of Small Nuclear Reactors",
       "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors"
     },
     {
       "date": "2026-08-28",
+      "title": "Utah puts up ads promoting nuclear energy. Public interest groups say it's propaganda",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w13s25/utah_puts_up_ads_promoting_nuclear_energy_public/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Sweden Plans 440-MW Park of Next-Generation Lead-Cooled SMRs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w10j3p/sweden_plans_440mw_park_of_nextgeneration/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "India's largest Nuclear power operator plans new design unit to support private players",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0x0xk/indias_largest_nuclear_power_operator_plans_new/"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "IAEA launches the Atomic Technologies Licensed for Applications at Sea (ATLAS)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0vnpp/iaea_launches_the_atomic_technologies_licensed/"
+    },
+    {
+      "date": "2026-08-28",
       "title": "Army Awards $2.2B for 'Microreactors' On U.S. Bases",
       "url": "https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Pressurised heavy water reactors emerge as top pick for Indian companies in nuclear power expan…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0sj1o/pressurised_heavy_water_reactors_emerge_as_top/"
     },
     {
       "date": "2026-08-28",
@@ -22,33 +72,23 @@
       "date": "2026-08-28",
       "title": "Ghost in the Machine: Physicists Measure 'Glow' from Shut-Down Nuclear Reactors",
       "url": "https://www.sciencealert.com/ghost-in-the-machine-physicists-measure-the-eerie-glow-from-shut-down-nuclear-reactors-for-the-first-time"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Impact of input uncertainties on the failure frequency of Korean nuclear piping systems based o…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w0n42t/impact_of_input_uncertainties_on_the_failure/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-08-28",
-      "title": "Forgotten History of Small Nuclear Reactors",
-      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Army Awards $2.2B for 'Microreactors' On U.S. Bases",
-      "url": "https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
-      "url": "https://www.nature.com/articles/d41586-026-02506-4"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Ghost in the Machine: Physicists Measure 'Glow' from Shut-Down Nuclear Reactors",
-      "url": "https://www.sciencealert.com/ghost-in-the-machine-physicists-measure-the-eerie-glow-from-shut-down-nuclear-reactors-for-the-first-time"
+      "date": "2026-08-30",
+      "title": "Nuclear Energy Technology in India Sustainable and Self-Reliant Future (official press release)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w2jggr/nuclear_energy_technology_in_india_sustainable/"
     }
   ],
-  "latest_date": "2026-08-28",
-  "count_7d": 4,
-  "count_today": 4,
+  "latest_date": "2026-08-30",
+  "count_7d": 15,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
