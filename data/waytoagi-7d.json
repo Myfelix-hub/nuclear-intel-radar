@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-31T11:46:59.764257+00:00",
+  "generated_at": "2026-08-31T19:03:13.144935+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-31",
+      "title": "Japan’s next security challenge: Who builds Asia’s nuclear reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3f25u/japans_next_security_challenge_who_builds_asias/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Palisades Nuclear Plant Begins Loading New Fuel, Plant Enters Mode 6 Status",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3bftq/palisades_nuclear_plant_begins_loading_new_fuel/"
+    },
     {
       "date": "2026-08-30",
       "title": "Nuclear Energy Technology in India Sustainable and Self-Reliant Future (official press release)",
@@ -30,7 +40,7 @@
     },
     {
       "date": "2026-08-28",
-      "title": "Forgotten History of Small Nuclear Reactors",
+      "title": "Forgotten History of Small Nuclear Reactors (2015)",
       "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors"
     },
     {
@@ -45,23 +55,8 @@
     },
     {
       "date": "2026-08-28",
-      "title": "India's largest Nuclear power operator plans new design unit to support private players",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w0x0xk/indias_largest_nuclear_power_operator_plans_new/"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "IAEA launches the Atomic Technologies Licensed for Applications at Sea (ATLAS)",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w0vnpp/iaea_launches_the_atomic_technologies_licensed/"
-    },
-    {
-      "date": "2026-08-28",
       "title": "Army Awards $2.2B for 'Microreactors' On U.S. Bases",
       "url": "https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Pressurised heavy water reactors emerge as top pick for Indian companies in nuclear power expan…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w0sj1o/pressurised_heavy_water_reactors_emerge_as_top/"
     },
     {
       "date": "2026-08-28",
@@ -76,14 +71,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-30",
-      "title": "Nuclear Energy Technology in India Sustainable and Self-Reliant Future (official press release)",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w2jggr/nuclear_energy_technology_in_india_sustainable/"
+      "date": "2026-08-31",
+      "title": "Japan’s next security challenge: Who builds Asia’s nuclear reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3f25u/japans_next_security_challenge_who_builds_asias/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Palisades Nuclear Plant Begins Loading New Fuel, Plant Enters Mode 6 Status",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3bftq/palisades_nuclear_plant_begins_loading_new_fuel/"
     }
   ],
-  "latest_date": "2026-08-30",
-  "count_7d": 14,
-  "count_today": 1,
+  "latest_date": "2026-08-31",
+  "count_7d": 13,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
