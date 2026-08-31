@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T05:07:02.045816+00:00",
+  "generated_at": "2026-08-31T11:46:59.764257+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -72,11 +72,6 @@
       "date": "2026-08-28",
       "title": "Ghost in the Machine: Physicists Measure 'Glow' from Shut-Down Nuclear Reactors",
       "url": "https://www.sciencealert.com/ghost-in-the-machine-physicists-measure-the-eerie-glow-from-shut-down-nuclear-reactors-for-the-first-time"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Impact of input uncertainties on the failure frequency of Korean nuclear piping systems based o…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w0n42t/impact_of_input_uncertainties_on_the_failure/"
     }
   ],
   "updates_today": [
@@ -87,7 +82,7 @@
     }
   ],
   "latest_date": "2026-08-30",
-  "count_7d": 15,
+  "count_7d": 14,
   "count_today": 1,
   "has_error": false,
   "error": null,
