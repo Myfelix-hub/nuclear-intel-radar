@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-08-31T19:03:13.144935+00:00",
+  "generated_at": "2026-08-31T23:18:19.946818+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-08-31",
+      "title": "Nuclear fusion: new US-China race for limitless power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3ucct/nuclear_fusion_new_uschina_race_for_limitless/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Why Japan should care about India’s nuclear opening",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3rc8g/why_japan_should_care_about_indias_nuclear_opening/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "PJM drops Oklo advanced nuclear project from interconnection study cycle",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3r0w6/pjm_drops_oklo_advanced_nuclear_project_from/"
+    },
     {
       "date": "2026-08-31",
       "title": "Japan’s next security challenge: Who builds Asia’s nuclear reactors",
@@ -45,16 +60,6 @@
     },
     {
       "date": "2026-08-28",
-      "title": "Utah puts up ads promoting nuclear energy. Public interest groups say it's propaganda",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w13s25/utah_puts_up_ads_promoting_nuclear_energy_public/"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Sweden Plans 440-MW Park of Next-Generation Lead-Cooled SMRs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w10j3p/sweden_plans_440mw_park_of_nextgeneration/"
-    },
-    {
-      "date": "2026-08-28",
       "title": "Army Awards $2.2B for 'Microreactors' On U.S. Bases",
       "url": "https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html"
     },
@@ -72,6 +77,21 @@
   "updates_today": [
     {
       "date": "2026-08-31",
+      "title": "Nuclear fusion: new US-China race for limitless power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3ucct/nuclear_fusion_new_uschina_race_for_limitless/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Why Japan should care about India’s nuclear opening",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3rc8g/why_japan_should_care_about_indias_nuclear_opening/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "PJM drops Oklo advanced nuclear project from interconnection study cycle",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3r0w6/pjm_drops_oklo_advanced_nuclear_project_from/"
+    },
+    {
+      "date": "2026-08-31",
       "title": "Japan’s next security challenge: Who builds Asia’s nuclear reactors",
       "url": "https://www.reddit.com/r/nuclear/comments/1w3f25u/japans_next_security_challenge_who_builds_asias/"
     },
@@ -82,8 +102,8 @@
     }
   ],
   "latest_date": "2026-08-31",
-  "count_7d": 13,
-  "count_today": 2,
+  "count_7d": 14,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
