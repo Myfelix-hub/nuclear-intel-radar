@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-01T20:06:28.871583+00:00",
+  "generated_at": "2026-09-01T22:46:19.979556+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-01",
+      "title": "Chemical to Nuclear",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w4qvmv/chemical_to_nuclear/"
+    },
     {
       "date": "2026-09-01",
       "title": "A block of graphite baked at 5,430 degrees both slows the neutrons and holds up the core of an …",
@@ -92,6 +97,11 @@
   "updates_today": [
     {
       "date": "2026-09-01",
+      "title": "Chemical to Nuclear",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w4qvmv/chemical_to_nuclear/"
+    },
+    {
+      "date": "2026-09-01",
       "title": "A block of graphite baked at 5,430 degrees both slows the neutrons and holds up the core of an …",
       "url": "https://www.reddit.com/r/nuclear/comments/1w4dvmk/a_block_of_graphite_baked_at_5430_degrees_both/"
     },
@@ -112,8 +122,8 @@
     }
   ],
   "latest_date": "2026-09-01",
-  "count_7d": 17,
-  "count_today": 4,
+  "count_7d": 18,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
