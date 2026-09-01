@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:24:38.983612+00:00",
+  "generated_at": "2026-09-01T20:06:28.871583+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -45,6 +45,11 @@
     },
     {
       "date": "2026-08-31",
+      "title": "Plans for nuclear-powered merchant ships must confront risks",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w3koi8/plans_for_nuclearpowered_merchant_ships_must/"
+    },
+    {
+      "date": "2026-08-31",
       "title": "Japan’s next security challenge: Who builds Asia’s nuclear reactors",
       "url": "https://www.reddit.com/r/nuclear/comments/1w3f25u/japans_next_security_challenge_who_builds_asias/"
     },
@@ -55,13 +60,13 @@
     },
     {
       "date": "2026-08-30",
-      "title": "Nuclear Energy Technology in India Sustainable and Self-Reliant Future (official press release)",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w2jggr/nuclear_energy_technology_in_india_sustainable/"
+      "title": "Researchers uncover hidden pore network within nuclear fuel",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w2npes/researchers_uncover_hidden_pore_network_within/"
     },
     {
-      "date": "2026-08-29",
-      "title": "Offshore nuclear barges could power ports and data centers—starting with California",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w1shhq/offshore_nuclear_barges_could_power_ports_and/"
+      "date": "2026-08-30",
+      "title": "Nuclear Energy Technology in India Sustainable and Self-Reliant Future (official press release)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w2jggr/nuclear_energy_technology_in_india_sustainable/"
     },
     {
       "date": "2026-08-28",
@@ -107,7 +112,7 @@
     }
   ],
   "latest_date": "2026-09-01",
-  "count_7d": 16,
+  "count_7d": 17,
   "count_today": 4,
   "has_error": false,
   "error": null,
