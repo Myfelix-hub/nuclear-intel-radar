@@ -1,12 +1,62 @@
 {
-  "generated_at": "2026-09-01T02:00:10.061271+00:00",
+  "generated_at": "2026-09-01T07:43:56.759913+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
+      "date": "2026-09-01",
+      "title": "Why Japan should care about India’s nuclear opening",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w41kqw/why_japan_should_care_about_indias_nuclear_opening/"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Ultra Safe Nuclear CEO Francesco Venneri called reckless, isolationist, disloyal in lawsuit bro…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3ygz0/ultra_safe_nuclear_ceo_francesco_venneri_called/"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Hi, I am making a game about Nuclear power, I am trying to make the most realistic as possible,…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3xe0l/hi_i_am_making_a_game_about_nuclear_power_i_am/"
+    },
+    {
       "date": "2026-08-31",
       "title": "Radiant Wins $750M US Army Portable Nuclear Reactor Deal [video]",
       "url": "https://www.youtube.com/watch?v=1a90l6PAD1U"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Nuclear fusion: new US-China race for limitless power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3ucct/nuclear_fusion_new_uschina_race_for_limitless/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Why Japan should care about India’s nuclear opening",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3rc8g/why_japan_should_care_about_indias_nuclear_opening/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "PJM drops Oklo advanced nuclear project from interconnection study cycle",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3r0w6/pjm_drops_oklo_advanced_nuclear_project_from/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Japan’s next security challenge: Who builds Asia’s nuclear reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3f25u/japans_next_security_challenge_who_builds_asias/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Palisades Nuclear Plant Begins Loading New Fuel, Plant Enters Mode 6 Status",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3bftq/palisades_nuclear_plant_begins_loading_new_fuel/"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "Nuclear Energy Technology in India Sustainable and Self-Reliant Future (official press release)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w2jggr/nuclear_energy_technology_in_india_sustainable/"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Offshore nuclear barges could power ports and data centers—starting with California",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w1shhq/offshore_nuclear_barges_could_power_ports_and/"
     },
     {
       "date": "2026-08-28",
@@ -31,14 +81,24 @@
   ],
   "updates_today": [
     {
-      "date": "2026-08-31",
-      "title": "Radiant Wins $750M US Army Portable Nuclear Reactor Deal [video]",
-      "url": "https://www.youtube.com/watch?v=1a90l6PAD1U"
+      "date": "2026-09-01",
+      "title": "Why Japan should care about India’s nuclear opening",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w41kqw/why_japan_should_care_about_indias_nuclear_opening/"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Ultra Safe Nuclear CEO Francesco Venneri called reckless, isolationist, disloyal in lawsuit bro…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3ygz0/ultra_safe_nuclear_ceo_francesco_venneri_called/"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Hi, I am making a game about Nuclear power, I am trying to make the most realistic as possible,…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w3xe0l/hi_i_am_making_a_game_about_nuclear_power_i_am/"
     }
   ],
-  "latest_date": "2026-08-31",
-  "count_7d": 5,
-  "count_today": 1,
+  "latest_date": "2026-09-01",
+  "count_7d": 15,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
