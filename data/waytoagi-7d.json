@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T15:14:25.601411+00:00",
+  "generated_at": "2026-09-02T18:54:39.479398+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-09-02",
-      "title": "Day whatever of the US nuclear renaissance: 0 under construction, 41 permanently shut down. Tur…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5bptj/day_whatever_of_the_us_nuclear_renaissance_0/"
+      "title": "IAEA: Syria Hid Nuclear Reactor, 73 Tons of Uranium",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w5iwan/iaea_syria_hid_nuclear_reactor_73_tons_of_uranium/"
     },
     {
       "date": "2026-09-02",
@@ -27,11 +27,6 @@
       "date": "2026-09-02",
       "title": "Senator Fateh hosting forum on nuclear energy this Thursday, September 3",
       "url": "https://www.reddit.com/r/nuclear/comments/1w4zg9p/senator_fateh_hosting_forum_on_nuclear_energy/"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "Chemical to Nuclear",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1w4qvmv/chemical_to_nuclear/"
     },
     {
       "date": "2026-09-01",
@@ -60,18 +55,8 @@
     },
     {
       "date": "2026-08-31",
-      "title": "Why Japan should care about India’s nuclear opening",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w3rc8g/why_japan_should_care_about_indias_nuclear_opening/"
-    },
-    {
-      "date": "2026-08-31",
       "title": "PJM drops Oklo advanced nuclear project from interconnection study cycle",
       "url": "https://www.reddit.com/r/nuclear/comments/1w3r0w6/pjm_drops_oklo_advanced_nuclear_project_from/"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "Plans for nuclear-powered merchant ships must confront risks",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1w3koi8/plans_for_nuclearpowered_merchant_ships_must/"
     },
     {
       "date": "2026-08-31",
@@ -82,11 +67,6 @@
       "date": "2026-08-31",
       "title": "Palisades Nuclear Plant Begins Loading New Fuel, Plant Enters Mode 6 Status",
       "url": "https://www.reddit.com/r/nuclear/comments/1w3bftq/palisades_nuclear_plant_begins_loading_new_fuel/"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "Researchers uncover hidden pore network within nuclear fuel",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1w2npes/researchers_uncover_hidden_pore_network_within/"
     },
     {
       "date": "2026-08-28",
@@ -112,8 +92,8 @@
   "updates_today": [
     {
       "date": "2026-09-02",
-      "title": "Day whatever of the US nuclear renaissance: 0 under construction, 41 permanently shut down. Tur…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5bptj/day_whatever_of_the_us_nuclear_renaissance_0/"
+      "title": "IAEA: Syria Hid Nuclear Reactor, 73 Tons of Uranium",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w5iwan/iaea_syria_hid_nuclear_reactor_73_tons_of_uranium/"
     },
     {
       "date": "2026-09-02",
@@ -137,7 +117,7 @@
     }
   ],
   "latest_date": "2026-09-02",
-  "count_7d": 21,
+  "count_7d": 17,
   "count_today": 5,
   "has_error": false,
   "error": null,
