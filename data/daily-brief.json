@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:48:27.001493+00:00",
+  "generated_at": "2026-09-03T17:45:49.992120+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -19,20 +19,51 @@
       "score": 7.199999999999999
     },
     {
-      "story_id": "story-f3657dbc1925c59f",
-      "title": "Syria was building a nuclear reactor under Assad, UN reports",
+      "story_id": "story-1b0cd22e646acb45",
+      "title": "Syria Was Building a Nuclear Reactor in Deir el-Zour Under Assad, UN Reports",
       "representative_url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2",
       "first_published_at": "2026-09-02T06:51:34+00:00",
       "sources": [
+        "nucleartownhall",
         "hn_nuclear",
         "reddit_nuclear"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 3,
       "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "newbuild",
-      "score": 6.095329850015803
+      "score": 5.036669492803464
+    },
+    {
+      "story_id": "story-810a858c8439103a",
+      "title": "Molten Salt Solutions Raises $7 Million to Scale Lithium Enrichment for Advanced Nuclear Energy",
+      "representative_url": "https://www.prnewswire.com/news-releases/molten-salt-solutions-raises-7-million-to-scale-lithium-enrichment-for-advanced-nuclear-energy-302863208.html",
+      "first_published_at": "2026-09-03T17:45:49.992120+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 4.0
+    },
+    {
+      "story_id": "story-0fc90f053d465432",
+      "title": "NRC Proposes Rule That Will Protect Drinking Water Near Uranium In-Situ Recovery Sites",
+      "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-076.pdf",
+      "first_published_at": "2026-09-03T17:45:49.992120+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 3.6
     },
     {
       "story_id": "story-dfc841e6490d60bb",
@@ -47,21 +78,6 @@
       "source_tier": "community",
       "source_tier_rank": 5,
       "primary_section": "fuel",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-735e054706ed6d96",
-      "title": "Reactor Atlas, a fully interactive map of world's nuclear reactors, covering both power and res…",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1w5vybi/reactor_atlas_a_fully_interactive_map_of_worlds/",
-      "first_published_at": "2026-09-03T03:24:42+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
       "score": 3.5999999999999996
     },
     {
@@ -80,19 +96,19 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-cbbbdfd6220c07cb",
-      "title": "PJM drops Oklo advanced nuclear project from interconnection study cycle",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w3r0w6/pjm_drops_oklo_advanced_nuclear_project_from/",
-      "first_published_at": "2026-08-31T21:06:35+00:00",
+      "story_id": "story-5dcaef5c7bb3453f",
+      "title": "Three Questions Every Utility Should Ask About Advanced Reactors",
+      "representative_url": "https://www.powermag.com/three-questions-every-utility-should-ask-about-advanced-reactors/",
+      "first_published_at": "2026-09-03T14:05:02+00:00",
       "sources": [
-        "reddit_nuclear"
+        "powermag"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "research",
-      "score": 3.5999999999999996
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "tech",
+      "score": 3.0
     },
     {
       "story_id": "story-fc894658137e6d9f",
@@ -125,34 +141,19 @@
       "score": 3.0
     },
     {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-03T13:48:27.001493+00:00",
+      "story_id": "story-7c5b5913577dfd29",
+      "title": "Tennessee Approves License for Nuclear Fusion Facility in Clinton, Bull Run Energy Complex",
+      "representative_url": "https://www.yahoo.com/news/science/articles/tennessee-approves-license-nuclear-fusion-221221024.html",
+      "first_published_at": "2026-09-03T17:45:49.992120+00:00",
       "sources": [
-        "kairos"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4e3b6450102a69dc",
-      "title": "Studsvik Selects GE Vernova Hitachi, Samsung C&T for 1.2-GW Swedish BWRX-300 Project",
-      "representative_url": "https://www.powermag.com/studsvik-selects-ge-vernova-hitachi-samsung-ct-for-1-2-gw-swedish-bwrx-300-project/",
-      "first_published_at": "2026-09-03T12:34:51+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.5,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 2.5
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 2.8
     }
   ]
 }
