@@ -1,17 +1,57 @@
 {
-  "generated_at": "2026-09-03T04:13:30.048146+00:00",
+  "generated_at": "2026-09-03T09:07:21.284798+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-03",
+      "title": "Japan is still in top 3 by nuclear power capacity, even after Fukushima event",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5ypnn/japan_is_still_in_top_3_by_nuclear_power_capacity/"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Reactor Atlas, a fully interactive map of world's nuclear reactors, covering both power and res…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5vybi/reactor_atlas_a_fully_interactive_map_of_worlds/"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Trump is socializing the nuclear industry",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5rgeb/trump_is_socializing_the_nuclear_industry/"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Nuclear Specialist Job Opening",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5r9wu/nuclear_specialist_job_opening/"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Nuclear fuel supply chain bottlenecks",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5g2qm/nuclear_fuel_supply_chain_bottlenecks/"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Day whatever of the US nuclear renaissance: 0 under construction, 41 permanently shut down. Tur…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5bptj/day_whatever_of_the_us_nuclear_renaissance_0/"
+    },
     {
       "date": "2026-09-02",
       "title": "Syria was building a nuclear reactor under Assad, UN reports",
       "url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2"
     },
     {
+      "date": "2026-09-01",
+      "title": "Chemical to Nuclear",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w4qvmv/chemical_to_nuclear/"
+    },
+    {
       "date": "2026-08-31",
       "title": "Radiant Wins $750M US Army Portable Nuclear Reactor Deal [video]",
       "url": "https://www.youtube.com/watch?v=1a90l6PAD1U"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Plans for nuclear-powered merchant ships must confront risks",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w3koi8/plans_for_nuclearpowered_merchant_ships_must/"
     },
     {
       "date": "2026-08-28",
@@ -36,14 +76,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-02",
-      "title": "Syria was building a nuclear reactor under Assad, UN reports",
-      "url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2"
+      "date": "2026-09-03",
+      "title": "Japan is still in top 3 by nuclear power capacity, even after Fukushima event",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5ypnn/japan_is_still_in_top_3_by_nuclear_power_capacity/"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Reactor Atlas, a fully interactive map of world's nuclear reactors, covering both power and res…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5vybi/reactor_atlas_a_fully_interactive_map_of_worlds/"
     }
   ],
-  "latest_date": "2026-09-02",
-  "count_7d": 6,
-  "count_today": 1,
+  "latest_date": "2026-09-03",
+  "count_7d": 14,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
