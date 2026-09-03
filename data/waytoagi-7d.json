@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-03T17:45:49.992120+00:00",
+  "generated_at": "2026-09-03T20:52:32.604063+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-03",
+      "title": "Was Electrical Engineering the wrong choice for my goals in the nuclear industry?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w6j2s6/was_electrical_engineering_the_wrong_choice_for/"
+    },
     {
       "date": "2026-09-03",
       "title": "NUCLEAR CONTAINERSHIP CORRIDOR BETWEEN UK AND U.S. UNDER STUDY Lloyd’s Register, Maersk and the…",
@@ -65,11 +70,6 @@
     },
     {
       "date": "2026-09-01",
-      "title": "Why Japan should care about India’s nuclear opening",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w41kqw/why_japan_should_care_about_indias_nuclear_opening/"
-    },
-    {
-      "date": "2026-09-01",
       "title": "Hi, I am making a game about Nuclear power, I am trying to make the most realistic as possible,…",
       "url": "https://www.reddit.com/r/nuclear/comments/1w3xe0l/hi_i_am_making_a_game_about_nuclear_power_i_am/"
     },
@@ -102,6 +102,11 @@
   "updates_today": [
     {
       "date": "2026-09-03",
+      "title": "Was Electrical Engineering the wrong choice for my goals in the nuclear industry?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w6j2s6/was_electrical_engineering_the_wrong_choice_for/"
+    },
+    {
+      "date": "2026-09-03",
       "title": "NUCLEAR CONTAINERSHIP CORRIDOR BETWEEN UK AND U.S. UNDER STUDY Lloyd’s Register, Maersk and the…",
       "url": "https://www.reddit.com/r/nuclear/comments/1w6dhny/nuclear_containership_corridor_between_uk_and_us/"
     },
@@ -128,7 +133,7 @@
   ],
   "latest_date": "2026-09-03",
   "count_7d": 19,
-  "count_today": 5,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
