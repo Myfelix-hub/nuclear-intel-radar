@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-03T23:10:37.004959+00:00",
+  "generated_at": "2026-09-04T01:14:14.645107+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-03",
+      "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
+      "url": "https://github.com/PJHkorea/discrete-filament-router"
+    },
     {
       "date": "2026-09-03",
       "title": "Show HN: Reactor Atlas",
@@ -42,13 +47,18 @@
   "updates_today": [
     {
       "date": "2026-09-03",
+      "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
+      "url": "https://github.com/PJHkorea/discrete-filament-router"
+    },
+    {
+      "date": "2026-09-03",
       "title": "Show HN: Reactor Atlas",
       "url": "https://reactoratlas.com"
     }
   ],
   "latest_date": "2026-09-03",
-  "count_7d": 7,
-  "count_today": 1,
+  "count_7d": 8,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
