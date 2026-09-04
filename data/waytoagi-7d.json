@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-09-04T21:43:14.729098+00:00",
+  "generated_at": "2026-09-04T23:52:53.412830+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-09-04",
-      "title": "Energy Subcommittee Hearing - \"Powering the Nuclear Renaissance: Accelerating U.S. Leadership i…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w7arzv/energy_subcommittee_hearing_powering_the_nuclear/"
-    },
     {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
@@ -15,58 +10,8 @@
     },
     {
       "date": "2026-09-03",
-      "title": "Reactor Atlas, a fully interactive map of world's nuclear reactors, covering both power and res…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w6mvbk/reactor_atlas_a_fully_interactive_map_of_worlds/"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Oklo to build nuclear fuel recycling plant - Sept 1, 2026",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w6k4o8/oklo_to_build_nuclear_fuel_recycling_plant_sept_1/"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Was Electrical Engineering the wrong choice for my goals in the nuclear industry?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w6j2s6/was_electrical_engineering_the_wrong_choice_for/"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "NUCLEAR CONTAINERSHIP CORRIDOR BETWEEN UK AND U.S. UNDER STUDY Lloyd’s Register, Maersk and the…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w6dhny/nuclear_containership_corridor_between_uk_and_us/"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Studsvik, GE Vernova Hitachi and Samsung C&T commit to advancing 1.2 GW nuclear power project i…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w6901p/studsvik_ge_vernova_hitachi_and_samsung_ct_commit/"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Does anybody have images of how fresh nuclear fuel rods are transported to a nuclear reactor?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w673lf/does_anybody_have_images_of_how_fresh_nuclear/"
-    },
-    {
-      "date": "2026-09-03",
       "title": "Show HN: Reactor Atlas",
       "url": "https://reactoratlas.com"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "LR, Maersk and ports to examine nuclear-powered transatlantic container shipping route",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w5yhe7/lr_maersk_and_ports_to_examine_nuclearpowered/"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "ONE Nuclear secures Louisiana site for 2.88GW Project Cayman",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w5nqfs/one_nuclear_secures_louisiana_site_for_288gw/"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "Syria was building a nuclear reactor in Deir el-Zour under Assad, UN reports",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w5k083/syria_was_building_a_nuclear_reactor_in_deir/"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "IAEA: Syria Hid Nuclear Reactor, 73 Tons of Uranium",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w5iwan/iaea_syria_hid_nuclear_reactor_73_tons_of_uranium/"
     },
     {
       "date": "2026-09-02",
@@ -74,31 +19,26 @@
       "url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2"
     },
     {
-      "date": "2026-09-02",
-      "title": "Can South Korea solve Southeast Asia’s nuclear energy dilemma?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w52q5c/can_south_korea_solve_southeast_asias_nuclear/"
-    },
-    {
       "date": "2026-08-31",
       "title": "Radiant Wins $750M US Army Portable Nuclear Reactor Deal [video]",
       "url": "https://www.youtube.com/watch?v=1a90l6PAD1U"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Forgotten History of Small Nuclear Reactors (2015)",
-      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-09-04",
-      "title": "Energy Subcommittee Hearing - \"Powering the Nuclear Renaissance: Accelerating U.S. Leadership i…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w7arzv/energy_subcommittee_hearing_powering_the_nuclear/"
+      "date": "2026-09-03",
+      "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
+      "url": "https://github.com/PJHkorea/discrete-filament-router"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Show HN: Reactor Atlas",
+      "url": "https://reactoratlas.com"
     }
   ],
-  "latest_date": "2026-09-04",
-  "count_7d": 17,
-  "count_today": 1,
+  "latest_date": "2026-09-03",
+  "count_7d": 4,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
