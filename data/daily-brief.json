@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-04T06:27:39.929477+00:00",
+  "generated_at": "2026-09-04T11:40:23.692854+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-302d5ab983691b97",
+      "title": "IAEA: Syria Hid Nuclear Reactor, 73 Tons of Uranium",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w5iwan/iaea_syria_hid_nuclear_reactor_73_tons_of_uranium/",
+      "first_published_at": "2026-09-02T18:35:17+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 7.199999999999999
+    },
+    {
+      "story_id": "story-04eb0dd470339028",
+      "title": "Reactor Atlas, a fully interactive map of world's nuclear reactors, covering both power and res…",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1w5vybi/reactor_atlas_a_fully_interactive_map_of_worlds/",
+      "first_published_at": "2026-09-03T03:24:42+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 6.095329850015803
+    },
+    {
+      "story_id": "story-f3657dbc1925c59f",
+      "title": "Syria was building a nuclear reactor under Assad, UN reports",
+      "representative_url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2",
+      "first_published_at": "2026-09-02T06:51:34+00:00",
+      "sources": [
+        "hn_nuclear",
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "newbuild",
+      "score": 6.095329850015803
+    },
     {
       "story_id": "story-d9ab2d5054d58d21",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
@@ -19,50 +65,34 @@
       "score": 4.199999999999999
     },
     {
-      "story_id": "story-0a8144e5c6322fd8",
-      "title": "Syria Was Building a Nuclear Reactor in Deir el-Zour Under Assad, UN Reports",
-      "representative_url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2",
-      "first_published_at": "2026-09-02T06:51:34+00:00",
+      "story_id": "story-0ddc1267de412f0d",
+      "title": "Oklo to build nuclear fuel recycling plant - Sept 1, 2026",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w6k4o8/oklo_to_build_nuclear_fuel_recycling_plant_sept_1/",
+      "first_published_at": "2026-09-03T21:04:24+00:00",
       "sources": [
-        "nucleartownhall",
-        "hn_nuclear"
+        "reddit_nuclear"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 4.063553233343868
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 3.5999999999999996
     },
     {
-      "story_id": "story-810a858c8439103a",
-      "title": "Molten Salt Solutions Raises $7 Million to Scale Lithium Enrichment for Advanced Nuclear Energy",
-      "representative_url": "https://www.prnewswire.com/news-releases/molten-salt-solutions-raises-7-million-to-scale-lithium-enrichment-for-advanced-nuclear-energy-302863208.html",
-      "first_published_at": "2026-09-04T06:27:39.929477+00:00",
+      "story_id": "story-dfc841e6490d60bb",
+      "title": "Does anybody have images of how fresh nuclear fuel rods are transported to a nuclear reactor?",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w673lf/does_anybody_have_images_of_how_fresh_nuclear/",
+      "first_published_at": "2026-09-03T13:14:56+00:00",
       "sources": [
-        "nucleartownhall"
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
       "primary_section": "fuel",
-      "score": 4.0
-    },
-    {
-      "story_id": "story-0fc90f053d465432",
-      "title": "NRC Proposes Rule That Will Protect Drinking Water Near Uranium In-Situ Recovery Sites",
-      "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-076.pdf",
-      "first_published_at": "2026-09-04T06:27:39.929477+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
+      "score": 3.5999999999999996
     },
     {
       "story_id": "story-7622e8b7bb8aa5ec",
@@ -78,6 +108,21 @@
       "source_tier_rank": 4,
       "primary_section": "policy",
       "score": 3.25
+    },
+    {
+      "story_id": "story-a5a8c702e1d726e1",
+      "title": "NUCLEAR CONTAINERSHIP CORRIDOR BETWEEN UK AND U.S. UNDER STUDY Lloyd’s Register, Maersk and the…",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1w6dhz5/nuclear_containership_corridor_between_uk_and_us/",
+      "first_published_at": "2026-09-03T17:11:00+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.3,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "research",
+      "score": 3.0476649250079015
     },
     {
       "story_id": "story-5dcaef5c7bb3453f",
@@ -108,51 +153,6 @@
       "source_tier_rank": 4,
       "primary_section": "hot",
       "score": 3.0
-    },
-    {
-      "story_id": "story-7c5b5913577dfd29",
-      "title": "Tennessee Approves License for Nuclear Fusion Facility in Clinton, Bull Run Energy Complex",
-      "representative_url": "https://www.yahoo.com/news/science/articles/tennessee-approves-license-nuclear-fusion-221221024.html",
-      "first_published_at": "2026-09-04T06:27:39.929477+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 2.8
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-04T06:27:39.929477+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4e3b6450102a69dc",
-      "title": "Studsvik Selects GE Vernova Hitachi, Samsung C&T for 1.2-GW Swedish BWRX-300 Project",
-      "representative_url": "https://www.powermag.com/studsvik-selects-ge-vernova-hitachi-samsung-ct-for-1-2-gw-swedish-bwrx-300-project/",
-      "first_published_at": "2026-09-03T12:34:51+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.5,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 2.5
     }
   ]
 }
