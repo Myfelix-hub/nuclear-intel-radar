@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:31:25.503135+00:00",
+  "generated_at": "2026-09-05T12:32:41.193748+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -32,52 +32,6 @@
       "source_tier_rank": 5,
       "primary_section": "tech",
       "score": 4.199999999999999
-    },
-    {
-      "story_id": "story-f3657dbc1925c59f",
-      "title": "Syria Was Building a Nuclear Reactor in Deir el-Zour Under Assad, UN Reports",
-      "representative_url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2",
-      "first_published_at": "2026-09-02T19:13:28+00:00",
-      "sources": [
-        "nucleartownhall",
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 4.063553233343868
-    },
-    {
-      "story_id": "story-b2b354e5a477d8f6",
-      "title": "Four BWRX-300 Small Reactors Target 1.2 GW of Nuclear Power by the Mid-2030s",
-      "representative_url": "https://interestingengineering.com/energy/sweden-1-2gw-bwrx-300-smr-project",
-      "first_published_at": "2026-09-05T08:31:25.503135+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-0fc90f053d465432",
-      "title": "NRC Proposes Rule That Will Protect Drinking Water Near Uranium In-Situ Recovery Sites",
-      "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-076.pdf",
-      "first_published_at": "2026-09-05T08:31:25.503135+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
     },
     {
       "story_id": "story-4306023d860671d9",
@@ -140,6 +94,36 @@
       "score": 3.5999999999999996
     },
     {
+      "story_id": "story-7622e8b7bb8aa5ec",
+      "title": "Modern Regulation for a New Nuclear Era",
+      "representative_url": "https://www.powermag.com/modern-regulation-for-a-new-nuclear-era/",
+      "first_published_at": "2026-09-03T20:31:57+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.65,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "policy",
+      "score": 3.25
+    },
+    {
+      "story_id": "story-3ba606bc5691c02b",
+      "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/",
+      "first_published_at": "2026-09-05T09:35:12+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.5,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "safety",
+      "score": 3.0
+    },
+    {
       "story_id": "story-5dcaef5c7bb3453f",
       "title": "Three Questions Every Utility Should Ask About Advanced Reactors",
       "representative_url": "https://www.powermag.com/three-questions-every-utility-should-ask-about-advanced-reactors/",
@@ -152,6 +136,21 @@
       "source_tier": "general_media",
       "source_tier_rank": 4,
       "primary_section": "tech",
+      "score": 3.0
+    },
+    {
+      "story_id": "story-fc894658137e6d9f",
+      "title": "TIDAL PWR, BTQ Develop Blueprint for Quantum-Ready Data Centers",
+      "representative_url": "https://www.powermag.com/tidal-pwr-btq-develop-blueprint-for-quantum-ready-data-centers/",
+      "first_published_at": "2026-09-02T14:21:13+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "hot",
       "score": 3.0
     }
   ]

@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-05T08:31:25.503135+00:00",
+  "generated_at": "2026-09-05T12:32:41.193748+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-05",
+      "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/"
+    },
     {
       "date": "2026-09-05",
       "title": "Nuclear reactor simulations advance with quantum particle transport breakthrough",
@@ -65,11 +70,6 @@
     },
     {
       "date": "2026-09-02",
-      "title": "Syria was building a nuclear reactor in Deir el-Zour under Assad, UN reports",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w5k083/syria_was_building_a_nuclear_reactor_in_deir/"
-    },
-    {
-      "date": "2026-09-02",
       "title": "IAEA: Syria Hid Nuclear Reactor, 73 Tons of Uranium",
       "url": "https://www.reddit.com/r/nuclear/comments/1w5iwan/iaea_syria_hid_nuclear_reactor_73_tons_of_uranium/"
     },
@@ -87,13 +87,18 @@
   "updates_today": [
     {
       "date": "2026-09-05",
+      "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/"
+    },
+    {
+      "date": "2026-09-05",
       "title": "Nuclear reactor simulations advance with quantum particle transport breakthrough",
       "url": "https://www.reddit.com/r/nuclear/comments/1w7s9p0/nuclear_reactor_simulations_advance_with_quantum/"
     }
   ],
   "latest_date": "2026-09-05",
   "count_7d": 16,
-  "count_today": 1,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null

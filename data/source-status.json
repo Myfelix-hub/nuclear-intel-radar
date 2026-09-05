@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
@@ -19,13 +19,13 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 0,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "warning": null
     },
     {
       "site_id": "neutronbytes",
@@ -37,13 +37,13 @@
       "warning": null
     },
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 10,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "iaea_news",
@@ -211,10 +211,10 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 141,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
     },
     {
       "site_id": "nei_magazine",
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 3034,
+      "duration_ms": 3192,
       "error": null,
       "warning": null
     },
@@ -302,7 +302,7 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 5897,
+      "duration_ms": 5932,
       "error": null,
       "warning": null
     }
@@ -364,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 276,
-  "items_before_topic_filter": 276,
+  "fetched_raw_items": 135,
+  "items_before_topic_filter": 135,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
