@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:32:41.193748+00:00",
+  "generated_at": "2026-09-05T15:53:40.401506+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -139,19 +139,19 @@
       "score": 3.0
     },
     {
-      "story_id": "story-fc894658137e6d9f",
-      "title": "TIDAL PWR, BTQ Develop Blueprint for Quantum-Ready Data Centers",
-      "representative_url": "https://www.powermag.com/tidal-pwr-btq-develop-blueprint-for-quantum-ready-data-centers/",
-      "first_published_at": "2026-09-02T14:21:13+00:00",
+      "story_id": "story-4cac66c6fef215a4",
+      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
+      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
+      "first_published_at": "2026-09-05T15:53:40.401506+00:00",
       "sources": [
-        "powermag"
+        "kairos"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 3.0
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
     }
   ]
 }
