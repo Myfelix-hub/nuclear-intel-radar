@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-09-05T04:03:47.848820+00:00",
+  "generated_at": "2026-09-05T08:31:25.503135+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-302d5ab983691b97",
+      "title": "IAEA: Syria Hid Nuclear Reactor, 73 Tons of Uranium",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w5iwan/iaea_syria_hid_nuclear_reactor_73_tons_of_uranium/",
+      "first_published_at": "2026-09-02T18:35:17+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 7.199999999999999
+    },
     {
       "story_id": "story-d9ab2d5054d58d21",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
@@ -19,34 +34,110 @@
       "score": 4.199999999999999
     },
     {
-      "story_id": "story-41550de906085f68",
-      "title": "Syria was building a nuclear reactor under Assad, UN reports",
+      "story_id": "story-f3657dbc1925c59f",
+      "title": "Syria Was Building a Nuclear Reactor in Deir el-Zour Under Assad, UN Reports",
       "representative_url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2",
-      "first_published_at": "2026-09-02T06:51:34+00:00",
+      "first_published_at": "2026-09-02T19:13:28+00:00",
       "sources": [
-        "hn_nuclear"
+        "nucleartownhall",
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-b2b354e5a477d8f6",
+      "title": "Four BWRX-300 Small Reactors Target 1.2 GW of Nuclear Power by the Mid-2030s",
+      "representative_url": "https://interestingengineering.com/energy/sweden-1-2gw-bwrx-300-smr-project",
+      "first_published_at": "2026-09-05T08:31:25.503135+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-0fc90f053d465432",
+      "title": "NRC Proposes Rule That Will Protect Drinking Water Near Uranium In-Situ Recovery Sites",
+      "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-076.pdf",
+      "first_published_at": "2026-09-05T08:31:25.503135+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-4306023d860671d9",
+      "title": "Nuclear reactor simulations advance with quantum particle transport breakthrough",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w7s9p0/nuclear_reactor_simulations_advance_with_quantum/",
+      "first_published_at": "2026-09-05T05:57:16+00:00",
+      "sources": [
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.6,
       "source_tier": "community",
       "source_tier_rank": 5,
-      "primary_section": "newbuild",
+      "primary_section": "tech",
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-7622e8b7bb8aa5ec",
-      "title": "Modern Regulation for a New Nuclear Era",
-      "representative_url": "https://www.powermag.com/modern-regulation-for-a-new-nuclear-era/",
-      "first_published_at": "2026-09-03T20:31:57+00:00",
+      "story_id": "story-44bbfccfcd031364",
+      "title": "Reactor Atlas, a fully interactive map of world's nuclear reactors, covering both power and res…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w6mvbk/reactor_atlas_a_fully_interactive_map_of_worlds/",
+      "first_published_at": "2026-09-03T22:51:05+00:00",
       "sources": [
-        "powermag"
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.65,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "policy",
-      "score": 3.25
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-0ddc1267de412f0d",
+      "title": "Oklo to build nuclear fuel recycling plant - Sept 1, 2026",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w6k4o8/oklo_to_build_nuclear_fuel_recycling_plant_sept_1/",
+      "first_published_at": "2026-09-03T21:04:24+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-dfc841e6490d60bb",
+      "title": "Does anybody have images of how fresh nuclear fuel rods are transported to a nuclear reactor?",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w673lf/does_anybody_have_images_of_how_fresh_nuclear/",
+      "first_published_at": "2026-09-03T13:14:56+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 3.5999999999999996
     },
     {
       "story_id": "story-5dcaef5c7bb3453f",
@@ -62,96 +153,6 @@
       "source_tier_rank": 4,
       "primary_section": "tech",
       "score": 3.0
-    },
-    {
-      "story_id": "story-fc894658137e6d9f",
-      "title": "TIDAL PWR, BTQ Develop Blueprint for Quantum-Ready Data Centers",
-      "representative_url": "https://www.powermag.com/tidal-pwr-btq-develop-blueprint-for-quantum-ready-data-centers/",
-      "first_published_at": "2026-09-02T14:21:13+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 3.0
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-05T04:03:47.848820+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4e3b6450102a69dc",
-      "title": "Studsvik Selects GE Vernova Hitachi, Samsung C&T for 1.2-GW Swedish BWRX-300 Project",
-      "representative_url": "https://www.powermag.com/studsvik-selects-ge-vernova-hitachi-samsung-ct-for-1-2-gw-swedish-bwrx-300-project/",
-      "first_published_at": "2026-09-03T12:34:51+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.5,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 2.5
-    },
-    {
-      "story_id": "story-ec275d024c79f1bd",
-      "title": "中核集团人事密集调整！涉及江苏核电等！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-09-05T04:03:47.848820+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "china",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-6dc9add4ab243f52",
-      "title": "这家核电机组FCD！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-09-05T04:03:47.848820+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-5e48139c4444eeae",
-      "title": "One Nuclear Signs Deal for 2.88-GW Gas-Fired Plant, Large BESS for Louisiana Data Center Campus",
-      "representative_url": "https://www.powermag.com/one-nuclear-signs-deal-for-2-88-gw-gas-fired-plant-large-bess-for-louisiana-data-center-campus/",
-      "first_published_at": "2026-09-02T18:38:26+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 2.0
     }
   ]
 }
