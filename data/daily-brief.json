@@ -1,24 +1,8 @@
 {
-  "generated_at": "2026-09-06T14:04:29.749098+00:00",
+  "generated_at": "2026-09-06T17:17:38.705381+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
-    {
-      "story_id": "story-effab916104fab95",
-      "title": "Three Questions Every Utility Should Ask About Advanced Reactors",
-      "representative_url": "https://www.powermag.com/three-questions-every-utility-should-ask-about-advanced-reactors/",
-      "first_published_at": "2026-09-03T14:05:02+00:00",
-      "sources": [
-        "powermag",
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "tech",
-      "score": 5.079441541679836
-    },
     {
       "story_id": "story-d9ab2d5054d58d21",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
@@ -110,21 +94,6 @@
       "score": 3.25
     },
     {
-      "story_id": "story-a5a8c702e1d726e1",
-      "title": "NUCLEAR CONTAINERSHIP CORRIDOR BETWEEN UK AND U.S. UNDER STUDY Lloyd’s Register, Maersk and the…",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1w6dhz5/nuclear_containership_corridor_between_uk_and_us/",
-      "first_published_at": "2026-09-03T17:11:00+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "research",
-      "score": 3.0476649250079015
-    },
-    {
       "story_id": "story-3ba606bc5691c02b",
       "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/",
@@ -143,7 +112,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-06T14:04:29.749098+00:00",
+      "first_published_at": "2026-09-06T17:17:38.705381+00:00",
       "sources": [
         "kairos"
       ],
@@ -153,6 +122,36 @@
       "source_tier_rank": 2,
       "primary_section": "safety",
       "score": 2.7
+    },
+    {
+      "story_id": "story-cb6344668110dfa9",
+      "title": "Can Safer Fuel Power A Nuclear Energy Boom?",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w8aref/can_safer_fuel_power_a_nuclear_energy_boom/",
+      "first_published_at": "2026-09-05T19:55:43+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-47a862ead6bfe934",
+      "title": "Energy Subcommittee Hearing - \"Powering the Nuclear Renaissance: Accelerating U.S. Leadership i…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w7arzv/energy_subcommittee_hearing_powering_the_nuclear/",
+      "first_published_at": "2026-09-04T17:23:33+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
     }
   ]
 }
