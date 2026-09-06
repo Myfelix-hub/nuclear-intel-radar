@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-05T22:44:55.360832+00:00",
+  "generated_at": "2026-09-06T00:46:29.026873+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-06",
+      "title": "Inquiry on how you become a nuclear operator",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w8h7f0/inquiry_on_how_you_become_a_nuclear_operator/"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "South korea nuclear plan",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w81cm7/south_korea_nuclear_plan/"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Nuclear power plant operator vision requirements",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w7oe6z/nuclear_power_plant_operator_vision_requirements/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Federal inspectors say Palisades failed to follow regulations on radiation exposure",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w7hrwd/federal_inspectors_say_palisades_failed_to_follow/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "🚨BREAKING🚨 New Mexico State bans new Uranium mining leases on State Trust Lands! 💥✊🙌👏🏼",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w7crz5/breaking_new_mexico_state_bans_new_uranium_mining/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "One Nuclear Signs Deal for 2.88-GW combined Nuclear, Gas, and BESS for Louisiana Data Center Ca…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w74xyu/one_nuclear_signs_deal_for_288gw_combined_nuclear/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Three Questions Every Utility Should Ask About Advanced Reactors",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w74pdp/three_questions_every_utility_should_ask_about/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "TerraPower selects more suppliers for Natrium components",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w74k31/terrapower_selects_more_suppliers_for_natrium/"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Holtec began loading fuel into Palisades' reactor vessel August 31, the plant's first fuel load…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w6nzu6/holtec_began_loading_fuel_into_palisades_reactor/"
+    },
     {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
@@ -10,8 +55,18 @@
     },
     {
       "date": "2026-09-03",
+      "title": "NUCLEAR CONTAINERSHIP CORRIDOR BETWEEN UK AND U.S. UNDER STUDY Lloyd’s Register, Maersk and the…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w6dhz5/nuclear_containership_corridor_between_uk_and_us/"
+    },
+    {
+      "date": "2026-09-03",
       "title": "Show HN: Reactor Atlas",
       "url": "https://reactoratlas.com"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Japan is still in top 3 by nuclear power capacity, even after Fukushima event",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w5ypnn/japan_is_still_in_top_3_by_nuclear_power_capacity/"
     },
     {
       "date": "2026-09-02",
@@ -26,19 +81,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-03",
-      "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
-      "url": "https://github.com/PJHkorea/discrete-filament-router"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Show HN: Reactor Atlas",
-      "url": "https://reactoratlas.com"
+      "date": "2026-09-06",
+      "title": "Inquiry on how you become a nuclear operator",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w8h7f0/inquiry_on_how_you_become_a_nuclear_operator/"
     }
   ],
-  "latest_date": "2026-09-03",
-  "count_7d": 4,
-  "count_today": 2,
+  "latest_date": "2026-09-06",
+  "count_7d": 15,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
