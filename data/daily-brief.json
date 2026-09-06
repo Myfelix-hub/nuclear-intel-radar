@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T05:44:01.019565+00:00",
+  "generated_at": "2026-09-06T10:43:00.103575+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -19,34 +19,19 @@
       "score": 4.199999999999999
     },
     {
-      "story_id": "story-b2b354e5a477d8f6",
-      "title": "Four BWRX-300 Small Reactors Target 1.2 GW of Nuclear Power by the Mid-2030s",
-      "representative_url": "https://interestingengineering.com/energy/sweden-1-2gw-bwrx-300-smr-project",
-      "first_published_at": "2026-09-06T05:44:01.019565+00:00",
+      "story_id": "story-7622e8b7bb8aa5ec",
+      "title": "Modern Regulation for a New Nuclear Era",
+      "representative_url": "https://www.powermag.com/modern-regulation-for-a-new-nuclear-era/",
+      "first_published_at": "2026-09-03T20:31:57+00:00",
       "sources": [
-        "nucleartownhall"
+        "powermag"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-0fc90f053d465432",
-      "title": "NRC Proposes Rule That Will Protect Drinking Water Near Uranium In-Situ Recovery Sites",
-      "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-076.pdf",
-      "first_published_at": "2026-09-06T05:44:01.019565+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
+      "nuclear_score": 0.65,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "policy",
+      "score": 3.25
     },
     {
       "story_id": "story-5dcaef5c7bb3453f",
@@ -64,25 +49,10 @@
       "score": 3.0
     },
     {
-      "story_id": "story-6b7f3ca6921aae03",
-      "title": "Britain to Build Turbines for Rolls-Royce Mini-Nuclear Reactors",
-      "representative_url": "https://www.yahoo.com/news/science/articles/britain-build-turbines-rolls-royce-083340514.html",
-      "first_published_at": "2026-09-06T05:44:01.019565+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "safety",
-      "score": 2.8
-    },
-    {
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-06T05:44:01.019565+00:00",
+      "first_published_at": "2026-09-06T10:43:00.103575+00:00",
       "sources": [
         "kairos"
       ],
@@ -109,25 +79,10 @@
       "score": 2.5
     },
     {
-      "story_id": "story-fdf2bfdde7eb7bff",
-      "title": "NUCLEAR FISSIONARY",
-      "representative_url": "http://nuclearfissionary.com/",
-      "first_published_at": "2026-09-06T05:44:01.019565+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 2.4
-    },
-    {
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-09-06T05:44:01.019565+00:00",
+      "first_published_at": "2026-09-06T10:43:00.103575+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -142,7 +97,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-09-06T05:44:01.019565+00:00",
+      "first_published_at": "2026-09-06T10:43:00.103575+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -152,6 +107,51 @@
       "source_tier_rank": 3,
       "primary_section": "newbuild",
       "score": 2.4
+    },
+    {
+      "story_id": "story-6bf9a5aa79d64690",
+      "title": "NRC proposes rule for decommissioning timelines, groundwater protection",
+      "representative_url": "https://www.ans.org/news/2026-09-04/article-8368/nrc-proposes-rule-for-decommissioning-timelines-groundwater-protection/",
+      "first_published_at": "2026-09-04T14:29:22+00:00",
+      "sources": [
+        "ans_newswire"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "nuclear_media",
+      "source_tier_rank": 1,
+      "primary_section": "safety",
+      "score": 1.8
+    },
+    {
+      "story_id": "story-393a12f15e557211",
+      "title": "Kairos Power Announces New Collaboration to Advance Nuclear Manufacturing, Construction, and Wo…",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-announces-new-collaboration-to-advance-nuclear-manufacturing-construction-and-workforce-development-in-east-tennessee",
+      "first_published_at": "2026-09-06T10:43:00.103575+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "newbuild",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-5e7a7765e34fe669",
+      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
+      "first_published_at": "2026-09-06T10:43:00.103575+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "policy",
+      "score": 1.7999999999999998
     }
   ]
 }
