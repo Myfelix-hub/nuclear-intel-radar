@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T23:42:22.449367+00:00",
+  "generated_at": "2026-09-07T04:10:27.348933+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,6 +7,21 @@
       "date": "2026-09-06",
       "title": "History and projection of installed nuclear capacity by country",
       "url": "https://www.reddit.com/r/NuclearPower/comments/1w9a4kn/history_and_projection_of_installed_nuclear/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Nuclear materials needed for family",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w8xh7k/nuclear_materials_needed_for_family/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w8pl2n/america_is_betting_big_on_a_new_generation_of/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "PJM Just Accidentally Revealed Oklo’s Cycle 1 Pipeline Is Much Bigger Than We Knew",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w8kx22/pjm_just_accidentally_revealed_oklos_cycle_1/"
     },
     {
       "date": "2026-09-06",
@@ -25,8 +40,28 @@
     },
     {
       "date": "2026-09-05",
+      "title": "Can Safer Fuel Power A Nuclear Energy Boom?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w8aref/can_safer_fuel_power_a_nuclear_energy_boom/"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Salt Lake Tribune: Utah’s ambitious nuclear revolution trudges forward as an early piece falls …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w861m4/salt_lake_tribune_utahs_ambitious_nuclear/"
+    },
+    {
+      "date": "2026-09-05",
       "title": "South korea nuclear plan",
       "url": "https://www.reddit.com/r/NuclearPower/comments/1w81cm7/south_korea_nuclear_plan/"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Nuclear reactor simulations advance with quantum particle transport breakthrough",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w7s9p0/nuclear_reactor_simulations_advance_with_quantum/"
     },
     {
       "date": "2026-09-05",
@@ -37,6 +72,11 @@
       "date": "2026-09-04",
       "title": "Federal inspectors say Palisades failed to follow regulations on radiation exposure",
       "url": "https://www.reddit.com/r/NuclearPower/comments/1w7hrwd/federal_inspectors_say_palisades_failed_to_follow/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Energy Subcommittee Hearing - \"Powering the Nuclear Renaissance: Accelerating U.S. Leadership i…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w7arzv/energy_subcommittee_hearing_powering_the_nuclear/"
     },
     {
       "date": "2026-09-04",
@@ -82,6 +122,21 @@
     },
     {
       "date": "2026-09-06",
+      "title": "Nuclear materials needed for family",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w8xh7k/nuclear_materials_needed_for_family/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w8pl2n/america_is_betting_big_on_a_new_generation_of/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "PJM Just Accidentally Revealed Oklo’s Cycle 1 Pipeline Is Much Bigger Than We Knew",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w8kx22/pjm_just_accidentally_revealed_oklos_cycle_1/"
+    },
+    {
+      "date": "2026-09-06",
       "title": "Ten years later, here's what Fukushima's damaged reactors look like today | Science | AAAS",
       "url": "https://www.reddit.com/r/NuclearPower/comments/1w8josl/ten_years_later_heres_what_fukushimas_damaged/"
     },
@@ -97,8 +152,8 @@
     }
   ],
   "latest_date": "2026-09-06",
-  "count_7d": 14,
-  "count_today": 4,
+  "count_7d": 22,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null

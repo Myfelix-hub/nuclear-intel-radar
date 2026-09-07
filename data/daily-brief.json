@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-09-06T23:42:22.449367+00:00",
+  "generated_at": "2026-09-07T04:10:27.348933+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-164a98ac32933e09",
+      "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w8pl2n/america_is_betting_big_on_a_new_generation_of/",
+      "first_published_at": "2026-09-06T07:40:10+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-4306023d860671d9",
+      "title": "Nuclear reactor simulations advance with quantum particle transport breakthrough",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w7s9p0/nuclear_reactor_simulations_advance_with_quantum/",
+      "first_published_at": "2026-09-05T05:57:16+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 3.5999999999999996
+    },
     {
       "story_id": "story-9c0ea24fc15c5c9d",
       "title": "Three Questions Every Utility Should Ask About Advanced Reactors",
@@ -19,10 +49,25 @@
       "score": 3.5999999999999996
     },
     {
+      "story_id": "story-3ba606bc5691c02b",
+      "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/",
+      "first_published_at": "2026-09-05T09:35:12+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.5,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "safety",
+      "score": 3.0
+    },
+    {
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-06T23:42:22.449367+00:00",
+      "first_published_at": "2026-09-07T04:10:27.348933+00:00",
       "sources": [
         "kairos"
       ],
@@ -32,6 +77,21 @@
       "source_tier_rank": 2,
       "primary_section": "safety",
       "score": 2.7
+    },
+    {
+      "story_id": "story-cb6344668110dfa9",
+      "title": "Can Safer Fuel Power A Nuclear Energy Boom?",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w8aref/can_safer_fuel_power_a_nuclear_energy_boom/",
+      "first_published_at": "2026-09-05T19:55:43+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 2.4000000000000004
     },
     {
       "story_id": "story-bb7acc8a57bd1f94",
@@ -49,10 +109,25 @@
       "score": 2.4000000000000004
     },
     {
+      "story_id": "story-47a862ead6bfe934",
+      "title": "Energy Subcommittee Hearing - \"Powering the Nuclear Renaissance: Accelerating U.S. Leadership i…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w7arzv/energy_subcommittee_hearing_powering_the_nuclear/",
+      "first_published_at": "2026-09-04T17:23:33+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-09-06T23:42:22.449367+00:00",
+      "first_published_at": "2026-09-07T04:10:27.348933+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -67,7 +142,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-09-06T23:42:22.449367+00:00",
+      "first_published_at": "2026-09-07T04:10:27.348933+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -77,81 +152,6 @@
       "source_tier_rank": 3,
       "primary_section": "newbuild",
       "score": 2.4
-    },
-    {
-      "story_id": "story-6bf9a5aa79d64690",
-      "title": "NRC proposes rule for decommissioning timelines, groundwater protection",
-      "representative_url": "https://www.ans.org/news/2026-09-04/article-8368/nrc-proposes-rule-for-decommissioning-timelines-groundwater-protection/",
-      "first_published_at": "2026-09-04T14:29:22+00:00",
-      "sources": [
-        "ans_newswire"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "safety",
-      "score": 1.8
-    },
-    {
-      "story_id": "story-393a12f15e557211",
-      "title": "Kairos Power Announces New Collaboration to Advance Nuclear Manufacturing, Construction, and Wo…",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-announces-new-collaboration-to-advance-nuclear-manufacturing-construction-and-workforce-development-in-east-tennessee",
-      "first_published_at": "2026-09-06T23:42:22.449367+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "newbuild",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-5e7a7765e34fe669",
-      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
-      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
-      "first_published_at": "2026-09-06T23:42:22.449367+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "policy",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-a1876e854f18516c",
-      "title": "History and projection of installed nuclear capacity by country",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1w9a4kn/history_and_projection_of_installed_nuclear/",
-      "first_published_at": "2026-09-06T22:21:54+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 1.7999999999999998
-    },
-    {
-      "story_id": "story-909793a34bc0e08c",
-      "title": "Ten years later, here's what Fukushima's damaged reactors look like today | Science | AAAS",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1w8josl/ten_years_later_heres_what_fukushimas_damaged/",
-      "first_published_at": "2026-09-06T02:28:16+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 1.7999999999999998
     }
   ]
 }
