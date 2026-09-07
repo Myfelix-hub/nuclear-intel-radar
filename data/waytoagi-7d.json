@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-07T09:37:01.830155+00:00",
+  "generated_at": "2026-09-07T15:42:22.616307+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-07",
+      "title": "\"A great result\": 99.9% of Scotland's first commercial wind farm was recycled and reused after …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w9uqm7/a_great_result_999_of_scotlands_first_commercial/"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Korea to invest in construction of 8 reactors in the United States, using mix of both APR1400 a…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w9uhit/korea_to_invest_in_construction_of_8_reactors_in/"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Climate change is exposing nuclear power's reliability problem. \"Nuclear doesn't care about the…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w9nnm7/climate_change_is_exposing_nuclear_powers/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "History and projection of installed nuclear capacity by country",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w9a4kn/history_and_projection_of_installed_nuclear/"
+    },
     {
       "date": "2026-09-06",
       "title": "Nuclear materials needed for family",
@@ -19,6 +39,21 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1w8kx22/pjm_just_accidentally_revealed_oklos_cycle_1/"
     },
     {
+      "date": "2026-09-06",
+      "title": "Ten years later, here's what Fukushima's damaged reactors look like today | Science | AAAS",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w8josl/ten_years_later_heres_what_fukushimas_damaged/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "County Creates Nuclear Advisory Council and Its Leaders Immediately Clash Over Whether the Publ…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w8iaaw/county_creates_nuclear_advisory_council_and_its/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Inquiry on how you become a nuclear operator",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w8h7f0/inquiry_on_how_you_become_a_nuclear_operator/"
+    },
+    {
       "date": "2026-09-05",
       "title": "Can Safer Fuel Power A Nuclear Energy Boom?",
       "url": "https://www.reddit.com/r/nuclear/comments/1w8aref/can_safer_fuel_power_a_nuclear_energy_boom/"
@@ -30,6 +65,11 @@
     },
     {
       "date": "2026-09-05",
+      "title": "South korea nuclear plan",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w81cm7/south_korea_nuclear_plan/"
+    },
+    {
+      "date": "2026-09-05",
       "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
       "url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/"
     },
@@ -37,6 +77,11 @@
       "date": "2026-09-05",
       "title": "Nuclear reactor simulations advance with quantum particle transport breakthrough",
       "url": "https://www.reddit.com/r/nuclear/comments/1w7s9p0/nuclear_reactor_simulations_advance_with_quantum/"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Nuclear power plant operator vision requirements",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w7oe6z/nuclear_power_plant_operator_vision_requirements/"
     },
     {
       "date": "2026-09-04",
@@ -66,23 +111,23 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-06",
-      "title": "Nuclear materials needed for family",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8xh7k/nuclear_materials_needed_for_family/"
+      "date": "2026-09-07",
+      "title": "\"A great result\": 99.9% of Scotland's first commercial wind farm was recycled and reused after …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w9uqm7/a_great_result_999_of_scotlands_first_commercial/"
     },
     {
-      "date": "2026-09-06",
-      "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8pl2n/america_is_betting_big_on_a_new_generation_of/"
+      "date": "2026-09-07",
+      "title": "Korea to invest in construction of 8 reactors in the United States, using mix of both APR1400 a…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w9uhit/korea_to_invest_in_construction_of_8_reactors_in/"
     },
     {
-      "date": "2026-09-06",
-      "title": "PJM Just Accidentally Revealed Oklo’s Cycle 1 Pipeline Is Much Bigger Than We Knew",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8kx22/pjm_just_accidentally_revealed_oklos_cycle_1/"
+      "date": "2026-09-07",
+      "title": "Climate change is exposing nuclear power's reliability problem. \"Nuclear doesn't care about the…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1w9nnm7/climate_change_is_exposing_nuclear_powers/"
     }
   ],
-  "latest_date": "2026-09-06",
-  "count_7d": 12,
+  "latest_date": "2026-09-07",
+  "count_7d": 21,
   "count_today": 3,
   "has_error": false,
   "error": null,
