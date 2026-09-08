@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-08T06:27:14.508089+00:00",
+  "generated_at": "2026-09-08T11:40:35.848975+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-08",
+      "title": "Fresh record set for nuclear generation in 2025",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wajvdf/fresh_record_set_for_nuclear_generation_in_2025/"
+    },
     {
       "date": "2026-09-08",
       "title": "South Korea weighs building eight nuclear reactors in the U.S.",
@@ -39,11 +44,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1w861m4/salt_lake_tribune_utahs_ambitious_nuclear/"
     },
     {
-      "date": "2026-09-05",
-      "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/"
-    },
-    {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
       "url": "https://github.com/PJHkorea/discrete-filament-router"
@@ -62,13 +62,18 @@
   "updates_today": [
     {
       "date": "2026-09-08",
+      "title": "Fresh record set for nuclear generation in 2025",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wajvdf/fresh_record_set_for_nuclear_generation_in_2025/"
+    },
+    {
+      "date": "2026-09-08",
       "title": "South Korea weighs building eight nuclear reactors in the U.S.",
       "url": "https://www.reddit.com/r/nuclear/comments/1waf3ir/south_korea_weighs_building_eight_nuclear/"
     }
   ],
   "latest_date": "2026-09-08",
   "count_7d": 11,
-  "count_today": 1,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
