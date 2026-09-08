@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-08T16:27:52.075603+00:00",
+  "generated_at": "2026-09-08T19:32:12.734985+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-08",
+      "title": "The yawning gap between ambition and action on nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wayd9j/the_yawning_gap_between_ambition_and_action_on/"
+    },
     {
       "date": "2026-09-08",
       "title": "Fresh record set for nuclear generation in 2025",
@@ -39,11 +44,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1w8aref/can_safer_fuel_power_a_nuclear_energy_boom/"
     },
     {
-      "date": "2026-09-05",
-      "title": "Salt Lake Tribune: Utah’s ambitious nuclear revolution trudges forward as an early piece falls …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w861m4/salt_lake_tribune_utahs_ambitious_nuclear/"
-    },
-    {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
       "url": "https://github.com/PJHkorea/discrete-filament-router"
@@ -62,6 +62,11 @@
   "updates_today": [
     {
       "date": "2026-09-08",
+      "title": "The yawning gap between ambition and action on nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wayd9j/the_yawning_gap_between_ambition_and_action_on/"
+    },
+    {
+      "date": "2026-09-08",
       "title": "Fresh record set for nuclear generation in 2025",
       "url": "https://www.reddit.com/r/nuclear/comments/1wajvdf/fresh_record_set_for_nuclear_generation_in_2025/"
     },
@@ -73,7 +78,7 @@
   ],
   "latest_date": "2026-09-08",
   "count_7d": 11,
-  "count_today": 2,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
