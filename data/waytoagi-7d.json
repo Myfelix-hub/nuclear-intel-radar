@@ -1,48 +1,8 @@
 {
-  "generated_at": "2026-09-07T22:43:14.141929+00:00",
+  "generated_at": "2026-09-08T01:04:31.102991+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-09-07",
-      "title": "Korea to invest in construction of 8 reactors in the United States, using mix of both APR1400 a…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w9uhit/korea_to_invest_in_construction_of_8_reactors_in/"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "Nuclear materials needed for family",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8xh7k/nuclear_materials_needed_for_family/"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8pl2n/america_is_betting_big_on_a_new_generation_of/"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "PJM Just Accidentally Revealed Oklo’s Cycle 1 Pipeline Is Much Bigger Than We Knew",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8kx22/pjm_just_accidentally_revealed_oklos_cycle_1/"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Can Safer Fuel Power A Nuclear Energy Boom?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8aref/can_safer_fuel_power_a_nuclear_energy_boom/"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Salt Lake Tribune: Utah’s ambitious nuclear revolution trudges forward as an early piece falls …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w861m4/salt_lake_tribune_utahs_ambitious_nuclear/"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Nuclear reactor simulations advance with quantum particle transport breakthrough",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w7s9p0/nuclear_reactor_simulations_advance_with_quantum/"
-    },
     {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
@@ -57,23 +17,23 @@
       "date": "2026-09-02",
       "title": "Syria was building a nuclear reactor under Assad, UN reports",
       "url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "Radiant Wins $750M US Army Portable Nuclear Reactor Deal [video]",
-      "url": "https://www.youtube.com/watch?v=1a90l6PAD1U"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-09-07",
-      "title": "Korea to invest in construction of 8 reactors in the United States, using mix of both APR1400 a…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w9uhit/korea_to_invest_in_construction_of_8_reactors_in/"
+      "date": "2026-09-03",
+      "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
+      "url": "https://github.com/PJHkorea/discrete-filament-router"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Show HN: Reactor Atlas",
+      "url": "https://reactoratlas.com"
     }
   ],
-  "latest_date": "2026-09-07",
-  "count_7d": 12,
-  "count_today": 1,
+  "latest_date": "2026-09-03",
+  "count_7d": 3,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:43:14.141929+00:00",
+  "generated_at": "2026-09-08T01:04:31.102991+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -7,7 +7,7 @@
       "story_id": "story-b2b354e5a477d8f6",
       "title": "Four BWRX-300 Small Reactors Target 1.2 GW of Nuclear Power by the Mid-2030s",
       "representative_url": "https://interestingengineering.com/energy/sweden-1-2gw-bwrx-300-smr-project",
-      "first_published_at": "2026-09-07T22:43:14.141929+00:00",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -22,7 +22,7 @@
       "story_id": "story-0fc90f053d465432",
       "title": "NRC Proposes Rule That Will Protect Drinking Water Near Uranium In-Situ Recovery Sites",
       "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-076.pdf",
-      "first_published_at": "2026-09-07T22:43:14.141929+00:00",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -34,70 +34,10 @@
       "score": 3.6
     },
     {
-      "story_id": "story-11887279a54e986e",
-      "title": "Korea to invest in construction of 8 reactors in the United States, using mix of both APR1400 a…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w9uhit/korea_to_invest_in_construction_of_8_reactors_in/",
-      "first_published_at": "2026-09-07T14:59:09+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "newbuild",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-164a98ac32933e09",
-      "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w8pl2n/america_is_betting_big_on_a_new_generation_of/",
-      "first_published_at": "2026-09-06T07:40:10+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-4306023d860671d9",
-      "title": "Nuclear reactor simulations advance with quantum particle transport breakthrough",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w7s9p0/nuclear_reactor_simulations_advance_with_quantum/",
-      "first_published_at": "2026-09-05T05:57:16+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-3ba606bc5691c02b",
-      "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w7w4ug/siemens_energy_to_produce_rollsroyce_smr_turbines/",
-      "first_published_at": "2026-09-05T09:35:12+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.5,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "safety",
-      "score": 3.0
-    },
-    {
       "story_id": "story-6b7f3ca6921aae03",
       "title": "Britain to Build Turbines for Rolls-Royce Mini-Nuclear Reactors",
       "representative_url": "https://www.yahoo.com/news/science/articles/britain-build-turbines-rolls-royce-083340514.html",
-      "first_published_at": "2026-09-07T22:43:14.141929+00:00",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -112,7 +52,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-07T22:43:14.141929+00:00",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
       "sources": [
         "kairos"
       ],
@@ -124,25 +64,10 @@
       "score": 2.7
     },
     {
-      "story_id": "story-cb6344668110dfa9",
-      "title": "Can Safer Fuel Power A Nuclear Energy Boom?",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1w8aref/can_safer_fuel_power_a_nuclear_energy_boom/",
-      "first_published_at": "2026-09-05T19:55:43+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "fuel",
-      "score": 2.4000000000000004
-    },
-    {
       "story_id": "story-fdf2bfdde7eb7bff",
       "title": "NUCLEAR FISSIONARY",
       "representative_url": "http://nuclearfissionary.com/",
-      "first_published_at": "2026-09-07T22:43:14.141929+00:00",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -151,6 +76,81 @@
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "tech",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-759bcaba417840ff",
+      "title": "Syria Was Building a Nuclear Reactor in Deir el-Zour Under Assad, UN Reports",
+      "representative_url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-b95009388999915f",
+      "title": "Egypt Complained About Rosatom’s Nuclear Work. Now It Wants Two More Reactors",
+      "representative_url": "https://bellona.org/news/nuclear-issues/2026-08-egypt-complained-about-rosatoms-nuclear-work-now-it-wants-two-more-reactors",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-21bc16935c2cba2b",
+      "title": "5 Key Questions the Army is Still Working Out for Its Nuclear Microreactor Plan",
+      "representative_url": "https://breakingdefense.com/2026/08/5-key-questions-the-army-is-still-working-out-for-its-nuclear-microreactor-plan/",
+      "first_published_at": "2026-09-08T01:04:31.102991+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
       "score": 2.4
     }
   ]
