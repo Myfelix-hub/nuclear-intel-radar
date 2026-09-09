@@ -1,118 +1,13 @@
 {
-  "generated_at": "2026-09-09T01:08:36.265278+00:00",
+  "generated_at": "2026-09-09T06:33:07.431050+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-8620aa06902b753a",
-      "title": "NANO Nuclear Energy and Enveniam Sign MOU to Advance U.S. Nuclear Fuel Cycle, Microreactor Depl…",
-      "representative_url": "https://nanonuclearenergy.com/nano-nuclear-energy-and-enveniam-sign-memorandum-of-understanding-to-advance-u-s-nuclear-fuel-cycle-microreactor-deployment-and-energy-infrastructure/",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 4.0
-    },
-    {
-      "story_id": "story-f5e587fa5728c004",
-      "title": "US Nuclear Push Links Microreactors, HALEU Fuel and Deployment Infrastructure",
-      "representative_url": "https://interestingengineering.com/energy/nano-nuclear-enveniam-microreactor-fuel-cycle-us",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-b2b354e5a477d8f6",
-      "title": "Four BWRX-300 Small Reactors Target 1.2 GW of Nuclear Power by the Mid-2030s",
-      "representative_url": "https://interestingengineering.com/energy/sweden-1-2gw-bwrx-300-smr-project",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-0fc90f053d465432",
-      "title": "NRC Proposes Rule That Will Protect Drinking Water Near Uranium In-Situ Recovery Sites",
-      "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-076.pdf",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-efab5d94fdf38588",
-      "title": "TRISO Fuel Testing Informs Advanced Reactor Performance",
-      "representative_url": "https://www.ornl.gov/news/triso-fuel-testing-informs-advanced-reactor-performance",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-879a9a379465835a",
-      "title": "Gates-Backed TerraPower Targets British Nuclear Power Plant Start by 2034",
-      "representative_url": "https://www.reuters.com/business/energy/gates-backed-terrapower-targets-british-nuclear-power-plant-start-by-2034-2026-09-07/",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 2.8
-    },
-    {
-      "story_id": "story-6b7f3ca6921aae03",
-      "title": "Britain to Build Turbines for Rolls-Royce Mini-Nuclear Reactors",
-      "representative_url": "https://www.yahoo.com/news/science/articles/britain-build-turbines-rolls-royce-083340514.html",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "safety",
-      "score": 2.8
-    },
-    {
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
+      "first_published_at": "2026-09-09T06:33:07.431050+00:00",
       "sources": [
         "kairos"
       ],
@@ -124,25 +19,10 @@
       "score": 2.7
     },
     {
-      "story_id": "story-fdf2bfdde7eb7bff",
-      "title": "NUCLEAR FISSIONARY",
-      "representative_url": "http://nuclearfissionary.com/",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 2.4
-    },
-    {
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-09-09T01:08:36.265278+00:00",
+      "first_published_at": "2026-09-09T06:33:07.431050+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -152,6 +32,126 @@
       "source_tier_rank": 3,
       "primary_section": "china",
       "score": 2.4
+    },
+    {
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-09-09T06:33:07.431050+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-393a12f15e557211",
+      "title": "Kairos Power Announces New Collaboration to Advance Nuclear Manufacturing, Construction, and Wo…",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-announces-new-collaboration-to-advance-nuclear-manufacturing-construction-and-workforce-development-in-east-tennessee",
+      "first_published_at": "2026-09-09T06:33:07.431050+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "newbuild",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-5e7a7765e34fe669",
+      "title": "Kairos Power Completes Key Fuel Performance Milestone for Future Reactor Licensing",
+      "representative_url": "https://www.kairospower.com/updates/kairos-power-completes-key-fuel-performance-milestone-for-future-reactor-licensing",
+      "first_published_at": "2026-09-09T06:33:07.431050+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "policy",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-1d8b82cbf1b51fb3",
+      "title": "Reduced Order Modelling for Nuclear Linear Response and the Incompressibility of Pb-208",
+      "representative_url": "https://arxiv.org/abs/2609.07453",
+      "first_published_at": "2026-09-09T04:00:00+00:00",
+      "sources": [
+        "arxiv_nuclth"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "research",
+      "source_tier_rank": 2,
+      "primary_section": "research",
+      "score": 1.7999999999999998
+    },
+    {
+      "story_id": "story-d08759bb369fa4bb",
+      "title": "The Interplay of Symmetry Energy Uncertainties, Nonlinear $\\sigma-\\delta$ Coupling, and Dark Ma…",
+      "representative_url": "https://arxiv.org/abs/2609.08628",
+      "first_published_at": "2026-09-09T04:00:00+00:00",
+      "sources": [
+        "arxiv_nuclth"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.55,
+      "source_tier": "research",
+      "source_tier_rank": 2,
+      "primary_section": "research",
+      "score": 1.6500000000000001
+    },
+    {
+      "story_id": "story-2ae0559d60396e3b",
+      "title": "试验成功！漳州核电，快发电了！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17536",
+      "first_published_at": "2026-09-09T06:33:07.431050+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 1.6
+    },
+    {
+      "story_id": "story-09edd47f6ce41eb8",
+      "title": "中广核新能源江西分公司原总经理邓东被查！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17539",
+      "first_published_at": "2026-09-09T06:33:07.431050+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 1.6
+    },
+    {
+      "story_id": "story-6e2e47c1e3742afb",
+      "title": "31省份2025年9月发电量数据出炉！火电/水电/核电/风电/光伏增长几何？ ...",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17545",
+      "first_published_at": "2026-09-09T06:33:07.431050+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 1.6
     }
   ]
 }
