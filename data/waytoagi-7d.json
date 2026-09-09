@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-09T06:33:07.431050+00:00",
+  "generated_at": "2026-09-09T12:15:44.235319+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
+      "date": "2026-09-09",
+      "title": "US nuclear reactors coming back online after everyone assumed they are dead. Somehow this is no…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbgrg5/us_nuclear_reactors_coming_back_online_after/"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "US nuclear power announcements tied to data centers and Al since 2024",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbd321/us_nuclear_power_announcements_tied_to_data/"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "US DOE Announces $1.9 Billion Loan to NextEra Energy for Restart of 650 MWe Duane Arnold Nuclea…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1waz341/us_doe_announces_19_billion_loan_to_nextera/"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "The yawning gap between ambition and action on nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wayd9j/the_yawning_gap_between_ambition_and_action_on/"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Fresh record set for nuclear generation in 2025",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wajvdf/fresh_record_set_for_nuclear_generation_in_2025/"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "South Korea weighs building eight nuclear reactors in the U.S.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1waf3ir/south_korea_weighs_building_eight_nuclear/"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Korea to invest in construction of 8 reactors in the United States, using mix of both APR1400 a…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w9uhit/korea_to_invest_in_construction_of_8_reactors_in/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Nuclear materials needed for family",
+      "url": "https://www.reddit.com/r/nuclear/comments/1w8xh7k/nuclear_materials_needed_for_family/"
+    },
+    {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
       "url": "https://github.com/PJHkorea/discrete-filament-router"
@@ -12,27 +52,22 @@
       "date": "2026-09-03",
       "title": "Show HN: Reactor Atlas",
       "url": "https://reactoratlas.com"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "Syria was building a nuclear reactor under Assad, UN reports",
-      "url": "https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-09-03",
-      "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
-      "url": "https://github.com/PJHkorea/discrete-filament-router"
+      "date": "2026-09-09",
+      "title": "US nuclear reactors coming back online after everyone assumed they are dead. Somehow this is no…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbgrg5/us_nuclear_reactors_coming_back_online_after/"
     },
     {
-      "date": "2026-09-03",
-      "title": "Show HN: Reactor Atlas",
-      "url": "https://reactoratlas.com"
+      "date": "2026-09-09",
+      "title": "US nuclear power announcements tied to data centers and Al since 2024",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbd321/us_nuclear_power_announcements_tied_to_data/"
     }
   ],
-  "latest_date": "2026-09-03",
-  "count_7d": 3,
+  "latest_date": "2026-09-09",
+  "count_7d": 10,
   "count_today": 2,
   "has_error": false,
   "error": null,
