@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-09-09T12:15:44.235319+00:00",
+  "generated_at": "2026-09-09T16:50:38.306175+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-09",
+      "title": "Google Gives a 20-Year Lifeline to Nordic Nuclear Power Plant [Loviisa]",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/google-gives-a-20-year-lifeline-to-nordic-nuclear-power-plant"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Groundwork begins at new Chinese plant site for a 6 unit CAP1400",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbl2u1/groundwork_begins_at_new_chinese_plant_site_for_a/"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Studsvik Selects GE Vernova Hitachi, Samsung C&T for 1.2-GW Swedish BWRX-300 Project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbkws4/studsvik_selects_ge_vernova_hitachi_samsung_ct/"
+    },
     {
       "date": "2026-09-09",
       "title": "US nuclear reactors coming back online after everyone assumed they are dead. Somehow this is no…",
@@ -39,11 +54,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1w9uhit/korea_to_invest_in_construction_of_8_reactors_in/"
     },
     {
-      "date": "2026-09-06",
-      "title": "Nuclear materials needed for family",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8xh7k/nuclear_materials_needed_for_family/"
-    },
-    {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
       "url": "https://github.com/PJHkorea/discrete-filament-router"
@@ -57,6 +67,21 @@
   "updates_today": [
     {
       "date": "2026-09-09",
+      "title": "Google Gives a 20-Year Lifeline to Nordic Nuclear Power Plant [Loviisa]",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/google-gives-a-20-year-lifeline-to-nordic-nuclear-power-plant"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Groundwork begins at new Chinese plant site for a 6 unit CAP1400",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbl2u1/groundwork_begins_at_new_chinese_plant_site_for_a/"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Studsvik Selects GE Vernova Hitachi, Samsung C&T for 1.2-GW Swedish BWRX-300 Project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbkws4/studsvik_selects_ge_vernova_hitachi_samsung_ct/"
+    },
+    {
+      "date": "2026-09-09",
       "title": "US nuclear reactors coming back online after everyone assumed they are dead. Somehow this is no…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wbgrg5/us_nuclear_reactors_coming_back_online_after/"
     },
@@ -67,8 +92,8 @@
     }
   ],
   "latest_date": "2026-09-09",
-  "count_7d": 10,
-  "count_today": 2,
+  "count_7d": 12,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
