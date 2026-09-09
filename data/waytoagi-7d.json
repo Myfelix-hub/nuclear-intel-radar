@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-09T19:39:32.420348+00:00",
+  "generated_at": "2026-09-09T22:25:03.346689+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-09",
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbz4z0/nuclear_startup_bluecore_energy_raises_50m_seed/"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Department of War Announces Navy's First Advanced Nuclear Microreactor Deployment at Naval Weap…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbxgjq/department_of_war_announces_navys_first_advanced/"
+    },
     {
       "date": "2026-09-09",
       "title": "Google Gives a 20-Year Lifeline to Nordic Nuclear Power Plant [Loviisa]",
@@ -67,6 +77,16 @@
   "updates_today": [
     {
       "date": "2026-09-09",
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbz4z0/nuclear_startup_bluecore_energy_raises_50m_seed/"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Department of War Announces Navy's First Advanced Nuclear Microreactor Deployment at Naval Weap…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wbxgjq/department_of_war_announces_navys_first_advanced/"
+    },
+    {
+      "date": "2026-09-09",
       "title": "Google Gives a 20-Year Lifeline to Nordic Nuclear Power Plant [Loviisa]",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/google-gives-a-20-year-lifeline-to-nordic-nuclear-power-plant"
     },
@@ -92,8 +112,8 @@
     }
   ],
   "latest_date": "2026-09-09",
-  "count_7d": 12,
-  "count_today": 5,
+  "count_7d": 14,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
