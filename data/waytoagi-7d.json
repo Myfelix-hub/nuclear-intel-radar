@@ -1,48 +1,8 @@
 {
-  "generated_at": "2026-09-08T22:30:38.780919+00:00",
+  "generated_at": "2026-09-09T01:08:36.265278+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-09-08",
-      "title": "US DOE Announces $1.9 Billion Loan to NextEra Energy for Restart of 650 MWe Duane Arnold Nuclea…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1waz341/us_doe_announces_19_billion_loan_to_nextera/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "The yawning gap between ambition and action on nuclear energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wayd9j/the_yawning_gap_between_ambition_and_action_on/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "Fresh record set for nuclear generation in 2025",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wajvdf/fresh_record_set_for_nuclear_generation_in_2025/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "South Korea weighs building eight nuclear reactors in the U.S.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1waf3ir/south_korea_weighs_building_eight_nuclear/"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "Korea to invest in construction of 8 reactors in the United States, using mix of both APR1400 a…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w9uhit/korea_to_invest_in_construction_of_8_reactors_in/"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "Nuclear materials needed for family",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8xh7k/nuclear_materials_needed_for_family/"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8pl2n/america_is_betting_big_on_a_new_generation_of/"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "PJM Just Accidentally Revealed Oklo’s Cycle 1 Pipeline Is Much Bigger Than We Knew",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w8kx22/pjm_just_accidentally_revealed_oklos_cycle_1/"
-    },
     {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
@@ -61,29 +21,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-08",
-      "title": "US DOE Announces $1.9 Billion Loan to NextEra Energy for Restart of 650 MWe Duane Arnold Nuclea…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1waz341/us_doe_announces_19_billion_loan_to_nextera/"
+      "date": "2026-09-03",
+      "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
+      "url": "https://github.com/PJHkorea/discrete-filament-router"
     },
     {
-      "date": "2026-09-08",
-      "title": "The yawning gap between ambition and action on nuclear energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wayd9j/the_yawning_gap_between_ambition_and_action_on/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "Fresh record set for nuclear generation in 2025",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wajvdf/fresh_record_set_for_nuclear_generation_in_2025/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "South Korea weighs building eight nuclear reactors in the U.S.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1waf3ir/south_korea_weighs_building_eight_nuclear/"
+      "date": "2026-09-03",
+      "title": "Show HN: Reactor Atlas",
+      "url": "https://reactoratlas.com"
     }
   ],
-  "latest_date": "2026-09-08",
-  "count_7d": 11,
-  "count_today": 4,
+  "latest_date": "2026-09-03",
+  "count_7d": 3,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
