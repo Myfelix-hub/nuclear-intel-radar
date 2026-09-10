@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:18:50.392999+00:00",
+  "generated_at": "2026-09-10T17:48:30.404652+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -69,11 +69,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1waz341/us_doe_announces_19_billion_loan_to_nextera/"
     },
     {
-      "date": "2026-09-07",
-      "title": "Korea to invest in construction of 8 reactors in the United States, using mix of both APR1400 a…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1w9uhit/korea_to_invest_in_construction_of_8_reactors_in/"
-    },
-    {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
       "url": "https://github.com/PJHkorea/discrete-filament-router"
@@ -107,7 +102,7 @@
     }
   ],
   "latest_date": "2026-09-10",
-  "count_7d": 15,
+  "count_7d": 14,
   "count_today": 5,
   "has_error": false,
   "error": null,
