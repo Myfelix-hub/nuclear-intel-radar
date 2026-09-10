@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-10T17:48:30.404652+00:00",
+  "generated_at": "2026-09-10T20:43:54.734330+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-10",
+      "title": "Nuclear fusion tech detects 32 elements to make rare earths in labs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wcscef/nuclear_fusion_tech_detects_32_elements_to_make/"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Types of Nuclear Reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wcqu86/types_of_nuclear_reactors/"
+    },
     {
       "date": "2026-09-10",
       "title": "Studsvik announces partnership to deploy four BWRX-300s in Sweden",
@@ -64,17 +74,22 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wbgrg5/us_nuclear_reactors_coming_back_online_after/"
     },
     {
-      "date": "2026-09-08",
-      "title": "US DOE Announces $1.9 Billion Loan to NextEra Energy for Restart of 650 MWe Duane Arnold Nuclea…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1waz341/us_doe_announces_19_billion_loan_to_nextera/"
-    },
-    {
       "date": "2026-09-03",
       "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
       "url": "https://github.com/PJHkorea/discrete-filament-router"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-10",
+      "title": "Nuclear fusion tech detects 32 elements to make rare earths in labs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wcscef/nuclear_fusion_tech_detects_32_elements_to_make/"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Types of Nuclear Reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wcqu86/types_of_nuclear_reactors/"
+    },
     {
       "date": "2026-09-10",
       "title": "Studsvik announces partnership to deploy four BWRX-300s in Sweden",
@@ -102,8 +117,8 @@
     }
   ],
   "latest_date": "2026-09-10",
-  "count_7d": 14,
-  "count_today": 5,
+  "count_7d": 15,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
