@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-09T22:25:03.346689+00:00",
+  "generated_at": "2026-09-10T00:28:38.159553+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-09",
+      "title": "New research on the psychology of anti-nuclear ideology",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wc1kfc/new_research_on_the_psychology_of_antinuclear/"
+    },
     {
       "date": "2026-09-09",
       "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
@@ -77,6 +82,11 @@
   "updates_today": [
     {
       "date": "2026-09-09",
+      "title": "New research on the psychology of anti-nuclear ideology",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wc1kfc/new_research_on_the_psychology_of_antinuclear/"
+    },
+    {
+      "date": "2026-09-09",
       "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
       "url": "https://www.reddit.com/r/nuclear/comments/1wbz4z0/nuclear_startup_bluecore_energy_raises_50m_seed/"
     },
@@ -112,8 +122,8 @@
     }
   ],
   "latest_date": "2026-09-09",
-  "count_7d": 14,
-  "count_today": 7,
+  "count_7d": 15,
+  "count_today": 8,
   "has_error": false,
   "error": null,
   "warning": null
