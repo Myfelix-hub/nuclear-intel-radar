@@ -1,77 +1,17 @@
 {
-  "generated_at": "2026-09-10T20:43:54.734330+00:00",
+  "generated_at": "2026-09-10T23:02:59.454309+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-09-10",
-      "title": "Nuclear fusion tech detects 32 elements to make rare earths in labs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcscef/nuclear_fusion_tech_detects_32_elements_to_make/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Types of Nuclear Reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcqu86/types_of_nuclear_reactors/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Studsvik announces partnership to deploy four BWRX-300s in Sweden",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcjzdo/studsvik_announces_partnership_to_deploy_four/"
-    },
     {
       "date": "2026-09-10",
       "title": "Google's revived nuclear power plant gets $1.9B loan from US Government",
       "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/"
     },
     {
-      "date": "2026-09-10",
-      "title": "China's Gen-III+ reactor adds 66% automation, cuts installation 33%",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcbneb/chinas_geniii_reactor_adds_66_automation_cuts/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Trump’s nuclear agenda advances with Iowa plant restart",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wc9qum/trumps_nuclear_agenda_advances_with_iowa_plant/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "PE in Nuclear Engineering",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wc54d0/pe_in_nuclear_engineering/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "New research on the psychology of anti-nuclear ideology",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wc1kfc/new_research_on_the_psychology_of_antinuclear/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wbz4z0/nuclear_startup_bluecore_energy_raises_50m_seed/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Department of War Announces Navy's First Advanced Nuclear Microreactor Deployment at Naval Weap…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wbxgjq/department_of_war_announces_navys_first_advanced/"
-    },
-    {
       "date": "2026-09-09",
       "title": "Google Gives a 20-Year Lifeline to Nordic Nuclear Power Plant [Loviisa]",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/google-gives-a-20-year-lifeline-to-nordic-nuclear-power-plant"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Groundwork begins at new Chinese plant site for a 6 unit CAP1400",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wbl2u1/groundwork_begins_at_new_chinese_plant_site_for_a/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Studsvik Selects GE Vernova Hitachi, Samsung C&T for 1.2-GW Swedish BWRX-300 Project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wbkws4/studsvik_selects_ge_vernova_hitachi_samsung_ct/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "US nuclear reactors coming back online after everyone assumed they are dead. Somehow this is no…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wbgrg5/us_nuclear_reactors_coming_back_online_after/"
     },
     {
       "date": "2026-09-03",
@@ -82,43 +22,13 @@
   "updates_today": [
     {
       "date": "2026-09-10",
-      "title": "Nuclear fusion tech detects 32 elements to make rare earths in labs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcscef/nuclear_fusion_tech_detects_32_elements_to_make/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Types of Nuclear Reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcqu86/types_of_nuclear_reactors/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Studsvik announces partnership to deploy four BWRX-300s in Sweden",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcjzdo/studsvik_announces_partnership_to_deploy_four/"
-    },
-    {
-      "date": "2026-09-10",
       "title": "Google's revived nuclear power plant gets $1.9B loan from US Government",
       "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "China's Gen-III+ reactor adds 66% automation, cuts installation 33%",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcbneb/chinas_geniii_reactor_adds_66_automation_cuts/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Trump’s nuclear agenda advances with Iowa plant restart",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wc9qum/trumps_nuclear_agenda_advances_with_iowa_plant/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "PE in Nuclear Engineering",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wc54d0/pe_in_nuclear_engineering/"
     }
   ],
   "latest_date": "2026-09-10",
-  "count_7d": 15,
-  "count_today": 7,
+  "count_7d": 3,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
