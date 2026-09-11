@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-11T16:42:06.827736+00:00",
+  "generated_at": "2026-09-11T19:30:55.444789+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-11",
+      "title": "Google signs up for electricity from Finnish nuclear power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdoben/google_signs_up_for_electricity_from_finnish/"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Russia's Rosatom offers nuclear power plants to India for 100 GW target | World News",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdmnei/russias_rosatom_offers_nuclear_power_plants_to/"
+    },
     {
       "date": "2026-09-11",
       "title": "Deep Fission completes borehole demonstration",
@@ -70,16 +80,21 @@
     },
     {
       "date": "2026-09-09",
-      "title": "Groundwork begins at new Chinese plant site for a 6 unit CAP1400",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wbl2u1/groundwork_begins_at_new_chinese_plant_site_for_a/"
-    },
-    {
-      "date": "2026-09-09",
       "title": "US nuclear reactors coming back online after everyone assumed they are dead. Somehow this is no…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wbgrg5/us_nuclear_reactors_coming_back_online_after/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-11",
+      "title": "Google signs up for electricity from Finnish nuclear power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdoben/google_signs_up_for_electricity_from_finnish/"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Russia's Rosatom offers nuclear power plants to India for 100 GW target | World News",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdmnei/russias_rosatom_offers_nuclear_power_plants_to/"
+    },
     {
       "date": "2026-09-11",
       "title": "Deep Fission completes borehole demonstration",
@@ -97,8 +112,8 @@
     }
   ],
   "latest_date": "2026-09-11",
-  "count_7d": 15,
-  "count_today": 3,
+  "count_7d": 16,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
