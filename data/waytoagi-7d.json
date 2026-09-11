@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-11T12:08:07.990391+00:00",
+  "generated_at": "2026-09-11T16:42:06.827736+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-11",
+      "title": "Deep Fission completes borehole demonstration",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdhyfy/deep_fission_completes_borehole_demonstration/"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "would a international nuclear powerplant compatability standard work?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdfgkh/would_a_international_nuclear_powerplant/"
+    },
     {
       "date": "2026-09-11",
       "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
@@ -39,11 +49,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wc9qum/trumps_nuclear_agenda_advances_with_iowa_plant/"
     },
     {
-      "date": "2026-09-10",
-      "title": "PE in Nuclear Engineering",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wc54d0/pe_in_nuclear_engineering/"
-    },
-    {
       "date": "2026-09-09",
       "title": "New research on the psychology of anti-nuclear ideology",
       "url": "https://www.reddit.com/r/nuclear/comments/1wc1kfc/new_research_on_the_psychology_of_antinuclear/"
@@ -70,16 +75,21 @@
     },
     {
       "date": "2026-09-09",
-      "title": "Studsvik Selects GE Vernova Hitachi, Samsung C&T for 1.2-GW Swedish BWRX-300 Project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wbkws4/studsvik_selects_ge_vernova_hitachi_samsung_ct/"
-    },
-    {
-      "date": "2026-09-09",
       "title": "US nuclear reactors coming back online after everyone assumed they are dead. Somehow this is no…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wbgrg5/us_nuclear_reactors_coming_back_online_after/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-11",
+      "title": "Deep Fission completes borehole demonstration",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdhyfy/deep_fission_completes_borehole_demonstration/"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "would a international nuclear powerplant compatability standard work?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdfgkh/would_a_international_nuclear_powerplant/"
+    },
     {
       "date": "2026-09-11",
       "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
@@ -88,7 +98,7 @@
   ],
   "latest_date": "2026-09-11",
   "count_7d": 15,
-  "count_today": 1,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
