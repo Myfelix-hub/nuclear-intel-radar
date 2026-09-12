@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-09-12T00:31:27.765216+00:00",
+  "generated_at": "2026-09-12T05:33:57.865352+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-6bd4552a3472b680",
-      "title": "Department of War Announces Navy's First Advanced Nuclear Microreactor Deployment at Naval Weap…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wbxgjq/department_of_war_announces_navys_first_advanced/",
-      "first_published_at": "2026-09-09T20:33:33+00:00",
-      "sources": [
-        "reddit_nuclear",
-        "nucleartownhall"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 6.095329850015803
-    },
-    {
       "story_id": "story-b2b354e5a477d8f6",
       "title": "Four BWRX-300 Small Reactors Target 1.2 GW of Nuclear Power by the Mid-2030s",
       "representative_url": "https://interestingengineering.com/energy/sweden-1-2gw-bwrx-300-smr-project",
-      "first_published_at": "2026-09-12T00:31:27.765216+00:00",
+      "first_published_at": "2026-09-12T05:33:57.865352+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -38,7 +22,7 @@
       "story_id": "story-342288924885ec53",
       "title": "NRC Proposes Broad Overhaul of Nuclear Reactor Regulations",
       "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-077.pdf",
-      "first_published_at": "2026-09-12T00:31:27.765216+00:00",
+      "first_published_at": "2026-09-12T05:33:57.865352+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -48,82 +32,6 @@
       "source_tier_rank": 3,
       "primary_section": "policy",
       "score": 3.6
-    },
-    {
-      "story_id": "story-fab18bfc75893ad4",
-      "title": "Nuclear fusion tech detects 32 elements to make rare earths in labs",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wcscef/nuclear_fusion_tech_detects_32_elements_to_make/",
-      "first_published_at": "2026-09-10T18:58:38+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-50434049697e491c",
-      "title": "Types of Nuclear Reactors",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wcqu86/types_of_nuclear_reactors/",
-      "first_published_at": "2026-09-10T18:05:54+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-c14eb23e092f5b50",
-      "title": "US nuclear reactors coming back online after everyone assumed they are dead. Somehow this is no…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wbgrg5/us_nuclear_reactors_coming_back_online_after/",
-      "first_published_at": "2026-09-09T09:31:59+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-85d10efe431815ff",
-      "title": "Deep Fission completes borehole demonstration",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wdhyfy/deep_fission_completes_borehole_demonstration/",
-      "first_published_at": "2026-09-11T13:28:20+00:00",
-      "sources": [
-        "reddit_nuclear",
-        "wnn"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.0476649250079015
-    },
-    {
-      "story_id": "story-364bd136cb58d653",
-      "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
-      "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-12T00:31:27.765216+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 3.0
     },
     {
       "story_id": "story-42c1d9e4f463f2ba",
@@ -142,20 +50,109 @@
       "score": 2.7090354888959127
     },
     {
-      "story_id": "story-5db7d4d407e2ec83",
-      "title": "Nuclear Startup Bluecore Energy Raises $50M Seed Round, Just Two Months After Launch",
-      "representative_url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "first_published_at": "2026-09-09T21:35:26+00:00",
+      "story_id": "story-e8d9b69bff65b6d5",
+      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
+      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
+      "first_published_at": "2026-09-12T05:33:57.865352+00:00",
       "sources": [
-        "nucleartownhall",
-        "reddit_nuclear"
+        "kairos"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "tech",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-4cac66c6fef215a4",
+      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
+      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
+      "first_published_at": "2026-09-12T05:33:57.865352+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-c927d46ddd5e57c9",
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "representative_url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "first_published_at": "2026-09-11T00:42:41+00:00",
+      "sources": [
+        "hn_nuclear"
+      ],
+      "duplicate_count": 1,
       "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-d0d40cbaea8487cd",
+      "title": "Google Gives a 20-Year Lifeline to Nordic Nuclear Power Plant [Loviisa]",
+      "representative_url": "https://www.bloomberg.com/news/articles/2026-09-09/google-gives-a-20-year-lifeline-to-nordic-nuclear-power-plant",
+      "first_published_at": "2026-09-09T13:50:42+00:00",
+      "sources": [
+        "hn_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-fdf2bfdde7eb7bff",
+      "title": "NUCLEAR FISSIONARY",
+      "representative_url": "http://nuclearfissionary.com/",
+      "first_published_at": "2026-09-12T05:33:57.865352+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-09-12T05:33:57.865352+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-09-12T05:33:57.865352+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "newbuild",
-      "score": 2.7090354888959127
+      "score": 2.4
     }
   ]
 }
