@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:58:09.462715+00:00",
+  "generated_at": "2026-09-12T19:11:19.179684+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -55,11 +55,6 @@
     },
     {
       "date": "2026-09-10",
-      "title": "Nuclear fusion tech detects 32 elements to make rare earths in labs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcscef/nuclear_fusion_tech_detects_32_elements_to_make/"
-    },
-    {
-      "date": "2026-09-10",
       "title": "Types of Nuclear Reactors",
       "url": "https://www.reddit.com/r/nuclear/comments/1wcqu86/types_of_nuclear_reactors/"
     },
@@ -107,7 +102,7 @@
     }
   ],
   "latest_date": "2026-09-12",
-  "count_7d": 14,
+  "count_7d": 13,
   "count_today": 6,
   "has_error": false,
   "error": null,
