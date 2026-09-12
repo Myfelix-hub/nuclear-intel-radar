@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:30:57.365855+00:00",
+  "generated_at": "2026-09-12T13:57:45.436435+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -17,36 +17,6 @@
       "source_tier_rank": 5,
       "primary_section": "policy",
       "score": 5.4
-    },
-    {
-      "story_id": "story-b2b354e5a477d8f6",
-      "title": "Four BWRX-300 Small Reactors Target 1.2 GW of Nuclear Power by the Mid-2030s",
-      "representative_url": "https://interestingengineering.com/energy/sweden-1-2gw-bwrx-300-smr-project",
-      "first_published_at": "2026-09-12T10:30:57.365855+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-342288924885ec53",
-      "title": "NRC Proposes Broad Overhaul of Nuclear Reactor Regulations",
-      "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-077.pdf",
-      "first_published_at": "2026-09-12T10:30:57.365855+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
     },
     {
       "story_id": "story-fab18bfc75893ad4",
@@ -95,26 +65,10 @@
       "score": 3.0476649250079015
     },
     {
-      "story_id": "story-42c1d9e4f463f2ba",
-      "title": "Google’s Revived Nuclear Power Plant Gets $1.9B Loan from US Government",
-      "representative_url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-      "first_published_at": "2026-09-10T13:13:21+00:00",
-      "sources": [
-        "nucleartownhall",
-        "hn_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.4,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 2.7090354888959127
-    },
-    {
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-09-12T10:30:57.365855+00:00",
+      "first_published_at": "2026-09-12T13:57:45.436435+00:00",
       "sources": [
         "kairos"
       ],
@@ -129,7 +83,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-12T10:30:57.365855+00:00",
+      "first_published_at": "2026-09-12T13:57:45.436435+00:00",
       "sources": [
         "kairos"
       ],
@@ -141,10 +95,55 @@
       "score": 2.7
     },
     {
+      "story_id": "story-be7325b2efaccac7",
+      "title": "Indian Power ministry seeks green energy status for nuclear power",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1webqxs/indian_power_ministry_seeks_green_energy_status/",
+      "first_published_at": "2026-09-12T12:47:24+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-9da779f609a73283",
+      "title": "Westinghouse plans 18 nuclear power plants in India by 2047",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1webqi9/westinghouse_plans_18_nuclear_power_plants_in/",
+      "first_published_at": "2026-09-12T12:46:49+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
       "story_id": "story-f6e221470a412222",
       "title": "Google signs up for electricity from Finnish nuclear power plant",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1wdoben/google_signs_up_for_electricity_from_finnish/",
       "first_published_at": "2026-09-11T18:23:38+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-66ab9b2a892179c9",
+      "title": "Russia's Rosatom offers nuclear power plants to India for 100 GW target | World News",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wdmnei/russias_rosatom_offers_nuclear_power_plants_to/",
+      "first_published_at": "2026-09-11T17:23:46+00:00",
       "sources": [
         "reddit_nuclear"
       ],

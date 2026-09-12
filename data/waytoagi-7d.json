@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-09-12T10:30:57.365855+00:00",
+  "generated_at": "2026-09-12T13:57:45.436435+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-12",
+      "title": "MARAD (United States Maritime Administration ) Administrator Stephen Carmel is calling for a ne…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wec6z7/marad_united_states_maritime_administration/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Indian Power ministry seeks green energy status for nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1webqxs/indian_power_ministry_seeks_green_energy_status/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Westinghouse plans 18 nuclear power plants in India by 2047",
+      "url": "https://www.reddit.com/r/nuclear/comments/1webqi9/westinghouse_plans_18_nuclear_power_plants_in/"
+    },
     {
       "date": "2026-09-12",
       "title": "Antares Wins $161M Award for Space Nuclear Power",
@@ -35,11 +50,6 @@
     },
     {
       "date": "2026-09-11",
-      "title": "would a international nuclear powerplant compatability standard work?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wdfgkh/would_a_international_nuclear_powerplant/"
-    },
-    {
-      "date": "2026-09-11",
       "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
       "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
     },
@@ -55,23 +65,8 @@
     },
     {
       "date": "2026-09-10",
-      "title": "Studsvik announces partnership to deploy four BWRX-300s in Sweden",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcjzdo/studsvik_announces_partnership_to_deploy_four/"
-    },
-    {
-      "date": "2026-09-10",
       "title": "Google's revived nuclear power plant gets $1.9B loan from US Government",
       "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "China's Gen-III+ reactor adds 66% automation, cuts installation 33%",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcbneb/chinas_geniii_reactor_adds_66_automation_cuts/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "New research on the psychology of anti-nuclear ideology",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wc1kfc/new_research_on_the_psychology_of_antinuclear/"
     },
     {
       "date": "2026-09-09",
@@ -80,6 +75,21 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-12",
+      "title": "MARAD (United States Maritime Administration ) Administrator Stephen Carmel is calling for a ne…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wec6z7/marad_united_states_maritime_administration/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Indian Power ministry seeks green energy status for nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1webqxs/indian_power_ministry_seeks_green_energy_status/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Westinghouse plans 18 nuclear power plants in India by 2047",
+      "url": "https://www.reddit.com/r/nuclear/comments/1webqi9/westinghouse_plans_18_nuclear_power_plants_in/"
+    },
     {
       "date": "2026-09-12",
       "title": "Antares Wins $161M Award for Space Nuclear Power",
@@ -97,8 +107,8 @@
     }
   ],
   "latest_date": "2026-09-12",
-  "count_7d": 15,
-  "count_today": 3,
+  "count_7d": 14,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
