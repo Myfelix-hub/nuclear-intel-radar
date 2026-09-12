@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-12T21:34:49.082144+00:00",
+  "generated_at": "2026-09-12T23:53:45.033335+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-12",
+      "title": "Russian state nuclear corporation said planning to increase staff at Iran’s Bushehr power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wep80c/russian_state_nuclear_corporation_said_planning/"
+    },
     {
       "date": "2026-09-12",
       "title": "MARAD (United States Maritime Administration ) Administrator Stephen Carmel is calling for a ne…",
@@ -45,18 +50,8 @@
     },
     {
       "date": "2026-09-11",
-      "title": "Deep Fission completes borehole demonstration",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wdhyfy/deep_fission_completes_borehole_demonstration/"
-    },
-    {
-      "date": "2026-09-11",
       "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
       "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Types of Nuclear Reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wcqu86/types_of_nuclear_reactors/"
     },
     {
       "date": "2026-09-10",
@@ -70,6 +65,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-12",
+      "title": "Russian state nuclear corporation said planning to increase staff at Iran’s Bushehr power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wep80c/russian_state_nuclear_corporation_said_planning/"
+    },
     {
       "date": "2026-09-12",
       "title": "MARAD (United States Maritime Administration ) Administrator Stephen Carmel is calling for a ne…",
@@ -102,8 +102,8 @@
     }
   ],
   "latest_date": "2026-09-12",
-  "count_7d": 13,
-  "count_today": 6,
+  "count_7d": 12,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null

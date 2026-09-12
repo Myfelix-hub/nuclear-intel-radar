@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:34:49.082144+00:00",
+  "generated_at": "2026-09-12T23:53:45.033335+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -22,7 +22,7 @@
       "story_id": "story-b2b354e5a477d8f6",
       "title": "Four BWRX-300 Small Reactors Target 1.2 GW of Nuclear Power by the Mid-2030s",
       "representative_url": "https://interestingengineering.com/energy/sweden-1-2gw-bwrx-300-smr-project",
-      "first_published_at": "2026-09-12T21:34:49.082144+00:00",
+      "first_published_at": "2026-09-12T23:53:45.033335+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -37,7 +37,7 @@
       "story_id": "story-342288924885ec53",
       "title": "NRC Proposes Broad Overhaul of Nuclear Reactor Regulations",
       "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-077.pdf",
-      "first_published_at": "2026-09-12T21:34:49.082144+00:00",
+      "first_published_at": "2026-09-12T23:53:45.033335+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -49,41 +49,10 @@
       "score": 3.6
     },
     {
-      "story_id": "story-50434049697e491c",
-      "title": "Types of Nuclear Reactors",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wcqu86/types_of_nuclear_reactors/",
-      "first_published_at": "2026-09-10T18:05:54+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-85d10efe431815ff",
-      "title": "Deep Fission completes borehole demonstration",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wdhyfy/deep_fission_completes_borehole_demonstration/",
-      "first_published_at": "2026-09-11T13:28:20+00:00",
-      "sources": [
-        "reddit_nuclear",
-        "wnn"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.0476649250079015
-    },
-    {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-12T21:34:49.082144+00:00",
+      "first_published_at": "2026-09-12T23:53:45.033335+00:00",
       "sources": [
         "oklo"
       ],
@@ -114,7 +83,7 @@
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-09-12T21:34:49.082144+00:00",
+      "first_published_at": "2026-09-12T23:53:45.033335+00:00",
       "sources": [
         "oklo"
       ],
@@ -129,7 +98,7 @@
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-09-12T21:34:49.082144+00:00",
+      "first_published_at": "2026-09-12T23:53:45.033335+00:00",
       "sources": [
         "kairos"
       ],
@@ -144,7 +113,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-12T21:34:49.082144+00:00",
+      "first_published_at": "2026-09-12T23:53:45.033335+00:00",
       "sources": [
         "kairos"
       ],
@@ -154,6 +123,36 @@
       "source_tier_rank": 2,
       "primary_section": "safety",
       "score": 2.7
+    },
+    {
+      "story_id": "story-8357fb2e5705213f",
+      "title": "Russian state nuclear corporation said planning to increase staff at Iran’s Bushehr power plant",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wep80c/russian_state_nuclear_corporation_said_planning/",
+      "first_published_at": "2026-09-12T21:45:08+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-be7325b2efaccac7",
+      "title": "Indian Power ministry seeks green energy status for nuclear power",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1webqxs/indian_power_ministry_seeks_green_energy_status/",
+      "first_published_at": "2026-09-12T12:47:24+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
     }
   ]
 }
