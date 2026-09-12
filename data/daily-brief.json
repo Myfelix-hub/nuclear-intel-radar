@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:57:45.436435+00:00",
+  "generated_at": "2026-09-12T16:58:09.462715+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -65,10 +65,40 @@
       "score": 3.0476649250079015
     },
     {
+      "story_id": "story-364bd136cb58d653",
+      "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
+      "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
+      "first_published_at": "2026-09-12T16:58:09.462715+00:00",
+      "sources": [
+        "oklo"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.0,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "tech",
+      "score": 3.0
+    },
+    {
+      "story_id": "story-4eb0bc894c8c487d",
+      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
+      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
+      "first_published_at": "2026-09-12T16:58:09.462715+00:00",
+      "sources": [
+        "oklo"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "hot",
+      "score": 2.7
+    },
+    {
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-09-12T13:57:45.436435+00:00",
+      "first_published_at": "2026-09-12T16:58:09.462715+00:00",
       "sources": [
         "kairos"
       ],
@@ -83,7 +113,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-12T13:57:45.436435+00:00",
+      "first_published_at": "2026-09-12T16:58:09.462715+00:00",
       "sources": [
         "kairos"
       ],
@@ -114,36 +144,6 @@
       "title": "Westinghouse plans 18 nuclear power plants in India by 2047",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1webqi9/westinghouse_plans_18_nuclear_power_plants_in/",
       "first_published_at": "2026-09-12T12:46:49+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
-    },
-    {
-      "story_id": "story-f6e221470a412222",
-      "title": "Google signs up for electricity from Finnish nuclear power plant",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wdoben/google_signs_up_for_electricity_from_finnish/",
-      "first_published_at": "2026-09-11T18:23:38+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
-    },
-    {
-      "story_id": "story-66ab9b2a892179c9",
-      "title": "Russia's Rosatom offers nuclear power plants to India for 100 GW target | World News",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wdmnei/russias_rosatom_offers_nuclear_power_plants_to/",
-      "first_published_at": "2026-09-11T17:23:46+00:00",
       "sources": [
         "reddit_nuclear"
       ],
