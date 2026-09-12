@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-12T05:33:57.865352+00:00",
+  "generated_at": "2026-09-12T10:30:57.365855+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-12",
+      "title": "Antares Wins $161M Award for Space Nuclear Power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1we7t4c/antares_wins_161m_award_for_space_nuclear_power/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Nuclear NRC dockets Raven-Flint Nuclear Corp. license application for uranium conversion pilot …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1we2tt9/nuclear_nrc_dockets_ravenflint_nuclear_corp/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "[OC] Only 4 of 659 reactors ever took more than 30 years to build. All four were halted mid-pro…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdy4cs/oc_only_4_of_659_reactors_ever_took_more_than_30/"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Google signs up for electricity from Finnish nuclear power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdoben/google_signs_up_for_electricity_from_finnish/"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Russia's Rosatom offers nuclear power plants to India for 100 GW target | World News",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdmnei/russias_rosatom_offers_nuclear_power_plants_to/"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Deep Fission completes borehole demonstration",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdhyfy/deep_fission_completes_borehole_demonstration/"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "would a international nuclear powerplant compatability standard work?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdfgkh/would_a_international_nuclear_powerplant/"
+    },
     {
       "date": "2026-09-11",
       "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
@@ -10,8 +45,33 @@
     },
     {
       "date": "2026-09-10",
+      "title": "Nuclear fusion tech detects 32 elements to make rare earths in labs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wcscef/nuclear_fusion_tech_detects_32_elements_to_make/"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Types of Nuclear Reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wcqu86/types_of_nuclear_reactors/"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Studsvik announces partnership to deploy four BWRX-300s in Sweden",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wcjzdo/studsvik_announces_partnership_to_deploy_four/"
+    },
+    {
+      "date": "2026-09-10",
       "title": "Google's revived nuclear power plant gets $1.9B loan from US Government",
       "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "China's Gen-III+ reactor adds 66% automation, cuts installation 33%",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wcbneb/chinas_geniii_reactor_adds_66_automation_cuts/"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "New research on the psychology of anti-nuclear ideology",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wc1kfc/new_research_on_the_psychology_of_antinuclear/"
     },
     {
       "date": "2026-09-09",
@@ -21,14 +81,24 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-11",
-      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
+      "date": "2026-09-12",
+      "title": "Antares Wins $161M Award for Space Nuclear Power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1we7t4c/antares_wins_161m_award_for_space_nuclear_power/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Nuclear NRC dockets Raven-Flint Nuclear Corp. license application for uranium conversion pilot …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1we2tt9/nuclear_nrc_dockets_ravenflint_nuclear_corp/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "[OC] Only 4 of 659 reactors ever took more than 30 years to build. All four were halted mid-pro…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wdy4cs/oc_only_4_of_659_reactors_ever_took_more_than_30/"
     }
   ],
-  "latest_date": "2026-09-11",
-  "count_7d": 3,
-  "count_today": 1,
+  "latest_date": "2026-09-12",
+  "count_7d": 15,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
