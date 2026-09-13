@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-12T23:53:45.033335+00:00",
+  "generated_at": "2026-09-13T04:26:09.959283+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-13",
+      "title": "Europe’s electrification target needs 50 GW of new nuclear capacity",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wex0xe/europes_electrification_target_needs_50_gw_of_new/"
+    },
     {
       "date": "2026-09-12",
       "title": "Russian state nuclear corporation said planning to increase staff at Iran’s Bushehr power plant",
@@ -37,11 +42,6 @@
       "date": "2026-09-12",
       "title": "[OC] Only 4 of 659 reactors ever took more than 30 years to build. All four were halted mid-pro…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wdy4cs/oc_only_4_of_659_reactors_ever_took_more_than_30/"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "Google signs up for electricity from Finnish nuclear power plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wdoben/google_signs_up_for_electricity_from_finnish/"
     },
     {
       "date": "2026-09-11",
@@ -66,44 +66,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-12",
-      "title": "Russian state nuclear corporation said planning to increase staff at Iran’s Bushehr power plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wep80c/russian_state_nuclear_corporation_said_planning/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "MARAD (United States Maritime Administration ) Administrator Stephen Carmel is calling for a ne…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wec6z7/marad_united_states_maritime_administration/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Indian Power ministry seeks green energy status for nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1webqxs/indian_power_ministry_seeks_green_energy_status/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Westinghouse plans 18 nuclear power plants in India by 2047",
-      "url": "https://www.reddit.com/r/nuclear/comments/1webqi9/westinghouse_plans_18_nuclear_power_plants_in/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Antares Wins $161M Award for Space Nuclear Power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1we7t4c/antares_wins_161m_award_for_space_nuclear_power/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Nuclear NRC dockets Raven-Flint Nuclear Corp. license application for uranium conversion pilot …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1we2tt9/nuclear_nrc_dockets_ravenflint_nuclear_corp/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "[OC] Only 4 of 659 reactors ever took more than 30 years to build. All four were halted mid-pro…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wdy4cs/oc_only_4_of_659_reactors_ever_took_more_than_30/"
+      "date": "2026-09-13",
+      "title": "Europe’s electrification target needs 50 GW of new nuclear capacity",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wex0xe/europes_electrification_target_needs_50_gw_of_new/"
     }
   ],
-  "latest_date": "2026-09-12",
+  "latest_date": "2026-09-13",
   "count_7d": 12,
-  "count_today": 7,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
