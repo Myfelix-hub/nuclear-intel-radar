@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-13T14:12:52.411898+00:00",
+  "generated_at": "2026-09-13T17:34:31.663930+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-13",
+      "title": "Ask HN: Are we losing our engineering literacy?",
+      "url": "https://news.ycombinator.com/item?id=49685036"
+    },
     {
       "date": "2026-09-13",
       "title": "Europe’s electrification target needs 50 GW of new nuclear capacity",
@@ -67,13 +72,18 @@
   "updates_today": [
     {
       "date": "2026-09-13",
+      "title": "Ask HN: Are we losing our engineering literacy?",
+      "url": "https://news.ycombinator.com/item?id=49685036"
+    },
+    {
+      "date": "2026-09-13",
       "title": "Europe’s electrification target needs 50 GW of new nuclear capacity",
       "url": "https://www.reddit.com/r/nuclear/comments/1wex0xe/europes_electrification_target_needs_50_gw_of_new/"
     }
   ],
   "latest_date": "2026-09-13",
-  "count_7d": 12,
-  "count_today": 1,
+  "count_7d": 13,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
