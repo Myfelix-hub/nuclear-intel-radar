@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-14T13:54:22.945228+00:00",
+  "generated_at": "2026-09-14T19:11:53.336210+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-14",
+      "title": "As the coast begins to crumble, the clock ticks on moving San Onofre's radioactive waste",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wgc8x0/as_the_coast_begins_to_crumble_the_clock_ticks_on/"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "How a PWR works in 90 secs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wg48bt/how_a_pwr_works_in_90_secs/"
+    },
     {
       "date": "2026-09-14",
       "title": "Chubu Electric says its president to resign, nuclear restart application withdrawn over data sc…",
@@ -35,11 +45,6 @@
     },
     {
       "date": "2026-09-12",
-      "title": "MARAD (United States Maritime Administration ) Administrator Stephen Carmel is calling for a ne…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wec6z7/marad_united_states_maritime_administration/"
-    },
-    {
-      "date": "2026-09-12",
       "title": "Indian Power ministry seeks green energy status for nuclear power",
       "url": "https://www.reddit.com/r/nuclear/comments/1webqxs/indian_power_ministry_seeks_green_energy_status/"
     },
@@ -47,11 +52,6 @@
       "date": "2026-09-12",
       "title": "Westinghouse plans 18 nuclear power plants in India by 2047",
       "url": "https://www.reddit.com/r/nuclear/comments/1webqi9/westinghouse_plans_18_nuclear_power_plants_in/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Antares Wins $161M Award for Space Nuclear Power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1we7t4c/antares_wins_161m_award_for_space_nuclear_power/"
     },
     {
       "date": "2026-09-11",
@@ -72,6 +72,16 @@
   "updates_today": [
     {
       "date": "2026-09-14",
+      "title": "As the coast begins to crumble, the clock ticks on moving San Onofre's radioactive waste",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wgc8x0/as_the_coast_begins_to_crumble_the_clock_ticks_on/"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "How a PWR works in 90 secs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wg48bt/how_a_pwr_works_in_90_secs/"
+    },
+    {
+      "date": "2026-09-14",
       "title": "Chubu Electric says its president to resign, nuclear restart application withdrawn over data sc…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wg2sjf/chubu_electric_says_its_president_to_resign/"
     },
@@ -88,7 +98,7 @@
   ],
   "latest_date": "2026-09-14",
   "count_7d": 13,
-  "count_today": 3,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
