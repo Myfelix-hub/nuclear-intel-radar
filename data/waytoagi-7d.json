@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-14T01:29:14.855917+00:00",
+  "generated_at": "2026-09-14T06:58:48.155815+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-14",
+      "title": "Bill Gates-backed nuclear fusion firm gets Hyundai Motor backing in $1 billion raise",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wfq455/bill_gatesbacked_nuclear_fusion_firm_gets_hyundai/"
+    },
     {
       "date": "2026-09-13",
       "title": "Ask HN: Are we losing our engineering literacy?",
@@ -40,11 +45,6 @@
     },
     {
       "date": "2026-09-12",
-      "title": "Nuclear NRC dockets Raven-Flint Nuclear Corp. license application for uranium conversion pilot …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1we2tt9/nuclear_nrc_dockets_ravenflint_nuclear_corp/"
-    },
-    {
-      "date": "2026-09-12",
       "title": "[OC] Only 4 of 659 reactors ever took more than 30 years to build. All four were halted mid-pro…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wdy4cs/oc_only_4_of_659_reactors_ever_took_more_than_30/"
     },
@@ -71,19 +71,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-13",
-      "title": "Ask HN: Are we losing our engineering literacy?",
-      "url": "https://news.ycombinator.com/item?id=49685036"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Europe’s electrification target needs 50 GW of new nuclear capacity",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wex0xe/europes_electrification_target_needs_50_gw_of_new/"
+      "date": "2026-09-14",
+      "title": "Bill Gates-backed nuclear fusion firm gets Hyundai Motor backing in $1 billion raise",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wfq455/bill_gatesbacked_nuclear_fusion_firm_gets_hyundai/"
     }
   ],
-  "latest_date": "2026-09-13",
+  "latest_date": "2026-09-14",
   "count_7d": 13,
-  "count_today": 2,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
