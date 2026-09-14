@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-14T06:58:48.155815+00:00",
+  "generated_at": "2026-09-14T13:54:22.945228+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-14",
+      "title": "Chubu Electric says its president to resign, nuclear restart application withdrawn over data sc…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wg2sjf/chubu_electric_says_its_president_to_resign/"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Ansto nuclear reactor marks 20 years of health and technology innovation",
+      "url": "https://www.abc.net.au/news/2026-09-14/ansto-opal-nuclear-reactor-celebrates-20-years/107132928"
+    },
     {
       "date": "2026-09-14",
       "title": "Bill Gates-backed nuclear fusion firm gets Hyundai Motor backing in $1 billion raise",
@@ -44,16 +54,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1we7t4c/antares_wins_161m_award_for_space_nuclear_power/"
     },
     {
-      "date": "2026-09-12",
-      "title": "[OC] Only 4 of 659 reactors ever took more than 30 years to build. All four were halted mid-pro…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wdy4cs/oc_only_4_of_659_reactors_ever_took_more_than_30/"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "Russia's Rosatom offers nuclear power plants to India for 100 GW target | World News",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wdmnei/russias_rosatom_offers_nuclear_power_plants_to/"
-    },
-    {
       "date": "2026-09-11",
       "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
       "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
@@ -72,13 +72,23 @@
   "updates_today": [
     {
       "date": "2026-09-14",
+      "title": "Chubu Electric says its president to resign, nuclear restart application withdrawn over data sc…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wg2sjf/chubu_electric_says_its_president_to_resign/"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Ansto nuclear reactor marks 20 years of health and technology innovation",
+      "url": "https://www.abc.net.au/news/2026-09-14/ansto-opal-nuclear-reactor-celebrates-20-years/107132928"
+    },
+    {
+      "date": "2026-09-14",
       "title": "Bill Gates-backed nuclear fusion firm gets Hyundai Motor backing in $1 billion raise",
       "url": "https://www.reddit.com/r/nuclear/comments/1wfq455/bill_gatesbacked_nuclear_fusion_firm_gets_hyundai/"
     }
   ],
   "latest_date": "2026-09-14",
   "count_7d": 13,
-  "count_today": 1,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
