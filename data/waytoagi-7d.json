@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-14T19:11:53.336210+00:00",
+  "generated_at": "2026-09-14T22:41:11.602259+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-14",
+      "title": "Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wgi3dn/saudi_arabia_discovers_110_million_tonnes_of/"
+    },
     {
       "date": "2026-09-14",
       "title": "As the coast begins to crumble, the clock ticks on moving San Onofre's radioactive waste",
@@ -72,6 +77,11 @@
   "updates_today": [
     {
       "date": "2026-09-14",
+      "title": "Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wgi3dn/saudi_arabia_discovers_110_million_tonnes_of/"
+    },
+    {
+      "date": "2026-09-14",
       "title": "As the coast begins to crumble, the clock ticks on moving San Onofre's radioactive waste",
       "url": "https://www.reddit.com/r/nuclear/comments/1wgc8x0/as_the_coast_begins_to_crumble_the_clock_ticks_on/"
     },
@@ -97,8 +107,8 @@
     }
   ],
   "latest_date": "2026-09-14",
-  "count_7d": 13,
-  "count_today": 5,
+  "count_7d": 14,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
