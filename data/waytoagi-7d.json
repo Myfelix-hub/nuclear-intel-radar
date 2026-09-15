@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-15T12:35:15.366106+00:00",
+  "generated_at": "2026-09-15T17:36:46.710154+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-15",
+      "title": "From Uzbekistan to Canada: A look at India’s global uranium hunt",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wh4qgf/from_uzbekistan_to_canada_a_look_at_indias_global/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "India and Uzbekistan eye uranium deal as ties grow",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wh4pqr/india_and_uzbekistan_eye_uranium_deal_as_ties_grow/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Nuclear Toolkit now on iOS, Android, and Web App!",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wh2yl9/nuclear_toolkit_now_on_ios_android_and_web_app/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Chubu Electric Power execs resign, falsified quake safety data for 2 reactors",
+      "url": "https://japantoday.com/category/national/japanese-utility-execs-resign-over-falsified-quake-safety-data-for-2-nuclear-reactors"
+    },
     {
       "date": "2026-09-15",
       "title": "Rosatom Seeks to Build Confidence in Paks II Nuclear Project",
@@ -54,16 +74,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wex0xe/europes_electrification_target_needs_50_gw_of_new/"
     },
     {
-      "date": "2026-09-12",
-      "title": "Russian state nuclear corporation said planning to increase staff at Iran’s Bushehr power plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wep80c/russian_state_nuclear_corporation_said_planning/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Westinghouse plans 18 nuclear power plants in India by 2047",
-      "url": "https://www.reddit.com/r/nuclear/comments/1webqi9/westinghouse_plans_18_nuclear_power_plants_in/"
-    },
-    {
       "date": "2026-09-11",
       "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
       "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
@@ -82,6 +92,26 @@
   "updates_today": [
     {
       "date": "2026-09-15",
+      "title": "From Uzbekistan to Canada: A look at India’s global uranium hunt",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wh4qgf/from_uzbekistan_to_canada_a_look_at_indias_global/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "India and Uzbekistan eye uranium deal as ties grow",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wh4pqr/india_and_uzbekistan_eye_uranium_deal_as_ties_grow/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Nuclear Toolkit now on iOS, Android, and Web App!",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wh2yl9/nuclear_toolkit_now_on_ios_android_and_web_app/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Chubu Electric Power execs resign, falsified quake safety data for 2 reactors",
+      "url": "https://japantoday.com/category/national/japanese-utility-execs-resign-over-falsified-quake-safety-data-for-2-nuclear-reactors"
+    },
+    {
+      "date": "2026-09-15",
       "title": "Rosatom Seeks to Build Confidence in Paks II Nuclear Project",
       "url": "https://www.reddit.com/r/nuclear/comments/1wgx7j1/rosatom_seeks_to_build_confidence_in_paks_ii/"
     },
@@ -92,8 +122,8 @@
     }
   ],
   "latest_date": "2026-09-15",
-  "count_7d": 15,
-  "count_today": 2,
+  "count_7d": 17,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
