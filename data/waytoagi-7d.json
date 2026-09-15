@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-15T01:20:01.271510+00:00",
+  "generated_at": "2026-09-15T06:35:36.684034+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-15",
+      "title": "Nuclear energy: back to the future? Finding a role in the decarbonised energy system – and what…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wgr6sw/nuclear_energy_back_to_the_future_finding_a_role/"
+    },
     {
       "date": "2026-09-14",
       "title": "Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore",
@@ -76,39 +81,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-14",
-      "title": "Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wgi3dn/saudi_arabia_discovers_110_million_tonnes_of/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "As the coast begins to crumble, the clock ticks on moving San Onofre's radioactive waste",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wgc8x0/as_the_coast_begins_to_crumble_the_clock_ticks_on/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "How a PWR works in 90 secs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wg48bt/how_a_pwr_works_in_90_secs/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Chubu Electric says its president to resign, nuclear restart application withdrawn over data sc…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wg2sjf/chubu_electric_says_its_president_to_resign/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Ansto nuclear reactor marks 20 years of health and technology innovation",
-      "url": "https://www.abc.net.au/news/2026-09-14/ansto-opal-nuclear-reactor-celebrates-20-years/107132928"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Bill Gates-backed nuclear fusion firm gets Hyundai Motor backing in $1 billion raise",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wfq455/bill_gatesbacked_nuclear_fusion_firm_gets_hyundai/"
+      "date": "2026-09-15",
+      "title": "Nuclear energy: back to the future? Finding a role in the decarbonised energy system – and what…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wgr6sw/nuclear_energy_back_to_the_future_finding_a_role/"
     }
   ],
-  "latest_date": "2026-09-14",
-  "count_7d": 14,
-  "count_today": 6,
+  "latest_date": "2026-09-15",
+  "count_7d": 15,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
