@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-15T17:36:46.710154+00:00",
+  "generated_at": "2026-09-15T21:08:57.334142+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-15",
+      "title": "First SMR funding agreed by European Investment Bank",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wh7z4l/first_smr_funding_agreed_by_european_investment/"
+    },
     {
       "date": "2026-09-15",
       "title": "From Uzbekistan to Canada: A look at India’s global uranium hunt",
@@ -69,11 +74,6 @@
       "url": "https://news.ycombinator.com/item?id=49685036"
     },
     {
-      "date": "2026-09-13",
-      "title": "Europe’s electrification target needs 50 GW of new nuclear capacity",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wex0xe/europes_electrification_target_needs_50_gw_of_new/"
-    },
-    {
       "date": "2026-09-11",
       "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
       "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
@@ -90,6 +90,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-15",
+      "title": "First SMR funding agreed by European Investment Bank",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wh7z4l/first_smr_funding_agreed_by_european_investment/"
+    },
     {
       "date": "2026-09-15",
       "title": "From Uzbekistan to Canada: A look at India’s global uranium hunt",
@@ -123,7 +128,7 @@
   ],
   "latest_date": "2026-09-15",
   "count_7d": 17,
-  "count_today": 6,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null

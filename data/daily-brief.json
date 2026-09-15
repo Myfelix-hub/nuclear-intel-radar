@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:36:46.710154+00:00",
+  "generated_at": "2026-09-15T21:08:57.334142+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -23,7 +23,7 @@
       "story_id": "story-ab8ffa586cd7b168",
       "title": "Terrestrial Energy Submits Molten Salt Reactor Report to NRC",
       "representative_url": "https://www.yahoo.com/news/science/articles/terrestrial-energy-submits-molten-salt-201700588.html",
-      "first_published_at": "2026-09-15T17:36:46.710154+00:00",
+      "first_published_at": "2026-09-15T21:08:57.334142+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -38,7 +38,7 @@
       "story_id": "story-decb24fa017fc781",
       "title": "Reactor Licensing, Decommissioning, Operational Oversight Regulations Addressed in Latest NRC R…",
       "representative_url": "https://www.ans.org/news/2026-09-14/article-8384/reactor-licensing-decommissioning-operational-oversight-regulations-addressed-in-latest-nrc-rulemaking/",
-      "first_published_at": "2026-09-15T17:36:46.710154+00:00",
+      "first_published_at": "2026-09-15T21:08:57.334142+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -53,7 +53,7 @@
       "story_id": "story-342288924885ec53",
       "title": "NRC Proposes Broad Overhaul of Nuclear Reactor Regulations",
       "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-077.pdf",
-      "first_published_at": "2026-09-15T17:36:46.710154+00:00",
+      "first_published_at": "2026-09-15T21:08:57.334142+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -95,10 +95,26 @@
       "score": 3.5999999999999996
     },
     {
+      "story_id": "story-01fb3329b1549130",
+      "title": "First SMR funding agreed by European Investment Bank",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wh7z4l/first_smr_funding_agreed_by_european_investment/",
+      "first_published_at": "2026-09-15T16:10:36+00:00",
+      "sources": [
+        "reddit_nuclear",
+        "wnn"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.3,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 3.0476649250079015
+    },
+    {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-15T17:36:46.710154+00:00",
+      "first_published_at": "2026-09-15T21:08:57.334142+00:00",
       "sources": [
         "oklo"
       ],
@@ -113,7 +129,7 @@
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-09-15T17:36:46.710154+00:00",
+      "first_published_at": "2026-09-15T21:08:57.334142+00:00",
       "sources": [
         "oklo"
       ],
@@ -128,7 +144,7 @@
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-09-15T17:36:46.710154+00:00",
+      "first_published_at": "2026-09-15T21:08:57.334142+00:00",
       "sources": [
         "kairos"
       ],
@@ -137,21 +153,6 @@
       "source_tier": "industry",
       "source_tier_rank": 2,
       "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-15T17:36:46.710154+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
       "score": 2.7
     }
   ]
