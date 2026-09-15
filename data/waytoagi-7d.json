@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-15T06:35:36.684034+00:00",
+  "generated_at": "2026-09-15T12:35:15.366106+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-15",
+      "title": "Rosatom Seeks to Build Confidence in Paks II Nuclear Project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wgx7j1/rosatom_seeks_to_build_confidence_in_paks_ii/"
+    },
     {
       "date": "2026-09-15",
       "title": "Nuclear energy: back to the future? Finding a role in the decarbonised energy system – and what…",
@@ -55,11 +60,6 @@
     },
     {
       "date": "2026-09-12",
-      "title": "Indian Power ministry seeks green energy status for nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1webqxs/indian_power_ministry_seeks_green_energy_status/"
-    },
-    {
-      "date": "2026-09-12",
       "title": "Westinghouse plans 18 nuclear power plants in India by 2047",
       "url": "https://www.reddit.com/r/nuclear/comments/1webqi9/westinghouse_plans_18_nuclear_power_plants_in/"
     },
@@ -82,13 +82,18 @@
   "updates_today": [
     {
       "date": "2026-09-15",
+      "title": "Rosatom Seeks to Build Confidence in Paks II Nuclear Project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wgx7j1/rosatom_seeks_to_build_confidence_in_paks_ii/"
+    },
+    {
+      "date": "2026-09-15",
       "title": "Nuclear energy: back to the future? Finding a role in the decarbonised energy system – and what…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wgr6sw/nuclear_energy_back_to_the_future_finding_a_role/"
     }
   ],
   "latest_date": "2026-09-15",
   "count_7d": 15,
-  "count_today": 1,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
