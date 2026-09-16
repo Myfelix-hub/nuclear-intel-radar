@@ -1,28 +1,8 @@
 {
-  "generated_at": "2026-09-15T23:37:47.372449+00:00",
+  "generated_at": "2026-09-16T04:28:24.610542+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-09-15",
-      "title": "First SMR funding agreed by European Investment Bank",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh7z4l/first_smr_funding_agreed_by_european_investment/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "From Uzbekistan to Canada: A look at India’s global uranium hunt",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh4qgf/from_uzbekistan_to_canada_a_look_at_indias_global/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "India and Uzbekistan eye uranium deal as ties grow",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh4pqr/india_and_uzbekistan_eye_uranium_deal_as_ties_grow/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Nuclear Toolkit now on iOS, Android, and Web App!",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh2yl9/nuclear_toolkit_now_on_ios_android_and_web_app/"
-    },
     {
       "date": "2026-09-15",
       "title": "Chubu Electric Power execs resign, falsified quake safety data for 2 reactors",
@@ -30,43 +10,28 @@
     },
     {
       "date": "2026-09-15",
-      "title": "Rosatom Seeks to Build Confidence in Paks II Nuclear Project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wgx7j1/rosatom_seeks_to_build_confidence_in_paks_ii/"
+      "title": "How a BWR works (one circuit: steam from the core, no steam generator)",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wgyjbe/how_a_bwr_works_one_circuit_steam_from_the_core/"
     },
     {
       "date": "2026-09-15",
-      "title": "Nuclear energy: back to the future? Finding a role in the decarbonised energy system – and what…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wgr6sw/nuclear_energy_back_to_the_future_finding_a_role/"
+      "title": "Japanese utility halts nuclear reactor restart after data manipulation scandal: independent com…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wgtbsb/japanese_utility_halts_nuclear_reactor_restart/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Where to learn lots about nuclear power for fun",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wgn315/where_to_learn_lots_about_nuclear_power_for_fun/"
     },
     {
       "date": "2026-09-14",
-      "title": "Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wgi3dn/saudi_arabia_discovers_110_million_tonnes_of/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "How a PWR works in 90 secs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wg48bt/how_a_pwr_works_in_90_secs/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Chubu Electric says its president to resign, nuclear restart application withdrawn over data sc…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wg2sjf/chubu_electric_says_its_president_to_resign/"
+      "title": "How a PWR works in 90 seconds",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wg475u/how_a_pwr_works_in_90_seconds/"
     },
     {
       "date": "2026-09-14",
       "title": "Ansto nuclear reactor marks 20 years of health and technology innovation",
       "url": "https://www.abc.net.au/news/2026-09-14/ansto-opal-nuclear-reactor-celebrates-20-years/107132928"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Bill Gates-backed nuclear fusion firm gets Hyundai Motor backing in $1 billion raise",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wfq455/bill_gatesbacked_nuclear_fusion_firm_gets_hyundai/"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Ask HN: Are we losing our engineering literacy?",
-      "url": "https://news.ycombinator.com/item?id=49685036"
     },
     {
       "date": "2026-09-11",
@@ -87,43 +52,28 @@
   "updates_today": [
     {
       "date": "2026-09-15",
-      "title": "First SMR funding agreed by European Investment Bank",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh7z4l/first_smr_funding_agreed_by_european_investment/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "From Uzbekistan to Canada: A look at India’s global uranium hunt",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh4qgf/from_uzbekistan_to_canada_a_look_at_indias_global/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "India and Uzbekistan eye uranium deal as ties grow",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh4pqr/india_and_uzbekistan_eye_uranium_deal_as_ties_grow/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Nuclear Toolkit now on iOS, Android, and Web App!",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh2yl9/nuclear_toolkit_now_on_ios_android_and_web_app/"
-    },
-    {
-      "date": "2026-09-15",
       "title": "Chubu Electric Power execs resign, falsified quake safety data for 2 reactors",
       "url": "https://japantoday.com/category/national/japanese-utility-execs-resign-over-falsified-quake-safety-data-for-2-nuclear-reactors"
     },
     {
       "date": "2026-09-15",
-      "title": "Rosatom Seeks to Build Confidence in Paks II Nuclear Project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wgx7j1/rosatom_seeks_to_build_confidence_in_paks_ii/"
+      "title": "How a BWR works (one circuit: steam from the core, no steam generator)",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wgyjbe/how_a_bwr_works_one_circuit_steam_from_the_core/"
     },
     {
       "date": "2026-09-15",
-      "title": "Nuclear energy: back to the future? Finding a role in the decarbonised energy system – and what…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wgr6sw/nuclear_energy_back_to_the_future_finding_a_role/"
+      "title": "Japanese utility halts nuclear reactor restart after data manipulation scandal: independent com…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wgtbsb/japanese_utility_halts_nuclear_reactor_restart/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Where to learn lots about nuclear power for fun",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wgn315/where_to_learn_lots_about_nuclear_power_for_fun/"
     }
   ],
   "latest_date": "2026-09-15",
-  "count_7d": 16,
-  "count_today": 7,
+  "count_7d": 9,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
