@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-09-16T04:28:24.610542+00:00",
+  "generated_at": "2026-09-16T09:28:25.068736+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-674063fe4c1abb14",
+      "title": "Looking to connect with experts and professionals in the Nuclear SMR sector in the US and Europe",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1whs8ax/looking_to_connect_with_experts_and_professionals/",
+      "first_published_at": "2026-09-16T09:22:07+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 3.5999999999999996
+    },
     {
       "story_id": "story-3f75689f51676214",
       "title": "Japanese utility halts nuclear reactor restart after data manipulation scandal: independent com…",
@@ -37,7 +52,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-16T04:28:24.610542+00:00",
+      "first_published_at": "2026-09-16T09:28:25.068736+00:00",
       "sources": [
         "oklo"
       ],
@@ -52,7 +67,7 @@
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-09-16T04:28:24.610542+00:00",
+      "first_published_at": "2026-09-16T09:28:25.068736+00:00",
       "sources": [
         "oklo"
       ],
@@ -67,7 +82,7 @@
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-09-16T04:28:24.610542+00:00",
+      "first_published_at": "2026-09-16T09:28:25.068736+00:00",
       "sources": [
         "kairos"
       ],
@@ -82,7 +97,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-16T04:28:24.610542+00:00",
+      "first_published_at": "2026-09-16T09:28:25.068736+00:00",
       "sources": [
         "kairos"
       ],
@@ -112,7 +127,7 @@
       "story_id": "story-ec275d024c79f1bd",
       "title": "中核集团人事密集调整！涉及江苏核电等！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-09-16T04:28:24.610542+00:00",
+      "first_published_at": "2026-09-16T09:28:25.068736+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -127,7 +142,7 @@
       "story_id": "story-6dc9add4ab243f52",
       "title": "这家核电机组FCD！",
       "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-09-16T04:28:24.610542+00:00",
+      "first_published_at": "2026-09-16T09:28:25.068736+00:00",
       "sources": [
         "nuclear_net_cn"
       ],
@@ -137,21 +152,6 @@
       "source_tier_rank": 3,
       "primary_section": "newbuild",
       "score": 2.4
-    },
-    {
-      "story_id": "story-b5758386f5c42cbc",
-      "title": "Reactor licensing, decommissioning, operational oversight regulations addressed in latest NRC r…",
-      "representative_url": "https://www.ans.org/news/2026-09-14/article-8384/reactor-licensing-decommissioning-operational-oversight-regulations-addressed-in-latest-nrc-rulemaking/",
-      "first_published_at": "2026-09-14T12:09:24+00:00",
-      "sources": [
-        "ans_newswire"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.05,
-      "source_tier": "nuclear_media",
-      "source_tier_rank": 1,
-      "primary_section": "policy",
-      "score": 2.1
     }
   ]
 }

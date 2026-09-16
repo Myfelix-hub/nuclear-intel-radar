@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-16T04:28:24.610542+00:00",
+  "generated_at": "2026-09-16T09:28:25.068736+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-16",
+      "title": "Looking to connect with experts and professionals in the Nuclear SMR sector in the US and Europe",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1whs8ax/looking_to_connect_with_experts_and_professionals/"
+    },
     {
       "date": "2026-09-15",
       "title": "Chubu Electric Power execs resign, falsified quake safety data for 2 reactors",
@@ -51,29 +56,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-15",
-      "title": "Chubu Electric Power execs resign, falsified quake safety data for 2 reactors",
-      "url": "https://japantoday.com/category/national/japanese-utility-execs-resign-over-falsified-quake-safety-data-for-2-nuclear-reactors"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "How a BWR works (one circuit: steam from the core, no steam generator)",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wgyjbe/how_a_bwr_works_one_circuit_steam_from_the_core/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Japanese utility halts nuclear reactor restart after data manipulation scandal: independent com…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wgtbsb/japanese_utility_halts_nuclear_reactor_restart/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Where to learn lots about nuclear power for fun",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wgn315/where_to_learn_lots_about_nuclear_power_for_fun/"
+      "date": "2026-09-16",
+      "title": "Looking to connect with experts and professionals in the Nuclear SMR sector in the US and Europe",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1whs8ax/looking_to_connect_with_experts_and_professionals/"
     }
   ],
-  "latest_date": "2026-09-15",
-  "count_7d": 9,
-  "count_today": 4,
+  "latest_date": "2026-09-16",
+  "count_7d": 10,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
