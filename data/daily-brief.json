@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:15:44.570842+00:00",
+  "generated_at": "2026-09-17T19:12:33.555789+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -19,25 +19,131 @@
       "score": 6.095329850015803
     },
     {
-      "story_id": "story-4609d3b490db37e2",
-      "title": "China opens advanced reactor expertise to global nuclear community",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1whonhn/china_opens_advanced_reactor_expertise_to_global/",
-      "first_published_at": "2026-09-16T05:58:00+00:00",
+      "story_id": "story-e9ac544452926da3",
+      "title": "Defense Department Awards Antares $161 Million for Nuclear Space Reactor",
+      "representative_url": "https://www.ans.org/news/2026-09-15/article-8390/dod-funds-161-million-space-reactor-award/",
+      "first_published_at": "2026-09-15T17:01:57+00:00",
       "sources": [
-        "reddit_nuclear"
+        "nucleartownhall",
+        "ans_newswire"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-609793a21179533a",
+      "title": "CNNC, IAEA Sign HTGR Cooperation Agreement to Share China’s Advanced Nuclear Experience with In…",
+      "representative_url": "https://finance.yahoo.com/energy/articles/global-times-cnnc-iaea-sign-090800479.html",
+      "first_published_at": "2026-09-17T19:12:33.555789+00:00",
+      "sources": [
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.9,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 5.4
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 3.6
     },
     {
-      "story_id": "story-176c6515a22ad124",
-      "title": "Exclusive: South Korea, U.S. Delay $200 Billion Investment MOU Over Nuclear Reactor Dispute",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wicekd/exclusive_south_korea_us_delay_200_billion/",
-      "first_published_at": "2026-09-16T22:48:34+00:00",
+      "story_id": "story-d64c9ead8481188d",
+      "title": "NuScale Power Is Closing In on a Deal That Could Transform the Small Modular Reactor Industry",
+      "representative_url": "https://finance.yahoo.com/energy/articles/nuscale-power-closing-deal-could-073900724.html",
+      "first_published_at": "2026-09-17T19:12:33.555789+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-a35df76e230b28af",
+      "title": "China Takes Advanced Reactor Expertise Global Through IAEA Technology-Sharing Deal",
+      "representative_url": "https://interestingengineering.com/energy/china-iaea-htgr-cooperation-nuclear-industrial-heat",
+      "first_published_at": "2026-09-17T19:12:33.555789+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-a3d1c857d5d2481b",
+      "title": "One-Mile Underground Nuclear Reactor Gets Full Safety Blueprint for DOE Pilot Effort",
+      "representative_url": "https://interestingengineering.com/energy/deep-fission-releases-safety-plan-underground-nuclear-reactor",
+      "first_published_at": "2026-09-17T19:12:33.555789+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-134b6cf0b1a34344",
+      "title": "Syria Says 73 Tons of Natural Uranium Now Under IAEA Safeguards",
+      "representative_url": "https://www.aa.com.tr/en/middle-east/syria-says-73-tons-of-natural-uranium-now-under-iaea-safeguards/4057242",
+      "first_published_at": "2026-09-17T19:12:33.555789+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-decb24fa017fc781",
+      "title": "Reactor Licensing, Decommissioning, Operational Oversight Regulations Addressed in Latest NRC R…",
+      "representative_url": "https://www.ans.org/news/2026-09-14/article-8384/reactor-licensing-decommissioning-operational-oversight-regulations-addressed-in-latest-nrc-rulemaking/",
+      "first_published_at": "2026-09-17T19:12:33.555789+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-342288924885ec53",
+      "title": "NRC Proposes Broad Overhaul of Nuclear Reactor Regulations",
+      "representative_url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-077.pdf",
+      "first_published_at": "2026-09-17T19:12:33.555789+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-3a80475a2b04ac83",
+      "title": "Nuclear Plants Reported More Than 1,100 Drug or Alcohol Testing Violations Last Year. The NRC N…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wixxhw/nuclear_plants_reported_more_than_1100_drug_or/",
+      "first_published_at": "2026-09-17T15:57:22+00:00",
       "sources": [
         "reddit_nuclear"
       ],
@@ -47,111 +153,6 @@
       "source_tier_rank": 5,
       "primary_section": "community",
       "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-364bd136cb58d653",
-      "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
-      "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-17T15:15:44.570842+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 3.0
-    },
-    {
-      "story_id": "story-4eb0bc894c8c487d",
-      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
-      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-09-17T15:15:44.570842+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "hot",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-e8d9b69bff65b6d5",
-      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
-      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-09-17T15:15:44.570842+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-17T15:15:44.570842+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-d8164a1a1c9ad08d",
-      "title": "Blue Energy Submits First Part of Construction Permit Application to the NRC",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wisbut/blue_energy_submits_first_part_of_construction/",
-      "first_published_at": "2026-09-17T12:15:00+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "policy",
-      "score": 2.4000000000000004
-    },
-    {
-      "story_id": "story-c95e063bf17a9941",
-      "title": "New Brunswick's nuclear power plant expected to be off-line for weeks, official says",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wikpnw/new_brunswicks_nuclear_power_plant_expected_to_be/",
-      "first_published_at": "2026-09-17T05:12:07+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
-    },
-    {
-      "story_id": "story-ec275d024c79f1bd",
-      "title": "中核集团人事密集调整！涉及江苏核电等！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-09-17T15:15:44.570842+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "china",
-      "score": 2.4
     }
   ]
 }

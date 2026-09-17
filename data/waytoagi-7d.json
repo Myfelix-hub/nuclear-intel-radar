@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-09-17T15:15:44.570842+00:00",
+  "generated_at": "2026-09-17T19:12:33.555789+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-17",
+      "title": "It is safe for the NRC to replace ALARA",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wizuhp/it_is_safe_for_the_nrc_to_replace_alara/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Nuclear Plants Reported More Than 1,100 Drug or Alcohol Testing Violations Last Year. The NRC N…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wixxhw/nuclear_plants_reported_more_than_1100_drug_or/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Terrestrial Energy submits Graphite Topical Report to NRC",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wixgp4/terrestrial_energy_submits_graphite_topical/"
+    },
     {
       "date": "2026-09-17",
       "title": "Holtec Nuclear postpones U.S. IPO, citing market conditions",
@@ -55,11 +70,6 @@
     },
     {
       "date": "2026-09-16",
-      "title": "China opens advanced reactor expertise to global nuclear community",
-      "url": "https://www.reddit.com/r/nuclear/comments/1whonhn/china_opens_advanced_reactor_expertise_to_global/"
-    },
-    {
-      "date": "2026-09-16",
       "title": "China mulls building nuclear-powered tank with 450km-range railgun in 2 decades",
       "url": "https://www.reddit.com/r/nuclear/comments/1whoic8/china_mulls_building_nuclearpowered_tank_with/"
     },
@@ -79,12 +89,32 @@
       "url": "https://www.abc.net.au/news/2026-09-14/ansto-opal-nuclear-reactor-celebrates-20-years/107132928"
     },
     {
+      "date": "2026-09-13",
+      "title": "Ask HN: Are we losing our engineering literacy?",
+      "url": "https://news.ycombinator.com/item?id=49685036"
+    },
+    {
       "date": "2026-09-11",
       "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
       "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-17",
+      "title": "It is safe for the NRC to replace ALARA",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wizuhp/it_is_safe_for_the_nrc_to_replace_alara/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Nuclear Plants Reported More Than 1,100 Drug or Alcohol Testing Violations Last Year. The NRC N…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wixxhw/nuclear_plants_reported_more_than_1100_drug_or/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Terrestrial Energy submits Graphite Topical Report to NRC",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wixgp4/terrestrial_energy_submits_graphite_topical/"
+    },
     {
       "date": "2026-09-17",
       "title": "Holtec Nuclear postpones U.S. IPO, citing market conditions",
@@ -122,8 +152,8 @@
     }
   ],
   "latest_date": "2026-09-17",
-  "count_7d": 16,
-  "count_today": 7,
+  "count_7d": 19,
+  "count_today": 10,
   "has_error": false,
   "error": null,
   "warning": null
