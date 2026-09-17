@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-17T19:12:33.555789+00:00",
+  "generated_at": "2026-09-17T22:23:25.711394+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-17",
+      "title": "Bechtel cuts ties with Terrapower",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wj5jqj/bechtel_cuts_ties_with_terrapower/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Millions of fish tested Canada's largest nuclear plant",
+      "url": "https://www.cbc.ca/news/canada/ontario-bruce-power-climate-change-gizzard-shad-fish-event-lake-huron-9.7337290"
+    },
     {
       "date": "2026-09-17",
       "title": "It is safe for the NRC to replace ALARA",
@@ -70,11 +80,6 @@
     },
     {
       "date": "2026-09-16",
-      "title": "China mulls building nuclear-powered tank with 450km-range railgun in 2 decades",
-      "url": "https://www.reddit.com/r/nuclear/comments/1whoic8/china_mulls_building_nuclearpowered_tank_with/"
-    },
-    {
-      "date": "2026-09-16",
       "title": "State rejects bid to dump millions of gallons of nuclear wastewater into Cape Cod Bay",
       "url": "https://www.reddit.com/r/nuclear/comments/1whkg0u/state_rejects_bid_to_dump_millions_of_gallons_of/"
     },
@@ -100,6 +105,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-17",
+      "title": "Bechtel cuts ties with Terrapower",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wj5jqj/bechtel_cuts_ties_with_terrapower/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Millions of fish tested Canada's largest nuclear plant",
+      "url": "https://www.cbc.ca/news/canada/ontario-bruce-power-climate-change-gizzard-shad-fish-event-lake-huron-9.7337290"
+    },
     {
       "date": "2026-09-17",
       "title": "It is safe for the NRC to replace ALARA",
@@ -152,8 +167,8 @@
     }
   ],
   "latest_date": "2026-09-17",
-  "count_7d": 19,
-  "count_today": 10,
+  "count_7d": 20,
+  "count_today": 12,
   "has_error": false,
   "error": null,
   "warning": null
