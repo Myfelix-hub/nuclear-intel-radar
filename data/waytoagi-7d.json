@@ -1,17 +1,22 @@
 {
-  "generated_at": "2026-09-16T21:36:39.461168+00:00",
+  "generated_at": "2026-09-17T00:16:18.114206+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-09-16",
-      "title": "Nuclear Fusion's Moment of Truth",
-      "url": "https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d"
+      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years' worth of nuclear fuel",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wid8hh/clean_tech_startup_fluxnium_found_a_way_to_tap/"
     },
     {
       "date": "2026-09-16",
-      "title": "Which presents the greater climate risk: expanding nuclear power, or attempting to reach net ze…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1whqoca/which_presents_the_greater_climate_risk_expanding/"
+      "title": "Exclusive: South Korea, U.S. Delay $200 Billion Investment MOU Over Nuclear Reactor Dispute",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wicekd/exclusive_south_korea_us_delay_200_billion/"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Nuclear Fusion's Moment of Truth",
+      "url": "https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d"
     },
     {
       "date": "2026-09-16",
@@ -59,11 +64,6 @@
       "url": "https://japantoday.com/category/national/japanese-utility-execs-resign-over-falsified-quake-safety-data-for-2-nuclear-reactors"
     },
     {
-      "date": "2026-09-15",
-      "title": "Rosatom Seeks to Build Confidence in Paks II Nuclear Project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wgx7j1/rosatom_seeks_to_build_confidence_in_paks_ii/"
-    },
-    {
       "date": "2026-09-14",
       "title": "Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore",
       "url": "https://www.reddit.com/r/nuclear/comments/1wgi3dn/saudi_arabia_discovers_110_million_tonnes_of/"
@@ -87,13 +87,18 @@
   "updates_today": [
     {
       "date": "2026-09-16",
-      "title": "Nuclear Fusion's Moment of Truth",
-      "url": "https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d"
+      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years' worth of nuclear fuel",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wid8hh/clean_tech_startup_fluxnium_found_a_way_to_tap/"
     },
     {
       "date": "2026-09-16",
-      "title": "Which presents the greater climate risk: expanding nuclear power, or attempting to reach net ze…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1whqoca/which_presents_the_greater_climate_risk_expanding/"
+      "title": "Exclusive: South Korea, U.S. Delay $200 Billion Investment MOU Over Nuclear Reactor Dispute",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wicekd/exclusive_south_korea_us_delay_200_billion/"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Nuclear Fusion's Moment of Truth",
+      "url": "https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d"
     },
     {
       "date": "2026-09-16",
@@ -118,7 +123,7 @@
   ],
   "latest_date": "2026-09-16",
   "count_7d": 16,
-  "count_today": 6,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
