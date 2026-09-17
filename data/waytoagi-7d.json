@@ -1,67 +1,12 @@
 {
-  "generated_at": "2026-09-17T05:12:21.102625+00:00",
+  "generated_at": "2026-09-17T10:19:58.757706+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-09-17",
-      "title": "New Brunswick's nuclear power plant expected to be off-line for weeks, official says",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wikpnw/new_brunswicks_nuclear_power_plant_expected_to_be/"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "How can we best pressure policymakers to lift Australia's nuclear ban? Looking for advice.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wij7u5/how_can_we_best_pressure_policymakers_to_lift/"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "Xin’ao Fusion’s ‘Helong-2’ construction project has officially begun, marking a step toward ele…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wig6fi/xinao_fusions_helong2_construction_project_has/"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years' worth of nuclear fuel",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wid8hh/clean_tech_startup_fluxnium_found_a_way_to_tap/"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Exclusive: South Korea, U.S. Delay $200 Billion Investment MOU Over Nuclear Reactor Dispute",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wicekd/exclusive_south_korea_us_delay_200_billion/"
-    },
-    {
       "date": "2026-09-16",
       "title": "Nuclear Fusion's Moment of Truth",
       "url": "https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "China opens advanced reactor expertise to global nuclear community",
-      "url": "https://www.reddit.com/r/nuclear/comments/1whonhn/china_opens_advanced_reactor_expertise_to_global/"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "China mulls building nuclear-powered tank with 450km-range railgun in 2 decades",
-      "url": "https://www.reddit.com/r/nuclear/comments/1whoic8/china_mulls_building_nuclearpowered_tank_with/"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "State rejects bid to dump millions of gallons of nuclear wastewater into Cape Cod Bay",
-      "url": "https://www.reddit.com/r/nuclear/comments/1whkg0u/state_rejects_bid_to_dump_millions_of_gallons_of/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "First SMR funding agreed by European Investment Bank",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh7z4l/first_smr_funding_agreed_by_european_investment/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "India and Uzbekistan eye uranium deal as ties grow",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh4pqr/india_and_uzbekistan_eye_uranium_deal_as_ties_grow/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Nuclear Toolkit now on iOS, Android, and Web App!",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wh2yl9/nuclear_toolkit_now_on_ios_android_and_web_app/"
     },
     {
       "date": "2026-09-15",
@@ -86,24 +31,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-17",
-      "title": "New Brunswick's nuclear power plant expected to be off-line for weeks, official says",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wikpnw/new_brunswicks_nuclear_power_plant_expected_to_be/"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "How can we best pressure policymakers to lift Australia's nuclear ban? Looking for advice.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wij7u5/how_can_we_best_pressure_policymakers_to_lift/"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "Xin’ao Fusion’s ‘Helong-2’ construction project has officially begun, marking a step toward ele…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wig6fi/xinao_fusions_helong2_construction_project_has/"
+      "date": "2026-09-16",
+      "title": "Nuclear Fusion's Moment of Truth",
+      "url": "https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d"
     }
   ],
-  "latest_date": "2026-09-17",
-  "count_7d": 16,
-  "count_today": 3,
+  "latest_date": "2026-09-16",
+  "count_7d": 5,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
