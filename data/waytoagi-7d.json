@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:59:38.796110+00:00",
+  "generated_at": "2026-09-18T14:55:28.018970+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -60,11 +60,6 @@
     },
     {
       "date": "2026-09-17",
-      "title": "IAEA and Pakistan sign agreement for Chashma-5 — Dawn",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wiljut/iaea_and_pakistan_sign_agreement_for_chashma5_dawn/"
-    },
-    {
-      "date": "2026-09-17",
       "title": "New Brunswick's nuclear power plant expected to be off-line for weeks, official says",
       "url": "https://www.reddit.com/r/nuclear/comments/1wikpnw/new_brunswicks_nuclear_power_plant_expected_to_be/"
     },
@@ -112,7 +107,7 @@
     }
   ],
   "latest_date": "2026-09-18",
-  "count_7d": 18,
+  "count_7d": 17,
   "count_today": 3,
   "has_error": false,
   "error": null,
