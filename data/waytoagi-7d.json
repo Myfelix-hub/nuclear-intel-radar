@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-18T05:44:28.800915+00:00",
+  "generated_at": "2026-09-18T10:59:38.796110+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-18",
+      "title": "Texas power plant, nuclear projects under discussion in South Korea's US investment package",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wjm8c7/texas_power_plant_nuclear_projects_under/"
+    },
     {
       "date": "2026-09-18",
       "title": "Were the Babcock and Wilcox reactors cursed?",
@@ -70,11 +75,6 @@
     },
     {
       "date": "2026-09-16",
-      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years' worth of nuclear fuel",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wid8hh/clean_tech_startup_fluxnium_found_a_way_to_tap/"
-    },
-    {
-      "date": "2026-09-16",
       "title": "Exclusive: South Korea, U.S. Delay $200 Billion Investment MOU Over Nuclear Reactor Dispute",
       "url": "https://www.reddit.com/r/nuclear/comments/1wicekd/exclusive_south_korea_us_delay_200_billion/"
     },
@@ -97,6 +97,11 @@
   "updates_today": [
     {
       "date": "2026-09-18",
+      "title": "Texas power plant, nuclear projects under discussion in South Korea's US investment package",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wjm8c7/texas_power_plant_nuclear_projects_under/"
+    },
+    {
+      "date": "2026-09-18",
       "title": "Were the Babcock and Wilcox reactors cursed?",
       "url": "https://www.reddit.com/r/nuclear/comments/1wjejk4/were_the_babcock_and_wilcox_reactors_cursed/"
     },
@@ -108,7 +113,7 @@
   ],
   "latest_date": "2026-09-18",
   "count_7d": 18,
-  "count_today": 2,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
