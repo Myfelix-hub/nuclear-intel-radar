@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:23:25.711394+00:00",
+  "generated_at": "2026-09-18T00:43:01.572083+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -97,11 +97,6 @@
       "date": "2026-09-13",
       "title": "Ask HN: Are we losing our engineering literacy?",
       "url": "https://news.ycombinator.com/item?id=49685036"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
     }
   ],
   "updates_today": [
@@ -167,7 +162,7 @@
     }
   ],
   "latest_date": "2026-09-17",
-  "count_7d": 20,
+  "count_7d": 19,
   "count_today": 12,
   "has_error": false,
   "error": null,
