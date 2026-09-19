@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:15:51.762517+00:00",
+  "generated_at": "2026-09-19T08:56:15.192368+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -19,86 +19,40 @@
       "score": 6.095329850015803
     },
     {
-      "story_id": "story-4b6760dc1beda915",
-      "title": "House Subcommittee Examines Nuclear Lifecycle Campuses and Spent Fuel Policy",
-      "representative_url": "https://www.ans.org/news/2026-09-16/article-8393/house-subcommittee-discusses-nlic-nuclear-spent-fuel-policy/",
-      "first_published_at": "2026-09-16T14:25:42+00:00",
+      "story_id": "story-5fc44b8200bba6b1",
+      "title": "A reactor core went critical at 1,225 degrees on the old Nevada nuclear test site 10 days after…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wjca7t/a_reactor_core_went_critical_at_1225_degrees_on/",
+      "first_published_at": "2026-09-18T01:19:17+00:00",
       "sources": [
-        "nucleartownhall",
-        "ans_newswire"
+        "reddit_nuclear"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 4.063553233343868
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
     },
     {
-      "story_id": "story-609793a21179533a",
-      "title": "CNNC, IAEA Sign HTGR Cooperation Agreement to Share China’s Advanced Nuclear Experience with In…",
-      "representative_url": "https://finance.yahoo.com/energy/articles/global-times-cnnc-iaea-sign-090800479.html",
-      "first_published_at": "2026-09-19T04:15:51.762517+00:00",
+      "story_id": "story-176c6515a22ad124",
+      "title": "Exclusive: South Korea, U.S. Delay $200 Billion Investment MOU Over Nuclear Reactor Dispute",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wicekd/exclusive_south_korea_us_delay_200_billion/",
+      "first_published_at": "2026-09-16T22:48:34+00:00",
       "sources": [
-        "nucleartownhall"
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "china",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-a35df76e230b28af",
-      "title": "China Takes Advanced Reactor Expertise Global Through IAEA Technology-Sharing Deal",
-      "representative_url": "https://interestingengineering.com/energy/china-iaea-htgr-cooperation-nuclear-industrial-heat",
-      "first_published_at": "2026-09-19T04:15:51.762517+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-134b6cf0b1a34344",
-      "title": "Syria Says 73 Tons of Natural Uranium Now Under IAEA Safeguards",
-      "representative_url": "https://www.aa.com.tr/en/middle-east/syria-says-73-tons-of-natural-uranium-now-under-iaea-safeguards/4057242",
-      "first_published_at": "2026-09-19T04:15:51.762517+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-b29f3cb4453b0896",
-      "title": "NRC Proposes Broad Overhaul of Nuclear Reactor Regulations",
-      "representative_url": "https://www.publicpower.org/periodical/article/nrc-proposes-broad-overhaul-nuclear-reactor-regulations",
-      "first_published_at": "2026-09-19T04:15:51.762517+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
     },
     {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-19T04:15:51.762517+00:00",
+      "first_published_at": "2026-09-19T08:56:15.192368+00:00",
       "sources": [
         "oklo"
       ],
@@ -110,40 +64,10 @@
       "score": 3.0
     },
     {
-      "story_id": "story-3f085e119d316ad1",
-      "title": "Energy Hearing: Nuclear Spent Fuel Policy — Examining Nuclear Lifecycle Innovation Campuses",
-      "representative_url": "https://energycommerce.house.gov/events/subcommittee-hearing-nuclear-spent-fuel-policy-examining-nuclear-lifecycle-innovation-campuses",
-      "first_published_at": "2026-09-19T04:15:51.762517+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 2.8
-    },
-    {
-      "story_id": "story-4ae3ff9abf7ac585",
-      "title": "Blue Energy Moves Texas Gas-Plus-Nuclear Project into NRC Construction Review, Marking a Major …",
-      "representative_url": "https://www.gevernova.com/news/press-releases/blue-energy-texas-gas-plus-nuclear-project-nrc-review",
-      "first_published_at": "2026-09-19T04:15:51.762517+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 2.8
-    },
-    {
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-09-19T04:15:51.762517+00:00",
+      "first_published_at": "2026-09-19T08:56:15.192368+00:00",
       "sources": [
         "oklo"
       ],
@@ -153,6 +77,81 @@
       "source_tier_rank": 2,
       "primary_section": "hot",
       "score": 2.7
+    },
+    {
+      "story_id": "story-e8d9b69bff65b6d5",
+      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
+      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
+      "first_published_at": "2026-09-19T08:56:15.192368+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "tech",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-4cac66c6fef215a4",
+      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
+      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
+      "first_published_at": "2026-09-19T08:56:15.192368+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-1d7a94cbb96d7e1b",
+      "title": "Texas power plant, nuclear projects under discussion in South Korea's US investment package",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wjm8c7/texas_power_plant_nuclear_projects_under/",
+      "first_published_at": "2026-09-18T10:13:54+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-0f387810fee7ed9c",
+      "title": "Terrestrial Energy submits Graphite Topical Report to NRC",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wixgp4/terrestrial_energy_submits_graphite_topical/",
+      "first_published_at": "2026-09-17T15:39:57+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-d8164a1a1c9ad08d",
+      "title": "Blue Energy Submits First Part of Construction Permit Application to the NRC",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wisbut/blue_energy_submits_first_part_of_construction/",
+      "first_published_at": "2026-09-17T12:15:00+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "policy",
+      "score": 2.4000000000000004
     }
   ]
 }
