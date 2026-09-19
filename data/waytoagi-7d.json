@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-19T13:02:57.291793+00:00",
+  "generated_at": "2026-09-19T16:43:24.361012+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-19",
+      "title": "20 MW molten salt nuclear battery moves toward first-fission test",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkp8d3/20_mw_molten_salt_nuclear_battery_moves_toward/"
+    },
     {
       "date": "2026-09-19",
       "title": "Career in nuclear energy",
@@ -65,11 +70,6 @@
     },
     {
       "date": "2026-09-17",
-      "title": "Blue Energy Submits First Part of Construction Permit Application to the NRC",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wisbut/blue_energy_submits_first_part_of_construction/"
-    },
-    {
-      "date": "2026-09-17",
       "title": "Nuclear Fusion's Moment of Truth",
       "url": "https://email.newsletters.ft.com/c/eJyMkslS40gQhp-mdCtH7ctBB29iRMxgzDIMcyGqKrOMsCy5JRkHPH1HE_Ry5JwZmf8f35fChLt-eCs7PI8tThMOBZQ5Kp9FgSW3zhtltBQFHkLT1lAakQWXntOYQFOlE6fOaE5dyFIGExNwVTyX0UlmMjKEmCKTTPkESYEVNoTsbCqaUjBhmOeWC8akmSkXFEYVmfUK0ABR7HeocZanWeoPRVs-T9NxJHJOREVEdT6fP0dEVKnvJuwmIirMmnNQhgbjPFXOOOqNVpTr6E2wXDsDRFYhJRzHu36PHZGr9_N8Pg9VLay828P16_0Nvzj2bR2uNg__Lh506KrHuF3P_lnfL-vtktmny5en8VpsN7j_v3beV6_zdtm9rC9Ofytr3h_bpl9fHrbP23oXfXfrlnx9fNdvi_1ypeN-tWn0YhPkX4tG35i2dm9XqvkvMSIMEVouRtwdsJtqIHL1pT7CfEIicvUVTESYP39YESBZJqg0HmlOEimPGmgKKWrgXoJjRduM0w8LeGTORGe8ZmiEFcJkYCYUx6GHU5rK8RiGfTGUO-xz5kSxttt3u_6D4YDfTvhxhscYIStGrZaSKp4lDaAltdw6LiEBsPBzHeEWO7hrDr-0VEIXU3k6NUDk_EteTkPoxpCmpu9qKBUwjCg4TeA9VUYy6pIKFH2KiJCMAF2cRhzuTw2UTHkfuQxUR6apYlnQGF2mwNBZr5I1yhevpfgeAAD__-Vf-7s"
     },
@@ -90,6 +90,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-19",
+      "title": "20 MW molten salt nuclear battery moves toward first-fission test",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkp8d3/20_mw_molten_salt_nuclear_battery_moves_toward/"
+    },
     {
       "date": "2026-09-19",
       "title": "Career in nuclear energy",
@@ -113,7 +118,7 @@
   ],
   "latest_date": "2026-09-19",
   "count_7d": 17,
-  "count_today": 4,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null

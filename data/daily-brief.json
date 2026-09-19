@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:02:57.291793+00:00",
+  "generated_at": "2026-09-19T16:43:24.361012+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -17,6 +17,21 @@
       "source_tier_rank": 5,
       "primary_section": "tech",
       "score": 6.095329850015803
+    },
+    {
+      "story_id": "story-cc269d90d491b08b",
+      "title": "20 MW molten salt nuclear battery moves toward first-fission test",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wkp8d3/20_mw_molten_salt_nuclear_battery_moves_toward/",
+      "first_published_at": "2026-09-19T15:32:07+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 5.4
     },
     {
       "story_id": "story-d7b82f34969b3cc7",
@@ -50,26 +65,10 @@
       "score": 4.063553233343869
     },
     {
-      "story_id": "story-4b6760dc1beda915",
-      "title": "House Subcommittee Examines Nuclear Lifecycle Campuses and Spent Fuel Policy",
-      "representative_url": "https://www.ans.org/news/2026-09-16/article-8393/house-subcommittee-discusses-nlic-nuclear-spent-fuel-policy/",
-      "first_published_at": "2026-09-16T14:25:42+00:00",
-      "sources": [
-        "nucleartownhall",
-        "ans_newswire"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 4.063553233343868
-    },
-    {
       "story_id": "story-609793a21179533a",
       "title": "CNNC, IAEA Sign HTGR Cooperation Agreement to Share China’s Advanced Nuclear Experience with In…",
       "representative_url": "https://finance.yahoo.com/energy/articles/global-times-cnnc-iaea-sign-090800479.html",
-      "first_published_at": "2026-09-19T13:02:57.291793+00:00",
+      "first_published_at": "2026-09-19T16:43:24.361012+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -84,7 +83,7 @@
       "story_id": "story-a35df76e230b28af",
       "title": "China Takes Advanced Reactor Expertise Global Through IAEA Technology-Sharing Deal",
       "representative_url": "https://interestingengineering.com/energy/china-iaea-htgr-cooperation-nuclear-industrial-heat",
-      "first_published_at": "2026-09-19T13:02:57.291793+00:00",
+      "first_published_at": "2026-09-19T16:43:24.361012+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -99,7 +98,7 @@
       "story_id": "story-134b6cf0b1a34344",
       "title": "Syria Says 73 Tons of Natural Uranium Now Under IAEA Safeguards",
       "representative_url": "https://www.aa.com.tr/en/middle-east/syria-says-73-tons-of-natural-uranium-now-under-iaea-safeguards/4057242",
-      "first_published_at": "2026-09-19T13:02:57.291793+00:00",
+      "first_published_at": "2026-09-19T16:43:24.361012+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -114,7 +113,7 @@
       "story_id": "story-b29f3cb4453b0896",
       "title": "NRC Proposes Broad Overhaul of Nuclear Reactor Regulations",
       "representative_url": "https://www.publicpower.org/periodical/article/nrc-proposes-broad-overhaul-nuclear-reactor-regulations",
-      "first_published_at": "2026-09-19T13:02:57.291793+00:00",
+      "first_published_at": "2026-09-19T16:43:24.361012+00:00",
       "sources": [
         "nucleartownhall"
       ],
