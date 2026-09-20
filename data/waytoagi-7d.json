@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:19:22.987084+00:00",
+  "generated_at": "2026-09-20T17:36:35.584764+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -54,11 +54,6 @@
       "url": "https://www.science.org/doi/10.1126/science.adx5917"
     },
     {
-      "date": "2026-09-18",
-      "title": "US backs Global Atomic’s Niger uranium mine with $414M loan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wk49rl/us_backs_global_atomics_niger_uranium_mine_with/"
-    },
-    {
       "date": "2026-09-17",
       "title": "Millions of fish tested Canada's largest nuclear plant",
       "url": "https://www.cbc.ca/news/canada/ontario-bruce-power-climate-change-gizzard-shad-fish-event-lake-huron-9.7337290"
@@ -97,7 +92,7 @@
     }
   ],
   "latest_date": "2026-09-20",
-  "count_7d": 16,
+  "count_7d": 15,
   "count_today": 2,
   "has_error": false,
   "error": null,
