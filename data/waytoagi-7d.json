@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-19T21:39:40.113675+00:00",
+  "generated_at": "2026-09-20T00:01:18.490694+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-19",
+      "title": "What Rising Interest Rates Mean for New Nuclear",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkz3ij/what_rising_interest_rates_mean_for_new_nuclear/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkyrve/iaea_triples_nuclear_power_forecast_as_small/"
+    },
     {
       "date": "2026-09-19",
       "title": "Europe completes the last ITER Vacuum Vessel sector for the world's largest fusion reactor",
@@ -45,11 +55,6 @@
     },
     {
       "date": "2026-09-18",
-      "title": "Were the Babcock and Wilcox reactors cursed?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wjejk4/were_the_babcock_and_wilcox_reactors_cursed/"
-    },
-    {
-      "date": "2026-09-18",
       "title": "A reactor core went critical at 1,225 degrees on the old Nevada nuclear test site 10 days after…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wjca7t/a_reactor_core_went_critical_at_1225_degrees_on/"
     },
@@ -62,11 +67,6 @@
       "date": "2026-09-17",
       "title": "Millions of fish tested Canada's largest nuclear plant",
       "url": "https://www.cbc.ca/news/canada/ontario-bruce-power-climate-change-gizzard-shad-fish-event-lake-huron-9.7337290"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "It is safe for the NRC to replace ALARA",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wizuhp/it_is_safe_for_the_nrc_to_replace_alara/"
     },
     {
       "date": "2026-09-17",
@@ -90,6 +90,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-19",
+      "title": "What Rising Interest Rates Mean for New Nuclear",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkz3ij/what_rising_interest_rates_mean_for_new_nuclear/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkyrve/iaea_triples_nuclear_power_forecast_as_small/"
+    },
     {
       "date": "2026-09-19",
       "title": "Europe completes the last ITER Vacuum Vessel sector for the world's largest fusion reactor",
@@ -123,7 +133,7 @@
   ],
   "latest_date": "2026-09-19",
   "count_7d": 17,
-  "count_today": 6,
+  "count_today": 8,
   "has_error": false,
   "error": null,
   "warning": null
