@@ -1,12 +1,62 @@
 {
-  "generated_at": "2026-09-20T10:00:55.414429+00:00",
+  "generated_at": "2026-09-20T14:19:22.987084+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
+      "date": "2026-09-20",
+      "title": "This nuclear plant was meant to free Cuba from dependence on oil. Now, it’s a symbol of its sha…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wle8kq/this_nuclear_plant_was_meant_to_free_cuba_from/"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Google’s Loviisa PPA changes the risk map for €700m of pending nuclear capex",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wl3nss/googles_loviisa_ppa_changes_the_risk_map_for_700m/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "What Rising Interest Rates Mean for New Nuclear",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkz3ij/what_rising_interest_rates_mean_for_new_nuclear/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkyrve/iaea_triples_nuclear_power_forecast_as_small/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Europe completes the last ITER Vacuum Vessel sector for the world's largest fusion reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkukb7/europe_completes_the_last_iter_vacuum_vessel/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "20 MW molten salt nuclear battery moves toward first-fission test",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkp8d3/20_mw_molten_salt_nuclear_battery_moves_toward/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Career in nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkiroc/career_in_nuclear_energy/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Nusano's HALEU Platform Selected for NRIC Nuclear Energy Launch Pad USA Program",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkigho/nusanos_haleu_platform_selected_for_nric_nuclear/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wkc48n/frances_edf_plans_10_small_nuclear_plants_in/"
+    },
+    {
       "date": "2026-09-19",
       "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
       "url": "https://www.science.org/doi/10.1126/science.adx5917"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "US backs Global Atomic’s Niger uranium mine with $414M loan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wk49rl/us_backs_global_atomics_niger_uranium_mine_with/"
     },
     {
       "date": "2026-09-17",
@@ -36,14 +86,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-19",
-      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
-      "url": "https://www.science.org/doi/10.1126/science.adx5917"
+      "date": "2026-09-20",
+      "title": "This nuclear plant was meant to free Cuba from dependence on oil. Now, it’s a symbol of its sha…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wle8kq/this_nuclear_plant_was_meant_to_free_cuba_from/"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Google’s Loviisa PPA changes the risk map for €700m of pending nuclear capex",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wl3nss/googles_loviisa_ppa_changes_the_risk_map_for_700m/"
     }
   ],
-  "latest_date": "2026-09-19",
-  "count_7d": 6,
-  "count_today": 1,
+  "latest_date": "2026-09-20",
+  "count_7d": 16,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
