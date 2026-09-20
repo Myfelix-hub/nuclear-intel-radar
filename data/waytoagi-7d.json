@@ -1,68 +1,8 @@
 {
-  "generated_at": "2026-09-20T00:01:18.490694+00:00",
+  "generated_at": "2026-09-20T05:16:52.567158+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-09-19",
-      "title": "What Rising Interest Rates Mean for New Nuclear",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkz3ij/what_rising_interest_rates_mean_for_new_nuclear/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkyrve/iaea_triples_nuclear_power_forecast_as_small/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Europe completes the last ITER Vacuum Vessel sector for the world's largest fusion reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkukb7/europe_completes_the_last_iter_vacuum_vessel/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "20 MW molten salt nuclear battery moves toward first-fission test",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkp8d3/20_mw_molten_salt_nuclear_battery_moves_toward/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Career in nuclear energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkiroc/career_in_nuclear_energy/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Nusano's HALEU Platform Selected for NRIC Nuclear Energy Launch Pad USA Program",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkigho/nusanos_haleu_platform_selected_for_nric_nuclear/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkc48n/frances_edf_plans_10_small_nuclear_plants_in/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
-      "url": "https://www.science.org/doi/10.1126/science.adx5917"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "US backs Global Atomic’s Niger uranium mine with $414M loan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wk49rl/us_backs_global_atomics_niger_uranium_mine_with/"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Texas power plant, nuclear projects under discussion in South Korea's US investment package",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wjm8c7/texas_power_plant_nuclear_projects_under/"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "A reactor core went critical at 1,225 degrees on the old Nevada nuclear test site 10 days after…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wjca7t/a_reactor_core_went_critical_at_1225_degrees_on/"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "Bechtel cuts ties with Terrapower",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wj5jqj/bechtel_cuts_ties_with_terrapower/"
-    },
     {
       "date": "2026-09-17",
       "title": "Millions of fish tested Canada's largest nuclear plant",
@@ -91,49 +31,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-19",
-      "title": "What Rising Interest Rates Mean for New Nuclear",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkz3ij/what_rising_interest_rates_mean_for_new_nuclear/"
+      "date": "2026-09-17",
+      "title": "Millions of fish tested Canada's largest nuclear plant",
+      "url": "https://www.cbc.ca/news/canada/ontario-bruce-power-climate-change-gizzard-shad-fish-event-lake-huron-9.7337290"
     },
     {
-      "date": "2026-09-19",
-      "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkyrve/iaea_triples_nuclear_power_forecast_as_small/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Europe completes the last ITER Vacuum Vessel sector for the world's largest fusion reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkukb7/europe_completes_the_last_iter_vacuum_vessel/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "20 MW molten salt nuclear battery moves toward first-fission test",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkp8d3/20_mw_molten_salt_nuclear_battery_moves_toward/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Career in nuclear energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkiroc/career_in_nuclear_energy/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Nusano's HALEU Platform Selected for NRIC Nuclear Energy Launch Pad USA Program",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkigho/nusanos_haleu_platform_selected_for_nric_nuclear/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkc48n/frances_edf_plans_10_small_nuclear_plants_in/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
-      "url": "https://www.science.org/doi/10.1126/science.adx5917"
+      "date": "2026-09-17",
+      "title": "Nuclear Fusion's Moment of Truth",
+      "url": "https://email.newsletters.ft.com/c/eJyMkslS40gQhp-mdCtH7ctBB29iRMxgzDIMcyGqKrOMsCy5JRkHPH1HE_Ry5JwZmf8f35fChLt-eCs7PI8tThMOBZQ5Kp9FgSW3zhtltBQFHkLT1lAakQWXntOYQFOlE6fOaE5dyFIGExNwVTyX0UlmMjKEmCKTTPkESYEVNoTsbCqaUjBhmOeWC8akmSkXFEYVmfUK0ABR7HeocZanWeoPRVs-T9NxJHJOREVEdT6fP0dEVKnvJuwmIirMmnNQhgbjPFXOOOqNVpTr6E2wXDsDRFYhJRzHu36PHZGr9_N8Pg9VLay828P16_0Nvzj2bR2uNg__Lh506KrHuF3P_lnfL-vtktmny5en8VpsN7j_v3beV6_zdtm9rC9Ofytr3h_bpl9fHrbP23oXfXfrlnx9fNdvi_1ypeN-tWn0YhPkX4tG35i2dm9XqvkvMSIMEVouRtwdsJtqIHL1pT7CfEIicvUVTESYP39YESBZJqg0HmlOEimPGmgKKWrgXoJjRduM0w8LeGTORGe8ZmiEFcJkYCYUx6GHU5rK8RiGfTGUO-xz5kSxttt3u_6D4YDfTvhxhscYIStGrZaSKp4lDaAltdw6LiEBsPBzHeEWO7hrDr-0VEIXU3k6NUDk_EteTkPoxpCmpu9qKBUwjCg4TeA9VUYy6pIKFH2KiJCMAF2cRhzuTw2UTHkfuQxUR6apYlnQGF2mwNBZr5I1yhevpfgeAAD__-Vf-7s"
     }
   ],
-  "latest_date": "2026-09-19",
-  "count_7d": 17,
-  "count_today": 8,
+  "latest_date": "2026-09-17",
+  "count_7d": 5,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
