@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-20T23:07:40.644701+00:00",
+  "generated_at": "2026-09-21T01:28:59.935065+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-20",
+      "title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wlw5ro/china_will_dominate_global_nuclear_energy_through/"
+    },
     {
       "date": "2026-09-20",
       "title": "Japan went from 0.0 % nuclear electricity in 2014 to >9 % in 2025, and the restarted units run …",
@@ -45,11 +50,6 @@
     },
     {
       "date": "2026-09-19",
-      "title": "Nusano's HALEU Platform Selected for NRIC Nuclear Energy Launch Pad USA Program",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkigho/nusanos_haleu_platform_selected_for_nric_nuclear/"
-    },
-    {
-      "date": "2026-09-19",
       "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
       "url": "https://www.reddit.com/r/nuclear/comments/1wkc48n/frances_edf_plans_10_small_nuclear_plants_in/"
     },
@@ -87,6 +87,11 @@
   "updates_today": [
     {
       "date": "2026-09-20",
+      "title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wlw5ro/china_will_dominate_global_nuclear_energy_through/"
+    },
+    {
+      "date": "2026-09-20",
       "title": "Japan went from 0.0 % nuclear electricity in 2014 to >9 % in 2025, and the restarted units run …",
       "url": "https://www.reddit.com/r/nuclear/comments/1wlow3u/japan_went_from_00_nuclear_electricity_in_2014_to/"
     },
@@ -103,7 +108,7 @@
   ],
   "latest_date": "2026-09-20",
   "count_7d": 16,
-  "count_today": 3,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
