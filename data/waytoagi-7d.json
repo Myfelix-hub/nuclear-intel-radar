@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-21T01:28:59.935065+00:00",
+  "generated_at": "2026-09-21T07:02:29.497790+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-21",
+      "title": "Bechtel splits with Bill Gates-backed nuclear project, files layoff notice",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wm38ef/bechtel_splits_with_bill_gatesbacked_nuclear/"
+    },
     {
       "date": "2026-09-20",
       "title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
@@ -86,29 +91,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-20",
-      "title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wlw5ro/china_will_dominate_global_nuclear_energy_through/"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Japan went from 0.0 % nuclear electricity in 2014 to >9 % in 2025, and the restarted units run …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wlow3u/japan_went_from_00_nuclear_electricity_in_2014_to/"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "This nuclear plant was meant to free Cuba from dependence on oil. Now, it’s a symbol of its sha…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wle8kq/this_nuclear_plant_was_meant_to_free_cuba_from/"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Google’s Loviisa PPA changes the risk map for €700m of pending nuclear capex",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wl3nss/googles_loviisa_ppa_changes_the_risk_map_for_700m/"
+      "date": "2026-09-21",
+      "title": "Bechtel splits with Bill Gates-backed nuclear project, files layoff notice",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wm38ef/bechtel_splits_with_bill_gatesbacked_nuclear/"
     }
   ],
-  "latest_date": "2026-09-20",
-  "count_7d": 16,
-  "count_today": 4,
+  "latest_date": "2026-09-21",
+  "count_7d": 17,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
