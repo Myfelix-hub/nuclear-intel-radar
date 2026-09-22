@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-22T07:36:07.997264+00:00",
+  "generated_at": "2026-09-22T13:18:39.913317+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-22",
+      "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn7q0z/google_georgia_power_have_deal_to_support_nuclear/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Ironically, hafnium production is dependent on the fact nuclear industry keeps growing.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn6hvz/ironically_hafnium_production_is_dependent_on_the/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "More than 2 tons of salt delivered to Abilene Christian University for nuclear reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn3v17/more_than_2_tons_of_salt_delivered_to_abilene/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "390 MW molten salt nuclear reactor to power US Army's Maryland base",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn3oic/390_mw_molten_salt_nuclear_reactor_to_power_us/"
+    },
     {
       "date": "2026-09-22",
       "title": "Korea Puts Nuclear's Future Role to Citizen Panel for First Time in Nine Years",
@@ -29,24 +49,9 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wmecq4/nuclear_power_is_back_on_southeast_asias_energy/"
     },
     {
-      "date": "2026-09-21",
-      "title": "Bechtel splits with Bill Gates-backed nuclear project, files layoff notice",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wm38ef/bechtel_splits_with_bill_gatesbacked_nuclear/"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wlw5ro/china_will_dominate_global_nuclear_energy_through/"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Japan went from 0.0 % nuclear electricity in 2014 to >9 % in 2025, and the restarted units run …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wlow3u/japan_went_from_00_nuclear_electricity_in_2014_to/"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "This nuclear plant was meant to free Cuba from dependence on oil. Now, it’s a symbol of its sha…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wle8kq/this_nuclear_plant_was_meant_to_free_cuba_from/"
+      "date": "2026-09-19",
+      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
+      "url": "https://www.science.org/doi/10.1126/science.adx5917"
     },
     {
       "date": "2026-09-17",
@@ -72,13 +77,33 @@
   "updates_today": [
     {
       "date": "2026-09-22",
+      "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn7q0z/google_georgia_power_have_deal_to_support_nuclear/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Ironically, hafnium production is dependent on the fact nuclear industry keeps growing.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn6hvz/ironically_hafnium_production_is_dependent_on_the/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "More than 2 tons of salt delivered to Abilene Christian University for nuclear reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn3v17/more_than_2_tons_of_salt_delivered_to_abilene/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "390 MW molten salt nuclear reactor to power US Army's Maryland base",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn3oic/390_mw_molten_salt_nuclear_reactor_to_power_us/"
+    },
+    {
+      "date": "2026-09-22",
       "title": "Korea Puts Nuclear's Future Role to Citizen Panel for First Time in Nine Years",
       "url": "https://www.reddit.com/r/nuclear/comments/1wn0mah/korea_puts_nuclears_future_role_to_citizen_panel/"
     }
   ],
   "latest_date": "2026-09-22",
-  "count_7d": 13,
-  "count_today": 1,
+  "count_7d": 14,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
