@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-22T01:45:40.133096+00:00",
+  "generated_at": "2026-09-22T07:36:07.997264+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-22",
+      "title": "Korea Puts Nuclear's Future Role to Citizen Panel for First Time in Nine Years",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn0mah/korea_puts_nuclears_future_role_to_citizen_panel/"
+    },
     {
       "date": "2026-09-21",
       "title": "How Canada's nuclear race is a lot like the cola wars | Sept 1 2026",
@@ -25,11 +30,6 @@
     },
     {
       "date": "2026-09-21",
-      "title": "A Safer Way to Bet on Nuclear: There are a lot of wild nuclear bets in the market. One enrichme…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wmcfkb/a_safer_way_to_bet_on_nuclear_there_are_a_lot_of/"
-    },
-    {
-      "date": "2026-09-21",
       "title": "Bechtel splits with Bill Gates-backed nuclear project, files layoff notice",
       "url": "https://www.reddit.com/r/nuclear/comments/1wm38ef/bechtel_splits_with_bill_gatesbacked_nuclear/"
     },
@@ -47,16 +47,6 @@
       "date": "2026-09-20",
       "title": "This nuclear plant was meant to free Cuba from dependence on oil. Now, it’s a symbol of its sha…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wle8kq/this_nuclear_plant_was_meant_to_free_cuba_from/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Europe completes the last ITER Vacuum Vessel sector for the world's largest fusion reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wkukb7/europe_completes_the_last_iter_vacuum_vessel/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
-      "url": "https://www.science.org/doi/10.1126/science.adx5917"
     },
     {
       "date": "2026-09-17",
@@ -81,39 +71,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-21",
-      "title": "How Canada's nuclear race is a lot like the cola wars | Sept 1 2026",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wmrfy4/how_canadas_nuclear_race_is_a_lot_like_the_cola/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "[OC] Nuclear radiation harms come largely from acute high exposure — a log-log scatter of daily…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wmmg91/oc_nuclear_radiation_harms_come_largely_from/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "France to Upgrade Heat Wave Modeling After Record Nuclear Curbs",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/france-to-upgrade-heat-wave-modeling-after-record-nuclear-curbs"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Nuclear power is back on Southeast Asia's energy agenda",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wmecq4/nuclear_power_is_back_on_southeast_asias_energy/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "A Safer Way to Bet on Nuclear: There are a lot of wild nuclear bets in the market. One enrichme…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wmcfkb/a_safer_way_to_bet_on_nuclear_there_are_a_lot_of/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Bechtel splits with Bill Gates-backed nuclear project, files layoff notice",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wm38ef/bechtel_splits_with_bill_gatesbacked_nuclear/"
+      "date": "2026-09-22",
+      "title": "Korea Puts Nuclear's Future Role to Citizen Panel for First Time in Nine Years",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn0mah/korea_puts_nuclears_future_role_to_citizen_panel/"
     }
   ],
-  "latest_date": "2026-09-21",
-  "count_7d": 15,
-  "count_today": 6,
+  "latest_date": "2026-09-22",
+  "count_7d": 13,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
