@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T23:08:30.026889+00:00",
+  "generated_at": "2026-09-22T01:45:40.133096+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -12,11 +12,6 @@
       "date": "2026-09-21",
       "title": "[OC] Nuclear radiation harms come largely from acute high exposure — a log-log scatter of daily…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wmmg91/oc_nuclear_radiation_harms_come_largely_from/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "[OC] Nuclear radiation harms come largely from acute high exposure — a log-log scatter of daily…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wmmeyp/oc_nuclear_radiation_harms_come_largely_from/"
     },
     {
       "date": "2026-09-21",
@@ -35,21 +30,6 @@
     },
     {
       "date": "2026-09-21",
-      "title": "Can i still be a nuclear engineer without the bachelor's degree of nuclear engineering",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wmaerz/can_i_still_be_a_nuclear_engineer_without_the/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Nuclear engineering technology associates worth it?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wm9drm/nuclear_engineering_technology_associates_worth_it/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Nuclear power is failing, and AI can't rescue it. Few vendors have ever made a profit selling r…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wm6aif/nuclear_power_is_failing_and_ai_cant_rescue_it/"
-    },
-    {
-      "date": "2026-09-21",
       "title": "Bechtel splits with Bill Gates-backed nuclear project, files layoff notice",
       "url": "https://www.reddit.com/r/nuclear/comments/1wm38ef/bechtel_splits_with_bill_gatesbacked_nuclear/"
     },
@@ -65,18 +45,8 @@
     },
     {
       "date": "2026-09-20",
-      "title": "Even in Finland, a system built on wind and solar is half the cost of one built on nuclear. The…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wlkvb8/even_in_finland_a_system_built_on_wind_and_solar/"
-    },
-    {
-      "date": "2026-09-20",
       "title": "This nuclear plant was meant to free Cuba from dependence on oil. Now, it’s a symbol of its sha…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wle8kq/this_nuclear_plant_was_meant_to_free_cuba_from/"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Google’s 22-year Loviisa PPA changes the risk map for €700m of pending nuclear capex",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wl41ig/googles_22year_loviisa_ppa_changes_the_risk_map/"
     },
     {
       "date": "2026-09-19",
@@ -122,11 +92,6 @@
     },
     {
       "date": "2026-09-21",
-      "title": "[OC] Nuclear radiation harms come largely from acute high exposure — a log-log scatter of daily…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wmmeyp/oc_nuclear_radiation_harms_come_largely_from/"
-    },
-    {
-      "date": "2026-09-21",
       "title": "France to Upgrade Heat Wave Modeling After Record Nuclear Curbs",
       "url": "https://www.bloomberg.com/news/articles/2026-09-21/france-to-upgrade-heat-wave-modeling-after-record-nuclear-curbs"
     },
@@ -142,28 +107,13 @@
     },
     {
       "date": "2026-09-21",
-      "title": "Can i still be a nuclear engineer without the bachelor's degree of nuclear engineering",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wmaerz/can_i_still_be_a_nuclear_engineer_without_the/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Nuclear engineering technology associates worth it?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wm9drm/nuclear_engineering_technology_associates_worth_it/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Nuclear power is failing, and AI can't rescue it. Few vendors have ever made a profit selling r…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wm6aif/nuclear_power_is_failing_and_ai_cant_rescue_it/"
-    },
-    {
-      "date": "2026-09-21",
       "title": "Bechtel splits with Bill Gates-backed nuclear project, files layoff notice",
       "url": "https://www.reddit.com/r/nuclear/comments/1wm38ef/bechtel_splits_with_bill_gatesbacked_nuclear/"
     }
   ],
   "latest_date": "2026-09-21",
-  "count_7d": 21,
-  "count_today": 10,
+  "count_7d": 15,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
