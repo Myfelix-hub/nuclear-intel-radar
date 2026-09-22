@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-09-22T17:43:48.983030+00:00",
+  "generated_at": "2026-09-22T21:09:16.333384+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-2f8f101561d2712a",
+      "title": "Will HALEU (or the MOX equiv) be the real limiter in a nuclear scale-out?",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wnl2qw/will_haleu_or_the_mox_equiv_be_the_real_limiter/",
+      "first_published_at": "2026-09-22T20:31:13+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "fuel",
+      "score": 5.4
+    },
     {
       "story_id": "story-ba783f1c6d02194b",
       "title": "390 MW molten salt nuclear reactor to power US Army's Maryland base",
@@ -22,7 +37,7 @@
       "story_id": "story-f063df9101ae485c",
       "title": "Deep Fission Publishes DOE-Approved Nuclear Safety Design Agreement for Gravity Pilot Reactor, …",
       "representative_url": "https://www.businesswire.com/news/home/20260915793564/en/Deep-Fission-Publishes-DOE-Approved-Nuclear-Safety-Design-Agreement-for-Gravity-Pilot-Reactor-Demonstrating-Commitment-to-Transparency",
-      "first_published_at": "2026-09-22T17:43:48.983030+00:00",
+      "first_published_at": "2026-09-22T21:09:16.333384+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -37,7 +52,7 @@
       "story_id": "story-a35df76e230b28af",
       "title": "China Takes Advanced Reactor Expertise Global Through IAEA Technology-Sharing Deal",
       "representative_url": "https://interestingengineering.com/energy/china-iaea-htgr-cooperation-nuclear-industrial-heat",
-      "first_published_at": "2026-09-22T17:43:48.983030+00:00",
+      "first_published_at": "2026-09-22T21:09:16.333384+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -52,7 +67,7 @@
       "story_id": "story-00c206445b1af04c",
       "title": "US Nuclear Reactor Designer Advances 6-Gigawatt SMR Fleet Across the Atlantic",
       "representative_url": "https://interestingengineering.com/energy/us-nuclear-reactor-designer",
-      "first_published_at": "2026-09-22T17:43:48.983030+00:00",
+      "first_published_at": "2026-09-22T21:09:16.333384+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -67,7 +82,7 @@
       "story_id": "story-b4495d743eb7ca8d",
       "title": "Kairos Power Gets Up to $100M From Samsung Group to Build Nuclear Reactor for Google",
       "representative_url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "first_published_at": "2026-09-22T17:43:48.983030+00:00",
+      "first_published_at": "2026-09-22T21:09:16.333384+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -82,7 +97,7 @@
       "story_id": "story-b29f3cb4453b0896",
       "title": "NRC Proposes Broad Overhaul of Nuclear Reactor Regulations",
       "representative_url": "https://www.publicpower.org/periodical/article/nrc-proposes-broad-overhaul-nuclear-reactor-regulations",
-      "first_published_at": "2026-09-22T17:43:48.983030+00:00",
+      "first_published_at": "2026-09-22T21:09:16.333384+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -112,7 +127,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-22T17:43:48.983030+00:00",
+      "first_published_at": "2026-09-22T21:09:16.333384+00:00",
       "sources": [
         "oklo"
       ],
@@ -127,7 +142,7 @@
       "story_id": "story-3910e074dafaf6b0",
       "title": "2.5-GW Texas Gas-Nuclear Plant Advances as Blue Energy Submits Filing for 300-MW SMR",
       "representative_url": "https://interestingengineering.com/energy/2-5-gw-texas-gas-nuclear-plant-advances-as-blue-energy-submits-filing-for-300-mw-smr",
-      "first_published_at": "2026-09-22T17:43:48.983030+00:00",
+      "first_published_at": "2026-09-22T21:09:16.333384+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -136,21 +151,6 @@
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "tech",
-      "score": 2.8
-    },
-    {
-      "story_id": "story-c1e298840bcdf74b",
-      "title": "ISU ‘Powering Idaho’s Energy Future’ with Second Nuclear Reactor",
-      "representative_url": "https://www.eastidahonews.com/2026/09/isu-powering-idahos-energy-future-with-second-nuclear-reactor/",
-      "first_published_at": "2026-09-22T17:43:48.983030+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
       "score": 2.8
     }
   ]
