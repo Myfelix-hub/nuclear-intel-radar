@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-22T13:18:39.913317+00:00",
+  "generated_at": "2026-09-22T17:43:48.983030+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-22",
+      "title": "Bechtel steps away from TerraPower project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnfn4q/bechtel_steps_away_from_terrapower_project/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "I spent a few minutes playing with whatisnuclear's Neutronics Scoping Tool. Can anyone explain …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnc2h0/i_spent_a_few_minutes_playing_with_whatisnuclears/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Samsung C&T invests in Kairos Power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnbt5u/samsung_ct_invests_in_kairos_power/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "How plausible is a plan to create a 2000MW nuclear energy plant within the next 7 years (contex…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnbmmq/how_plausible_is_a_plan_to_create_a_2000mw/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Ontario starts $19 billion Pickering nuclear refurbishment",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnb7bm/ontario_starts_19_billion_pickering_nuclear/"
+    },
     {
       "date": "2026-09-22",
       "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
@@ -30,23 +55,8 @@
     },
     {
       "date": "2026-09-21",
-      "title": "How Canada's nuclear race is a lot like the cola wars | Sept 1 2026",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wmrfy4/how_canadas_nuclear_race_is_a_lot_like_the_cola/"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "[OC] Nuclear radiation harms come largely from acute high exposure — a log-log scatter of daily…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wmmg91/oc_nuclear_radiation_harms_come_largely_from/"
-    },
-    {
-      "date": "2026-09-21",
       "title": "France to Upgrade Heat Wave Modeling After Record Nuclear Curbs",
       "url": "https://www.bloomberg.com/news/articles/2026-09-21/france-to-upgrade-heat-wave-modeling-after-record-nuclear-curbs"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Nuclear power is back on Southeast Asia's energy agenda",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wmecq4/nuclear_power_is_back_on_southeast_asias_energy/"
     },
     {
       "date": "2026-09-19",
@@ -67,14 +77,34 @@
       "date": "2026-09-16",
       "title": "Nuclear Fusion's Moment of Truth",
       "url": "https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Chubu Electric Power execs resign, falsified quake safety data for 2 reactors",
-      "url": "https://japantoday.com/category/national/japanese-utility-execs-resign-over-falsified-quake-safety-data-for-2-nuclear-reactors"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-22",
+      "title": "Bechtel steps away from TerraPower project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnfn4q/bechtel_steps_away_from_terrapower_project/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "I spent a few minutes playing with whatisnuclear's Neutronics Scoping Tool. Can anyone explain …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnc2h0/i_spent_a_few_minutes_playing_with_whatisnuclears/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Samsung C&T invests in Kairos Power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnbt5u/samsung_ct_invests_in_kairos_power/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "How plausible is a plan to create a 2000MW nuclear energy plant within the next 7 years (contex…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnbmmq/how_plausible_is_a_plan_to_create_a_2000mw/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Ontario starts $19 billion Pickering nuclear refurbishment",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnb7bm/ontario_starts_19_billion_pickering_nuclear/"
+    },
     {
       "date": "2026-09-22",
       "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
@@ -102,8 +132,8 @@
     }
   ],
   "latest_date": "2026-09-22",
-  "count_7d": 14,
-  "count_today": 5,
+  "count_7d": 15,
+  "count_today": 10,
   "has_error": false,
   "error": null,
   "warning": null
