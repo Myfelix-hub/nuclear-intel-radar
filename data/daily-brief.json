@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-09-23T18:33:47.646947+00:00",
+  "generated_at": "2026-09-23T22:10:07.355674+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-9e10fd6722a044e5",
+      "title": "Small Modular Reactors: a short history of a nuclear pipe dream",
+      "representative_url": "https://engelsbergideas.com/essays/smrs-a-short-history-of-a-nuclear-pipe-dream/",
+      "first_published_at": "2026-09-23T18:37:08+00:00",
+      "sources": [
+        "hn_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 5.4
+    },
     {
       "story_id": "story-2f8f101561d2712a",
       "title": "Will HALEU (or the MOX equiv) be the real limiter in a nuclear scale-out?",
@@ -84,7 +99,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-23T18:33:47.646947+00:00",
+      "first_published_at": "2026-09-23T22:10:07.355674+00:00",
       "sources": [
         "oklo"
       ],
@@ -114,7 +129,7 @@
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-09-23T18:33:47.646947+00:00",
+      "first_published_at": "2026-09-23T22:10:07.355674+00:00",
       "sources": [
         "oklo"
       ],
@@ -129,7 +144,7 @@
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-09-23T18:33:47.646947+00:00",
+      "first_published_at": "2026-09-23T22:10:07.355674+00:00",
       "sources": [
         "kairos"
       ],
@@ -138,21 +153,6 @@
       "source_tier": "industry",
       "source_tier_rank": 2,
       "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-23T18:33:47.646947+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
       "score": 2.7
     }
   ]

@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-23T18:33:47.646947+00:00",
+  "generated_at": "2026-09-23T22:10:07.355674+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-23",
+      "title": "Small Modular Reactors: a short history of a nuclear pipe dream",
+      "url": "https://engelsbergideas.com/essays/smrs-a-short-history-of-a-nuclear-pipe-dream/"
+    },
     {
       "date": "2026-09-23",
       "title": "SGE confident of UK SMR fleet prospects",
@@ -82,14 +87,14 @@
       "date": "2026-09-17",
       "title": "Nuclear Fusion's Moment of Truth",
       "url": "https://email.newsletters.ft.com/c/eJyMkslS40gQhp-mdCtH7ctBB29iRMxgzDIMcyGqKrOMsCy5JRkHPH1HE_Ry5JwZmf8f35fChLt-eCs7PI8tThMOBZQ5Kp9FgSW3zhtltBQFHkLT1lAakQWXntOYQFOlE6fOaE5dyFIGExNwVTyX0UlmMjKEmCKTTPkESYEVNoTsbCqaUjBhmOeWC8akmSkXFEYVmfUK0ABR7HeocZanWeoPRVs-T9NxJHJOREVEdT6fP0dEVKnvJuwmIirMmnNQhgbjPFXOOOqNVpTr6E2wXDsDRFYhJRzHu36PHZGr9_N8Pg9VLay828P16_0Nvzj2bR2uNg__Lh506KrHuF3P_lnfL-vtktmny5en8VpsN7j_v3beV6_zdtm9rC9Ofytr3h_bpl9fHrbP23oXfXfrlnx9fNdvi_1ypeN-tWn0YhPkX4tG35i2dm9XqvkvMSIMEVouRtwdsJtqIHL1pT7CfEIicvUVTESYP39YESBZJqg0HmlOEimPGmgKKWrgXoJjRduM0w8LeGTORGe8ZmiEFcJkYCYUx6GHU5rK8RiGfTGUO-xz5kSxttt3u_6D4YDfTvhxhscYIStGrZaSKp4lDaAltdw6LiEBsPBzHeEWO7hrDr-0VEIXU3k6NUDk_EteTkPoxpCmpu9qKBUwjCg4TeA9VUYy6pIKFH2KiJCMAF2cRhzuTw2UTHkfuQxUR6apYlnQGF2mwNBZr5I1yhevpfgeAAD__-Vf-7s"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Nuclear Fusion's Moment of Truth",
-      "url": "https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-09-23",
+      "title": "Small Modular Reactors: a short history of a nuclear pipe dream",
+      "url": "https://engelsbergideas.com/essays/smrs-a-short-history-of-a-nuclear-pipe-dream/"
+    },
     {
       "date": "2026-09-23",
       "title": "SGE confident of UK SMR fleet prospects",
@@ -98,7 +103,7 @@
   ],
   "latest_date": "2026-09-23",
   "count_7d": 17,
-  "count_today": 1,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
