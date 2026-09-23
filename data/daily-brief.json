@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:25:15.808608+00:00",
+  "generated_at": "2026-09-23T09:28:49.916603+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -34,81 +34,6 @@
       "score": 5.4
     },
     {
-      "story_id": "story-f063df9101ae485c",
-      "title": "Deep Fission Publishes DOE-Approved Nuclear Safety Design Agreement for Gravity Pilot Reactor, …",
-      "representative_url": "https://www.businesswire.com/news/home/20260915793564/en/Deep-Fission-Publishes-DOE-Approved-Nuclear-Safety-Design-Agreement-for-Gravity-Pilot-Reactor-Demonstrating-Commitment-to-Transparency",
-      "first_published_at": "2026-09-23T04:25:15.808608+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.2,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 4.8
-    },
-    {
-      "story_id": "story-a35df76e230b28af",
-      "title": "China Takes Advanced Reactor Expertise Global Through IAEA Technology-Sharing Deal",
-      "representative_url": "https://interestingengineering.com/energy/china-iaea-htgr-cooperation-nuclear-industrial-heat",
-      "first_published_at": "2026-09-23T04:25:15.808608+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-00c206445b1af04c",
-      "title": "US Nuclear Reactor Designer Advances 6-Gigawatt SMR Fleet Across the Atlantic",
-      "representative_url": "https://interestingengineering.com/energy/us-nuclear-reactor-designer",
-      "first_published_at": "2026-09-23T04:25:15.808608+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-b4495d743eb7ca8d",
-      "title": "Kairos Power Gets Up to $100M From Samsung Group to Build Nuclear Reactor for Google",
-      "representative_url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "first_published_at": "2026-09-23T04:25:15.808608+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-b29f3cb4453b0896",
-      "title": "NRC Proposes Broad Overhaul of Nuclear Reactor Regulations",
-      "representative_url": "https://www.publicpower.org/periodical/article/nrc-proposes-broad-overhaul-nuclear-reactor-regulations",
-      "first_published_at": "2026-09-23T04:25:15.808608+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
       "story_id": "story-52ade81b9481a97a",
       "title": "More than 2 tons of salt delivered to Abilene Christian University for nuclear reactor",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1wn3v17/more_than_2_tons_of_salt_delivered_to_abilene/",
@@ -124,10 +49,26 @@
       "score": 3.5999999999999996
     },
     {
+      "story_id": "story-d7ab9ac4460d2f04",
+      "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
+      "representative_url": "https://www.powermag.com/google-georgia-power-have-deal-to-support-nuclear-power-plant-uprates/",
+      "first_published_at": "2026-09-21T23:49:44+00:00",
+      "sources": [
+        "powermag",
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.4,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "hot",
+      "score": 3.386294361119891
+    },
+    {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-23T04:25:15.808608+00:00",
+      "first_published_at": "2026-09-23T09:28:49.916603+00:00",
       "sources": [
         "oklo"
       ],
@@ -139,19 +80,79 @@
       "score": 3.0
     },
     {
-      "story_id": "story-3910e074dafaf6b0",
-      "title": "2.5-GW Texas Gas-Nuclear Plant Advances as Blue Energy Submits Filing for 300-MW SMR",
-      "representative_url": "https://interestingengineering.com/energy/2-5-gw-texas-gas-nuclear-plant-advances-as-blue-energy-submits-filing-for-300-mw-smr",
-      "first_published_at": "2026-09-23T04:25:15.808608+00:00",
+      "story_id": "story-4eb0bc894c8c487d",
+      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
+      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
+      "first_published_at": "2026-09-23T09:28:49.916603+00:00",
       "sources": [
-        "nucleartownhall"
+        "oklo"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "hot",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-e8d9b69bff65b6d5",
+      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
+      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
+      "first_published_at": "2026-09-23T09:28:49.916603+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
       "primary_section": "tech",
-      "score": 2.8
+      "score": 2.7
+    },
+    {
+      "story_id": "story-4cac66c6fef215a4",
+      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
+      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
+      "first_published_at": "2026-09-23T09:28:49.916603+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-ee04cb3112f36b8a",
+      "title": "How plausible is a plan to create a 2000MW nuclear energy plant within the next 7 years (contex…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wnbmmq/how_plausible_is_a_plan_to_create_a_2000mw/",
+      "first_published_at": "2026-09-22T14:50:50+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-f5f0b7691de7b787",
+      "title": "Ironically, hafnium production is dependent on the fact nuclear industry keeps growing.",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wn6hvz/ironically_hafnium_production_is_dependent_on_the/",
+      "first_published_at": "2026-09-22T11:09:01+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
     }
   ]
 }
