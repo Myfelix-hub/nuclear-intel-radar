@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T14:22:55.619361+00:00",
+  "generated_at": "2026-09-23T18:33:47.646947+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -59,9 +59,19 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wn3oic/390_mw_molten_salt_nuclear_reactor_to_power_us/"
     },
     {
+      "date": "2026-09-22",
+      "title": "Korea Puts Nuclear's Future Role to Citizen Panel for First Time in Nine Years",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wn0mah/korea_puts_nuclears_future_role_to_citizen_panel/"
+    },
+    {
       "date": "2026-09-21",
       "title": "France to Upgrade Heat Wave Modeling After Record Nuclear Curbs",
       "url": "https://www.bloomberg.com/news/articles/2026-09-21/france-to-upgrade-heat-wave-modeling-after-record-nuclear-curbs"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
+      "url": "https://www.science.org/doi/10.1126/science.adx5917"
     },
     {
       "date": "2026-09-17",
@@ -87,7 +97,7 @@
     }
   ],
   "latest_date": "2026-09-23",
-  "count_7d": 15,
+  "count_7d": 17,
   "count_today": 1,
   "has_error": false,
   "error": null,
