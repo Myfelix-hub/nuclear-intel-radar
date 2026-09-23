@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:45:08.683773+00:00",
+  "generated_at": "2026-09-23T04:25:15.808608+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -62,11 +62,6 @@
       "date": "2026-09-21",
       "title": "France to Upgrade Heat Wave Modeling After Record Nuclear Curbs",
       "url": "https://www.bloomberg.com/news/articles/2026-09-21/france-to-upgrade-heat-wave-modeling-after-record-nuclear-curbs"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
-      "url": "https://www.science.org/doi/10.1126/science.adx5917"
     },
     {
       "date": "2026-09-17",
@@ -142,7 +137,7 @@
     }
   ],
   "latest_date": "2026-09-22",
-  "count_7d": 16,
+  "count_7d": 15,
   "count_today": 11,
   "has_error": false,
   "error": null,
