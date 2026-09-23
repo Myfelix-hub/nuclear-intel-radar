@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-23T09:28:49.916603+00:00",
+  "generated_at": "2026-09-23T14:22:55.619361+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-23",
+      "title": "SGE confident of UK SMR fleet prospects",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wo7de2/sge_confident_of_uk_smr_fleet_prospects/"
+    },
     {
       "date": "2026-09-22",
       "title": "Will HALEU (or the MOX equiv) be the real limiter in a nuclear scale-out?",
@@ -52,11 +57,6 @@
       "date": "2026-09-22",
       "title": "390 MW molten salt nuclear reactor to power US Army's Maryland base",
       "url": "https://www.reddit.com/r/nuclear/comments/1wn3oic/390_mw_molten_salt_nuclear_reactor_to_power_us/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Korea Puts Nuclear's Future Role to Citizen Panel for First Time in Nine Years",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wn0mah/korea_puts_nuclears_future_role_to_citizen_panel/"
     },
     {
       "date": "2026-09-21",
@@ -81,64 +81,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-22",
-      "title": "Will HALEU (or the MOX equiv) be the real limiter in a nuclear scale-out?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wnl2qw/will_haleu_or_the_mox_equiv_be_the_real_limiter/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Bechtel steps away from TerraPower project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wnfn4q/bechtel_steps_away_from_terrapower_project/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "I spent a few minutes playing with whatisnuclear's Neutronics Scoping Tool. Can anyone explain …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wnc2h0/i_spent_a_few_minutes_playing_with_whatisnuclears/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Samsung C&T invests in Kairos Power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wnbt5u/samsung_ct_invests_in_kairos_power/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "How plausible is a plan to create a 2000MW nuclear energy plant within the next 7 years (contex…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wnbmmq/how_plausible_is_a_plan_to_create_a_2000mw/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Ontario starts $19 billion Pickering nuclear refurbishment",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wnb7bm/ontario_starts_19_billion_pickering_nuclear/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wn7q0z/google_georgia_power_have_deal_to_support_nuclear/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Ironically, hafnium production is dependent on the fact nuclear industry keeps growing.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wn6hvz/ironically_hafnium_production_is_dependent_on_the/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "More than 2 tons of salt delivered to Abilene Christian University for nuclear reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wn3v17/more_than_2_tons_of_salt_delivered_to_abilene/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "390 MW molten salt nuclear reactor to power US Army's Maryland base",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wn3oic/390_mw_molten_salt_nuclear_reactor_to_power_us/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Korea Puts Nuclear's Future Role to Citizen Panel for First Time in Nine Years",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wn0mah/korea_puts_nuclears_future_role_to_citizen_panel/"
+      "date": "2026-09-23",
+      "title": "SGE confident of UK SMR fleet prospects",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wo7de2/sge_confident_of_uk_smr_fleet_prospects/"
     }
   ],
-  "latest_date": "2026-09-22",
+  "latest_date": "2026-09-23",
   "count_7d": 15,
-  "count_today": 11,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
