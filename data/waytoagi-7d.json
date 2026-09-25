@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T07:32:33.424870+00:00",
+  "generated_at": "2026-09-25T13:33:35.250334+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -115,6 +115,11 @@
     },
     {
       "date": "2026-09-22",
+      "title": "Samsung C&T invests in Kairos Power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wnbt5u/samsung_ct_invests_in_kairos_power/"
+    },
+    {
+      "date": "2026-09-22",
       "title": "Ontario starts $19 billion Pickering nuclear refurbishment",
       "url": "https://www.reddit.com/r/nuclear/comments/1wnb7bm/ontario_starts_19_billion_pickering_nuclear/"
     },
@@ -122,16 +127,6 @@
       "date": "2026-09-22",
       "title": "Ontario starts $19 billion Pickering nuclear refurbishment",
       "url": "https://www.reddit.com/r/NuclearPower/comments/1wnb77b/ontario_starts_19_billion_pickering_nuclear/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Ontario Representing (Gridwatch)",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wn3ojx/ontario_representing_gridwatch/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
-      "url": "https://www.science.org/doi/10.1126/science.adx5917"
     }
   ],
   "updates_today": [
@@ -142,7 +137,7 @@
     }
   ],
   "latest_date": "2026-09-25",
-  "count_7d": 26,
+  "count_7d": 25,
   "count_today": 1,
   "has_error": false,
   "error": null,

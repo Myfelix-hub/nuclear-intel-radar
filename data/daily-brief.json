@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T07:32:33.424870+00:00",
+  "generated_at": "2026-09-25T13:33:35.250334+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -80,10 +80,10 @@
       "score": 4.740812105567847
     },
     {
-      "story_id": "story-48a2c51d51eb9269",
-      "title": "Kairos Power Gets Up to $100M from Samsung Group to Build Nuclear Reactor for Google",
-      "representative_url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "first_published_at": "2026-09-25T07:32:33.424870+00:00",
+      "story_id": "story-45fd509006a2bb01",
+      "title": "Smart Sensors Track 932°F Molten Salt to Spot Hidden Faults in US Nuclear Reactors",
+      "representative_url": "https://interestingengineering.com/energy/smart-sensors-track-932f-molten-salt-to-spot-hidden-faults-in-us-nuclear-reactors",
+      "first_published_at": "2026-09-25T13:33:35.250334+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -91,7 +91,7 @@
       "nuclear_score": 0.9,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "community",
+      "primary_section": "tech",
       "score": 3.6
     },
     {
@@ -128,7 +128,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-25T07:32:33.424870+00:00",
+      "first_published_at": "2026-09-25T13:33:35.250334+00:00",
       "sources": [
         "oklo"
       ],
@@ -140,10 +140,10 @@
       "score": 3.0
     },
     {
-      "story_id": "story-9944ab4e8bdf190b",
-      "title": "Purdue Nuclear Reactor Test Demonstrates Remote, Automated Power Control",
-      "representative_url": "https://www.powermag.com/purdue-nuclear-reactor-test-demonstrates-remote-automated-power-control/",
-      "first_published_at": "2026-09-23T16:27:15+00:00",
+      "story_id": "story-66276737e7f2ba02",
+      "title": "Nuclear Plant Restarts Show What Government Can Do With a Clear Mandate",
+      "representative_url": "https://www.powermag.com/nuclear-plant-restarts-show-what-government-can-do-with-a-clear-mandate/",
+      "first_published_at": "2026-09-25T13:14:46+00:00",
       "sources": [
         "powermag"
       ],
@@ -151,7 +151,7 @@
       "nuclear_score": 0.6,
       "source_tier": "general_media",
       "source_tier_rank": 4,
-      "primary_section": "research",
+      "primary_section": "newbuild",
       "score": 3.0
     }
   ]
