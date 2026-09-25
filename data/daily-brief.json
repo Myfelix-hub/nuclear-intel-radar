@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:48:20.996233+00:00",
+  "generated_at": "2026-09-25T07:32:33.424870+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -17,6 +17,21 @@
       "source_tier_rank": 5,
       "primary_section": "policy",
       "score": 7.199999999999999
+    },
+    {
+      "story_id": "story-ec7c56f3aa06bc9f",
+      "title": "Shadow cast over US nuclear revival after Palisades reactor incident",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1womahh/shadow_cast_over_us_nuclear_revival_after/",
+      "first_published_at": "2026-09-23T23:55:31+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "safety",
+      "score": 6.095329850015803
     },
     {
       "story_id": "story-9e10fd6722a044e5",
@@ -49,6 +64,37 @@
       "score": 5.4
     },
     {
+      "story_id": "story-28043e4af23acf34",
+      "title": "Škoda JS to Supply Control Rod Drives for Rolls-Royce SMR’s Reactors",
+      "representative_url": "https://world-nuclear-news.org/articles/skoda-js-to-supply-control-rod-drives-for-rolls-royce-smrs",
+      "first_published_at": "2026-09-23T12:36:30+00:00",
+      "sources": [
+        "nucleartownhall",
+        "wnn"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 4.740812105567847
+    },
+    {
+      "story_id": "story-48a2c51d51eb9269",
+      "title": "Kairos Power Gets Up to $100M from Samsung Group to Build Nuclear Reactor for Google",
+      "representative_url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "first_published_at": "2026-09-25T07:32:33.424870+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 3.6
+    },
+    {
       "story_id": "story-a51dbf16850f91b2",
       "title": "Slovakia approves start up of its 471 MW Mochovce 4 nuclear reactor",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1wp4wof/slovakia_approves_start_up_of_its_471_mw_mochovce/",
@@ -64,26 +110,25 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-13678bc11e3c121e",
-      "title": "SGE confident of UK SMR fleet prospects",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wo7de2/sge_confident_of_uk_smr_fleet_prospects/",
-      "first_published_at": "2026-09-23T13:26:32+00:00",
+      "story_id": "story-8647d962ffe4777d",
+      "title": "Ontario starts $19 billion Pickering nuclear refurbishment",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1wnb77b/ontario_starts_19_billion_pickering_nuclear/",
+      "first_published_at": "2026-09-22T14:34:31+00:00",
       "sources": [
-        "reddit_nuclear",
-        "wnn"
+        "reddit_nuclear"
       ],
       "duplicate_count": 2,
       "nuclear_score": 0.3,
       "source_tier": "community",
       "source_tier_rank": 5,
-      "primary_section": "tech",
+      "primary_section": "community",
       "score": 3.0476649250079015
     },
     {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-25T01:48:20.996233+00:00",
+      "first_published_at": "2026-09-25T07:32:33.424870+00:00",
       "sources": [
         "oklo"
       ],
@@ -108,51 +153,6 @@
       "source_tier_rank": 4,
       "primary_section": "research",
       "score": 3.0
-    },
-    {
-      "story_id": "story-4eb0bc894c8c487d",
-      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
-      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-09-25T01:48:20.996233+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "hot",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-e8d9b69bff65b6d5",
-      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
-      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-09-25T01:48:20.996233+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-09-25T01:48:20.996233+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
     }
   ]
 }
