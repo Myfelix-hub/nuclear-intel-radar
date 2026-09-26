@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:08:31.686130+00:00",
+  "generated_at": "2026-09-26T14:41:22.256259+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -19,21 +19,6 @@
       "score": 7.199999999999999
     },
     {
-      "story_id": "story-ec7c56f3aa06bc9f",
-      "title": "Shadow cast over US nuclear revival after Palisades reactor incident",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1womahh/shadow_cast_over_us_nuclear_revival_after/",
-      "first_published_at": "2026-09-23T23:55:31+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "safety",
-      "score": 6.095329850015803
-    },
-    {
       "story_id": "story-9e10fd6722a044e5",
       "title": "Small Modular Reactors: a short history of a nuclear pipe dream",
       "representative_url": "https://engelsbergideas.com/essays/smrs-a-short-history-of-a-nuclear-pipe-dream/",
@@ -49,26 +34,10 @@
       "score": 5.4
     },
     {
-      "story_id": "story-28043e4af23acf34",
-      "title": "Škoda JS to Supply Control Rod Drives for Rolls-Royce SMR’s Reactors",
-      "representative_url": "https://world-nuclear-news.org/articles/skoda-js-to-supply-control-rod-drives-for-rolls-royce-smrs",
-      "first_published_at": "2026-09-23T12:36:30+00:00",
-      "sources": [
-        "nucleartownhall",
-        "wnn"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 4.740812105567847
-    },
-    {
       "story_id": "story-45fd509006a2bb01",
       "title": "Smart Sensors Track 932°F Molten Salt to Spot Hidden Faults in US Nuclear Reactors",
       "representative_url": "https://interestingengineering.com/energy/smart-sensors-track-932f-molten-salt-to-spot-hidden-faults-in-us-nuclear-reactors",
-      "first_published_at": "2026-09-26T10:08:31.686130+00:00",
+      "first_published_at": "2026-09-26T14:41:22.256259+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -78,21 +47,6 @@
       "source_tier_rank": 3,
       "primary_section": "tech",
       "score": 3.6
-    },
-    {
-      "story_id": "story-17728acc158e6b76",
-      "title": "India's Nuclear Breakthrough at Kalpakkam! World's First Hydrogen Fast Breeder Reactor | UPSC",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1wq6grx/indias_nuclear_breakthrough_at_kalpakkam_worlds/",
-      "first_published_at": "2026-09-25T20:06:57+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.5999999999999996
     },
     {
       "story_id": "story-a51dbf16850f91b2",
@@ -110,25 +64,10 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-17f3f73c6256b5e7",
-      "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1wqdl5e/dems_want_hochul_to_drop_239_billion_nuclear/",
-      "first_published_at": "2026-09-26T01:21:07+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.0476649250079015
-    },
-    {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-26T10:08:31.686130+00:00",
+      "first_published_at": "2026-09-26T14:41:22.256259+00:00",
       "sources": [
         "oklo"
       ],
@@ -153,6 +92,66 @@
       "source_tier_rank": 4,
       "primary_section": "newbuild",
       "score": 3.0
+    },
+    {
+      "story_id": "story-9944ab4e8bdf190b",
+      "title": "Purdue Nuclear Reactor Test Demonstrates Remote, Automated Power Control",
+      "representative_url": "https://www.powermag.com/purdue-nuclear-reactor-test-demonstrates-remote-automated-power-control/",
+      "first_published_at": "2026-09-23T16:27:15+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "research",
+      "score": 3.0
+    },
+    {
+      "story_id": "story-8e1f8e1a308a7196",
+      "title": "Rosatom Completes Second Reactor for Russian Floating Nuclear Power Plant",
+      "representative_url": "https://world-nuclear-news.org/articles/second-reactor-manufactured-for-floating-nuclear-plant",
+      "first_published_at": "2026-09-26T14:41:22.256259+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 2.8
+    },
+    {
+      "story_id": "story-cc4c8e3b031cb617",
+      "title": "Škoda JS to Supply Control Rod Drives for Rolls-Royce SMR’s Reactors",
+      "representative_url": "https://world-nuclear-news.org/articles/skoda-js-to-supply-control-rod-drives-for-rolls-royce-smrs",
+      "first_published_at": "2026-09-26T14:41:22.256259+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 2.8
+    },
+    {
+      "story_id": "story-13f4dcb4bf90b6f9",
+      "title": "AI Energy Demand Accelerates China’s Quest for Nuclear Fusion",
+      "representative_url": "https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1",
+      "first_published_at": "2026-09-26T14:41:22.256259+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 2.8
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:08:31.686130+00:00",
+  "generated_at": "2026-09-26T14:41:22.256259+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -14,44 +14,14 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wqdl5r/dems_want_hochul_to_drop_239_billion_nuclear/"
     },
     {
-      "date": "2026-09-26",
-      "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wqdl5e/dems_want_hochul_to_drop_239_billion_nuclear/"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "India's Nuclear Breakthrough at Kalpakkam! World's First Hydrogen Fast Breeder Reactor | UPSC",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wq6grx/indias_nuclear_breakthrough_at_kalpakkam_worlds/"
-    },
-    {
       "date": "2026-09-25",
       "title": "Nuclear Waste Accidentally Leaked at Pacific Coast Site",
       "url": "https://americanbuildout.com/radioactive-material-from-dormant-nuclear-plant-accidentally-leaks-at-pacific-coast-utility-tells-nrc/"
     },
     {
       "date": "2026-09-25",
-      "title": "Darlington's 4-unit CANDU refurbishment: 3,512 MW net, C$150M under a C$12.8B budget, 4 months …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wpxayc/darlingtons_4unit_candu_refurbishment_3512_mw_net/"
-    },
-    {
-      "date": "2026-09-25",
       "title": "An 8-foot clear column filled with 25% salt water let researchers watch how a nuclear battery w…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wpmq8q/an_8foot_clear_column_filled_with_25_salt_water/"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "Deep Fission ($FISN): a Money Pit",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wpfhxr/deep_fission_fisn_a_money_pit/"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "Shadow cast over US nuclear revival after Palisades reactor incident",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wpa3at/shadow_cast_over_us_nuclear_revival_after/"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "A 12-foot bundle of 216 fuel rods tilted over inside the first American reactor being pulled ba…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wp7xf8/a_12foot_bundle_of_216_fuel_rods_tilted_over/"
     },
     {
       "date": "2026-09-24",
@@ -67,11 +37,6 @@
       "date": "2026-09-24",
       "title": "Slovakia approves start up of its 471 MW Mochovce 4 nuclear reactor",
       "url": "https://www.reddit.com/r/nuclear/comments/1wp4wof/slovakia_approves_start_up_of_its_471_mw_mochovce/"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "Italian Senate gives final approval to law paving way for return to nuclear energy",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wowa6y/italian_senate_gives_final_approval_to_law_paving/"
     },
     {
       "date": "2026-09-24",
@@ -95,11 +60,6 @@
     },
     {
       "date": "2026-09-23",
-      "title": "Shadow cast over US nuclear revival after Palisades reactor incident",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1womahh/shadow_cast_over_us_nuclear_revival_after/"
-    },
-    {
-      "date": "2026-09-23",
       "title": "Senate in Italy approves bill that plans to bring nuclear power back",
       "url": "https://www.reddit.com/r/nuclear/comments/1wojvzu/senate_in_italy_approves_bill_that_plans_to_bring/"
     },
@@ -107,11 +67,6 @@
       "date": "2026-09-23",
       "title": "Small Modular Reactors: a short history of a nuclear pipe dream",
       "url": "https://engelsbergideas.com/essays/smrs-a-short-history-of-a-nuclear-pipe-dream/"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "SGE confident of UK SMR fleet prospects",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wo7de2/sge_confident_of_uk_smr_fleet_prospects/"
     }
   ],
   "updates_today": [
@@ -124,16 +79,11 @@
       "date": "2026-09-26",
       "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
       "url": "https://www.reddit.com/r/nuclear/comments/1wqdl5r/dems_want_hochul_to_drop_239_billion_nuclear/"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1wqdl5e/dems_want_hochul_to_drop_239_billion_nuclear/"
     }
   ],
   "latest_date": "2026-09-26",
-  "count_7d": 22,
-  "count_today": 3,
+  "count_7d": 13,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
