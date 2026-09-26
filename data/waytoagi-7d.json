@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-26T00:28:55.149080+00:00",
+  "generated_at": "2026-09-26T05:23:20.003950+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-26",
+      "title": "Nuclear plant restart review advances",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wqht77/nuclear_plant_restart_review_advances/"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wqdl5r/dems_want_hochul_to_drop_239_billion_nuclear/"
+    },
     {
       "date": "2026-09-25",
       "title": "Nuclear Waste Accidentally Leaked at Pacific Coast Site",
@@ -62,27 +72,22 @@
       "date": "2026-09-23",
       "title": "SGE confident of UK SMR fleet prospects",
       "url": "https://www.reddit.com/r/nuclear/comments/1wo7de2/sge_confident_of_uk_smr_fleet_prospects/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
-      "url": "https://www.science.org/doi/10.1126/science.adx5917"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-09-25",
-      "title": "Nuclear Waste Accidentally Leaked at Pacific Coast Site",
-      "url": "https://americanbuildout.com/radioactive-material-from-dormant-nuclear-plant-accidentally-leaks-at-pacific-coast-utility-tells-nrc/"
+      "date": "2026-09-26",
+      "title": "Nuclear plant restart review advances",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wqht77/nuclear_plant_restart_review_advances/"
     },
     {
-      "date": "2026-09-25",
-      "title": "An 8-foot clear column filled with 25% salt water let researchers watch how a nuclear battery w…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wpmq8q/an_8foot_clear_column_filled_with_25_salt_water/"
+      "date": "2026-09-26",
+      "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wqdl5r/dems_want_hochul_to_drop_239_billion_nuclear/"
     }
   ],
-  "latest_date": "2026-09-25",
-  "count_7d": 13,
+  "latest_date": "2026-09-26",
+  "count_7d": 14,
   "count_today": 2,
   "has_error": false,
   "error": null,
