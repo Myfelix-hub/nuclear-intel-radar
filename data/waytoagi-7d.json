@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:16:13.489723+00:00",
+  "generated_at": "2026-09-27T19:12:49.954880+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -35,21 +35,6 @@
     },
     {
       "date": "2026-09-24",
-      "title": "Who's Going to Fund Mauritania's First Uranium Mine?... Intel points to China",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wp6bbm/whos_going_to_fund_mauritanias_first_uranium_mine/"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "Deep Fission Gravity ReactorNuclear Safety Design Agreement (NSDA) (PDF)",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wp5l6l/deep_fission_gravity_reactornuclear_safety_design/"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "Slovakia approves start up of its 471 MW Mochovce 4 nuclear reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wp4wof/slovakia_approves_start_up_of_its_471_mw_mochovce/"
-    },
-    {
-      "date": "2026-09-24",
       "title": "Italian parliament backs Meloni's plan to restart nuclear power",
       "url": "https://www.reuters.com/world/italian-parliament-backs-melonis-plan-restart-nuclear-power-2026-09-23/"
     },
@@ -72,7 +57,7 @@
     }
   ],
   "latest_date": "2026-09-27",
-  "count_7d": 11,
+  "count_7d": 8,
   "count_today": 2,
   "has_error": false,
   "error": null,
