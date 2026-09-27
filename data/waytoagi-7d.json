@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-26T23:49:45.267379+00:00",
+  "generated_at": "2026-09-27T04:57:29.126374+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-27",
+      "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM’s interconnection study cycle",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wr6a59/ferc_rejects_oklo_complaint_seeking_to_reinstate/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Georgia Power agreement with Google to provide approximately $900 million in projected benefits…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wr5wq8/georgia_power_agreement_with_google_to_provide/"
+    },
     {
       "date": "2026-09-26",
       "title": "Nuclear plant restart review advances",
@@ -66,18 +76,18 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-26",
-      "title": "Nuclear plant restart review advances",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wqht77/nuclear_plant_restart_review_advances/"
+      "date": "2026-09-27",
+      "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM’s interconnection study cycle",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wr6a59/ferc_rejects_oklo_complaint_seeking_to_reinstate/"
     },
     {
-      "date": "2026-09-26",
-      "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wqdl5r/dems_want_hochul_to_drop_239_billion_nuclear/"
+      "date": "2026-09-27",
+      "title": "Georgia Power agreement with Google to provide approximately $900 million in projected benefits…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wr5wq8/georgia_power_agreement_with_google_to_provide/"
     }
   ],
-  "latest_date": "2026-09-26",
-  "count_7d": 12,
+  "latest_date": "2026-09-27",
+  "count_7d": 14,
   "count_today": 2,
   "has_error": false,
   "error": null,
