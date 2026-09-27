@@ -10,8 +10,8 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
@@ -19,8 +19,8 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
@@ -46,12 +46,12 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 20,
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null,
+      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
       "warning": null
     },
     {
@@ -145,15 +145,6 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
-      "warning": null
-    },
-    {
       "site_id": "nucnet",
       "site_name": "NucNet",
       "ok": false,
@@ -167,6 +158,15 @@
       "site_name": "US DOE Nuclear Energy",
       "ok": true,
       "item_count": 2,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -211,10 +211,10 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 0,
+      "item_count": 138,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
+      "warning": null
     },
     {
       "site_id": "nei_magazine",
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 3154,
+      "duration_ms": 2874,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 5,
-      "duration_ms": 6060,
+      "item_count": 6,
+      "duration_ms": 5709,
       "error": null,
       "warning": null
     }
@@ -364,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 134,
-  "items_before_topic_filter": 134,
+  "fetched_raw_items": 273,
+  "items_before_topic_filter": 273,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
