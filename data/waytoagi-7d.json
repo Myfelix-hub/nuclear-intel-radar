@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-28T17:33:12.111456+00:00",
+  "generated_at": "2026-09-28T23:08:49.898346+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-28",
+      "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
+      "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
+    },
     {
       "date": "2026-09-28",
       "title": "First concrete poured for Bailong 2 nuclear power unit",
@@ -62,6 +67,11 @@
   "updates_today": [
     {
       "date": "2026-09-28",
+      "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
+      "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
+    },
+    {
+      "date": "2026-09-28",
       "title": "First concrete poured for Bailong 2 nuclear power unit",
       "url": "https://www.reddit.com/r/nuclear/comments/1wsjm7t/first_concrete_poured_for_bailong_2_nuclear_power/"
     },
@@ -77,8 +87,8 @@
     }
   ],
   "latest_date": "2026-09-28",
-  "count_7d": 11,
-  "count_today": 3,
+  "count_7d": 12,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
