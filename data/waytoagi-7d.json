@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-09-27T22:31:02.506728+00:00",
+  "generated_at": "2026-09-28T01:30:32.459091+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-09-27",
+      "title": "SMRs: a short history of a nuclear pipe dream",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wrw8hz/smrs_a_short_history_of_a_nuclear_pipe_dream/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "What are some jobs related to Nuclear that aren't Engineering?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wrvvrl/what_are_some_jobs_related_to_nuclear_that_arent/"
+    },
+    {
+      "date": "2026-09-27",
       "title": "Fear of nuclear energy causing cancer",
       "url": "https://www.reddit.com/r/nuclear/comments/1wrun53/fear_of_nuclear_energy_causing_cancer/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "New Nuclear Portfolio Update",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wrhwch/new_nuclear_portfolio_update/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Nuclear power plant is back in the Philippines",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wr6mkr/nuclear_power_plant_is_back_in_the_philippines/"
     },
     {
       "date": "2026-09-27",
@@ -20,6 +40,11 @@
     },
     {
       "date": "2026-09-26",
+      "title": "Nuclear power plant is back in the Philippines",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wqxxhi/nuclear_power_plant_is_back_in_the_philippines/"
+    },
+    {
+      "date": "2026-09-26",
       "title": "Nuclear plant restart review advances",
       "url": "https://www.reddit.com/r/nuclear/comments/1wqht77/nuclear_plant_restart_review_advances/"
     },
@@ -29,9 +54,24 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wqdl5r/dems_want_hochul_to_drop_239_billion_nuclear/"
     },
     {
+      "date": "2026-09-26",
+      "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wqdl5e/dems_want_hochul_to_drop_239_billion_nuclear/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "India's Nuclear Breakthrough at Kalpakkam! World's First Hydrogen Fast Breeder Reactor | UPSC",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wq6grx/indias_nuclear_breakthrough_at_kalpakkam_worlds/"
+    },
+    {
       "date": "2026-09-25",
       "title": "Nuclear Waste Accidentally Leaked at Pacific Coast Site",
       "url": "https://americanbuildout.com/radioactive-material-from-dormant-nuclear-plant-accidentally-leaks-at-pacific-coast-utility-tells-nrc/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Darlington's 4-unit CANDU refurbishment: 3,512 MW net, C$150M under a C$12.8B budget, 4 months …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wpxayc/darlingtons_4unit_candu_refurbishment_3512_mw_net/"
     },
     {
       "date": "2026-09-25",
@@ -52,8 +92,28 @@
   "updates_today": [
     {
       "date": "2026-09-27",
+      "title": "SMRs: a short history of a nuclear pipe dream",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wrw8hz/smrs_a_short_history_of_a_nuclear_pipe_dream/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "What are some jobs related to Nuclear that aren't Engineering?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wrvvrl/what_are_some_jobs_related_to_nuclear_that_arent/"
+    },
+    {
+      "date": "2026-09-27",
       "title": "Fear of nuclear energy causing cancer",
       "url": "https://www.reddit.com/r/nuclear/comments/1wrun53/fear_of_nuclear_energy_causing_cancer/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "New Nuclear Portfolio Update",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wrhwch/new_nuclear_portfolio_update/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Nuclear power plant is back in the Philippines",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wr6mkr/nuclear_power_plant_is_back_in_the_philippines/"
     },
     {
       "date": "2026-09-27",
@@ -67,8 +127,8 @@
     }
   ],
   "latest_date": "2026-09-27",
-  "count_7d": 9,
-  "count_today": 3,
+  "count_7d": 17,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
