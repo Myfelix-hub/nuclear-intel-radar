@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-29T09:41:04.016646+00:00",
+  "generated_at": "2026-09-29T16:26:29.842708+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-29",
+      "title": "South Korea targets 220GW solar and wind by 2040, led by offshore buildout. Korea, the nuclear …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wt5q2u/south_korea_targets_220gw_solar_and_wind_by_2040/"
+    },
     {
       "date": "2026-09-29",
       "title": "US study finds small reactors can't win on the grid, but can at factories and hydrogen plants",
@@ -10,8 +15,18 @@
     },
     {
       "date": "2026-09-28",
+      "title": "What got you into Nuclear Physics?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wstap0/what_got_you_into_nuclear_physics/"
+    },
+    {
+      "date": "2026-09-28",
       "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
       "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Why the world's top nuclear nation is sitting out the hype on small reactors",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wsq0t2/why_the_worlds_top_nuclear_nation_is_sitting_out/"
     },
     {
       "date": "2026-09-28",
@@ -30,8 +45,28 @@
     },
     {
       "date": "2026-09-27",
+      "title": "SMRs: a short history of a nuclear pipe dream",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wrw8hz/smrs_a_short_history_of_a_nuclear_pipe_dream/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "What are some jobs related to Nuclear that aren't Engineering?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wrvvrl/what_are_some_jobs_related_to_nuclear_that_arent/"
+    },
+    {
+      "date": "2026-09-27",
       "title": "Fear of nuclear energy causing cancer",
       "url": "https://www.reddit.com/r/nuclear/comments/1wrun53/fear_of_nuclear_energy_causing_cancer/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "New Nuclear Portfolio Update",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wrhwch/new_nuclear_portfolio_update/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Nuclear power plant is back in the Philippines",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wr6mkr/nuclear_power_plant_is_back_in_the_philippines/"
     },
     {
       "date": "2026-09-27",
@@ -42,6 +77,11 @@
       "date": "2026-09-27",
       "title": "Georgia Power agreement with Google to provide approximately $900 million in projected benefits…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wr5wq8/georgia_power_agreement_with_google_to_provide/"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Nuclear power plant is back in the Philippines",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wqxxhi/nuclear_power_plant_is_back_in_the_philippines/"
     },
     {
       "date": "2026-09-25",
@@ -62,13 +102,18 @@
   "updates_today": [
     {
       "date": "2026-09-29",
+      "title": "South Korea targets 220GW solar and wind by 2040, led by offshore buildout. Korea, the nuclear …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wt5q2u/south_korea_targets_220gw_solar_and_wind_by_2040/"
+    },
+    {
+      "date": "2026-09-29",
       "title": "US study finds small reactors can't win on the grid, but can at factories and hydrogen plants",
       "url": "https://www.reddit.com/r/nuclear/comments/1wt41zl/us_study_finds_small_reactors_cant_win_on_the/"
     }
   ],
   "latest_date": "2026-09-29",
-  "count_7d": 11,
-  "count_today": 1,
+  "count_7d": 19,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
