@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:08:49.898346+00:00",
+  "generated_at": "2026-09-29T02:41:01.087184+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -44,11 +44,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wqht77/nuclear_plant_restart_review_advances/"
     },
     {
-      "date": "2026-09-26",
-      "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wqdl5r/dems_want_hochul_to_drop_239_billion_nuclear/"
-    },
-    {
       "date": "2026-09-25",
       "title": "Nuclear Waste Accidentally Leaked at Pacific Coast Site",
       "url": "https://americanbuildout.com/radioactive-material-from-dormant-nuclear-plant-accidentally-leaks-at-pacific-coast-utility-tells-nrc/"
@@ -87,7 +82,7 @@
     }
   ],
   "latest_date": "2026-09-28",
-  "count_7d": 12,
+  "count_7d": 11,
   "count_today": 4,
   "has_error": false,
   "error": null,
