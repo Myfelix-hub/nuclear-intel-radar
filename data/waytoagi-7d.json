@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-29T02:41:01.087184+00:00",
+  "generated_at": "2026-09-29T09:41:04.016646+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-29",
+      "title": "US study finds small reactors can't win on the grid, but can at factories and hydrogen plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wt41zl/us_study_finds_small_reactors_cant_win_on_the/"
+    },
     {
       "date": "2026-09-28",
       "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
@@ -39,11 +44,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wr5wq8/georgia_power_agreement_with_google_to_provide/"
     },
     {
-      "date": "2026-09-26",
-      "title": "Nuclear plant restart review advances",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wqht77/nuclear_plant_restart_review_advances/"
-    },
-    {
       "date": "2026-09-25",
       "title": "Nuclear Waste Accidentally Leaked at Pacific Coast Site",
       "url": "https://americanbuildout.com/radioactive-material-from-dormant-nuclear-plant-accidentally-leaks-at-pacific-coast-utility-tells-nrc/"
@@ -61,29 +61,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-28",
-      "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
-      "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "First concrete poured for Bailong 2 nuclear power unit",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wsjm7t/first_concrete_poured_for_bailong_2_nuclear_power/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Europe’s AI demand could set off nuclear energy boom, says JP Morgan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wsg7iq/europes_ai_demand_could_set_off_nuclear_energy/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "USS Stennis Electrician’s Mate Nuclear on what powers carrier if reactors have to be shut down",
-      "url": "https://www.reddit.com/r/nuclear/comments/1ws2isj/uss_stennis_electricians_mate_nuclear_on_what/"
+      "date": "2026-09-29",
+      "title": "US study finds small reactors can't win on the grid, but can at factories and hydrogen plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wt41zl/us_study_finds_small_reactors_cant_win_on_the/"
     }
   ],
-  "latest_date": "2026-09-28",
+  "latest_date": "2026-09-29",
   "count_7d": 11,
-  "count_today": 4,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
