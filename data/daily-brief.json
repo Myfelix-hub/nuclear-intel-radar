@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:21:59.678987+00:00",
+  "generated_at": "2026-09-30T18:05:38.070542+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -19,6 +19,22 @@
       "score": 7.199999999999999
     },
     {
+      "story_id": "story-09865248fdc81c2f",
+      "title": "Redesigning Steam Turbines for the SMR Era",
+      "representative_url": "https://www.powermag.com/redesigning-steam-turbines-for-the-smr-era/",
+      "first_published_at": "2026-09-30T15:46:47+00:00",
+      "sources": [
+        "powermag",
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.85,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "safety",
+      "score": 7.195875517379768
+    },
+    {
       "story_id": "story-be38ec6278852d5d",
       "title": "US NRC approves construction of nation's first small modular nuclear reactor",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1wtsxgi/us_nrc_approves_construction_of_nations_first/",
@@ -34,6 +50,96 @@
       "score": 5.4
     },
     {
+      "story_id": "story-408802150085428d",
+      "title": "Chinese Commercial Reactor Achieves Nuclear Fusion with Clean Hydrogen-Boron Fuel",
+      "representative_url": "https://www.scmp.com/news/china/science/article/3369086/chinese-commercial-reactor-achieves-nuclear-fusion-clean-hydrogen-boron-fuel",
+      "first_published_at": "2026-09-30T18:05:38.070542+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "safety",
+      "score": 4.0
+    },
+    {
+      "story_id": "story-ab3da1d497fd64e8",
+      "title": "General Matter Submits NRC License Application for Kentucky Uranium Enrichment Facility",
+      "representative_url": "https://world-nuclear-news.org/articles/general-matter-submits-enrichment-plant-licence-application",
+      "first_published_at": "2026-09-30T18:05:38.070542+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-894530284a1d4c2b",
+      "title": "Advanced Reactor Construction Permit Issued for Clinch River Nuclear Site",
+      "representative_url": "https://www.knoxnews.com/picture-gallery/news/local/tennessee/2026/09/29/u-s-nuclear-regulatory-commission-nrc-will-issue-the-nations-second-advanced-reactor-construction-pe/92008198007/",
+      "first_published_at": "2026-09-30T18:05:38.070542+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-bf0e883d24ec8757",
+      "title": "NRC Approves Construction of Nation’s First Small Modular Reactor in Tennessee",
+      "representative_url": "https://www.nrc.gov/about-nrc/news-releases/2026/26-079",
+      "first_published_at": "2026-09-30T18:05:38.070542+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-f68324b4ef92935d",
+      "title": "TVA First U.S. Utility to Receive Construction Permit for BWRX-300 Advanced Nuclear Reactor",
+      "representative_url": "https://www.prnewswire.com/news-releases/tva-first-us-utility-to-receive-construction-permit-for-bwrx-300-advanced-nuclear-reactor-302893324.html",
+      "first_published_at": "2026-09-30T18:05:38.070542+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-5fc49bf52bae5e47",
+      "title": "First commercial small modular reactor in America approved today. It’s going in Oak Ridge.",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wuaniv/first_commercial_small_modular_reactor_in_america/",
+      "first_published_at": "2026-09-30T17:10:55+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "policy",
+      "score": 3.5999999999999996
+    },
+    {
       "story_id": "story-c1bb57e2a859d31c",
       "title": "Saskatchewan to explore 2 large nuclear reactors",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1wtwosj/saskatchewan_to_explore_2_large_nuclear_reactors/",
@@ -47,112 +153,6 @@
       "source_tier_rank": 5,
       "primary_section": "community",
       "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-bdc10ea27774ffd8",
-      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
-      "representative_url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html",
-      "first_published_at": "2026-09-30T00:59:32+00:00",
-      "sources": [
-        "hn_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-d7c0cc6e4034369b",
-      "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
-      "representative_url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor",
-      "first_published_at": "2026-09-28T21:24:01+00:00",
-      "sources": [
-        "hn_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-91cc1acdb9f04c9b",
-      "title": "USS Stennis Electrician’s Mate Nuclear on what powers carrier if reactors have to be shut down",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1ws2isj/uss_stennis_electricians_mate_nuclear_on_what/",
-      "first_published_at": "2026-09-28T02:21:36+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-6cb9ddab9a795d4f",
-      "title": "First concrete poured for Bailong 2 nuclear power unit",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wsjm7t/first_concrete_poured_for_bailong_2_nuclear_power/",
-      "first_published_at": "2026-09-28T11:12:52+00:00",
-      "sources": [
-        "reddit_nuclear",
-        "wnn"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "newbuild",
-      "score": 3.0476649250079015
-    },
-    {
-      "story_id": "story-364bd136cb58d653",
-      "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
-      "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-09-30T12:21:59.678987+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 3.0
-    },
-    {
-      "story_id": "story-4eb0bc894c8c487d",
-      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
-      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-09-30T12:21:59.678987+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "hot",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-e8d9b69bff65b6d5",
-      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
-      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-09-30T12:21:59.678987+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.7
     }
   ]
 }

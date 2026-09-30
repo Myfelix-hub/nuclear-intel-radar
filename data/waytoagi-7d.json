@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-30T12:21:59.678987+00:00",
+  "generated_at": "2026-09-30T18:05:38.070542+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-09-30",
+      "title": "A question on things I've seen online about nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wubn8b/a_question_on_things_ive_seen_online_about/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "First commercial small modular reactor in America approved today. It’s going in Oak Ridge.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuaniv/first_commercial_small_modular_reactor_in_america/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Protestor Turnout at UMass Lowell Nuclear Summit",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuacnz/protestor_turnout_at_umass_lowell_nuclear_summit/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Redesigning Steam Turbines for the SMR Era",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wu8er1/redesigning_steam_turbines_for_the_smr_era/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Nuclear Science Week events at the Dallas Makerspace",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wu7sd1/nuclear_science_week_events_at_the_dallas/"
+    },
     {
       "date": "2026-09-30",
       "title": "Saskatchewan to explore 2 large nuclear reactors",
@@ -12,11 +37,6 @@
       "date": "2026-09-30",
       "title": "US NRC approves construction of nation's first small modular nuclear reactor",
       "url": "https://www.reddit.com/r/nuclear/comments/1wtsxgi/us_nrc_approves_construction_of_nations_first/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
-      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
     },
     {
       "date": "2026-09-29",
@@ -39,26 +59,6 @@
       "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
     },
     {
-      "date": "2026-09-28",
-      "title": "First concrete poured for Bailong 2 nuclear power unit",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wsjm7t/first_concrete_poured_for_bailong_2_nuclear_power/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Europe’s AI demand could set off nuclear energy boom, says JP Morgan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wsg7iq/europes_ai_demand_could_set_off_nuclear_energy/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "USS Stennis Electrician’s Mate Nuclear on what powers carrier if reactors have to be shut down",
-      "url": "https://www.reddit.com/r/nuclear/comments/1ws2isj/uss_stennis_electricians_mate_nuclear_on_what/"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Fear of nuclear energy causing cancer",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wrun53/fear_of_nuclear_energy_causing_cancer/"
-    },
-    {
       "date": "2026-09-25",
       "title": "Nuclear Waste Accidentally Leaked at Pacific Coast Site",
       "url": "https://americanbuildout.com/radioactive-material-from-dormant-nuclear-plant-accidentally-leaks-at-pacific-coast-utility-tells-nrc/"
@@ -77,6 +77,31 @@
   "updates_today": [
     {
       "date": "2026-09-30",
+      "title": "A question on things I've seen online about nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wubn8b/a_question_on_things_ive_seen_online_about/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "First commercial small modular reactor in America approved today. It’s going in Oak Ridge.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuaniv/first_commercial_small_modular_reactor_in_america/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Protestor Turnout at UMass Lowell Nuclear Summit",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuacnz/protestor_turnout_at_umass_lowell_nuclear_summit/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Redesigning Steam Turbines for the SMR Era",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wu8er1/redesigning_steam_turbines_for_the_smr_era/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Nuclear Science Week events at the Dallas Makerspace",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wu7sd1/nuclear_science_week_events_at_the_dallas/"
+    },
+    {
+      "date": "2026-09-30",
       "title": "Saskatchewan to explore 2 large nuclear reactors",
       "url": "https://www.reddit.com/r/nuclear/comments/1wtwosj/saskatchewan_to_explore_2_large_nuclear_reactors/"
     },
@@ -84,16 +109,11 @@
       "date": "2026-09-30",
       "title": "US NRC approves construction of nation's first small modular nuclear reactor",
       "url": "https://www.reddit.com/r/nuclear/comments/1wtsxgi/us_nrc_approves_construction_of_nations_first/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
-      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
     }
   ],
   "latest_date": "2026-09-30",
   "count_7d": 14,
-  "count_today": 3,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
