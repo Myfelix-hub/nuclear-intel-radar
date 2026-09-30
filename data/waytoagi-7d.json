@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-09-29T20:59:18.770662+00:00",
+  "generated_at": "2026-09-30T00:20:13.222333+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-09-29",
-      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor at Tennessee Val…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wtiilw/nrc_issues_first_us_construction_permit_for_a/"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "US study finds small reactors can't win on the grid, but can at factories and hydrogen plants",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wt41zl/us_study_finds_small_reactors_cant_win_on_the/"
-    },
-    {
       "date": "2026-09-28",
       "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
       "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "First concrete poured for Bailong 2 nuclear power unit",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wsjm7t/first_concrete_poured_for_bailong_2_nuclear_power/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Europe’s AI demand could set off nuclear energy boom, says JP Morgan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wsg7iq/europes_ai_demand_could_set_off_nuclear_energy/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "USS Stennis Electrician’s Mate Nuclear on what powers carrier if reactors have to be shut down",
-      "url": "https://www.reddit.com/r/nuclear/comments/1ws2isj/uss_stennis_electricians_mate_nuclear_on_what/"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Fear of nuclear energy causing cancer",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wrun53/fear_of_nuclear_energy_causing_cancer/"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM’s interconnection study cycle",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wr6a59/ferc_rejects_oklo_complaint_seeking_to_reinstate/"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Georgia Power agreement with Google to provide approximately $900 million in projected benefits…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wr5wq8/georgia_power_agreement_with_google_to_provide/"
     },
     {
       "date": "2026-09-25",
@@ -66,19 +26,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-29",
-      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor at Tennessee Val…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wtiilw/nrc_issues_first_us_construction_permit_for_a/"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "US study finds small reactors can't win on the grid, but can at factories and hydrogen plants",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wt41zl/us_study_finds_small_reactors_cant_win_on_the/"
+      "date": "2026-09-28",
+      "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
+      "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
     }
   ],
-  "latest_date": "2026-09-29",
-  "count_7d": 12,
-  "count_today": 2,
+  "latest_date": "2026-09-28",
+  "count_7d": 4,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
