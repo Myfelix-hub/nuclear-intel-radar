@@ -1,12 +1,62 @@
 {
-  "generated_at": "2026-09-30T00:20:13.222333+00:00",
+  "generated_at": "2026-09-30T05:52:09.705381+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
+      "date": "2026-09-30",
+      "title": "Saskatchewan to explore 2 large nuclear reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wtwosj/saskatchewan_to_explore_2_large_nuclear_reactors/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "US NRC approves construction of nation's first small modular nuclear reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wtsxgi/us_nrc_approves_construction_of_nations_first/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
+      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "General Matter submits licence application for enrichment plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wtm6r3/general_matter_submits_licence_application_for/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor at Tennessee Val…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wtiilw/nrc_issues_first_us_construction_permit_for_a/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "US study finds small reactors can't win on the grid, but can at factories and hydrogen plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wt41zl/us_study_finds_small_reactors_cant_win_on_the/"
+    },
+    {
       "date": "2026-09-28",
       "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
       "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "First concrete poured for Bailong 2 nuclear power unit",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wsjm7t/first_concrete_poured_for_bailong_2_nuclear_power/"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Europe’s AI demand could set off nuclear energy boom, says JP Morgan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wsg7iq/europes_ai_demand_could_set_off_nuclear_energy/"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "USS Stennis Electrician’s Mate Nuclear on what powers carrier if reactors have to be shut down",
+      "url": "https://www.reddit.com/r/nuclear/comments/1ws2isj/uss_stennis_electricians_mate_nuclear_on_what/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Fear of nuclear energy causing cancer",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wrun53/fear_of_nuclear_energy_causing_cancer/"
     },
     {
       "date": "2026-09-25",
@@ -26,14 +76,24 @@
   ],
   "updates_today": [
     {
-      "date": "2026-09-28",
-      "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
-      "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
+      "date": "2026-09-30",
+      "title": "Saskatchewan to explore 2 large nuclear reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wtwosj/saskatchewan_to_explore_2_large_nuclear_reactors/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "US NRC approves construction of nation's first small modular nuclear reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wtsxgi/us_nrc_approves_construction_of_nations_first/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
+      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
     }
   ],
-  "latest_date": "2026-09-28",
-  "count_7d": 4,
-  "count_today": 1,
+  "latest_date": "2026-09-30",
+  "count_7d": 14,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
