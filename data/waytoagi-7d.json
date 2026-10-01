@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-01T08:44:24.703561+00:00",
+  "generated_at": "2026-10-01T16:14:53.028073+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-01",
+      "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wv04fc/a_35foot_retired_nuclear_reactor_was_filled_with/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Can the SpaceX playbook work for nuclear power?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuyuop/can_the_spacex_playbook_work_for_nuclear_power/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "With federal funding windfall, X-energy advances small nuclear reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuyr3c/with_federal_funding_windfall_xenergy_advances/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "The US just approved its first small nuclear reactor built for the AI power crunch",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuwgcu/the_us_just_approved_its_first_small_nuclear/"
+    },
     {
       "date": "2026-10-01",
       "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
@@ -25,18 +45,8 @@
     },
     {
       "date": "2026-09-30",
-      "title": "A question on things I've seen online about nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wubn8b/a_question_on_things_ive_seen_online_about/"
-    },
-    {
-      "date": "2026-09-30",
       "title": "First commercial small modular reactor in America approved today. It’s going in Oak Ridge.",
       "url": "https://www.reddit.com/r/nuclear/comments/1wuaniv/first_commercial_small_modular_reactor_in_america/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Protestor Turnout at UMass Lowell Nuclear Summit",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wuacnz/protestor_turnout_at_umass_lowell_nuclear_summit/"
     },
     {
       "date": "2026-09-30",
@@ -52,11 +62,6 @@
       "date": "2026-09-30",
       "title": "Saskatchewan to explore 2 large nuclear reactors",
       "url": "https://www.reddit.com/r/nuclear/comments/1wtwosj/saskatchewan_to_explore_2_large_nuclear_reactors/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "US NRC approves construction of nation's first small modular nuclear reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wtsxgi/us_nrc_approves_construction_of_nations_first/"
     },
     {
       "date": "2026-09-30",
@@ -82,13 +87,33 @@
   "updates_today": [
     {
       "date": "2026-10-01",
+      "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wv04fc/a_35foot_retired_nuclear_reactor_was_filled_with/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Can the SpaceX playbook work for nuclear power?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuyuop/can_the_spacex_playbook_work_for_nuclear_power/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "With federal funding windfall, X-energy advances small nuclear reactor",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuyr3c/with_federal_funding_windfall_xenergy_advances/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "The US just approved its first small nuclear reactor built for the AI power crunch",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuwgcu/the_us_just_approved_its_first_small_nuclear/"
+    },
+    {
+      "date": "2026-10-01",
       "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1wulgcb/constellation_amazon_sign_20year_power_deal_to/"
     }
   ],
   "latest_date": "2026-10-01",
-  "count_7d": 15,
-  "count_today": 1,
+  "count_7d": 16,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
