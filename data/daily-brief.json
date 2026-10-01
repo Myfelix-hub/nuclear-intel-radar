@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:14:53.028073+00:00",
+  "generated_at": "2026-10-01T21:14:27.610800+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -17,22 +17,6 @@
       "source_tier_rank": 5,
       "primary_section": "policy",
       "score": 7.199999999999999
-    },
-    {
-      "story_id": "story-09865248fdc81c2f",
-      "title": "Redesigning Steam Turbines for the SMR Era",
-      "representative_url": "https://www.powermag.com/redesigning-steam-turbines-for-the-smr-era/",
-      "first_published_at": "2026-09-30T15:46:47+00:00",
-      "sources": [
-        "powermag",
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.85,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "safety",
-      "score": 7.195875517379768
     },
     {
       "story_id": "story-8f202d42e1974a61",
@@ -65,6 +49,21 @@
       "score": 5.4
     },
     {
+      "story_id": "story-42c919c2439b27db",
+      "title": "Redesigning Steam Turbines for the SMR Era",
+      "representative_url": "https://www.powermag.com/redesigning-steam-turbines-for-the-smr-era/",
+      "first_published_at": "2026-09-30T19:00:00+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.85,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "safety",
+      "score": 4.25
+    },
+    {
       "story_id": "story-4de39a752d405142",
       "title": "With federal funding windfall, X-energy advances small nuclear reactor",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1wuyr3c/with_federal_funding_windfall_xenergy_advances/",
@@ -78,6 +77,21 @@
       "source_tier_rank": 5,
       "primary_section": "community",
       "score": 4.199999999999999
+    },
+    {
+      "story_id": "story-56724e9828654039",
+      "title": "USA, South Korea targeting six AP1000 and two APR1400 units",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wvaiel/usa_south_korea_targeting_six_ap1000_and_two/",
+      "first_published_at": "2026-10-01T20:33:52+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
     },
     {
       "story_id": "story-9a0be5acebfa0004",
@@ -137,21 +151,6 @@
       "source_tier": "community",
       "source_tier_rank": 5,
       "primary_section": "policy",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-c1bb57e2a859d31c",
-      "title": "Saskatchewan to explore 2 large nuclear reactors",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wtwosj/saskatchewan_to_explore_2_large_nuclear_reactors/",
-      "first_published_at": "2026-09-30T05:30:25+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
       "score": 3.5999999999999996
     }
   ]

@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-01T16:14:53.028073+00:00",
+  "generated_at": "2026-10-01T21:14:27.610800+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-01",
+      "title": "New Canadian Centre for Space Isotopes explores Canada’s role powering future space missions",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvb44o/new_canadian_centre_for_space_isotopes_explores/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "USA, South Korea targeting six AP1000 and two APR1400 units",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvaiel/usa_south_korea_targeting_six_ap1000_and_two/"
+    },
     {
       "date": "2026-10-01",
       "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
@@ -50,16 +60,6 @@
     },
     {
       "date": "2026-09-30",
-      "title": "Redesigning Steam Turbines for the SMR Era",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wu8er1/redesigning_steam_turbines_for_the_smr_era/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Nuclear Science Week events at the Dallas Makerspace",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wu7sd1/nuclear_science_week_events_at_the_dallas/"
-    },
-    {
-      "date": "2026-09-30",
       "title": "Saskatchewan to explore 2 large nuclear reactors",
       "url": "https://www.reddit.com/r/nuclear/comments/1wtwosj/saskatchewan_to_explore_2_large_nuclear_reactors/"
     },
@@ -85,6 +85,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-01",
+      "title": "New Canadian Centre for Space Isotopes explores Canada’s role powering future space missions",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvb44o/new_canadian_centre_for_space_isotopes_explores/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "USA, South Korea targeting six AP1000 and two APR1400 units",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvaiel/usa_south_korea_targeting_six_ap1000_and_two/"
+    },
     {
       "date": "2026-10-01",
       "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
@@ -113,7 +123,7 @@
   ],
   "latest_date": "2026-10-01",
   "count_7d": 16,
-  "count_today": 5,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
