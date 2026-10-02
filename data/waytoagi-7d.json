@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-02T01:02:52.251136+00:00",
+  "generated_at": "2026-10-02T07:26:58.005001+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-10-01",
-      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvcuw5/south_korea_to_build_8_nuclear_power_plants_in_us/"
+      "date": "2026-10-02",
+      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvmg8x/a_startup_wants_to_build_a_massive_nuclearpowered/"
     },
     {
       "date": "2026-10-01",
-      "title": "New Canadian Centre for Space Isotopes explores Canada’s role powering future space missions",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvb44o/new_canadian_centre_for_space_isotopes_explores/"
+      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvcuw5/south_korea_to_build_8_nuclear_power_plants_in_us/"
     },
     {
       "date": "2026-10-01",
@@ -22,6 +22,11 @@
       "date": "2026-10-01",
       "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wv04fc/a_35foot_retired_nuclear_reactor_was_filled_with/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Can the SpaceX playbook work for nuclear power?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wuyuop/can_the_spacex_playbook_work_for_nuclear_power/"
     },
     {
       "date": "2026-10-01",
@@ -76,44 +81,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-01",
-      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvcuw5/south_korea_to_build_8_nuclear_power_plants_in_us/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "New Canadian Centre for Space Isotopes explores Canada’s role powering future space missions",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvb44o/new_canadian_centre_for_space_isotopes_explores/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "USA, South Korea targeting six AP1000 and two APR1400 units",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvaiel/usa_south_korea_targeting_six_ap1000_and_two/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wv04fc/a_35foot_retired_nuclear_reactor_was_filled_with/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "With federal funding windfall, X-energy advances small nuclear reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wuyr3c/with_federal_funding_windfall_xenergy_advances/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "The US just approved its first small nuclear reactor built for the AI power crunch",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wuwgcu/the_us_just_approved_its_first_small_nuclear/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wulgcb/constellation_amazon_sign_20year_power_deal_to/"
+      "date": "2026-10-02",
+      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvmg8x/a_startup_wants_to_build_a_massive_nuclearpowered/"
     }
   ],
-  "latest_date": "2026-10-01",
-  "count_7d": 14,
-  "count_today": 7,
+  "latest_date": "2026-10-02",
+  "count_7d": 15,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
