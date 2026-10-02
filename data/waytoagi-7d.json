@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-01T21:14:27.610800+00:00",
+  "generated_at": "2026-10-02T01:02:52.251136+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-01",
+      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvcuw5/south_korea_to_build_8_nuclear_power_plants_in_us/"
+    },
     {
       "date": "2026-10-01",
       "title": "New Canadian Centre for Space Isotopes explores Canada’s role powering future space missions",
@@ -17,11 +22,6 @@
       "date": "2026-10-01",
       "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wv04fc/a_35foot_retired_nuclear_reactor_was_filled_with/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Can the SpaceX playbook work for nuclear power?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wuyuop/can_the_spacex_playbook_work_for_nuclear_power/"
     },
     {
       "date": "2026-10-01",
@@ -59,16 +59,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wuaniv/first_commercial_small_modular_reactor_in_america/"
     },
     {
-      "date": "2026-09-30",
-      "title": "Saskatchewan to explore 2 large nuclear reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wtwosj/saskatchewan_to_explore_2_large_nuclear_reactors/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
-      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
-    },
-    {
       "date": "2026-09-29",
       "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
       "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
@@ -87,6 +77,11 @@
   "updates_today": [
     {
       "date": "2026-10-01",
+      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvcuw5/south_korea_to_build_8_nuclear_power_plants_in_us/"
+    },
+    {
+      "date": "2026-10-01",
       "title": "New Canadian Centre for Space Isotopes explores Canada’s role powering future space missions",
       "url": "https://www.reddit.com/r/nuclear/comments/1wvb44o/new_canadian_centre_for_space_isotopes_explores/"
     },
@@ -99,11 +94,6 @@
       "date": "2026-10-01",
       "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wv04fc/a_35foot_retired_nuclear_reactor_was_filled_with/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Can the SpaceX playbook work for nuclear power?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wuyuop/can_the_spacex_playbook_work_for_nuclear_power/"
     },
     {
       "date": "2026-10-01",
@@ -122,7 +112,7 @@
     }
   ],
   "latest_date": "2026-10-01",
-  "count_7d": 16,
+  "count_7d": 14,
   "count_today": 7,
   "has_error": false,
   "error": null,

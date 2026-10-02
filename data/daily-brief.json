@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-10-01T21:14:27.610800+00:00",
+  "generated_at": "2026-10-02T01:02:52.251136+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-25ed350329601705",
+      "title": "Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wud1pl/chinese_commercial_reactor_achieves_nuclear/",
+      "first_published_at": "2026-09-30T18:40:00+00:00",
+      "sources": [
+        "reddit_nuclear",
+        "nucleartownhall"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 1.0,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "safety",
+      "score": 10.158883083359672
+    },
     {
       "story_id": "story-f01ae1fc956912bb",
       "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
@@ -17,21 +33,6 @@
       "source_tier_rank": 5,
       "primary_section": "policy",
       "score": 7.199999999999999
-    },
-    {
-      "story_id": "story-8f202d42e1974a61",
-      "title": "Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wud1pl/chinese_commercial_reactor_achieves_nuclear/",
-      "first_published_at": "2026-09-30T18:40:00+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "safety",
-      "score": 6.0
     },
     {
       "story_id": "story-87a9130dc78110cc",
@@ -79,79 +80,80 @@
       "score": 4.199999999999999
     },
     {
-      "story_id": "story-56724e9828654039",
-      "title": "USA, South Korea targeting six AP1000 and two APR1400 units",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wvaiel/usa_south_korea_targeting_six_ap1000_and_two/",
-      "first_published_at": "2026-10-01T20:33:52+00:00",
+      "story_id": "story-3a7b807d584fa6c9",
+      "title": "Nuclear Regulatory Commission Advances Review of Disputed Groundwater Limits at Former Uranium …",
+      "representative_url": "https://www.ans.org/news/2026-09-29/article-8444/nrc-grants-review-of-homestake-minings-groundwater-acl-application/",
+      "first_published_at": "2026-09-29T18:58:31+00:00",
       "sources": [
-        "reddit_nuclear"
+        "nucleartownhall",
+        "ans_newswire"
       ],
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-9a0be5acebfa0004",
-      "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wv04fc/a_35foot_retired_nuclear_reactor_was_filled_with/",
-      "first_published_at": "2026-10-01T13:57:00+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-36c32d0dcc9b31e2",
-      "title": "The US just approved its first small nuclear reactor built for the AI power crunch",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wuwgcu/the_us_just_approved_its_first_small_nuclear/",
-      "first_published_at": "2026-10-01T11:01:11+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "policy",
-      "score": 3.5999999999999996
+      "score": 4.063553233343868
     },
     {
-      "story_id": "story-fdc66aecda8ff781",
-      "title": "A 100-watt nuclear reactor went critical on Texas ranch land that held nothing but grass a year…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wuiyzc/a_100watt_nuclear_reactor_went_critical_on_texas/",
-      "first_published_at": "2026-09-30T22:36:27+00:00",
+      "story_id": "story-ab3da1d497fd64e8",
+      "title": "General Matter Submits NRC License Application for Kentucky Uranium Enrichment Facility",
+      "representative_url": "https://world-nuclear-news.org/articles/general-matter-submits-enrichment-plant-licence-application",
+      "first_published_at": "2026-10-02T01:02:52.251136+00:00",
       "sources": [
-        "reddit_nuclear"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-5fc49bf52bae5e47",
-      "title": "First commercial small modular reactor in America approved today. It’s going in Oak Ridge.",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wuaniv/first_commercial_small_modular_reactor_in_america/",
-      "first_published_at": "2026-09-30T17:10:55+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "policy",
-      "score": 3.5999999999999996
+      "score": 3.6
+    },
+    {
+      "story_id": "story-894530284a1d4c2b",
+      "title": "Advanced Reactor Construction Permit Issued for Clinch River Nuclear Site",
+      "representative_url": "https://www.knoxnews.com/picture-gallery/news/local/tennessee/2026/09/29/u-s-nuclear-regulatory-commission-nrc-will-issue-the-nations-second-advanced-reactor-construction-pe/92008198007/",
+      "first_published_at": "2026-10-02T01:02:52.251136+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-bf0e883d24ec8757",
+      "title": "NRC Approves Construction of Nation’s First Small Modular Reactor in Tennessee",
+      "representative_url": "https://www.nrc.gov/about-nrc/news-releases/2026/26-079",
+      "first_published_at": "2026-10-02T01:02:52.251136+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-f68324b4ef92935d",
+      "title": "TVA First U.S. Utility to Receive Construction Permit for BWRX-300 Advanced Nuclear Reactor",
+      "representative_url": "https://www.prnewswire.com/news-releases/tva-first-us-utility-to-receive-construction-permit-for-bwrx-300-advanced-nuclear-reactor-302893324.html",
+      "first_published_at": "2026-10-02T01:02:52.251136+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
     }
   ]
 }
