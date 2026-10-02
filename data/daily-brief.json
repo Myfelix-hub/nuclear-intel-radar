@@ -1,24 +1,8 @@
 {
-  "generated_at": "2026-10-02T14:03:57.138773+00:00",
+  "generated_at": "2026-10-02T19:28:12.174718+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
-    {
-      "story_id": "story-25ed350329601705",
-      "title": "Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wud1pl/chinese_commercial_reactor_achieves_nuclear/",
-      "first_published_at": "2026-09-30T18:40:00+00:00",
-      "sources": [
-        "reddit_nuclear",
-        "nucleartownhall"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 1.0,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "safety",
-      "score": 10.158883083359672
-    },
     {
       "story_id": "story-f01ae1fc956912bb",
       "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
@@ -33,21 +17,6 @@
       "source_tier_rank": 5,
       "primary_section": "policy",
       "score": 7.199999999999999
-    },
-    {
-      "story_id": "story-87a9130dc78110cc",
-      "title": "Bill Gates-backed nuclear fusion firm inks 6200-mile reactor tape deal",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wukkse/bill_gatesbacked_nuclear_fusion_firm_inks/",
-      "first_published_at": "2026-09-30T23:50:26+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 5.4
     },
     {
       "story_id": "story-4de39a752d405142",
@@ -65,26 +34,25 @@
       "score": 4.199999999999999
     },
     {
-      "story_id": "story-3a7b807d584fa6c9",
-      "title": "Nuclear Regulatory Commission Advances Review of Disputed Groundwater Limits at Former Uranium …",
-      "representative_url": "https://www.ans.org/news/2026-09-29/article-8444/nrc-grants-review-of-homestake-minings-groundwater-acl-application/",
-      "first_published_at": "2026-09-29T18:58:31+00:00",
+      "story_id": "story-408802150085428d",
+      "title": "Chinese Commercial Reactor Achieves Nuclear Fusion with Clean Hydrogen-Boron Fuel",
+      "representative_url": "https://www.scmp.com/news/china/science/article/3369086/chinese-commercial-reactor-achieves-nuclear-fusion-clean-hydrogen-boron-fuel",
+      "first_published_at": "2026-10-02T19:28:12.174718+00:00",
       "sources": [
-        "nucleartownhall",
-        "ans_newswire"
+        "nucleartownhall"
       ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
+      "duplicate_count": 1,
+      "nuclear_score": 1.0,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 4.063553233343868
+      "primary_section": "safety",
+      "score": 4.0
     },
     {
       "story_id": "story-ab3da1d497fd64e8",
       "title": "General Matter Submits NRC License Application for Kentucky Uranium Enrichment Facility",
       "representative_url": "https://world-nuclear-news.org/articles/general-matter-submits-enrichment-plant-licence-application",
-      "first_published_at": "2026-10-02T14:03:57.138773+00:00",
+      "first_published_at": "2026-10-02T19:28:12.174718+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -99,7 +67,7 @@
       "story_id": "story-0b78e38e64751ee6",
       "title": "Former U.S. NRC Commissioner and U.S. DOE Nuclear Chief William D. Magwood, IV to Join newcleo’…",
       "representative_url": "https://www.globenewswire.com/news-release/2026/09/30/3372016/0/en/former-u-s-nrc-commissioner-and-u-s-doe-nuclear-chief-william-d-magwood-iv-to-join-newcleo-s-board-of-directors-in-january-2027.html",
-      "first_published_at": "2026-10-02T14:03:57.138773+00:00",
+      "first_published_at": "2026-10-02T19:28:12.174718+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -114,7 +82,7 @@
       "story_id": "story-894530284a1d4c2b",
       "title": "Advanced Reactor Construction Permit Issued for Clinch River Nuclear Site",
       "representative_url": "https://www.knoxnews.com/picture-gallery/news/local/tennessee/2026/09/29/u-s-nuclear-regulatory-commission-nrc-will-issue-the-nations-second-advanced-reactor-construction-pe/92008198007/",
-      "first_published_at": "2026-10-02T14:03:57.138773+00:00",
+      "first_published_at": "2026-10-02T19:28:12.174718+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -129,7 +97,7 @@
       "story_id": "story-bf0e883d24ec8757",
       "title": "NRC Approves Construction of Nation’s First Small Modular Reactor in Tennessee",
       "representative_url": "https://www.nrc.gov/about-nrc/news-releases/2026/26-079",
-      "first_published_at": "2026-10-02T14:03:57.138773+00:00",
+      "first_published_at": "2026-10-02T19:28:12.174718+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -144,7 +112,7 @@
       "story_id": "story-f68324b4ef92935d",
       "title": "TVA First U.S. Utility to Receive Construction Permit for BWRX-300 Advanced Nuclear Reactor",
       "representative_url": "https://www.prnewswire.com/news-releases/tva-first-us-utility-to-receive-construction-permit-for-bwrx-300-advanced-nuclear-reactor-302893324.html",
-      "first_published_at": "2026-10-02T14:03:57.138773+00:00",
+      "first_published_at": "2026-10-02T19:28:12.174718+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -154,6 +122,36 @@
       "source_tier_rank": 3,
       "primary_section": "policy",
       "score": 3.6
+    },
+    {
+      "story_id": "story-c2ec47da51edeb9e",
+      "title": "S. Korea races to commercialize multipurpose small modular reactors",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wvzf9l/s_korea_races_to_commercialize_multipurpose_small/",
+      "first_published_at": "2026-10-02T17:14:05+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-56724e9828654039",
+      "title": "USA, South Korea targeting six AP1000 and two APR1400 units",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wvaiel/usa_south_korea_targeting_six_ap1000_and_two/",
+      "first_published_at": "2026-10-01T20:33:52+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
     }
   ]
 }

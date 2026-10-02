@@ -19,19 +19,19 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 6,
+      "item_count": 11,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 11,
+      "item_count": 6,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -46,21 +46,21 @@
       "warning": null
     },
     {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
-      "ok": false,
-      "item_count": 0,
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
-      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
+      "error": null,
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
-      "ok": true,
-      "item_count": 1,
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
       "warning": null
     },
     {
@@ -145,28 +145,28 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
-      "item_count": 17,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 20,
+      "item_count": 17,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -184,7 +184,7 @@
       "site_id": "iter_org",
       "site_name": "ITER",
       "ok": true,
-      "item_count": 2,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -292,8 +292,8 @@
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
-      "item_count": 4,
-      "duration_ms": 3494,
+      "item_count": 3,
+      "duration_ms": 3155,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 11,
-      "duration_ms": 5943,
+      "item_count": 10,
+      "duration_ms": 5743,
       "error": null,
       "warning": null
     }
@@ -310,21 +310,21 @@
   "successful_sites": 28,
   "failed_sites": [
     {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
-      "warning": null
-    },
-    {
       "site_id": "nucnet",
       "site_name": "NucNet",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
       "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
+    },
+    {
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
       "warning": null
     },
     {
@@ -364,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 324,
-  "items_before_topic_filter": 324,
+  "fetched_raw_items": 321,
+  "items_before_topic_filter": 321,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},

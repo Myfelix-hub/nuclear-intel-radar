@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-02T14:03:57.138773+00:00",
+  "generated_at": "2026-10-02T19:28:12.174718+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-02",
+      "title": "S. Korea races to commercialize multipurpose small modular reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvzf9l/s_korea_races_to_commercialize_multipurpose_small/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "California Governor signs AB 2647, ordering a state study of new nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvyi6m/california_governor_signs_ab_2647_ordering_a/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Nuclear waste armed guards face cuts under cost-saving plan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvw353/nuclear_waste_armed_guards_face_cuts_under/"
+    },
     {
       "date": "2026-10-02",
       "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
@@ -34,26 +49,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wuwgcu/the_us_just_approved_its_first_small_nuclear/"
     },
     {
-      "date": "2026-10-01",
-      "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wulgcb/constellation_amazon_sign_20year_power_deal_to/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Bill Gates-backed nuclear fusion firm inks 6200-mile reactor tape deal",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wukkse/bill_gatesbacked_nuclear_fusion_firm_inks/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "A 100-watt nuclear reactor went critical on Texas ranch land that held nothing but grass a year…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wuiyzc/a_100watt_nuclear_reactor_went_critical_on_texas/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wud1pl/chinese_commercial_reactor_achieves_nuclear/"
-    },
-    {
       "date": "2026-09-30",
       "title": "First commercial small modular reactor in America approved today. It’s going in Oak Ridge.",
       "url": "https://www.reddit.com/r/nuclear/comments/1wuaniv/first_commercial_small_modular_reactor_in_america/"
@@ -67,14 +62,24 @@
       "date": "2026-09-28",
       "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
       "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Nuclear Waste Accidentally Leaked at Pacific Coast Site",
-      "url": "https://americanbuildout.com/radioactive-material-from-dormant-nuclear-plant-accidentally-leaks-at-pacific-coast-utility-tells-nrc/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-02",
+      "title": "S. Korea races to commercialize multipurpose small modular reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvzf9l/s_korea_races_to_commercialize_multipurpose_small/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "California Governor signs AB 2647, ordering a state study of new nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvyi6m/california_governor_signs_ab_2647_ordering_a/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Nuclear waste armed guards face cuts under cost-saving plan",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wvw353/nuclear_waste_armed_guards_face_cuts_under/"
+    },
     {
       "date": "2026-10-02",
       "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
@@ -82,8 +87,8 @@
     }
   ],
   "latest_date": "2026-10-02",
-  "count_7d": 14,
-  "count_today": 1,
+  "count_7d": 12,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
