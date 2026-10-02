@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:26:58.005001+00:00",
+  "generated_at": "2026-10-02T14:03:57.138773+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -22,11 +22,6 @@
       "date": "2026-10-01",
       "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wv04fc/a_35foot_retired_nuclear_reactor_was_filled_with/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Can the SpaceX playbook work for nuclear power?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wuyuop/can_the_spacex_playbook_work_for_nuclear_power/"
     },
     {
       "date": "2026-10-01",
@@ -87,7 +82,7 @@
     }
   ],
   "latest_date": "2026-10-02",
-  "count_7d": 15,
+  "count_7d": 14,
   "count_today": 1,
   "has_error": false,
   "error": null,
