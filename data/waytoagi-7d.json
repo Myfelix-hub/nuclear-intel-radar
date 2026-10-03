@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-03T13:40:18.732997+00:00",
+  "generated_at": "2026-10-03T17:52:23.330717+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-03",
+      "title": "My irresponsible spending on nuclear memorabilia has hit a new low.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wwshzq/my_irresponsible_spending_on_nuclear_memorabilia/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Origin of anti-nuclear ad from Oil Heat Institute of Long Island?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wwrllu/origin_of_antinuclear_ad_from_oil_heat_institute/"
+    },
     {
       "date": "2026-10-02",
       "title": "S. Korea races to commercialize multipurpose small modular reactors",
@@ -35,23 +45,8 @@
     },
     {
       "date": "2026-10-01",
-      "title": "A 35-foot retired nuclear reactor was filled with its own dismantled parts and cut into three s…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wv04fc/a_35foot_retired_nuclear_reactor_was_filled_with/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "With federal funding windfall, X-energy advances small nuclear reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wuyr3c/with_federal_funding_windfall_xenergy_advances/"
-    },
-    {
-      "date": "2026-10-01",
       "title": "The US just approved its first small nuclear reactor built for the AI power crunch",
       "url": "https://www.reddit.com/r/nuclear/comments/1wuwgcu/the_us_just_approved_its_first_small_nuclear/"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
-      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
     },
     {
       "date": "2026-09-29",
@@ -66,29 +61,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-02",
-      "title": "S. Korea races to commercialize multipurpose small modular reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvzf9l/s_korea_races_to_commercialize_multipurpose_small/"
+      "date": "2026-10-03",
+      "title": "My irresponsible spending on nuclear memorabilia has hit a new low.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wwshzq/my_irresponsible_spending_on_nuclear_memorabilia/"
     },
     {
-      "date": "2026-10-02",
-      "title": "California Governor signs AB 2647, ordering a state study of new nuclear energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvyi6m/california_governor_signs_ab_2647_ordering_a/"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Nuclear waste armed guards face cuts under cost-saving plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvw353/nuclear_waste_armed_guards_face_cuts_under/"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvmg8x/a_startup_wants_to_build_a_massive_nuclearpowered/"
+      "date": "2026-10-03",
+      "title": "Origin of anti-nuclear ad from Oil Heat Institute of Long Island?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wwrllu/origin_of_antinuclear_ad_from_oil_heat_institute/"
     }
   ],
-  "latest_date": "2026-10-02",
-  "count_7d": 12,
-  "count_today": 4,
+  "latest_date": "2026-10-03",
+  "count_7d": 11,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null

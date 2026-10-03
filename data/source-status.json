@@ -1,8 +1,26 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
+      "ok": true,
+      "item_count": 5,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
@@ -19,8 +37,8 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
@@ -28,37 +46,19 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 10,
+      "item_count": 17,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
-      "warning": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
-      "warning": null
-    },
-    {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
-      "item_count": 17,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -145,6 +145,24 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
+    },
+    {
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
+      "warning": null
+    },
+    {
       "site_id": "ans_newswire",
       "site_name": "ANS Newswire",
       "ok": true,
@@ -154,19 +172,10 @@
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
-      "ok": true,
-      "item_count": 1,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "edf_nuclear",
       "site_name": "EDF",
       "ok": true,
-      "item_count": 5,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -199,22 +208,13 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "neutronbytes: RSS fetch failed — RetryError: HTTPSConnectionPool(host='neutronbytes.com', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error responses'))",
-      "warning": null
-    },
-    {
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 0,
+      "item_count": 150,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
+      "warning": null
     },
     {
       "site_id": "nei_magazine",
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 2979,
+      "duration_ms": 2925,
       "error": null,
       "warning": null
     },
@@ -302,22 +302,13 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 5482,
+      "duration_ms": 5985,
       "error": null,
       "warning": null
     }
   ],
-  "successful_sites": 27,
+  "successful_sites": 28,
   "failed_sites": [
-    {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
-      "warning": null
-    },
     {
       "site_id": "nucnet",
       "site_name": "NucNet",
@@ -328,12 +319,12 @@
       "warning": null
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "neutronbytes: RSS fetch failed — RetryError: HTTPSConnectionPool(host='neutronbytes.com', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error responses'))",
+      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
       "warning": null
     },
     {
@@ -373,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 129,
-  "items_before_topic_filter": 129,
+  "fetched_raw_items": 282,
+  "items_before_topic_filter": 282,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
