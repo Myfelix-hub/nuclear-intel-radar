@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-03T20:55:20.386982+00:00",
+  "generated_at": "2026-10-03T23:42:33.755795+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-03",
+      "title": "Zeke Hausfather, a respected climate scientist and academic, found that nuclear power has the l…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wwzvu6/zeke_hausfather_a_respected_climate_scientist_and/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Looking at nuclear jobs? Junior RP and decon are different starting routes",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wwx3dw/looking_at_nuclear_jobs_junior_rp_and_decon_are/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Criticality/Safety Internships transferring to Nuclear Power Production Postgrad",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wwvx04/criticalitysafety_internships_transferring_to/"
+    },
     {
       "date": "2026-10-03",
       "title": "My irresponsible spending on nuclear memorabilia has hit a new low.",
@@ -15,8 +30,18 @@
     },
     {
       "date": "2026-10-02",
+      "title": "Challenges to Nuclear shipping",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1ww44sm/challenges_to_nuclear_shipping/"
+    },
+    {
+      "date": "2026-10-02",
       "title": "S. Korea races to commercialize multipurpose small modular reactors",
       "url": "https://www.reddit.com/r/nuclear/comments/1wvzf9l/s_korea_races_to_commercialize_multipurpose_small/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "S. Korea races to commercialize multipurpose small modular reactors",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wvzevy/s_korea_races_to_commercialize_multipurpose_small/"
     },
     {
       "date": "2026-10-02",
@@ -31,7 +56,17 @@
     {
       "date": "2026-10-02",
       "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wvmglk/a_startup_wants_to_build_a_massive_nuclearpowered/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
       "url": "https://www.reddit.com/r/nuclear/comments/1wvmg8x/a_startup_wants_to_build_a_massive_nuclearpowered/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wvcv90/south_korea_to_build_8_nuclear_power_plants_in_us/"
     },
     {
       "date": "2026-10-01",
@@ -49,6 +84,11 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wuwgcu/the_us_just_approved_its_first_small_nuclear/"
     },
     {
+      "date": "2026-09-30",
+      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
+      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
+    },
+    {
       "date": "2026-09-29",
       "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
       "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
@@ -62,6 +102,21 @@
   "updates_today": [
     {
       "date": "2026-10-03",
+      "title": "Zeke Hausfather, a respected climate scientist and academic, found that nuclear power has the l…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wwzvu6/zeke_hausfather_a_respected_climate_scientist_and/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Looking at nuclear jobs? Junior RP and decon are different starting routes",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wwx3dw/looking_at_nuclear_jobs_junior_rp_and_decon_are/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Criticality/Safety Internships transferring to Nuclear Power Production Postgrad",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wwvx04/criticalitysafety_internships_transferring_to/"
+    },
+    {
+      "date": "2026-10-03",
       "title": "My irresponsible spending on nuclear memorabilia has hit a new low.",
       "url": "https://www.reddit.com/r/nuclear/comments/1wwshzq/my_irresponsible_spending_on_nuclear_memorabilia/"
     },
@@ -72,8 +127,8 @@
     }
   ],
   "latest_date": "2026-10-03",
-  "count_7d": 11,
-  "count_today": 2,
+  "count_7d": 19,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
