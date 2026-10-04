@@ -1,43 +1,13 @@
 {
-  "generated_at": "2026-10-03T23:42:33.755795+00:00",
+  "generated_at": "2026-10-04T05:30:04.559949+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-92676a3690abd8de",
+      "story_id": "story-c2ec47da51edeb9e",
       "title": "S. Korea races to commercialize multipurpose small modular reactors",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1wvzevy/s_korea_races_to_commercialize_multipurpose_small/",
-      "first_published_at": "2026-10-02T17:13:42+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 6.095329850015803
-    },
-    {
-      "story_id": "story-ee1dafa234d3a564",
-      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1wvcv90/south_korea_to_build_8_nuclear_power_plants_in_us/",
-      "first_published_at": "2026-10-01T22:11:50+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 4.063553233343869
-    },
-    {
-      "story_id": "story-c0456d613cab9808",
-      "title": "Criticality/Safety Internships transferring to Nuclear Power Production Postgrad",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1wwvx04/criticalitysafety_internships_transferring_to/",
-      "first_published_at": "2026-10-03T19:36:29+00:00",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wvzf9l/s_korea_races_to_commercialize_multipurpose_small/",
+      "first_published_at": "2026-10-02T17:14:05+00:00",
       "sources": [
         "reddit_nuclear"
       ],
@@ -45,7 +15,7 @@
       "nuclear_score": 0.6,
       "source_tier": "community",
       "source_tier_rank": 5,
-      "primary_section": "community",
+      "primary_section": "tech",
       "score": 3.5999999999999996
     },
     {
@@ -64,40 +34,10 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-36c32d0dcc9b31e2",
-      "title": "The US just approved its first small nuclear reactor built for the AI power crunch",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wuwgcu/the_us_just_approved_its_first_small_nuclear/",
-      "first_published_at": "2026-10-01T11:01:11+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "policy",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-d7d3059305368e44",
-      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1wvmglk/a_startup_wants_to_build_a_massive_nuclearpowered/",
-      "first_published_at": "2026-10-02T06:20:31+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "newbuild",
-      "score": 3.0476649250079015
-    },
-    {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-03T23:42:33.755795+00:00",
+      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
       "sources": [
         "oklo"
       ],
@@ -112,7 +52,7 @@
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-10-03T23:42:33.755795+00:00",
+      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
       "sources": [
         "oklo"
       ],
@@ -127,7 +67,7 @@
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-10-03T23:42:33.755795+00:00",
+      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
       "sources": [
         "kairos"
       ],
@@ -152,6 +92,66 @@
       "source_tier_rank": 5,
       "primary_section": "research",
       "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-efdc2e121d92ef04",
+      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wvcuw5/south_korea_to_build_8_nuclear_power_plants_in_us/",
+      "first_published_at": "2026-10-01T22:11:50+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-ec275d024c79f1bd",
+      "title": "中核集团人事密集调整！涉及江苏核电等！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
+      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "china",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-6dc9add4ab243f52",
+      "title": "这家核电机组FCD！",
+      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
+      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
+      "sources": [
+        "nuclear_net_cn"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.4
+    },
+    {
+      "story_id": "story-8144db9fba2f39b2",
+      "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
+      "representative_url": "https://oklo.com/newsroom/oklo-receives-u-s-department-of-energy-startup-authorization-for-groves-reactor-clearing-way-for",
+      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
+      "sources": [
+        "oklo"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "newbuild",
+      "score": 2.0999999999999996
     }
   ]
 }
