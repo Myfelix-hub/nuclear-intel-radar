@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:30:04.559949+00:00",
+  "generated_at": "2026-10-04T11:15:33.684446+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -54,11 +54,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wvaiel/usa_south_korea_targeting_six_ap1000_and_two/"
     },
     {
-      "date": "2026-09-30",
-      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
-      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
-    },
-    {
       "date": "2026-09-29",
       "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
       "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
@@ -82,7 +77,7 @@
     }
   ],
   "latest_date": "2026-10-04",
-  "count_7d": 13,
+  "count_7d": 12,
   "count_today": 2,
   "has_error": false,
   "error": null,

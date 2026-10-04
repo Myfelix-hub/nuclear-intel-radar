@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-10-04T05:30:04.559949+00:00",
+  "generated_at": "2026-10-04T11:15:33.684446+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-408802150085428d",
+      "title": "Chinese Commercial Reactor Achieves Nuclear Fusion with Clean Hydrogen-Boron Fuel",
+      "representative_url": "https://www.scmp.com/news/china/science/article/3369086/chinese-commercial-reactor-achieves-nuclear-fusion-clean-hydrogen-boron-fuel",
+      "first_published_at": "2026-10-04T11:15:33.684446+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.0,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "safety",
+      "score": 4.0
+    },
+    {
+      "story_id": "story-ab3da1d497fd64e8",
+      "title": "General Matter Submits NRC License Application for Kentucky Uranium Enrichment Facility",
+      "representative_url": "https://world-nuclear-news.org/articles/general-matter-submits-enrichment-plant-licence-application",
+      "first_published_at": "2026-10-04T11:15:33.684446+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-0b78e38e64751ee6",
+      "title": "Former U.S. NRC Commissioner and U.S. DOE Nuclear Chief William D. Magwood, IV to Join newcleo’…",
+      "representative_url": "https://www.globenewswire.com/news-release/2026/09/30/3372016/0/en/former-u-s-nrc-commissioner-and-u-s-doe-nuclear-chief-william-d-magwood-iv-to-join-newcleo-s-board-of-directors-in-january-2027.html",
+      "first_published_at": "2026-10-04T11:15:33.684446+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-894530284a1d4c2b",
+      "title": "Advanced Reactor Construction Permit Issued for Clinch River Nuclear Site",
+      "representative_url": "https://www.knoxnews.com/picture-gallery/news/local/tennessee/2026/09/29/u-s-nuclear-regulatory-commission-nrc-will-issue-the-nations-second-advanced-reactor-construction-pe/92008198007/",
+      "first_published_at": "2026-10-04T11:15:33.684446+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-bf0e883d24ec8757",
+      "title": "NRC Approves Construction of Nation’s First Small Modular Reactor in Tennessee",
+      "representative_url": "https://www.nrc.gov/about-nrc/news-releases/2026/26-079",
+      "first_published_at": "2026-10-04T11:15:33.684446+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-f68324b4ef92935d",
+      "title": "TVA First U.S. Utility to Receive Construction Permit for BWRX-300 Advanced Nuclear Reactor",
+      "representative_url": "https://www.prnewswire.com/news-releases/tva-first-us-utility-to-receive-construction-permit-for-bwrx-300-advanced-nuclear-reactor-302893324.html",
+      "first_published_at": "2026-10-04T11:15:33.684446+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
+    },
     {
       "story_id": "story-c2ec47da51edeb9e",
       "title": "S. Korea races to commercialize multipurpose small modular reactors",
@@ -37,7 +127,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
+      "first_published_at": "2026-10-04T11:15:33.684446+00:00",
       "sources": [
         "oklo"
       ],
@@ -49,109 +139,19 @@
       "score": 3.0
     },
     {
-      "story_id": "story-4eb0bc894c8c487d",
-      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
-      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
+      "story_id": "story-448e8a887901c619",
+      "title": "Energy Firms Advance US Nuclear Reactor Technology for Heavy Industry Operations",
+      "representative_url": "https://interestingengineering.com/energy/energy-firms-advance-us-nuclear-reactor",
+      "first_published_at": "2026-10-04T11:15:33.684446+00:00",
       "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "hot",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-e8d9b69bff65b6d5",
-      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
-      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-fd700905ba36f624",
-      "title": "California Governor signs AB 2647, ordering a state study of new nuclear energy",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wvyi6m/california_governor_signs_ab_2647_ordering_a/",
-      "first_published_at": "2026-10-02T16:37:15+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "research",
-      "score": 2.4000000000000004
-    },
-    {
-      "story_id": "story-efdc2e121d92ef04",
-      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wvcuw5/south_korea_to_build_8_nuclear_power_plants_in_us/",
-      "first_published_at": "2026-10-01T22:11:50+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 2.4000000000000004
-    },
-    {
-      "story_id": "story-ec275d024c79f1bd",
-      "title": "中核集团人事密集调整！涉及江苏核电等！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "china",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-6dc9add4ab243f52",
-      "title": "这家核电机组FCD！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17554",
-      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 2.4
-    },
-    {
-      "story_id": "story-8144db9fba2f39b2",
-      "title": "Oklo Receives U.S. Department of Energy Startup Authorization for Groves Reactor, Clearing Way …",
-      "representative_url": "https://oklo.com/newsroom/oklo-receives-u-s-department-of-energy-startup-authorization-for-groves-reactor-clearing-way-for",
-      "first_published_at": "2026-10-04T05:30:04.559949+00:00",
-      "sources": [
-        "oklo"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
       "nuclear_score": 0.7,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "newbuild",
-      "score": 2.0999999999999996
+      "score": 2.8
     }
   ]
 }
