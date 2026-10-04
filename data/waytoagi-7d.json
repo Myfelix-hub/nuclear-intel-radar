@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-04T11:15:33.684446+00:00",
+  "generated_at": "2026-10-04T15:57:24.639589+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-04",
+      "title": "Poland updates nuclear strategy with delays to launch of first two plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wxiodj/poland_updates_nuclear_strategy_with_delays_to/"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
+      "url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Could A Michigan Nuclear Plant Failure Become The Midterms’ October Surprise",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wxfzdj/could_a_michigan_nuclear_plant_failure_become_the/"
+    },
     {
       "date": "2026-10-04",
       "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
@@ -39,19 +54,14 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wvw353/nuclear_waste_armed_guards_face_cuts_under/"
     },
     {
-      "date": "2026-10-02",
-      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvmg8x/a_startup_wants_to_build_a_massive_nuclearpowered/"
-    },
-    {
       "date": "2026-10-01",
       "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
       "url": "https://www.reddit.com/r/nuclear/comments/1wvcuw5/south_korea_to_build_8_nuclear_power_plants_in_us/"
     },
     {
-      "date": "2026-10-01",
-      "title": "USA, South Korea targeting six AP1000 and two APR1400 units",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvaiel/usa_south_korea_targeting_six_ap1000_and_two/"
+      "date": "2026-09-30",
+      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
+      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
     },
     {
       "date": "2026-09-29",
@@ -67,6 +77,21 @@
   "updates_today": [
     {
       "date": "2026-10-04",
+      "title": "Poland updates nuclear strategy with delays to launch of first two plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wxiodj/poland_updates_nuclear_strategy_with_delays_to/"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
+      "url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Could A Michigan Nuclear Plant Failure Become The Midterms’ October Surprise",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wxfzdj/could_a_michigan_nuclear_plant_failure_become_the/"
+    },
+    {
+      "date": "2026-10-04",
       "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
       "url": "https://www.reddit.com/r/nuclear/comments/1wx7dgx/us_to_lend_42_billion_to_vistra_to_boost_nuclear/"
     },
@@ -77,8 +102,8 @@
     }
   ],
   "latest_date": "2026-10-04",
-  "count_7d": 12,
-  "count_today": 2,
+  "count_7d": 14,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
