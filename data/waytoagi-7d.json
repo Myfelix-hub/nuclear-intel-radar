@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-04T15:57:24.639589+00:00",
+  "generated_at": "2026-10-04T19:31:25.258293+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-04",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "The U.S. Is Racing to Put a Nuclear Reactor on the Moon by 2030",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wxk74o/the_us_is_racing_to_put_a_nuclear_reactor_on_the/"
+    },
     {
       "date": "2026-10-04",
       "title": "Poland updates nuclear strategy with delays to launch of first two plants",
@@ -49,16 +59,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wvyi6m/california_governor_signs_ab_2647_ordering_a/"
     },
     {
-      "date": "2026-10-02",
-      "title": "Nuclear waste armed guards face cuts under cost-saving plan",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvw353/nuclear_waste_armed_guards_face_cuts_under/"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wvcuw5/south_korea_to_build_8_nuclear_power_plants_in_us/"
-    },
-    {
       "date": "2026-09-30",
       "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
       "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
@@ -75,6 +75,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-04",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "The U.S. Is Racing to Put a Nuclear Reactor on the Moon by 2030",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wxk74o/the_us_is_racing_to_put_a_nuclear_reactor_on_the/"
+    },
     {
       "date": "2026-10-04",
       "title": "Poland updates nuclear strategy with delays to launch of first two plants",
@@ -103,7 +113,7 @@
   ],
   "latest_date": "2026-10-04",
   "count_7d": 14,
-  "count_today": 5,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null

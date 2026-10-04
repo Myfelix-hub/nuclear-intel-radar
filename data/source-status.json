@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
       "site_id": "neutronbytes",
       "site_name": "Neutron Bytes",
       "ok": true,
@@ -17,24 +8,6 @@
       "duration_ms": 0,
       "error": null,
       "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "powermag",
@@ -46,6 +19,33 @@
       "warning": null
     },
     {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
       "site_id": "nucnet",
       "site_name": "NucNet",
       "ok": false,
@@ -55,12 +55,12 @@
       "warning": null
     },
     {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
-      "ok": false,
-      "item_count": 0,
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 17,
       "duration_ms": 0,
-      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
+      "error": null,
       "warning": null
     },
     {
@@ -145,6 +145,15 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "doe_ne",
       "site_name": "US DOE Nuclear Energy",
       "ok": true,
@@ -154,21 +163,12 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 17,
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
+      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
       "warning": null
     },
     {
@@ -292,8 +292,8 @@
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
-      "item_count": 4,
-      "duration_ms": 2884,
+      "item_count": 5,
+      "duration_ms": 3183,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 5561,
+      "item_count": 9,
+      "duration_ms": 5586,
       "error": null,
       "warning": null
     }
