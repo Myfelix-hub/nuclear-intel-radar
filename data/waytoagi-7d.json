@@ -1,17 +1,22 @@
 {
-  "generated_at": "2026-10-04T22:57:38.572952+00:00",
+  "generated_at": "2026-10-05T01:49:38.661938+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wxpmou/superpowers_race_to_put_nuclear_reactors_on_the/"
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "A 595-foot ship that sailed 450,000 nautical miles on 163 pounds of uranium is running out of t…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wxv3wv/a_595foot_ship_that_sailed_450000_nautical_miles/"
     },
     {
       "date": "2026-10-04",
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
+      "url": "https://www.reddit.com/r/nuclear/comments/1wxpmou/superpowers_race_to_put_nuclear_reactors_on_the/"
     },
     {
       "date": "2026-10-04",
@@ -59,6 +64,11 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wvyi6m/california_governor_signs_ab_2647_ordering_a/"
     },
     {
+      "date": "2026-09-30",
+      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
+      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
+    },
+    {
       "date": "2026-09-29",
       "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
       "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
@@ -71,49 +81,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-04",
-      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wxpmou/superpowers_race_to_put_nuclear_reactors_on_the/"
-    },
-    {
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
       "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
     },
     {
-      "date": "2026-10-04",
-      "title": "The U.S. Is Racing to Put a Nuclear Reactor on the Moon by 2030",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wxk74o/the_us_is_racing_to_put_a_nuclear_reactor_on_the/"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Poland updates nuclear strategy with delays to launch of first two plants",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wxiodj/poland_updates_nuclear_strategy_with_delays_to/"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
-      "url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Could A Michigan Nuclear Plant Failure Become The Midterms’ October Surprise",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wxfzdj/could_a_michigan_nuclear_plant_failure_become_the/"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wx7dgx/us_to_lend_42_billion_to_vistra_to_boost_nuclear/"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Zeke Hausfather, a respected climate scientist and academic, found that nuclear power has the l…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wx2sae/zeke_hausfather_a_respected_climate_scientist_and/"
+      "date": "2026-10-05",
+      "title": "A 595-foot ship that sailed 450,000 nautical miles on 163 pounds of uranium is running out of t…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wxv3wv/a_595foot_ship_that_sailed_450000_nautical_miles/"
     }
   ],
-  "latest_date": "2026-10-04",
-  "count_7d": 13,
-  "count_today": 8,
+  "latest_date": "2026-10-05",
+  "count_7d": 15,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
