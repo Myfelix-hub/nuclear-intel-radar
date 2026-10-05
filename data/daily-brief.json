@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:47:34.192453+00:00",
+  "generated_at": "2026-10-05T18:15:17.481724+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -9,36 +9,21 @@
       "representative_url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
       "first_published_at": "2026-10-04T20:24:51+00:00",
       "sources": [
-        "hn_nuclear",
+        "nucleartownhall",
         "reddit_nuclear"
       ],
       "duplicate_count": 2,
       "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 6.095329850015803
-    },
-    {
-      "story_id": "story-408802150085428d",
-      "title": "Chinese Commercial Reactor Achieves Nuclear Fusion with Clean Hydrogen-Boron Fuel",
-      "representative_url": "https://www.scmp.com/news/china/science/article/3369086/chinese-commercial-reactor-achieves-nuclear-fusion-clean-hydrogen-boron-fuel",
-      "first_published_at": "2026-10-05T08:47:34.192453+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "safety",
-      "score": 4.0
+      "primary_section": "community",
+      "score": 4.063553233343868
     },
     {
-      "story_id": "story-ab3da1d497fd64e8",
-      "title": "General Matter Submits NRC License Application for Kentucky Uranium Enrichment Facility",
-      "representative_url": "https://world-nuclear-news.org/articles/general-matter-submits-enrichment-plant-licence-application",
-      "first_published_at": "2026-10-05T08:47:34.192453+00:00",
+      "story_id": "story-2d27d658699a8b09",
+      "title": "Heat-Only Method Makes Critical Alloys Tougher for Nuclear Fusion Reactors and Jet Engines",
+      "representative_url": "https://interestingengineering.com/energy/heat-only-method-makes-critical-alloys-tougher-for-nuclear-fusion-reactors-and-jet-engines",
+      "first_published_at": "2026-10-05T18:15:17.481724+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -46,14 +31,14 @@
       "nuclear_score": 0.9,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "policy",
+      "primary_section": "safety",
       "score": 3.6
     },
     {
       "story_id": "story-0b78e38e64751ee6",
       "title": "Former U.S. NRC Commissioner and U.S. DOE Nuclear Chief William D. Magwood, IV to Join newcleo’…",
       "representative_url": "https://www.globenewswire.com/news-release/2026/09/30/3372016/0/en/former-u-s-nrc-commissioner-and-u-s-doe-nuclear-chief-william-d-magwood-iv-to-join-newcleo-s-board-of-directors-in-january-2027.html",
-      "first_published_at": "2026-10-05T08:47:34.192453+00:00",
+      "first_published_at": "2026-10-05T18:15:17.481724+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -68,37 +53,7 @@
       "story_id": "story-894530284a1d4c2b",
       "title": "Advanced Reactor Construction Permit Issued for Clinch River Nuclear Site",
       "representative_url": "https://www.knoxnews.com/picture-gallery/news/local/tennessee/2026/09/29/u-s-nuclear-regulatory-commission-nrc-will-issue-the-nations-second-advanced-reactor-construction-pe/92008198007/",
-      "first_published_at": "2026-10-05T08:47:34.192453+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-bf0e883d24ec8757",
-      "title": "NRC Approves Construction of Nation’s First Small Modular Reactor in Tennessee",
-      "representative_url": "https://www.nrc.gov/about-nrc/news-releases/2026/26-079",
-      "first_published_at": "2026-10-05T08:47:34.192453+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-f68324b4ef92935d",
-      "title": "TVA First U.S. Utility to Receive Construction Permit for BWRX-300 Advanced Nuclear Reactor",
-      "representative_url": "https://www.prnewswire.com/news-releases/tva-first-us-utility-to-receive-construction-permit-for-bwrx-300-advanced-nuclear-reactor-302893324.html",
-      "first_published_at": "2026-10-05T08:47:34.192453+00:00",
+      "first_published_at": "2026-10-05T18:15:17.481724+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -143,7 +98,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-05T08:47:34.192453+00:00",
+      "first_published_at": "2026-10-05T18:15:17.481724+00:00",
       "sources": [
         "oklo"
       ],
@@ -153,6 +108,51 @@
       "source_tier_rank": 2,
       "primary_section": "tech",
       "score": 3.0
+    },
+    {
+      "story_id": "story-86675d79cdea0d34",
+      "title": "EDF Energy Transfers Hinkley Point B to Nuclear Decommissioning Authority",
+      "representative_url": "https://world-nuclear-news.org/articles/hinkley-pointb-second-agr-transferred-for-decommissioning",
+      "first_published_at": "2026-10-05T18:15:17.481724+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.8
+    },
+    {
+      "story_id": "story-f4d1844b3044b7ab",
+      "title": "Inter-American Development Bank, IAEA Sign Pact on Nuclear Energy",
+      "representative_url": "https://world-nuclear-news.org/articles/inter-american-development-bank-and-iaea-nuclear-energy-mou",
+      "first_published_at": "2026-10-05T18:15:17.481724+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 2.8
+    },
+    {
+      "story_id": "story-8407c78b4272711c",
+      "title": "Japan’s Fusion Energy Startup to Begin Power-On Tests at Pilot Reactor in 2027",
+      "representative_url": "https://www.reuters.com/world/asia-pacific/japans-fusion-energy-startup-begin-power-on-tests-pilot-reactor-2027-2026-09-29/",
+      "first_published_at": "2026-10-05T18:15:17.481724+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.8
     }
   ]
 }

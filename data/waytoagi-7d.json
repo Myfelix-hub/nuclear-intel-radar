@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-05T08:47:34.192453+00:00",
+  "generated_at": "2026-10-05T18:15:17.481724+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-05",
+      "title": "Italy's Senate approves a return to nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wyaqi1/italys_senate_approves_a_return_to_nuclear_power/"
+    },
     {
       "date": "2026-10-05",
       "title": "Mayor pushing for spent nuclear-fuel facility reelected in Yamaguchi",
@@ -12,11 +17,6 @@
       "date": "2026-10-05",
       "title": "Green Party abandons opposition to nuclear power",
       "url": "https://www.reddit.com/r/nuclear/comments/1wxxko1/green_party_abandons_opposition_to_nuclear_power/"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
     },
     {
       "date": "2026-10-05",
@@ -45,11 +45,6 @@
     },
     {
       "date": "2026-10-04",
-      "title": "Could A Michigan Nuclear Plant Failure Become The Midterms’ October Surprise",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wxfzdj/could_a_michigan_nuclear_plant_failure_become_the/"
-    },
-    {
-      "date": "2026-10-04",
       "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
       "url": "https://www.reddit.com/r/nuclear/comments/1wx7dgx/us_to_lend_42_billion_to_vistra_to_boost_nuclear/"
     },
@@ -69,6 +64,11 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wwrllu/origin_of_antinuclear_ad_from_oil_heat_institute/"
     },
     {
+      "date": "2026-09-30",
+      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
+      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
+    },
+    {
       "date": "2026-09-29",
       "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
       "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
@@ -82,6 +82,11 @@
   "updates_today": [
     {
       "date": "2026-10-05",
+      "title": "Italy's Senate approves a return to nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wyaqi1/italys_senate_approves_a_return_to_nuclear_power/"
+    },
+    {
+      "date": "2026-10-05",
       "title": "Mayor pushing for spent nuclear-fuel facility reelected in Yamaguchi",
       "url": "https://www.reddit.com/r/nuclear/comments/1wy1l4r/mayor_pushing_for_spent_nuclearfuel_facility/"
     },
@@ -89,11 +94,6 @@
       "date": "2026-10-05",
       "title": "Green Party abandons opposition to nuclear power",
       "url": "https://www.reddit.com/r/nuclear/comments/1wxxko1/green_party_abandons_opposition_to_nuclear_power/"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
     },
     {
       "date": "2026-10-05",
