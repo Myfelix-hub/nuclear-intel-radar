@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:45:45.477713+00:00",
+  "generated_at": "2026-10-06T23:42:53.660239+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -64,11 +64,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wyaqi1/italys_senate_approves_a_return_to_nuclear_power/"
     },
     {
-      "date": "2026-10-05",
-      "title": "Green Party abandons opposition to nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wxxko1/green_party_abandons_opposition_to_nuclear_power/"
-    },
-    {
       "date": "2026-10-04",
       "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
       "url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3"
@@ -77,11 +72,6 @@
       "date": "2026-09-30",
       "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
       "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-      "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
     }
   ],
   "updates_today": [
@@ -132,7 +122,7 @@
     }
   ],
   "latest_date": "2026-10-06",
-  "count_7d": 16,
+  "count_7d": 14,
   "count_today": 9,
   "has_error": false,
   "error": null,
