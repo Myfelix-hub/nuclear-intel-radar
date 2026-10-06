@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-05T18:15:17.481724+00:00",
+  "generated_at": "2026-10-06T00:16:05.335865+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-05",
+      "title": "Green party drops longstanding opposition to nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wylq3l/green_party_drops_longstanding_opposition_to/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Vistra's reported $4.2 billion nuclear loan is bigger than the $3.1 billion in cash it paid to …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wyh38t/vistras_reported_42_billion_nuclear_loan_is/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "France grew its reactor fleet from 15 to 55 units in the 1980s, building each in about six year…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wygvll/france_grew_its_reactor_fleet_from_15_to_55_units/"
+    },
     {
       "date": "2026-10-05",
       "title": "Italy's Senate approves a return to nuclear power",
@@ -44,26 +59,6 @@
       "url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3"
     },
     {
-      "date": "2026-10-04",
-      "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wx7dgx/us_to_lend_42_billion_to_vistra_to_boost_nuclear/"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Zeke Hausfather, a respected climate scientist and academic, found that nuclear power has the l…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wx2sae/zeke_hausfather_a_respected_climate_scientist_and/"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "My irresponsible spending on nuclear memorabilia has hit a new low.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wwshzq/my_irresponsible_spending_on_nuclear_memorabilia/"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Origin of anti-nuclear ad from Oil Heat Institute of Long Island?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wwrllu/origin_of_antinuclear_ad_from_oil_heat_institute/"
-    },
-    {
       "date": "2026-09-30",
       "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
       "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
@@ -72,14 +67,24 @@
       "date": "2026-09-29",
       "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
       "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
-      "url": "https://www.newyorker.com/tech/annals-of-technology/remembering-chicago-pile-worlds-first-nuclear-reactor"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-05",
+      "title": "Green party drops longstanding opposition to nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wylq3l/green_party_drops_longstanding_opposition_to/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Vistra's reported $4.2 billion nuclear loan is bigger than the $3.1 billion in cash it paid to …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wyh38t/vistras_reported_42_billion_nuclear_loan_is/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "France grew its reactor fleet from 15 to 55 units in the 1980s, building each in about six year…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wygvll/france_grew_its_reactor_fleet_from_15_to_55_units/"
+    },
     {
       "date": "2026-10-05",
       "title": "Italy's Senate approves a return to nuclear power",
@@ -102,8 +107,8 @@
     }
   ],
   "latest_date": "2026-10-05",
-  "count_7d": 15,
-  "count_today": 4,
+  "count_7d": 13,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
