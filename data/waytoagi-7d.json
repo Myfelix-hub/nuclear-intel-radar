@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-06T06:46:42.283061+00:00",
+  "generated_at": "2026-10-06T14:05:33.149468+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-06",
+      "title": "World’s largest fusion reactor gets final 485-ton vacuum vessel sector",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wz3451/worlds_largest_fusion_reactor_gets_final_485ton/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Google signs 20-year nuclear deal with Constellation Energy to power AI build-out",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wz33ai/google_signs_20year_nuclear_deal_with/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "I’m afraid of sounding repetitive, but does anyone know if the fusion reactor in France has bee…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wyvvdw/im_afraid_of_sounding_repetitive_but_does_anyone/"
+    },
     {
       "date": "2026-10-06",
       "title": "Google reportedly nearing $1B+ nuclear power deal as AI demand drives hyperscaler nuclear race",
@@ -20,6 +35,11 @@
     },
     {
       "date": "2026-10-05",
+      "title": "US nuclear construction flattened after 1990",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wyh3bj/us_nuclear_construction_flattened_after_1990/"
+    },
+    {
+      "date": "2026-10-05",
       "title": "Vistra's reported $4.2 billion nuclear loan is bigger than the $3.1 billion in cash it paid to …",
       "url": "https://www.reddit.com/r/nuclear/comments/1wyh38t/vistras_reported_42_billion_nuclear_loan_is/"
     },
@@ -27,6 +47,26 @@
       "date": "2026-10-05",
       "title": "France grew its reactor fleet from 15 to 55 units in the 1980s, building each in about six year…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wygvll/france_grew_its_reactor_fleet_from_15_to_55_units/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Sci-fi author asking about Nuclear Plant night shifts.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wygk5u/scifi_author_asking_about_nuclear_plant_night/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Trying to find a job in nuclear with my degree UK",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wyfktg/trying_to_find_a_job_in_nuclear_with_my_degree_uk/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Public’s opinion on nuclear fusion survey",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wycnck/publics_opinion_on_nuclear_fusion_survey/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "SEU Student report over nuclear fallout of the 70´s",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wybmaf/seu_student_report_over_nuclear_fallout_of_the_70s/"
     },
     {
       "date": "2026-10-05",
@@ -50,13 +90,8 @@
     },
     {
       "date": "2026-10-04",
-      "title": "The U.S. Is Racing to Put a Nuclear Reactor on the Moon by 2030",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wxk74o/the_us_is_racing_to_put_a_nuclear_reactor_on_the/"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Poland updates nuclear strategy with delays to launch of first two plants",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wxiodj/poland_updates_nuclear_strategy_with_delays_to/"
+      "title": "Attempting to get a job in nuclear, having issues with Westinghouse Nuclear, unsure what to do.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wxsrus/attempting_to_get_a_job_in_nuclear_having_issues/"
     },
     {
       "date": "2026-10-04",
@@ -77,6 +112,21 @@
   "updates_today": [
     {
       "date": "2026-10-06",
+      "title": "World’s largest fusion reactor gets final 485-ton vacuum vessel sector",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wz3451/worlds_largest_fusion_reactor_gets_final_485ton/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Google signs 20-year nuclear deal with Constellation Energy to power AI build-out",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wz33ai/google_signs_20year_nuclear_deal_with/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "I’m afraid of sounding repetitive, but does anyone know if the fusion reactor in France has bee…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1wyvvdw/im_afraid_of_sounding_repetitive_but_does_anyone/"
+    },
+    {
+      "date": "2026-10-06",
       "title": "Google reportedly nearing $1B+ nuclear power deal as AI demand drives hyperscaler nuclear race",
       "url": "https://www.reddit.com/r/nuclear/comments/1wyv0br/google_reportedly_nearing_1b_nuclear_power_deal/"
     },
@@ -87,8 +137,8 @@
     }
   ],
   "latest_date": "2026-10-06",
-  "count_7d": 14,
-  "count_today": 2,
+  "count_7d": 21,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
