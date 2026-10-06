@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:05:33.149468+00:00",
+  "generated_at": "2026-10-06T19:45:45.477713+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -7,7 +7,7 @@
       "story_id": "story-0025afd0a642ca4b",
       "title": "Everyone’s Watching Oklo and NuScale for Nuclear Exposure. This Company Actually Fuels Them.",
       "representative_url": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-145701254.html",
-      "first_published_at": "2026-10-06T14:05:33.149468+00:00",
+      "first_published_at": "2026-10-06T19:45:45.477713+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -22,7 +22,7 @@
       "story_id": "story-2d27d658699a8b09",
       "title": "Heat-Only Method Makes Critical Alloys Tougher for Nuclear Fusion Reactors and Jet Engines",
       "representative_url": "https://interestingengineering.com/energy/heat-only-method-makes-critical-alloys-tougher-for-nuclear-fusion-reactors-and-jet-engines",
-      "first_published_at": "2026-10-06T14:05:33.149468+00:00",
+      "first_published_at": "2026-10-06T19:45:45.477713+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -37,7 +37,7 @@
       "story_id": "story-0b78e38e64751ee6",
       "title": "Former U.S. NRC Commissioner and U.S. DOE Nuclear Chief William D. Magwood, IV to Join newcleo’…",
       "representative_url": "https://www.globenewswire.com/news-release/2026/09/30/3372016/0/en/former-u-s-nrc-commissioner-and-u-s-doe-nuclear-chief-william-d-magwood-iv-to-join-newcleo-s-board-of-directors-in-january-2027.html",
-      "first_published_at": "2026-10-06T14:05:33.149468+00:00",
+      "first_published_at": "2026-10-06T19:45:45.477713+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -49,10 +49,10 @@
       "score": 3.6
     },
     {
-      "story_id": "story-d534b4552f33dde1",
-      "title": "World’s largest fusion reactor gets final 485-ton vacuum vessel sector",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wz3451/worlds_largest_fusion_reactor_gets_final_485ton/",
-      "first_published_at": "2026-10-06T13:50:05+00:00",
+      "story_id": "story-645e0d9b508daf0a",
+      "title": "Africa’s largest uranium producer could soon hand Russia a major foothold in its nuclear ambiti…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wzac5n/africas_largest_uranium_producer_could_soon_hand/",
+      "first_published_at": "2026-10-06T18:32:29+00:00",
       "sources": [
         "reddit_nuclear"
       ],
@@ -60,14 +60,14 @@
       "nuclear_score": 0.6,
       "source_tier": "community",
       "source_tier_rank": 5,
-      "primary_section": "tech",
+      "primary_section": "fuel",
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-70bc068506f6070d",
-      "title": "I’m afraid of sounding repetitive, but does anyone know if the fusion reactor in France has bee…",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1wyvvdw/im_afraid_of_sounding_repetitive_but_does_anyone/",
-      "first_published_at": "2026-10-06T06:54:24+00:00",
+      "story_id": "story-d534b4552f33dde1",
+      "title": "World’s largest fusion reactor gets final 485-ton vacuum vessel sector",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wz3451/worlds_largest_fusion_reactor_gets_final_485ton/",
+      "first_published_at": "2026-10-06T13:50:05+00:00",
       "sources": [
         "reddit_nuclear"
       ],
@@ -94,21 +94,6 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-bd3a985963506abb",
-      "title": "Public’s opinion on nuclear fusion survey",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1wycnck/publics_opinion_on_nuclear_fusion_survey/",
-      "first_published_at": "2026-10-05T16:12:08+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.5999999999999996
-    },
-    {
       "story_id": "story-dc05064dda8d3e2a",
       "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
       "representative_url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3",
@@ -127,7 +112,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-06T14:05:33.149468+00:00",
+      "first_published_at": "2026-10-06T19:45:45.477713+00:00",
       "sources": [
         "oklo"
       ],
@@ -152,6 +137,21 @@
       "source_tier_rank": 4,
       "primary_section": "safety",
       "score": 3.0
+    },
+    {
+      "story_id": "story-86675d79cdea0d34",
+      "title": "EDF Energy Transfers Hinkley Point B to Nuclear Decommissioning Authority",
+      "representative_url": "https://world-nuclear-news.org/articles/hinkley-pointb-second-agr-transferred-for-decommissioning",
+      "first_published_at": "2026-10-06T19:45:45.477713+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.8
     }
   ]
 }

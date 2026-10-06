@@ -1,28 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": true,
-      "item_count": 5,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "powermag",
       "site_name": "POWER Magazine",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -37,10 +19,19 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 16,
+      "item_count": 5,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -55,8 +46,17 @@
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 16,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
       "ok": true,
       "item_count": 20,
       "duration_ms": 0,
@@ -154,21 +154,21 @@
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
-      "ok": true,
-      "item_count": 2,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "nucnet",
       "site_name": "NucNet",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
       "error": "nucnet: both direct RSS and Jina fallback failed — RSS: RuntimeError: nucnet: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nucnet.org/feed.rss | Jina: RuntimeError: n",
+      "warning": null
+    },
+    {
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
+      "ok": true,
+      "item_count": 1,
+      "duration_ms": 0,
+      "error": null,
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 2952,
+      "duration_ms": 3040,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 18,
-      "duration_ms": 1609,
+      "item_count": 13,
+      "duration_ms": 5814,
       "error": null,
       "warning": null
     }
@@ -364,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 340,
-  "items_before_topic_filter": 340,
+  "fetched_raw_items": 334,
+  "items_before_topic_filter": 334,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
