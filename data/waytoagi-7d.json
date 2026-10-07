@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:28:15.283244+00:00",
+  "generated_at": "2026-10-07T23:45:36.645191+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -40,11 +40,6 @@
     },
     {
       "date": "2026-10-06",
-      "title": "World’s largest fusion reactor gets final 485-ton vacuum vessel sector",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz3451/worlds_largest_fusion_reactor_gets_final_485ton/"
-    },
-    {
-      "date": "2026-10-06",
       "title": "Google signs 20-year nuclear deal with Constellation Energy to power AI build-out",
       "url": "https://www.reddit.com/r/nuclear/comments/1wz33ai/google_signs_20year_nuclear_deal_with/"
     },
@@ -72,7 +67,7 @@
     }
   ],
   "latest_date": "2026-10-07",
-  "count_7d": 11,
+  "count_7d": 10,
   "count_today": 2,
   "has_error": false,
   "error": null,
