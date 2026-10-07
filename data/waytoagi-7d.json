@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:42:53.660239+00:00",
+  "generated_at": "2026-10-07T05:32:38.709635+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -67,11 +67,6 @@
       "date": "2026-10-04",
       "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
       "url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "A New Type of Small Nuclear Reactor Gets the Green Light in Tennessee",
-      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html"
     }
   ],
   "updates_today": [
@@ -122,7 +117,7 @@
     }
   ],
   "latest_date": "2026-10-06",
-  "count_7d": 14,
+  "count_7d": 13,
   "count_today": 9,
   "has_error": false,
   "error": null,
