@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:06:17.210920+00:00",
+  "generated_at": "2026-10-07T19:28:15.283244+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -23,7 +23,7 @@
       "story_id": "story-0025afd0a642ca4b",
       "title": "Everyone’s Watching Oklo and NuScale for Nuclear Exposure. This Company Actually Fuels Them.",
       "representative_url": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-145701254.html",
-      "first_published_at": "2026-10-07T13:06:17.210920+00:00",
+      "first_published_at": "2026-10-07T19:28:15.283244+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -38,7 +38,7 @@
       "story_id": "story-2d27d658699a8b09",
       "title": "Heat-Only Method Makes Critical Alloys Tougher for Nuclear Fusion Reactors and Jet Engines",
       "representative_url": "https://interestingengineering.com/energy/heat-only-method-makes-critical-alloys-tougher-for-nuclear-fusion-reactors-and-jet-engines",
-      "first_published_at": "2026-10-07T13:06:17.210920+00:00",
+      "first_published_at": "2026-10-07T19:28:15.283244+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -53,7 +53,7 @@
       "story_id": "story-0b78e38e64751ee6",
       "title": "Former U.S. NRC Commissioner and U.S. DOE Nuclear Chief William D. Magwood, IV to Join newcleo’…",
       "representative_url": "https://www.globenewswire.com/news-release/2026/09/30/3372016/0/en/former-u-s-nrc-commissioner-and-u-s-doe-nuclear-chief-william-d-magwood-iv-to-join-newcleo-s-board-of-directors-in-january-2027.html",
-      "first_published_at": "2026-10-07T13:06:17.210920+00:00",
+      "first_published_at": "2026-10-07T19:28:15.283244+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -95,40 +95,25 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-7302e27335059bbb",
-      "title": "Google reportedly nearing $1B+ nuclear power deal as AI demand drives hyperscaler nuclear race",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wyv0br/google_reportedly_nearing_1b_nuclear_power_deal/",
-      "first_published_at": "2026-10-06T05:59:27+00:00",
+      "story_id": "story-5230ffccedb56482",
+      "title": "Google Deal Backs 890 MW of Constellation Nuclear Uprates at 11 PJM Reactors",
+      "representative_url": "https://www.powermag.com/google-deal-backs-890-mw-of-constellation-nuclear-uprates-at-11-pjm-reactors/",
+      "first_published_at": "2026-10-07T16:25:54+00:00",
       "sources": [
-        "reddit_nuclear"
+        "powermag"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-dc05064dda8d3e2a",
-      "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
-      "representative_url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3",
-      "first_published_at": "2026-10-04T14:13:21+00:00",
-      "sources": [
-        "hn_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
+      "nuclear_score": 0.65,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "hot",
+      "score": 3.25
     },
     {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-07T13:06:17.210920+00:00",
+      "first_published_at": "2026-10-07T19:28:15.283244+00:00",
       "sources": [
         "oklo"
       ],
@@ -143,7 +128,7 @@
       "story_id": "story-86675d79cdea0d34",
       "title": "EDF Energy Transfers Hinkley Point B to Nuclear Decommissioning Authority",
       "representative_url": "https://world-nuclear-news.org/articles/hinkley-pointb-second-agr-transferred-for-decommissioning",
-      "first_published_at": "2026-10-07T13:06:17.210920+00:00",
+      "first_published_at": "2026-10-07T19:28:15.283244+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -152,6 +137,21 @@
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "newbuild",
+      "score": 2.8
+    },
+    {
+      "story_id": "story-64d3660be7674fa0",
+      "title": "Gov. Newsom Signs Legislation to Explore New Nuclear Plants and Fusion Energy in California",
+      "representative_url": "https://www.ans.org/news/2026-10-02/article-8456/california-bills-consider-new-nuclear-power-plant-and-plan-for-the-future-of-fusion/",
+      "first_published_at": "2026-10-07T19:28:15.283244+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
       "score": 2.8
     }
   ]

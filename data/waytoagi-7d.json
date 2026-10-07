@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-07T13:06:17.210920+00:00",
+  "generated_at": "2026-10-07T19:28:15.283244+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-07",
+      "title": "Read through the Big Tech nuclear contracts after the CEG/Google deal. Almost none of them just…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wzwzuk/read_through_the_big_tech_nuclear_contracts_after/"
+    },
     {
       "date": "2026-10-07",
       "title": "I found a nuclear crossword puzzle",
@@ -44,19 +49,9 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wz33ai/google_signs_20year_nuclear_deal_with/"
     },
     {
-      "date": "2026-10-06",
-      "title": "Google reportedly nearing $1B+ nuclear power deal as AI demand drives hyperscaler nuclear race",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wyv0br/google_reportedly_nearing_1b_nuclear_power_deal/"
-    },
-    {
       "date": "2026-10-05",
       "title": "Green party drops longstanding opposition to nuclear power",
       "url": "https://www.reddit.com/r/nuclear/comments/1wylq3l/green_party_drops_longstanding_opposition_to/"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "Italy's Senate approves a return to nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wyaqi1/italys_senate_approves_a_return_to_nuclear_power/"
     },
     {
       "date": "2026-10-04",
@@ -67,13 +62,18 @@
   "updates_today": [
     {
       "date": "2026-10-07",
+      "title": "Read through the Big Tech nuclear contracts after the CEG/Google deal. Almost none of them just…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wzwzuk/read_through_the_big_tech_nuclear_contracts_after/"
+    },
+    {
+      "date": "2026-10-07",
       "title": "I found a nuclear crossword puzzle",
       "url": "https://www.reddit.com/r/nuclear/comments/1wzrzc3/i_found_a_nuclear_crossword_puzzle/"
     }
   ],
   "latest_date": "2026-10-07",
-  "count_7d": 12,
-  "count_today": 1,
+  "count_7d": 11,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
