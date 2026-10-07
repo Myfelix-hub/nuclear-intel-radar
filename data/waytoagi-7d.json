@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-07T05:32:38.709635+00:00",
+  "generated_at": "2026-10-07T13:06:17.210920+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-07",
+      "title": "I found a nuclear crossword puzzle",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wzrzc3/i_found_a_nuclear_crossword_puzzle/"
+    },
     {
       "date": "2026-10-06",
       "title": "Africa’s largest uranium producer could soon hand Russia a major foothold in its nuclear ambiti…",
@@ -44,19 +49,9 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wyv0br/google_reportedly_nearing_1b_nuclear_power_deal/"
     },
     {
-      "date": "2026-10-06",
-      "title": "BWXT (Canada) BANR microreactor selection.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wypyxd/bwxt_canada_banr_microreactor_selection/"
-    },
-    {
       "date": "2026-10-05",
       "title": "Green party drops longstanding opposition to nuclear power",
       "url": "https://www.reddit.com/r/nuclear/comments/1wylq3l/green_party_drops_longstanding_opposition_to/"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "France grew its reactor fleet from 15 to 55 units in the 1980s, building each in about six year…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wygvll/france_grew_its_reactor_fleet_from_15_to_55_units/"
     },
     {
       "date": "2026-10-05",
@@ -71,54 +66,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-06",
-      "title": "Africa’s largest uranium producer could soon hand Russia a major foothold in its nuclear ambiti…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wzac5n/africas_largest_uranium_producer_could_soon_hand/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "What are the major nuclear outage firms these days?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz85e3/what_are_the_major_nuclear_outage_firms_these_days/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Burn Uranium not Coal Supreme Court NCAR",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz81ws/burn_uranium_not_coal_supreme_court_ncar/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Nuclear energy could double by 2050, but AI-driven power demand does not change the economic ca…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz5k29/nuclear_energy_could_double_by_2050_but_aidriven/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Constellation, Google to increase nuclear capacity in PJM nuclear plants by 890mw",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz4vvn/constellation_google_to_increase_nuclear_capacity/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "World’s largest fusion reactor gets final 485-ton vacuum vessel sector",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz3451/worlds_largest_fusion_reactor_gets_final_485ton/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Google signs 20-year nuclear deal with Constellation Energy to power AI build-out",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz33ai/google_signs_20year_nuclear_deal_with/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Google reportedly nearing $1B+ nuclear power deal as AI demand drives hyperscaler nuclear race",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wyv0br/google_reportedly_nearing_1b_nuclear_power_deal/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "BWXT (Canada) BANR microreactor selection.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wypyxd/bwxt_canada_banr_microreactor_selection/"
+      "date": "2026-10-07",
+      "title": "I found a nuclear crossword puzzle",
+      "url": "https://www.reddit.com/r/nuclear/comments/1wzrzc3/i_found_a_nuclear_crossword_puzzle/"
     }
   ],
-  "latest_date": "2026-10-06",
-  "count_7d": 13,
-  "count_today": 9,
+  "latest_date": "2026-10-07",
+  "count_7d": 12,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
