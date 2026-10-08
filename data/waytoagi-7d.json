@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:23:07.011525+00:00",
+  "generated_at": "2026-10-08T23:52:35.831999+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -44,11 +44,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wz33ai/google_signs_20year_nuclear_deal_with/"
     },
     {
-      "date": "2026-10-05",
-      "title": "Green party drops longstanding opposition to nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wylq3l/green_party_drops_longstanding_opposition_to/"
-    },
-    {
       "date": "2026-10-04",
       "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
       "url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3"
@@ -62,7 +57,7 @@
     }
   ],
   "latest_date": "2026-10-08",
-  "count_7d": 10,
+  "count_7d": 9,
   "count_today": 1,
   "has_error": false,
   "error": null,
