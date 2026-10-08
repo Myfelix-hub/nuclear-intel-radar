@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-07T23:45:36.645191+00:00",
+  "generated_at": "2026-10-08T05:41:03.852156+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-08",
+      "title": "Delays in construction of Poland’s nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x0g4ci/delays_in_construction_of_polands_nuclear_power/"
+    },
     {
       "date": "2026-10-07",
       "title": "Read through the Big Tech nuclear contracts after the CEG/Google deal. Almost none of them just…",
@@ -25,11 +30,6 @@
     },
     {
       "date": "2026-10-06",
-      "title": "Burn Uranium not Coal Supreme Court NCAR",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz81ws/burn_uranium_not_coal_supreme_court_ncar/"
-    },
-    {
-      "date": "2026-10-06",
       "title": "Nuclear energy could double by 2050, but AI-driven power demand does not change the economic ca…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wz5k29/nuclear_energy_could_double_by_2050_but_aidriven/"
     },
@@ -49,6 +49,11 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wylq3l/green_party_drops_longstanding_opposition_to/"
     },
     {
+      "date": "2026-10-05",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
+    },
+    {
       "date": "2026-10-04",
       "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
       "url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3"
@@ -56,19 +61,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-07",
-      "title": "Read through the Big Tech nuclear contracts after the CEG/Google deal. Almost none of them just…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wzwzuk/read_through_the_big_tech_nuclear_contracts_after/"
-    },
-    {
-      "date": "2026-10-07",
-      "title": "I found a nuclear crossword puzzle",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wzrzc3/i_found_a_nuclear_crossword_puzzle/"
+      "date": "2026-10-08",
+      "title": "Delays in construction of Poland’s nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x0g4ci/delays_in_construction_of_polands_nuclear_power/"
     }
   ],
-  "latest_date": "2026-10-07",
-  "count_7d": 10,
-  "count_today": 2,
+  "latest_date": "2026-10-08",
+  "count_7d": 11,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null

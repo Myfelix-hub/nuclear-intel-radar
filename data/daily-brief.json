@@ -1,69 +1,8 @@
 {
-  "generated_at": "2026-10-07T23:45:36.645191+00:00",
+  "generated_at": "2026-10-08T05:41:03.852156+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
-    {
-      "story_id": "story-f145339dca6f67c2",
-      "title": "WILL POLEN, POWER MAG: Winning the Nuclear Market Before the Reactor Is Sold",
-      "representative_url": "https://www.powermag.com/winning-the-nuclear-market-before-the-reactor-is-sold/",
-      "first_published_at": "2026-10-06T11:58:05+00:00",
-      "sources": [
-        "nucleartownhall",
-        "powermag"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 4.063553233343868
-    },
-    {
-      "story_id": "story-0025afd0a642ca4b",
-      "title": "Everyone’s Watching Oklo and NuScale for Nuclear Exposure. This Company Actually Fuels Them.",
-      "representative_url": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-145701254.html",
-      "first_published_at": "2026-10-07T23:45:36.645191+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-2d27d658699a8b09",
-      "title": "Heat-Only Method Makes Critical Alloys Tougher for Nuclear Fusion Reactors and Jet Engines",
-      "representative_url": "https://interestingengineering.com/energy/heat-only-method-makes-critical-alloys-tougher-for-nuclear-fusion-reactors-and-jet-engines",
-      "first_published_at": "2026-10-07T23:45:36.645191+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "safety",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-0b78e38e64751ee6",
-      "title": "Former U.S. NRC Commissioner and U.S. DOE Nuclear Chief William D. Magwood, IV to Join newcleo’…",
-      "representative_url": "https://www.globenewswire.com/news-release/2026/09/30/3372016/0/en/former-u-s-nrc-commissioner-and-u-s-doe-nuclear-chief-william-d-magwood-iv-to-join-newcleo-s-board-of-directors-in-january-2027.html",
-      "first_published_at": "2026-10-07T23:45:36.645191+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 3.6
-    },
     {
       "story_id": "story-645e0d9b508daf0a",
       "title": "Africa’s largest uranium producer could soon hand Russia a major foothold in its nuclear ambiti…",
@@ -98,7 +37,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-07T23:45:36.645191+00:00",
+      "first_published_at": "2026-10-08T05:41:03.852156+00:00",
       "sources": [
         "oklo"
       ],
@@ -110,49 +49,109 @@
       "score": 3.0
     },
     {
-      "story_id": "story-86675d79cdea0d34",
-      "title": "EDF Energy Transfers Hinkley Point B to Nuclear Decommissioning Authority",
-      "representative_url": "https://world-nuclear-news.org/articles/hinkley-pointb-second-agr-transferred-for-decommissioning",
-      "first_published_at": "2026-10-07T23:45:36.645191+00:00",
+      "story_id": "story-658548ce53aa05c4",
+      "title": "Winning the Nuclear Market Before the Reactor Is Sold",
+      "representative_url": "https://www.powermag.com/winning-the-nuclear-market-before-the-reactor-is-sold/",
+      "first_published_at": "2026-10-06T11:58:05+00:00",
       "sources": [
-        "nucleartownhall"
+        "powermag"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 2.8
+      "nuclear_score": 0.6,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "safety",
+      "score": 3.0
     },
     {
-      "story_id": "story-64d3660be7674fa0",
-      "title": "Gov. Newsom Signs Legislation to Explore New Nuclear Plants and Fusion Energy in California",
-      "representative_url": "https://www.ans.org/news/2026-10-02/article-8456/california-bills-consider-new-nuclear-power-plant-and-plan-for-the-future-of-fusion/",
-      "first_published_at": "2026-10-07T23:45:36.645191+00:00",
+      "story_id": "story-4eb0bc894c8c487d",
+      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
+      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
+      "first_published_at": "2026-10-08T05:41:03.852156+00:00",
       "sources": [
-        "nucleartownhall"
+        "oklo"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "hot",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-e8d9b69bff65b6d5",
+      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
+      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
+      "first_published_at": "2026-10-08T05:41:03.852156+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
       "primary_section": "tech",
-      "score": 2.8
+      "score": 2.7
     },
     {
-      "story_id": "story-850f5a51a81418f3",
-      "title": "BWXT’s BANR Microreactor Chosen for Canadian Transportable Nuclear Power Plant Project",
-      "representative_url": "https://www.businesswire.com/news/home/20261005162770/en/BWXTs-BANR-Microreactor-Chosen-for-Canadian-Transportable-Nuclear-Power-Plant-Project",
-      "first_published_at": "2026-10-07T23:45:36.645191+00:00",
+      "story_id": "story-683c02d9e8a3afb3",
+      "title": "Producing a 1960s Molten Salt Coolant for 21st Century Reactors",
+      "representative_url": "https://www.kairospower.com/updates/producing-a-1960s-molten-salt-coolant-for-21st-century-reactors",
+      "first_published_at": "2026-10-08T05:41:03.852156+00:00",
       "sources": [
-        "nucleartownhall"
+        "kairos"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-4cac66c6fef215a4",
+      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
+      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
+      "first_published_at": "2026-10-08T05:41:03.852156+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-bfce5a1d0c39e26e",
+      "title": "Laser Spectroscopy of Thulium Isotopes Near the $N=82$ Shell Closure: Nuclear Moment and Charge…",
+      "representative_url": "https://arxiv.org/abs/2607.25033",
+      "first_published_at": "2026-10-08T04:00:00+00:00",
+      "sources": [
+        "arxiv_nuclex"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "research",
+      "source_tier_rank": 2,
+      "primary_section": "research",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-22f26b3d1472ceea",
+      "title": "Nuclear energy could double by 2050, but AI-driven power demand does not change the economic ca…",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1wz5k29/nuclear_energy_could_double_by_2050_but_aidriven/",
+      "first_published_at": "2026-10-06T15:29:05+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
       "primary_section": "community",
-      "score": 2.8
+      "score": 2.4000000000000004
     }
   ]
 }
