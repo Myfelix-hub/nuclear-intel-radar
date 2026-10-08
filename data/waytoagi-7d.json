@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:41:03.852156+00:00",
+  "generated_at": "2026-10-08T13:13:57.554864+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -49,11 +49,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wylq3l/green_party_drops_longstanding_opposition_to/"
     },
     {
-      "date": "2026-10-05",
-      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
-    },
-    {
       "date": "2026-10-04",
       "title": "Dozens of dead nuclear reactors orbit Earth (2016)",
       "url": "https://www.businessinsider.com/nuclear-powered-satellites-space-2016-3"
@@ -67,7 +62,7 @@
     }
   ],
   "latest_date": "2026-10-08",
-  "count_7d": 11,
+  "count_7d": 10,
   "count_today": 1,
   "has_error": false,
   "error": null,
