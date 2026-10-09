@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-10-09T05:45:23.887693+00:00",
+  "generated_at": "2026-10-09T13:00:22.310706+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-6063d8f25d0ce5e2",
+      "title": "BWXT to Deploy First Commercial Advanced Nuclear Reactor in Canada",
+      "representative_url": "https://www.ans.org/news/2026-10-07/article-8471/bwxts-banr-selected-for-canadian-project/",
+      "first_published_at": "2026-10-07T19:55:52+00:00",
+      "sources": [
+        "nucleartownhall",
+        "ans_newswire"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
     {
       "story_id": "story-0df0336af58127ef",
       "title": "General Matter Submits NRC License Application For Paducah Enrichment Facility",
@@ -20,25 +36,10 @@
       "score": 4.063553233343868
     },
     {
-      "story_id": "story-0025afd0a642ca4b",
-      "title": "Everyone’s Watching Oklo and NuScale for Nuclear Exposure. This Company Actually Fuels Them.",
-      "representative_url": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-145701254.html",
-      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
-    },
-    {
       "story_id": "story-86d2480a34ff7b43",
       "title": "World’s Largest Nuclear Fusion Reactor Receives Final Piece of Its Giant Plasma Chamber",
       "representative_url": "https://interestingengineering.com/energy/iter-fusion-reactor-vacuum-vessel-delivery",
-      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
+      "first_published_at": "2026-10-09T13:00:22.310706+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -53,7 +54,7 @@
       "story_id": "story-cdbc69bd696e9ace",
       "title": "85-kW MARVEL Microreactor Gets Liquid-Metal Coolant Ahead of Criticality Test",
       "representative_url": "https://interestingengineering.com/energy/marvel-microreactor-idaho-coolant",
-      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
+      "first_published_at": "2026-10-09T13:00:22.310706+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -68,7 +69,7 @@
       "story_id": "story-c9c7b1149119b0bf",
       "title": "HD Hyundai Expands SMR Nuclear Reactor Efforts with Demonstration Center",
       "representative_url": "https://maritime-executive.com/article/hd-hyundai-expands-smr-nuclear-reactor-efforts-with-demonstration-center",
-      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
+      "first_published_at": "2026-10-09T13:00:22.310706+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -113,7 +114,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
+      "first_published_at": "2026-10-09T13:00:22.310706+00:00",
       "sources": [
         "oklo"
       ],
@@ -140,10 +141,10 @@
       "score": 2.8499999999999996
     },
     {
-      "story_id": "story-86675d79cdea0d34",
-      "title": "EDF Energy Transfers Hinkley Point B to Nuclear Decommissioning Authority",
-      "representative_url": "https://world-nuclear-news.org/articles/hinkley-pointb-second-agr-transferred-for-decommissioning",
-      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
+      "story_id": "story-850f5a51a81418f3",
+      "title": "BWXT’s BANR Microreactor Chosen for Canadian Transportable Nuclear Power Plant Project",
+      "representative_url": "https://www.businesswire.com/news/home/20261005162770/en/BWXTs-BANR-Microreactor-Chosen-for-Canadian-Transportable-Nuclear-Power-Plant-Project",
+      "first_published_at": "2026-10-09T13:00:22.310706+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -151,7 +152,7 @@
       "nuclear_score": 0.7,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "newbuild",
+      "primary_section": "community",
       "score": 2.8
     }
   ]

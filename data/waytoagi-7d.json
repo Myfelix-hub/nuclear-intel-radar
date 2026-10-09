@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-09T05:45:23.887693+00:00",
+  "generated_at": "2026-10-09T13:00:22.310706+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-09",
+      "title": "AI Assistants Transform Nuclear Power Plant Work",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Poland begins ordering long-lead components for first AP1000",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1i1bv/poland_begins_ordering_longlead_components_for/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Constellation and Google go in on nuclear uprates to unlock clean…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1hgut/constellation_and_google_go_in_on_nuclear_uprates/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "L'Allemand r/Ecosia abandonne r/MistralAI et ose mentionner l'énergie française r/nuclear parmi…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1g5sj/lallemand_recosia_abandonne_rmistralai_et_ose/"
+    },
     {
       "date": "2026-10-09",
       "title": "Thorizon, Urenco to cooperate on MSR fuel cycle",
@@ -30,11 +50,6 @@
     },
     {
       "date": "2026-10-06",
-      "title": "Nuclear energy could double by 2050, but AI-driven power demand does not change the economic ca…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz5k29/nuclear_energy_could_double_by_2050_but_aidriven/"
-    },
-    {
-      "date": "2026-10-06",
       "title": "Constellation, Google to increase nuclear capacity in PJM nuclear plants by 890mw",
       "url": "https://www.reddit.com/r/nuclear/comments/1wz4vvn/constellation_google_to_increase_nuclear_capacity/"
     },
@@ -42,6 +57,11 @@
       "date": "2026-10-06",
       "title": "Google signs 20-year nuclear deal with Constellation Energy to power AI build-out",
       "url": "https://www.reddit.com/r/nuclear/comments/1wz33ai/google_signs_20year_nuclear_deal_with/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
     },
     {
       "date": "2026-10-04",
@@ -52,13 +72,33 @@
   "updates_today": [
     {
       "date": "2026-10-09",
+      "title": "AI Assistants Transform Nuclear Power Plant Work",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Poland begins ordering long-lead components for first AP1000",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1i1bv/poland_begins_ordering_longlead_components_for/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Constellation and Google go in on nuclear uprates to unlock clean…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1hgut/constellation_and_google_go_in_on_nuclear_uprates/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "L'Allemand r/Ecosia abandonne r/MistralAI et ose mentionner l'énergie française r/nuclear parmi…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1g5sj/lallemand_recosia_abandonne_rmistralai_et_ose/"
+    },
+    {
+      "date": "2026-10-09",
       "title": "Thorizon, Urenco to cooperate on MSR fuel cycle",
       "url": "https://www.reddit.com/r/nuclear/comments/1x1878v/thorizon_urenco_to_cooperate_on_msr_fuel_cycle/"
     }
   ],
   "latest_date": "2026-10-09",
-  "count_7d": 9,
-  "count_today": 1,
+  "count_7d": 13,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
