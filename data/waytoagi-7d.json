@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-09T18:56:41.719877+00:00",
+  "generated_at": "2026-10-09T23:09:10.453639+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-09",
+      "title": "Oklo Invests in Ohio State’s Nuclear Engineering Program",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1y2qg/oklo_invests_in_ohio_states_nuclear_engineering/"
+    },
     {
       "date": "2026-10-09",
       "title": "A 19,000-megawatt air-cooled reactor in Idaho fires 80-millisecond pulses into used fuel rods t…",
@@ -62,6 +67,11 @@
   "updates_today": [
     {
       "date": "2026-10-09",
+      "title": "Oklo Invests in Ohio State’s Nuclear Engineering Program",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1y2qg/oklo_invests_in_ohio_states_nuclear_engineering/"
+    },
+    {
+      "date": "2026-10-09",
       "title": "A 19,000-megawatt air-cooled reactor in Idaho fires 80-millisecond pulses into used fuel rods t…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x1nxgr/a_19000megawatt_aircooled_reactor_in_idaho_fires/"
     },
@@ -92,8 +102,8 @@
     }
   ],
   "latest_date": "2026-10-09",
-  "count_7d": 11,
-  "count_today": 6,
+  "count_7d": 12,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
