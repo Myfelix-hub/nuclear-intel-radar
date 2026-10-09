@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-08T23:52:35.831999+00:00",
+  "generated_at": "2026-10-09T05:45:23.887693+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-09",
+      "title": "Thorizon, Urenco to cooperate on MSR fuel cycle",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1878v/thorizon_urenco_to_cooperate_on_msr_fuel_cycle/"
+    },
     {
       "date": "2026-10-08",
       "title": "Delays in construction of Poland’s nuclear power",
@@ -22,11 +27,6 @@
       "date": "2026-10-06",
       "title": "Africa’s largest uranium producer could soon hand Russia a major foothold in its nuclear ambiti…",
       "url": "https://www.reddit.com/r/nuclear/comments/1wzac5n/africas_largest_uranium_producer_could_soon_hand/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "What are the major nuclear outage firms these days?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz85e3/what_are_the_major_nuclear_outage_firms_these_days/"
     },
     {
       "date": "2026-10-06",
@@ -51,12 +51,12 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-08",
-      "title": "Delays in construction of Poland’s nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x0g4ci/delays_in_construction_of_polands_nuclear_power/"
+      "date": "2026-10-09",
+      "title": "Thorizon, Urenco to cooperate on MSR fuel cycle",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1878v/thorizon_urenco_to_cooperate_on_msr_fuel_cycle/"
     }
   ],
-  "latest_date": "2026-10-08",
+  "latest_date": "2026-10-09",
   "count_7d": 9,
   "count_today": 1,
   "has_error": false,

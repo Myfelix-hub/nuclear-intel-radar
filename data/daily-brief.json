@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:52:35.831999+00:00",
+  "generated_at": "2026-10-09T05:45:23.887693+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -23,7 +23,7 @@
       "story_id": "story-0025afd0a642ca4b",
       "title": "Everyone’s Watching Oklo and NuScale for Nuclear Exposure. This Company Actually Fuels Them.",
       "representative_url": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-145701254.html",
-      "first_published_at": "2026-10-08T23:52:35.831999+00:00",
+      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -38,7 +38,7 @@
       "story_id": "story-86d2480a34ff7b43",
       "title": "World’s Largest Nuclear Fusion Reactor Receives Final Piece of Its Giant Plasma Chamber",
       "representative_url": "https://interestingengineering.com/energy/iter-fusion-reactor-vacuum-vessel-delivery",
-      "first_published_at": "2026-10-08T23:52:35.831999+00:00",
+      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -53,7 +53,7 @@
       "story_id": "story-cdbc69bd696e9ace",
       "title": "85-kW MARVEL Microreactor Gets Liquid-Metal Coolant Ahead of Criticality Test",
       "representative_url": "https://interestingengineering.com/energy/marvel-microreactor-idaho-coolant",
-      "first_published_at": "2026-10-08T23:52:35.831999+00:00",
+      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -68,7 +68,7 @@
       "story_id": "story-c9c7b1149119b0bf",
       "title": "HD Hyundai Expands SMR Nuclear Reactor Efforts with Demonstration Center",
       "representative_url": "https://maritime-executive.com/article/hd-hyundai-expands-smr-nuclear-reactor-efforts-with-demonstration-center",
-      "first_published_at": "2026-10-08T23:52:35.831999+00:00",
+      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -113,7 +113,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-08T23:52:35.831999+00:00",
+      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
       "sources": [
         "oklo"
       ],
@@ -125,10 +125,25 @@
       "score": 3.0
     },
     {
+      "story_id": "story-2aad99880b242980",
+      "title": "Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission",
+      "representative_url": "https://arxiv.org/abs/2610.11061",
+      "first_published_at": "2026-10-09T04:00:00+00:00",
+      "sources": [
+        "arxiv_nuclth"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.95,
+      "source_tier": "research",
+      "source_tier_rank": 2,
+      "primary_section": "tech",
+      "score": 2.8499999999999996
+    },
+    {
       "story_id": "story-86675d79cdea0d34",
       "title": "EDF Energy Transfers Hinkley Point B to Nuclear Decommissioning Authority",
       "representative_url": "https://world-nuclear-news.org/articles/hinkley-pointb-second-agr-transferred-for-decommissioning",
-      "first_published_at": "2026-10-08T23:52:35.831999+00:00",
+      "first_published_at": "2026-10-09T05:45:23.887693+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -137,21 +152,6 @@
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "newbuild",
-      "score": 2.8
-    },
-    {
-      "story_id": "story-64d3660be7674fa0",
-      "title": "Gov. Newsom Signs Legislation to Explore New Nuclear Plants and Fusion Energy in California",
-      "representative_url": "https://www.ans.org/news/2026-10-02/article-8456/california-bills-consider-new-nuclear-power-plant-and-plan-for-the-future-of-fusion/",
-      "first_published_at": "2026-10-08T23:52:35.831999+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
       "score": 2.8
     }
   ]
