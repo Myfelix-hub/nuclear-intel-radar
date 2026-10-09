@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-09T13:00:22.310706+00:00",
+  "generated_at": "2026-10-09T18:56:41.719877+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-09",
+      "title": "A 19,000-megawatt air-cooled reactor in Idaho fires 80-millisecond pulses into used fuel rods t…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1nxgr/a_19000megawatt_aircooled_reactor_in_idaho_fires/"
+    },
     {
       "date": "2026-10-09",
       "title": "AI Assistants Transform Nuclear Power Plant Work",
@@ -44,21 +49,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1wzrzc3/i_found_a_nuclear_crossword_puzzle/"
     },
     {
-      "date": "2026-10-06",
-      "title": "Africa’s largest uranium producer could soon hand Russia a major foothold in its nuclear ambiti…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wzac5n/africas_largest_uranium_producer_could_soon_hand/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Constellation, Google to increase nuclear capacity in PJM nuclear plants by 890mw",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz4vvn/constellation_google_to_increase_nuclear_capacity/"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Google signs 20-year nuclear deal with Constellation Energy to power AI build-out",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wz33ai/google_signs_20year_nuclear_deal_with/"
-    },
-    {
       "date": "2026-10-05",
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
       "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
@@ -70,6 +60,11 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-09",
+      "title": "A 19,000-megawatt air-cooled reactor in Idaho fires 80-millisecond pulses into used fuel rods t…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1nxgr/a_19000megawatt_aircooled_reactor_in_idaho_fires/"
+    },
     {
       "date": "2026-10-09",
       "title": "AI Assistants Transform Nuclear Power Plant Work",
@@ -97,8 +92,8 @@
     }
   ],
   "latest_date": "2026-10-09",
-  "count_7d": 13,
-  "count_today": 5,
+  "count_7d": 11,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null

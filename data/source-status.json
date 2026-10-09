@@ -10,6 +10,15 @@
       "warning": null
     },
     {
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "powermag",
       "site_name": "POWER Magazine",
       "ok": true,
@@ -37,8 +46,8 @@
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
       "item_count": 20,
       "duration_ms": 0,
@@ -46,19 +55,10 @@
       "warning": null
     },
     {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
-      "warning": null
-    },
-    {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
       "ok": true,
-      "item_count": 1,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -154,19 +154,19 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
-      "ok": true,
-      "item_count": 17,
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
+      "ok": false,
+      "item_count": 0,
       "duration_ms": 0,
-      "error": null,
+      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
       "warning": null
     },
     {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
-      "item_count": 3,
+      "item_count": 1,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -176,6 +176,15 @@
       "site_name": "ITER",
       "ok": true,
       "item_count": 1,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
+      "ok": true,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -196,15 +205,6 @@
       "item_count": 1,
       "duration_ms": 0,
       "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "neutronbytes: RSS fetch failed — RetryError: HTTPSConnectionPool(host='neutronbytes.com', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error responses'))",
       "warning": null
     },
     {
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 19606,
+      "duration_ms": 3135,
       "error": null,
       "warning": null
     },
@@ -301,23 +301,14 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 6077,
+      "item_count": 8,
+      "duration_ms": 6353,
       "error": null,
       "warning": null
     }
   ],
-  "successful_sites": 27,
+  "successful_sites": 28,
   "failed_sites": [
-    {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
-      "warning": null
-    },
     {
       "site_id": "nucnet",
       "site_name": "NucNet",
@@ -328,12 +319,12 @@
       "warning": null
     },
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
       "ok": false,
       "item_count": 0,
       "duration_ms": 0,
-      "error": "neutronbytes: RSS fetch failed — RetryError: HTTPSConnectionPool(host='neutronbytes.com', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error responses'))",
+      "error": "us_nrc: both direct RSS and Jina fallback failed — RSS: RuntimeError: us_nrc: RSS fetch failed — HTTPError: 403 Client Error: Forbidden for url: https://www.nrc.gov/reading-rm/doc-collection | Jina: R",
       "warning": null
     },
     {
@@ -373,8 +364,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 313,
-  "items_before_topic_filter": 313,
+  "fetched_raw_items": 322,
+  "items_before_topic_filter": 322,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
