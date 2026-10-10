@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-10T09:40:12.297078+00:00",
+  "generated_at": "2026-10-10T15:48:45.146263+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-10",
+      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
+    },
     {
       "date": "2026-10-10",
       "title": "The Kansai Electric Power Company, Incorporated Announces Reactor Startup and Planned Commencem…",
@@ -44,11 +49,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1x0g4ci/delays_in_construction_of_polands_nuclear_power/"
     },
     {
-      "date": "2026-10-07",
-      "title": "Read through the Big Tech nuclear contracts after the CEG/Google deal. Almost none of them just…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1wzwzuk/read_through_the_big_tech_nuclear_contracts_after/"
-    },
-    {
       "date": "2026-10-05",
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
       "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
@@ -62,13 +62,18 @@
   "updates_today": [
     {
       "date": "2026-10-10",
+      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
+    },
+    {
+      "date": "2026-10-10",
       "title": "The Kansai Electric Power Company, Incorporated Announces Reactor Startup and Planned Commencem…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x2631f/the_kansai_electric_power_company_incorporated/"
     }
   ],
   "latest_date": "2026-10-10",
   "count_7d": 11,
-  "count_today": 1,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
