@@ -1,8 +1,85 @@
 {
-  "generated_at": "2026-10-10T02:37:35.473554+00:00",
+  "generated_at": "2026-10-10T09:40:12.297078+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-ca3a94fe67c1fd01",
+      "title": "U.S. Military Advances $2.2 Billion Microreactor Program as Nuclear Innovation Alliance Tracks …",
+      "representative_url": "https://neutronbytes.com/2026/10/08/qa-with-the-nuclear-innovation-alliance-keeping-track-of-microreactors-for-military-uses/",
+      "first_published_at": "2026-10-08T16:07:23+00:00",
+      "sources": [
+        "nucleartownhall",
+        "neutronbytes"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-6063d8f25d0ce5e2",
+      "title": "BWXT to Deploy First Commercial Advanced Nuclear Reactor in Canada",
+      "representative_url": "https://www.ans.org/news/2026-10-07/article-8471/bwxts-banr-selected-for-canadian-project/",
+      "first_published_at": "2026-10-07T19:55:52+00:00",
+      "sources": [
+        "nucleartownhall",
+        "ans_newswire"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-86d2480a34ff7b43",
+      "title": "World’s Largest Nuclear Fusion Reactor Receives Final Piece of Its Giant Plasma Chamber",
+      "representative_url": "https://interestingengineering.com/energy/iter-fusion-reactor-vacuum-vessel-delivery",
+      "first_published_at": "2026-10-10T09:40:12.297078+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-cdbc69bd696e9ace",
+      "title": "85-kW MARVEL Microreactor Gets Liquid-Metal Coolant Ahead of Criticality Test",
+      "representative_url": "https://interestingengineering.com/energy/marvel-microreactor-idaho-coolant",
+      "first_published_at": "2026-10-10T09:40:12.297078+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "safety",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-c9c7b1149119b0bf",
+      "title": "HD Hyundai Expands SMR Nuclear Reactor Efforts with Demonstration Center",
+      "representative_url": "https://maritime-executive.com/article/hd-hyundai-expands-smr-nuclear-reactor-efforts-with-demonstration-center",
+      "first_published_at": "2026-10-10T09:40:12.297078+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 3.6
+    },
     {
       "story_id": "story-0d2e316304635bd3",
       "title": "Oklo Invests in Ohio State’s Nuclear Engineering Program",
@@ -34,26 +111,10 @@
       "score": 3.25
     },
     {
-      "story_id": "story-4d8f3dc7e7c38f9b",
-      "title": "Poland begins ordering long-lead components for first AP1000",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x1i1bv/poland_begins_ordering_longlead_components_for/",
-      "first_published_at": "2026-10-08T16:16:41+00:00",
-      "sources": [
-        "reddit_nuclear",
-        "wnn"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.3,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.0476649250079015
-    },
-    {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-10T02:37:35.473554+00:00",
+      "first_published_at": "2026-10-10T09:40:12.297078+00:00",
       "sources": [
         "oklo"
       ],
@@ -65,94 +126,34 @@
       "score": 3.0
     },
     {
-      "story_id": "story-2aad99880b242980",
-      "title": "Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission",
-      "representative_url": "https://arxiv.org/abs/2610.11061",
-      "first_published_at": "2026-10-09T04:00:00+00:00",
+      "story_id": "story-850f5a51a81418f3",
+      "title": "BWXT’s BANR Microreactor Chosen for Canadian Transportable Nuclear Power Plant Project",
+      "representative_url": "https://www.businesswire.com/news/home/20261005162770/en/BWXTs-BANR-Microreactor-Chosen-for-Canadian-Transportable-Nuclear-Power-Plant-Project",
+      "first_published_at": "2026-10-10T09:40:12.297078+00:00",
       "sources": [
-        "arxiv_nuclth"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.95,
-      "source_tier": "research",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.8499999999999996
-    },
-    {
-      "story_id": "story-4eb0bc894c8c487d",
-      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
-      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-10-10T02:37:35.473554+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "hot",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-e8d9b69bff65b6d5",
-      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
-      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-10-10T02:37:35.473554+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-683c02d9e8a3afb3",
-      "title": "Producing a 1960s Molten Salt Coolant for 21st Century Reactors",
-      "representative_url": "https://www.kairospower.com/updates/producing-a-1960s-molten-salt-coolant-for-21st-century-reactors",
-      "first_published_at": "2026-10-10T02:37:35.473554+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-10-10T02:37:35.473554+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-309b2a06b9b56c6d",
-      "title": "AI Assistants Transform Nuclear Power Plant Work",
-      "representative_url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant",
-      "first_published_at": "2026-10-09T10:58:04+00:00",
-      "sources": [
-        "hn_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.4,
-      "source_tier": "community",
-      "source_tier_rank": 5,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "community",
-      "score": 2.4000000000000004
+      "score": 2.8
+    },
+    {
+      "story_id": "story-3b9377da434fc9a2",
+      "title": "DOE Office of Nuclear Energy Announces $50M in Funding to Revolutionize Reactor Cladding Materi…",
+      "representative_url": "https://www.energy.gov/ne/articles/doe-office-nuclear-energy-announces-50m-funding-revolutionize-reactor-cladding-material",
+      "first_published_at": "2026-10-10T09:40:12.297078+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 2.8
     }
   ]
 }
