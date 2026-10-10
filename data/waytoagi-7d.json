@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-10-10T15:48:45.146263+00:00",
+  "generated_at": "2026-10-10T19:57:48.976310+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-10-10",
-      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
-      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
+      "title": "China's Tianwan Nuclear Power Plant Unit 7 achieves grid connection",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2oh0x/chinas_tianwan_nuclear_power_plant_unit_7/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "A 19,000-ton Russian nuclear power plant with no engine now has both of its 58-megawatt reactor…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2m9y2/a_19000ton_russian_nuclear_power_plant_with_no/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Unlocking Secondary Yellowcake Reserves: How Wet-Process Phosphoric Acid Streams Could Diversif…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2iyfi/unlocking_secondary_yellowcake_reserves_how/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Arbitration favors Rosatom in €7B Finnish nuclear project canceled after Ukraine war",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2iobi/arbitration_favors_rosatom_in_7b_finnish_nuclear/"
     },
     {
       "date": "2026-10-10",
@@ -44,11 +59,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1x1878v/thorizon_urenco_to_cooperate_on_msr_fuel_cycle/"
     },
     {
-      "date": "2026-10-08",
-      "title": "Delays in construction of Poland’s nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x0g4ci/delays_in_construction_of_polands_nuclear_power/"
-    },
-    {
       "date": "2026-10-05",
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
       "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
@@ -62,8 +72,23 @@
   "updates_today": [
     {
       "date": "2026-10-10",
-      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
-      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
+      "title": "China's Tianwan Nuclear Power Plant Unit 7 achieves grid connection",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2oh0x/chinas_tianwan_nuclear_power_plant_unit_7/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "A 19,000-ton Russian nuclear power plant with no engine now has both of its 58-megawatt reactor…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2m9y2/a_19000ton_russian_nuclear_power_plant_with_no/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Unlocking Secondary Yellowcake Reserves: How Wet-Process Phosphoric Acid Streams Could Diversif…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2iyfi/unlocking_secondary_yellowcake_reserves_how/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Arbitration favors Rosatom in €7B Finnish nuclear project canceled after Ukraine war",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2iobi/arbitration_favors_rosatom_in_7b_finnish_nuclear/"
     },
     {
       "date": "2026-10-10",
@@ -72,8 +97,8 @@
     }
   ],
   "latest_date": "2026-10-10",
-  "count_7d": 11,
-  "count_today": 2,
+  "count_7d": 13,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
