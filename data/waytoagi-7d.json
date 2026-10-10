@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T23:09:10.453639+00:00",
+  "generated_at": "2026-10-10T02:37:35.473554+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,6 +7,16 @@
       "date": "2026-10-09",
       "title": "Oklo Invests in Ohio State’s Nuclear Engineering Program",
       "url": "https://www.reddit.com/r/nuclear/comments/1x1y2qg/oklo_invests_in_ohio_states_nuclear_engineering/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Palisades proposes method to retrieve 'tipped nuclear fuel assembly', but concerns remain",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x1u3om/palisades_proposes_method_to_retrieve_tipped/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Green party (UK) drops opposition to Nuclear Power",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x1p566/green_party_uk_drops_opposition_to_nuclear_power/"
     },
     {
       "date": "2026-10-09",
@@ -37,6 +47,16 @@
       "date": "2026-10-09",
       "title": "Thorizon, Urenco to cooperate on MSR fuel cycle",
       "url": "https://www.reddit.com/r/nuclear/comments/1x1878v/thorizon_urenco_to_cooperate_on_msr_fuel_cycle/"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Australia's biggest coal power plant could be replaced by record-breaking battery storage facil…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x0lw5k/australias_biggest_coal_power_plant_could_be/"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Commercial Nuclear Operations – Do You Enjoy It?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x0gmwh/commercial_nuclear_operations_do_you_enjoy_it/"
     },
     {
       "date": "2026-10-08",
@@ -72,6 +92,16 @@
     },
     {
       "date": "2026-10-09",
+      "title": "Palisades proposes method to retrieve 'tipped nuclear fuel assembly', but concerns remain",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x1u3om/palisades_proposes_method_to_retrieve_tipped/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Green party (UK) drops opposition to Nuclear Power",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x1p566/green_party_uk_drops_opposition_to_nuclear_power/"
+    },
+    {
+      "date": "2026-10-09",
       "title": "A 19,000-megawatt air-cooled reactor in Idaho fires 80-millisecond pulses into used fuel rods t…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x1nxgr/a_19000megawatt_aircooled_reactor_in_idaho_fires/"
     },
@@ -102,8 +132,8 @@
     }
   ],
   "latest_date": "2026-10-09",
-  "count_7d": 12,
-  "count_today": 7,
+  "count_7d": 16,
+  "count_today": 9,
   "has_error": false,
   "error": null,
   "warning": null
