@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:57:48.976310+00:00",
+  "generated_at": "2026-10-10T23:26:44.735694+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -19,10 +19,26 @@
       "score": 4.199999999999999
     },
     {
+      "story_id": "story-ca3a94fe67c1fd01",
+      "title": "U.S. Military Advances $2.2 Billion Microreactor Program as Nuclear Innovation Alliance Tracks …",
+      "representative_url": "https://neutronbytes.com/2026/10/08/qa-with-the-nuclear-innovation-alliance-keeping-track-of-microreactors-for-military-uses/",
+      "first_published_at": "2026-10-08T16:07:23+00:00",
+      "sources": [
+        "nucleartownhall",
+        "neutronbytes"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
+    {
       "story_id": "story-86d2480a34ff7b43",
       "title": "World’s Largest Nuclear Fusion Reactor Receives Final Piece of Its Giant Plasma Chamber",
       "representative_url": "https://interestingengineering.com/energy/iter-fusion-reactor-vacuum-vessel-delivery",
-      "first_published_at": "2026-10-10T19:57:48.976310+00:00",
+      "first_published_at": "2026-10-10T23:26:44.735694+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -37,7 +53,7 @@
       "story_id": "story-cdbc69bd696e9ace",
       "title": "85-kW MARVEL Microreactor Gets Liquid-Metal Coolant Ahead of Criticality Test",
       "representative_url": "https://interestingengineering.com/energy/marvel-microreactor-idaho-coolant",
-      "first_published_at": "2026-10-10T19:57:48.976310+00:00",
+      "first_published_at": "2026-10-10T23:26:44.735694+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -52,7 +68,7 @@
       "story_id": "story-c9c7b1149119b0bf",
       "title": "HD Hyundai Expands SMR Nuclear Reactor Efforts with Demonstration Center",
       "representative_url": "https://maritime-executive.com/article/hd-hyundai-expands-smr-nuclear-reactor-efforts-with-demonstration-center",
-      "first_published_at": "2026-10-10T19:57:48.976310+00:00",
+      "first_published_at": "2026-10-10T23:26:44.735694+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -82,7 +98,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-10T19:57:48.976310+00:00",
+      "first_published_at": "2026-10-10T23:26:44.735694+00:00",
       "sources": [
         "oklo"
       ],
@@ -97,7 +113,7 @@
       "story_id": "story-850f5a51a81418f3",
       "title": "BWXT’s BANR Microreactor Chosen for Canadian Transportable Nuclear Power Plant Project",
       "representative_url": "https://www.businesswire.com/news/home/20261005162770/en/BWXTs-BANR-Microreactor-Chosen-for-Canadian-Transportable-Nuclear-Power-Plant-Project",
-      "first_published_at": "2026-10-10T19:57:48.976310+00:00",
+      "first_published_at": "2026-10-10T23:26:44.735694+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -112,7 +128,7 @@
       "story_id": "story-3b9377da434fc9a2",
       "title": "DOE Office of Nuclear Energy Announces $50M in Funding to Revolutionize Reactor Cladding Materi…",
       "representative_url": "https://www.energy.gov/ne/articles/doe-office-nuclear-energy-announces-50m-funding-revolutionize-reactor-cladding-material",
-      "first_published_at": "2026-10-10T19:57:48.976310+00:00",
+      "first_published_at": "2026-10-10T23:26:44.735694+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -138,21 +154,6 @@
       "source_tier_rank": 3,
       "primary_section": "community",
       "score": 2.7090354888959127
-    },
-    {
-      "story_id": "story-4eb0bc894c8c487d",
-      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
-      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-10-10T19:57:48.976310+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "hot",
-      "score": 2.7
     }
   ]
 }

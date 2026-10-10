@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-10T19:57:48.976310+00:00",
+  "generated_at": "2026-10-10T23:26:44.735694+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-10",
+      "title": "Nuclear employers who will hire a non-US person from a 10 CFR 810 List I country?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2s5kl/nuclear_employers_who_will_hire_a_nonus_person/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2pzzc/chernobyl_particles_reveal_unexpectedly_stable/"
+    },
     {
       "date": "2026-10-10",
       "title": "China's Tianwan Nuclear Power Plant Unit 7 achieves grid connection",
@@ -49,16 +59,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1x1hgut/constellation_and_google_go_in_on_nuclear_uprates/"
     },
     {
-      "date": "2026-10-09",
-      "title": "L'Allemand r/Ecosia abandonne r/MistralAI et ose mentionner l'énergie française r/nuclear parmi…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x1g5sj/lallemand_recosia_abandonne_rmistralai_et_ose/"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Thorizon, Urenco to cooperate on MSR fuel cycle",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x1878v/thorizon_urenco_to_cooperate_on_msr_fuel_cycle/"
-    },
-    {
       "date": "2026-10-05",
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
       "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
@@ -70,6 +70,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-10",
+      "title": "Nuclear employers who will hire a non-US person from a 10 CFR 810 List I country?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2s5kl/nuclear_employers_who_will_hire_a_nonus_person/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x2pzzc/chernobyl_particles_reveal_unexpectedly_stable/"
+    },
     {
       "date": "2026-10-10",
       "title": "China's Tianwan Nuclear Power Plant Unit 7 achieves grid connection",
@@ -98,7 +108,7 @@
   ],
   "latest_date": "2026-10-10",
   "count_7d": 13,
-  "count_today": 5,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
