@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T02:07:01.788190+00:00",
+  "generated_at": "2026-10-11T09:13:39.376644+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -35,11 +35,6 @@
     },
     {
       "date": "2026-10-10",
-      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
-      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
-    },
-    {
-      "date": "2026-10-10",
       "title": "The Kansai Electric Power Company, Incorporated Announces Reactor Startup and Planned Commencem…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x2631f/the_kansai_electric_power_company_incorporated/"
     },
@@ -62,6 +57,11 @@
       "date": "2026-10-09",
       "title": "Constellation and Google go in on nuclear uprates to unlock clean…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x1hgut/constellation_and_google_go_in_on_nuclear_uprates/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "L'Allemand r/Ecosia abandonne r/MistralAI et ose mentionner l'énergie française r/nuclear parmi…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x1g5sj/lallemand_recosia_abandonne_rmistralai_et_ose/"
     },
     {
       "date": "2026-10-05",
@@ -107,18 +107,13 @@
     },
     {
       "date": "2026-10-10",
-      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
-      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
-    },
-    {
-      "date": "2026-10-10",
       "title": "The Kansai Electric Power Company, Incorporated Announces Reactor Startup and Planned Commencem…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x2631f/the_kansai_electric_power_company_incorporated/"
     }
   ],
   "latest_date": "2026-10-10",
   "count_7d": 14,
-  "count_today": 8,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
