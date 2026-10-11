@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:54:35.425192+00:00",
+  "generated_at": "2026-10-11T20:08:09.711354+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -59,11 +59,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1x1i1bv/poland_begins_ordering_longlead_components_for/"
     },
     {
-      "date": "2026-10-09",
-      "title": "L'Allemand r/Ecosia abandonne r/MistralAI et ose mentionner l'énergie française r/nuclear parmi…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x1g5sj/lallemand_recosia_abandonne_rmistralai_et_ose/"
-    },
-    {
       "date": "2026-10-05",
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
       "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
@@ -77,7 +72,7 @@
     }
   ],
   "latest_date": "2026-10-11",
-  "count_7d": 13,
+  "count_7d": 12,
   "count_today": 1,
   "has_error": false,
   "error": null,
