@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:26:44.735694+00:00",
+  "generated_at": "2026-10-11T02:07:01.788190+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -32,6 +32,11 @@
       "date": "2026-10-10",
       "title": "Arbitration favors Rosatom in €7B Finnish nuclear project canceled after Ukraine war",
       "url": "https://www.reddit.com/r/nuclear/comments/1x2iobi/arbitration_favors_rosatom_in_7b_finnish_nuclear/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
     },
     {
       "date": "2026-10-10",
@@ -102,13 +107,18 @@
     },
     {
       "date": "2026-10-10",
+      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
+    },
+    {
+      "date": "2026-10-10",
       "title": "The Kansai Electric Power Company, Incorporated Announces Reactor Startup and Planned Commencem…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x2631f/the_kansai_electric_power_company_incorporated/"
     }
   ],
   "latest_date": "2026-10-10",
-  "count_7d": 13,
-  "count_today": 7,
+  "count_7d": 14,
+  "count_today": 8,
   "has_error": false,
   "error": null,
   "warning": null
