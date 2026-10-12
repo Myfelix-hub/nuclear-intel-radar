@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-12T05:34:25.849619+00:00",
+  "generated_at": "2026-10-12T15:06:24.621542+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-12",
+      "title": "Rooppur unit-1 begins nuclear fission reaction",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x3tt85/rooppur_unit1_begins_nuclear_fission_reaction/"
+    },
     {
       "date": "2026-10-12",
       "title": "University research reactor selected for international research project (Fusion/ITER)",
@@ -57,19 +62,14 @@
       "date": "2026-10-09",
       "title": "Oklo Invests in Ohio State’s Nuclear Engineering Program",
       "url": "https://www.reddit.com/r/nuclear/comments/1x1y2qg/oklo_invests_in_ohio_states_nuclear_engineering/"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "A 19,000-megawatt air-cooled reactor in Idaho fires 80-millisecond pulses into used fuel rods t…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x1nxgr/a_19000megawatt_aircooled_reactor_in_idaho_fires/"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Poland begins ordering long-lead components for first AP1000",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x1i1bv/poland_begins_ordering_longlead_components_for/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-12",
+      "title": "Rooppur unit-1 begins nuclear fission reaction",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x3tt85/rooppur_unit1_begins_nuclear_fission_reaction/"
+    },
     {
       "date": "2026-10-12",
       "title": "University research reactor selected for international research project (Fusion/ITER)",
@@ -77,8 +77,8 @@
     }
   ],
   "latest_date": "2026-10-12",
-  "count_7d": 13,
-  "count_today": 1,
+  "count_7d": 12,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
