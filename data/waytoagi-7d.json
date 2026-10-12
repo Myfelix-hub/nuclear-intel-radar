@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-12T15:06:24.621542+00:00",
+  "generated_at": "2026-10-12T22:33:48.438323+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-12",
+      "title": "Could costal nuclear plant cooling be made into a gigantic hot tub?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x4g0zm/could_costal_nuclear_plant_cooling_be_made_into_a/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "MARVEL reactor gets federal safety approval as its primary vessel arrives in Idaho | INL - Oct …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x49k38/marvel_reactor_gets_federal_safety_approval_as/"
+    },
     {
       "date": "2026-10-12",
       "title": "Rooppur unit-1 begins nuclear fission reaction",
@@ -52,19 +62,19 @@
       "date": "2026-10-10",
       "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
       "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "The Kansai Electric Power Company, Incorporated Announces Reactor Startup and Planned Commencem…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x2631f/the_kansai_electric_power_company_incorporated/"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Oklo Invests in Ohio State’s Nuclear Engineering Program",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x1y2qg/oklo_invests_in_ohio_states_nuclear_engineering/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-12",
+      "title": "Could costal nuclear plant cooling be made into a gigantic hot tub?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x4g0zm/could_costal_nuclear_plant_cooling_be_made_into_a/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "MARVEL reactor gets federal safety approval as its primary vessel arrives in Idaho | INL - Oct …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x49k38/marvel_reactor_gets_federal_safety_approval_as/"
+    },
     {
       "date": "2026-10-12",
       "title": "Rooppur unit-1 begins nuclear fission reaction",
@@ -78,7 +88,7 @@
   ],
   "latest_date": "2026-10-12",
   "count_7d": 12,
-  "count_today": 2,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
