@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-11T23:53:02.106973+00:00",
+  "generated_at": "2026-10-12T05:34:25.849619+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-c05ba79e1ccae3a3",
+      "title": "University research reactor selected for international research project (Fusion/ITER)",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x3p2fg/university_research_reactor_selected_for/",
+      "first_published_at": "2026-10-12T01:27:54+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 5.4
+    },
     {
       "story_id": "story-e4e65679082672aa",
       "title": "A 19,000-ton Russian nuclear power plant with no engine now has both of its 58-megawatt reactor…",
@@ -17,51 +32,6 @@
       "source_tier_rank": 5,
       "primary_section": "community",
       "score": 4.199999999999999
-    },
-    {
-      "story_id": "story-86d2480a34ff7b43",
-      "title": "World’s Largest Nuclear Fusion Reactor Receives Final Piece of Its Giant Plasma Chamber",
-      "representative_url": "https://interestingengineering.com/energy/iter-fusion-reactor-vacuum-vessel-delivery",
-      "first_published_at": "2026-10-11T23:53:02.106973+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-cdbc69bd696e9ace",
-      "title": "85-kW MARVEL Microreactor Gets Liquid-Metal Coolant Ahead of Criticality Test",
-      "representative_url": "https://interestingengineering.com/energy/marvel-microreactor-idaho-coolant",
-      "first_published_at": "2026-10-11T23:53:02.106973+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "safety",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-c9c7b1149119b0bf",
-      "title": "HD Hyundai Expands SMR Nuclear Reactor Efforts with Demonstration Center",
-      "representative_url": "https://maritime-executive.com/article/hd-hyundai-expands-smr-nuclear-reactor-efforts-with-demonstration-center",
-      "first_published_at": "2026-10-11T23:53:02.106973+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 3.6
     },
     {
       "story_id": "story-0d2e316304635bd3",
@@ -82,7 +52,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-11T23:53:02.106973+00:00",
+      "first_published_at": "2026-10-12T05:34:25.849619+00:00",
       "sources": [
         "oklo"
       ],
@@ -94,40 +64,10 @@
       "score": 3.0
     },
     {
-      "story_id": "story-850f5a51a81418f3",
-      "title": "BWXT’s BANR Microreactor Chosen for Canadian Transportable Nuclear Power Plant Project",
-      "representative_url": "https://www.businesswire.com/news/home/20261005162770/en/BWXTs-BANR-Microreactor-Chosen-for-Canadian-Transportable-Nuclear-Power-Plant-Project",
-      "first_published_at": "2026-10-11T23:53:02.106973+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 2.8
-    },
-    {
-      "story_id": "story-3b9377da434fc9a2",
-      "title": "DOE Office of Nuclear Energy Announces $50M in Funding to Revolutionize Reactor Cladding Materi…",
-      "representative_url": "https://www.energy.gov/ne/articles/doe-office-nuclear-energy-announces-50m-funding-revolutionize-reactor-cladding-material",
-      "first_published_at": "2026-10-11T23:53:02.106973+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 2.8
-    },
-    {
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-10-11T23:53:02.106973+00:00",
+      "first_published_at": "2026-10-12T05:34:25.849619+00:00",
       "sources": [
         "oklo"
       ],
@@ -142,7 +82,7 @@
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-10-11T23:53:02.106973+00:00",
+      "first_published_at": "2026-10-12T05:34:25.849619+00:00",
       "sources": [
         "kairos"
       ],
@@ -152,6 +92,66 @@
       "source_tier_rank": 2,
       "primary_section": "tech",
       "score": 2.7
+    },
+    {
+      "story_id": "story-683c02d9e8a3afb3",
+      "title": "Producing a 1960s Molten Salt Coolant for 21st Century Reactors",
+      "representative_url": "https://www.kairospower.com/updates/producing-a-1960s-molten-salt-coolant-for-21st-century-reactors",
+      "first_published_at": "2026-10-12T05:34:25.849619+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-4cac66c6fef215a4",
+      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
+      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
+      "first_published_at": "2026-10-12T05:34:25.849619+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-e4b98c2b91a043e9",
+      "title": "Marcos disappointed Philippines halted Bataan Nuclear Power Plant",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x389e8/marcos_disappointed_philippines_halted_bataan/",
+      "first_published_at": "2026-10-11T13:29:37+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "safety",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-a59f035594966ee4",
+      "title": "China's Tianwan Nuclear Power Plant Unit 7 achieves grid connection",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x2oh0x/chinas_tianwan_nuclear_power_plant_unit_7/",
+      "first_published_at": "2026-10-10T19:57:12+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "newbuild",
+      "score": 2.4000000000000004
     }
   ]
 }
