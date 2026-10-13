@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-13T18:09:58.612329+00:00",
+  "generated_at": "2026-10-13T23:02:24.252944+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-13",
+      "title": "Bangladesh's Rooppur 1 achieves criticality",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x56213/bangladeshs_rooppur_1_achieves_criticality/"
+    },
     {
       "date": "2026-10-13",
       "title": "Agreement signed on second Polish nuclear power plant",
@@ -35,21 +40,16 @@
     },
     {
       "date": "2026-10-10",
-      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x2pzzc/chernobyl_particles_reveal_unexpectedly_stable/"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "China's Tianwan Nuclear Power Plant Unit 7 achieves grid connection",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x2oh0x/chinas_tianwan_nuclear_power_plant_unit_7/"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "A 19,000-ton Russian nuclear power plant with no engine now has both of its 58-megawatt reactor…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x2m9y2/a_19000ton_russian_nuclear_power_plant_with_no/"
+      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-13",
+      "title": "Bangladesh's Rooppur 1 achieves criticality",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x56213/bangladeshs_rooppur_1_achieves_criticality/"
+    },
     {
       "date": "2026-10-13",
       "title": "Agreement signed on second Polish nuclear power plant",
@@ -57,8 +57,8 @@
     }
   ],
   "latest_date": "2026-10-13",
-  "count_7d": 9,
-  "count_today": 1,
+  "count_7d": 8,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
