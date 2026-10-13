@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-13T10:59:36.437254+00:00",
+  "generated_at": "2026-10-13T18:09:58.612329+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-13",
+      "title": "Agreement signed on second Polish nuclear power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x4yzgp/agreement_signed_on_second_polish_nuclear_power/"
+    },
     {
       "date": "2026-10-12",
       "title": "Could costal nuclear plant cooling be made into a gigantic hot tub?",
@@ -30,11 +35,6 @@
     },
     {
       "date": "2026-10-10",
-      "title": "Nuclear employers who will hire a non-US person from a 10 CFR 810 List I country?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x2s5kl/nuclear_employers_who_will_hire_a_nonus_person/"
-    },
-    {
-      "date": "2026-10-10",
       "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
       "url": "https://www.reddit.com/r/nuclear/comments/1x2pzzc/chernobyl_particles_reveal_unexpectedly_stable/"
     },
@@ -47,43 +47,18 @@
       "date": "2026-10-10",
       "title": "A 19,000-ton Russian nuclear power plant with no engine now has both of its 58-megawatt reactor…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x2m9y2/a_19000ton_russian_nuclear_power_plant_with_no/"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "Unlocking Secondary Yellowcake Reserves: How Wet-Process Phosphoric Acid Streams Could Diversif…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x2iyfi/unlocking_secondary_yellowcake_reserves_how/"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "Arbitration favors Rosatom in €7B Finnish nuclear project canceled after Ukraine war",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x2iobi/arbitration_favors_rosatom_in_7b_finnish_nuclear/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-10-12",
-      "title": "Could costal nuclear plant cooling be made into a gigantic hot tub?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x4g0zm/could_costal_nuclear_plant_cooling_be_made_into_a/"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "MARVEL reactor gets federal safety approval as its primary vessel arrives in Idaho | INL - Oct …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x49k38/marvel_reactor_gets_federal_safety_approval_as/"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Rooppur unit-1 begins nuclear fission reaction",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x3tt85/rooppur_unit1_begins_nuclear_fission_reaction/"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "University research reactor selected for international research project (Fusion/ITER)",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x3p2fg/university_research_reactor_selected_for/"
+      "date": "2026-10-13",
+      "title": "Agreement signed on second Polish nuclear power plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x4yzgp/agreement_signed_on_second_polish_nuclear_power/"
     }
   ],
-  "latest_date": "2026-10-12",
-  "count_7d": 11,
-  "count_today": 4,
+  "latest_date": "2026-10-13",
+  "count_7d": 9,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
