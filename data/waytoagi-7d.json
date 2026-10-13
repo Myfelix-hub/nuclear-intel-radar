@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:33:48.438323+00:00",
+  "generated_at": "2026-10-13T03:27:26.660604+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -10,8 +10,23 @@
     },
     {
       "date": "2026-10-12",
+      "title": "I built an open-source reactor-physics engine where every result is independently checkable — l…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x4cxqg/i_built_an_opensource_reactorphysics_engine_where/"
+    },
+    {
+      "date": "2026-10-12",
       "title": "MARVEL reactor gets federal safety approval as its primary vessel arrives in Idaho | INL - Oct …",
       "url": "https://www.reddit.com/r/nuclear/comments/1x49k38/marvel_reactor_gets_federal_safety_approval_as/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "AI Steps Into Nuclear Power Plants, and Workers Are Letting It in",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x446qq/ai_steps_into_nuclear_power_plants_and_workers/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Cómo envejece el corazón de acero de un reactor nuclear",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x435xx/cómo_envejece_el_corazón_de_acero_de_un_reactor/"
     },
     {
       "date": "2026-10-12",
@@ -27,6 +42,16 @@
       "date": "2026-10-11",
       "title": "Marcos disappointed Philippines halted Bataan Nuclear Power Plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1x389e8/marcos_disappointed_philippines_halted_bataan/"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Questions for current Framatome Nuclear Technology Academy students or employees of Framatome t…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x34uea/questions_for_current_framatome_nuclear/"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Unlocking Secondary Yellowcake Reserves: How Wet-Process Phosphoric Acid Streams Could Diversif…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x2uqhl/unlocking_secondary_yellowcake_reserves_how/"
     },
     {
       "date": "2026-10-10",
@@ -72,8 +97,23 @@
     },
     {
       "date": "2026-10-12",
+      "title": "I built an open-source reactor-physics engine where every result is independently checkable — l…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x4cxqg/i_built_an_opensource_reactorphysics_engine_where/"
+    },
+    {
+      "date": "2026-10-12",
       "title": "MARVEL reactor gets federal safety approval as its primary vessel arrives in Idaho | INL - Oct …",
       "url": "https://www.reddit.com/r/nuclear/comments/1x49k38/marvel_reactor_gets_federal_safety_approval_as/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "AI Steps Into Nuclear Power Plants, and Workers Are Letting It in",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x446qq/ai_steps_into_nuclear_power_plants_and_workers/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Cómo envejece el corazón de acero de un reactor nuclear",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x435xx/cómo_envejece_el_corazón_de_acero_de_un_reactor/"
     },
     {
       "date": "2026-10-12",
@@ -87,8 +127,8 @@
     }
   ],
   "latest_date": "2026-10-12",
-  "count_7d": 12,
-  "count_today": 4,
+  "count_7d": 17,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
