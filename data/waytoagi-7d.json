@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-14T13:36:26.911352+00:00",
+  "generated_at": "2026-10-14T18:27:59.828819+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-14",
+      "title": "US Approves Funding For Final Stage Of Molten Chloride Reactor Experiment",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x5y87k/us_approves_funding_for_final_stage_of_molten/"
+    },
     {
       "date": "2026-10-14",
       "title": "Namibia appoints first nuclear commissioner to lead long-term atomic energy programme",
@@ -47,6 +52,11 @@
   "updates_today": [
     {
       "date": "2026-10-14",
+      "title": "US Approves Funding For Final Stage Of Molten Chloride Reactor Experiment",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x5y87k/us_approves_funding_for_final_stage_of_molten/"
+    },
+    {
+      "date": "2026-10-14",
       "title": "Namibia appoints first nuclear commissioner to lead long-term atomic energy programme",
       "url": "https://www.reddit.com/r/nuclear/comments/1x5jb09/namibia_appoints_first_nuclear_commissioner_to/"
     },
@@ -57,8 +67,8 @@
     }
   ],
   "latest_date": "2026-10-14",
-  "count_7d": 8,
-  "count_today": 2,
+  "count_7d": 9,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
