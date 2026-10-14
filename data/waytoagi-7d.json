@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-14T02:06:16.243248+00:00",
+  "generated_at": "2026-10-14T07:57:12.743760+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-14",
+      "title": "Namibia appoints first nuclear commissioner to lead long-term atomic energy programme",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x5jb09/namibia_appoints_first_nuclear_commissioner_to/"
+    },
     {
       "date": "2026-10-14",
       "title": "Czech SMR environmental impact assessment submitted",
@@ -47,13 +52,18 @@
   "updates_today": [
     {
       "date": "2026-10-14",
+      "title": "Namibia appoints first nuclear commissioner to lead long-term atomic energy programme",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x5jb09/namibia_appoints_first_nuclear_commissioner_to/"
+    },
+    {
+      "date": "2026-10-14",
       "title": "Czech SMR environmental impact assessment submitted",
       "url": "https://www.reddit.com/r/nuclear/comments/1x5d4xp/czech_smr_environmental_impact_assessment/"
     }
   ],
   "latest_date": "2026-10-14",
-  "count_7d": 8,
-  "count_today": 1,
+  "count_7d": 9,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
