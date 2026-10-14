@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-13T23:02:24.252944+00:00",
+  "generated_at": "2026-10-14T02:06:16.243248+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-14",
+      "title": "Czech SMR environmental impact assessment submitted",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x5d4xp/czech_smr_environmental_impact_assessment/"
+    },
     {
       "date": "2026-10-13",
       "title": "Bangladesh's Rooppur 1 achieves criticality",
@@ -37,28 +42,18 @@
       "date": "2026-10-11",
       "title": "Marcos disappointed Philippines halted Bataan Nuclear Power Plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1x389e8/marcos_disappointed_philippines_halted_bataan/"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
-      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-10-13",
-      "title": "Bangladesh's Rooppur 1 achieves criticality",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x56213/bangladeshs_rooppur_1_achieves_criticality/"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "Agreement signed on second Polish nuclear power plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x4yzgp/agreement_signed_on_second_polish_nuclear_power/"
+      "date": "2026-10-14",
+      "title": "Czech SMR environmental impact assessment submitted",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x5d4xp/czech_smr_environmental_impact_assessment/"
     }
   ],
-  "latest_date": "2026-10-13",
+  "latest_date": "2026-10-14",
   "count_7d": 8,
-  "count_today": 2,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
