@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T07:57:12.743760+00:00",
+  "generated_at": "2026-10-14T13:36:26.911352+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -42,11 +42,6 @@
       "date": "2026-10-12",
       "title": "University research reactor selected for international research project (Fusion/ITER)",
       "url": "https://www.reddit.com/r/nuclear/comments/1x3p2fg/university_research_reactor_selected_for/"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Marcos disappointed Philippines halted Bataan Nuclear Power Plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x389e8/marcos_disappointed_philippines_halted_bataan/"
     }
   ],
   "updates_today": [
@@ -62,7 +57,7 @@
     }
   ],
   "latest_date": "2026-10-14",
-  "count_7d": 9,
+  "count_7d": 8,
   "count_today": 2,
   "has_error": false,
   "error": null,
