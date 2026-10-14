@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-10-14T18:27:59.828819+00:00",
+  "generated_at": "2026-10-14T21:54:25.103077+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-10-14",
+      "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5yo4f/nuclearpowered_data_centers_its_a_tough_sell_in/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Nuscale SMR",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5yctt/nuscale_smr/"
+    },
+    {
+      "date": "2026-10-14",
       "title": "US Approves Funding For Final Stage Of Molten Chloride Reactor Experiment",
       "url": "https://www.reddit.com/r/nuclear/comments/1x5y87k/us_approves_funding_for_final_stage_of_molten/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Romania’s SMR project with NuScale hits deadlock as 80% of conditions are not met",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5qjp0/romanias_smr_project_with_nuscale_hits_deadlock/"
     },
     {
       "date": "2026-10-14",
@@ -25,8 +40,23 @@
     },
     {
       "date": "2026-10-13",
+      "title": "Potentially residing 2.5 miles to 10 from a nuclear plant. How should I prepare, outside of the…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x531ul/potentially_residing_25_miles_to_10_from_a/"
+    },
+    {
+      "date": "2026-10-13",
       "title": "Agreement signed on second Polish nuclear power plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1x4yzgp/agreement_signed_on_second_polish_nuclear_power/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Wondering whether to get Nuclear related Associates Degree while in Military.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x4oekn/wondering_whether_to_get_nuclear_related/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "enrichment (fuel supply chain bottleneck) progress at the NRC",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x4mr0k/enrichment_fuel_supply_chain_bottleneck_progress/"
     },
     {
       "date": "2026-10-12",
@@ -35,8 +65,18 @@
     },
     {
       "date": "2026-10-12",
+      "title": "I built an open-source reactor-physics engine where every result is independently checkable — l…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x4cxqg/i_built_an_opensource_reactorphysics_engine_where/"
+    },
+    {
+      "date": "2026-10-12",
       "title": "MARVEL reactor gets federal safety approval as its primary vessel arrives in Idaho | INL - Oct …",
       "url": "https://www.reddit.com/r/nuclear/comments/1x49k38/marvel_reactor_gets_federal_safety_approval_as/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "AI Steps Into Nuclear Power Plants, and Workers Are Letting It in",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x446qq/ai_steps_into_nuclear_power_plants_and_workers/"
     },
     {
       "date": "2026-10-12",
@@ -52,8 +92,23 @@
   "updates_today": [
     {
       "date": "2026-10-14",
+      "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5yo4f/nuclearpowered_data_centers_its_a_tough_sell_in/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Nuscale SMR",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5yctt/nuscale_smr/"
+    },
+    {
+      "date": "2026-10-14",
       "title": "US Approves Funding For Final Stage Of Molten Chloride Reactor Experiment",
       "url": "https://www.reddit.com/r/nuclear/comments/1x5y87k/us_approves_funding_for_final_stage_of_molten/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Romania’s SMR project with NuScale hits deadlock as 80% of conditions are not met",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5qjp0/romanias_smr_project_with_nuscale_hits_deadlock/"
     },
     {
       "date": "2026-10-14",
@@ -67,8 +122,8 @@
     }
   ],
   "latest_date": "2026-10-14",
-  "count_7d": 9,
-  "count_today": 3,
+  "count_7d": 17,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
