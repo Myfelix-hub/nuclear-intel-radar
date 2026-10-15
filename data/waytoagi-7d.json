@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-15T15:17:22.462642+00:00",
+  "generated_at": "2026-10-15T19:20:19.216051+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-15",
+      "title": "France Explores Nuclear Microreactors to Power Military Bases and Field Operations",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6urzt/france_explores_nuclear_microreactors_to_power/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "NRC Updates AP1000 Design Certification, Streamlines Future Reactor Licensing",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6u2dn/nrc_updates_ap1000_design_certification/"
+    },
     {
       "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
@@ -35,23 +45,8 @@
     },
     {
       "date": "2026-10-13",
-      "title": "Bangladesh's Rooppur 1 achieves criticality",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x56213/bangladeshs_rooppur_1_achieves_criticality/"
-    },
-    {
-      "date": "2026-10-13",
       "title": "Agreement signed on second Polish nuclear power plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1x4yzgp/agreement_signed_on_second_polish_nuclear_power/"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Could costal nuclear plant cooling be made into a gigantic hot tub?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x4g0zm/could_costal_nuclear_plant_cooling_be_made_into_a/"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "MARVEL reactor gets federal safety approval as its primary vessel arrives in Idaho | INL - Oct …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x49k38/marvel_reactor_gets_federal_safety_approval_as/"
     },
     {
       "date": "2026-10-10",
@@ -60,6 +55,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-15",
+      "title": "France Explores Nuclear Microreactors to Power Military Bases and Field Operations",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6urzt/france_explores_nuclear_microreactors_to_power/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "NRC Updates AP1000 Design Certification, Streamlines Future Reactor Licensing",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6u2dn/nrc_updates_ap1000_design_certification/"
+    },
     {
       "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
@@ -72,8 +77,8 @@
     }
   ],
   "latest_date": "2026-10-15",
-  "count_7d": 11,
-  "count_today": 2,
+  "count_7d": 10,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
