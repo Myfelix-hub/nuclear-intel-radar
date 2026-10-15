@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-15T05:03:06.911129+00:00",
+  "generated_at": "2026-10-15T10:14:02.619443+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-15",
+      "title": "UK Energy establishes strategic nuclear, hydrogen collaboration",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6e3js/uk_energy_establishes_strategic_nuclear_hydrogen/"
+    },
     {
       "date": "2026-10-14",
       "title": "Kairos Power Raises $643 Million for Tennessee Advanced Reactor Project",
@@ -42,38 +47,18 @@
       "date": "2026-10-12",
       "title": "MARVEL reactor gets federal safety approval as its primary vessel arrives in Idaho | INL - Oct …",
       "url": "https://www.reddit.com/r/nuclear/comments/1x49k38/marvel_reactor_gets_federal_safety_approval_as/"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Rooppur unit-1 begins nuclear fission reaction",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x3tt85/rooppur_unit1_begins_nuclear_fission_reaction/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-10-14",
-      "title": "Kairos Power Raises $643 Million for Tennessee Advanced Reactor Project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x64iwo/kairos_power_raises_643_million_for_tennessee/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "US Approves Funding For Final Stage Of Molten Chloride Reactor Experiment",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x5y87k/us_approves_funding_for_final_stage_of_molten/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Namibia appoints first nuclear commissioner to lead long-term atomic energy programme",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x5jb09/namibia_appoints_first_nuclear_commissioner_to/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Czech SMR environmental impact assessment submitted",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x5d4xp/czech_smr_environmental_impact_assessment/"
+      "date": "2026-10-15",
+      "title": "UK Energy establishes strategic nuclear, hydrogen collaboration",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6e3js/uk_energy_establishes_strategic_nuclear_hydrogen/"
     }
   ],
-  "latest_date": "2026-10-14",
+  "latest_date": "2026-10-15",
   "count_7d": 9,
-  "count_today": 4,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
