@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-14T21:54:25.103077+00:00",
+  "generated_at": "2026-10-15T00:23:27.664813+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-eda971ed0b9144a9",
+      "title": "Kairos Power Raises $643 Million for Tennessee Advanced Reactor Project",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x64iwo/kairos_power_raises_643_million_for_tennessee/",
+      "first_published_at": "2026-10-14T22:05:13+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 5.4
+    },
     {
       "story_id": "story-c05ba79e1ccae3a3",
       "title": "University research reactor selected for international research project (Fusion/ITER)",
@@ -22,7 +37,7 @@
       "story_id": "story-2b3feb3b27793bdf",
       "title": "Urenco USA Completes 75% of Current U.S. Uranium Enrichment Capacity Project",
       "representative_url": "https://urencousa.com/news/sustainability/2026/urenco-usa-completes-75-percent-of-current-us-uranium-enrichment-capacity-project",
-      "first_published_at": "2026-10-14T21:54:25.103077+00:00",
+      "first_published_at": "2026-10-15T00:23:27.664813+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -37,7 +52,7 @@
       "story_id": "story-bf856372f627a179",
       "title": "How America’s Tritium Shortage Threatens Fusion Power and Its Nuclear Arsenal",
       "representative_url": "https://nationalinterest.org/blog/energy-world/how-americas-tritium-shortage-threatens-fusion-power-and-its-nuclear-arsenal",
-      "first_published_at": "2026-10-14T21:54:25.103077+00:00",
+      "first_published_at": "2026-10-15T00:23:27.664813+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -140,21 +155,6 @@
       "source_tier_rank": 5,
       "primary_section": "community",
       "score": 3.0476649250079015
-    },
-    {
-      "story_id": "story-364bd136cb58d653",
-      "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
-      "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-14T21:54:25.103077+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 3.0
     }
   ]
 }
