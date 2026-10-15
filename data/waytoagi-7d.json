@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-15T10:14:02.619443+00:00",
+  "generated_at": "2026-10-15T15:17:22.462642+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-15",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
+    },
     {
       "date": "2026-10-15",
       "title": "UK Energy establishes strategic nuclear, hydrogen collaboration",
@@ -47,9 +52,19 @@
       "date": "2026-10-12",
       "title": "MARVEL reactor gets federal safety approval as its primary vessel arrives in Idaho | INL - Oct …",
       "url": "https://www.reddit.com/r/nuclear/comments/1x49k38/marvel_reactor_gets_federal_safety_approval_as/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-15",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
+    },
     {
       "date": "2026-10-15",
       "title": "UK Energy establishes strategic nuclear, hydrogen collaboration",
@@ -57,8 +72,8 @@
     }
   ],
   "latest_date": "2026-10-15",
-  "count_7d": 9,
-  "count_today": 1,
+  "count_7d": 11,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
