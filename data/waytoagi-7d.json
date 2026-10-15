@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-15T19:20:19.216051+00:00",
+  "generated_at": "2026-10-15T22:37:25.349003+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-15",
+      "title": "US DOE funding to accelerate molten salt reactor development",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6xyw7/us_doe_funding_to_accelerate_molten_salt_reactor/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "US Floating Nuclear Startup Buys Uranium For Its First Maritime Reactor System Stored At The La…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6wgyb/us_floating_nuclear_startup_buys_uranium_for_its/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Slovakia Connects New Nuclear Reactor at Mochovce",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6vxos/slovakia_connects_new_nuclear_reactor_at_mochovce/"
+    },
     {
       "date": "2026-10-15",
       "title": "France Explores Nuclear Microreactors to Power Military Bases and Field Operations",
@@ -17,6 +32,11 @@
       "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x6fxwb/solar_surpasses_nuclear_power_globally_for_first/"
     },
     {
       "date": "2026-10-15",
@@ -30,23 +50,33 @@
     },
     {
       "date": "2026-10-14",
+      "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5yo4f/nuclearpowered_data_centers_its_a_tough_sell_in/"
+    },
+    {
+      "date": "2026-10-14",
       "title": "US Approves Funding For Final Stage Of Molten Chloride Reactor Experiment",
       "url": "https://www.reddit.com/r/nuclear/comments/1x5y87k/us_approves_funding_for_final_stage_of_molten/"
     },
     {
       "date": "2026-10-14",
-      "title": "Namibia appoints first nuclear commissioner to lead long-term atomic energy programme",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x5jb09/namibia_appoints_first_nuclear_commissioner_to/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Czech SMR environmental impact assessment submitted",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x5d4xp/czech_smr_environmental_impact_assessment/"
+      "title": "Romania’s SMR project with NuScale hits deadlock as 80% of conditions are not met",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5qjp0/romanias_smr_project_with_nuscale_hits_deadlock/"
     },
     {
       "date": "2026-10-13",
-      "title": "Agreement signed on second Polish nuclear power plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x4yzgp/agreement_signed_on_second_polish_nuclear_power/"
+      "title": "Potentially residing 2.5 miles to 10 from a nuclear plant. How should I prepare, outside of the…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x531ul/potentially_residing_25_miles_to_10_from_a/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Wondering whether to get Nuclear related Associates Degree while in Military.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x4oekn/wondering_whether_to_get_nuclear_related/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "enrichment (fuel supply chain bottleneck) progress at the NRC",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x4mr0k/enrichment_fuel_supply_chain_bottleneck_progress/"
     },
     {
       "date": "2026-10-10",
@@ -55,6 +85,21 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-15",
+      "title": "US DOE funding to accelerate molten salt reactor development",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6xyw7/us_doe_funding_to_accelerate_molten_salt_reactor/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "US Floating Nuclear Startup Buys Uranium For Its First Maritime Reactor System Stored At The La…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6wgyb/us_floating_nuclear_startup_buys_uranium_for_its/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Slovakia Connects New Nuclear Reactor at Mochovce",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x6vxos/slovakia_connects_new_nuclear_reactor_at_mochovce/"
+    },
     {
       "date": "2026-10-15",
       "title": "France Explores Nuclear Microreactors to Power Military Bases and Field Operations",
@@ -72,13 +117,18 @@
     },
     {
       "date": "2026-10-15",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x6fxwb/solar_surpasses_nuclear_power_globally_for_first/"
+    },
+    {
+      "date": "2026-10-15",
       "title": "UK Energy establishes strategic nuclear, hydrogen collaboration",
       "url": "https://www.reddit.com/r/nuclear/comments/1x6e3js/uk_energy_establishes_strategic_nuclear_hydrogen/"
     }
   ],
   "latest_date": "2026-10-15",
-  "count_7d": 10,
-  "count_today": 4,
+  "count_7d": 16,
+  "count_today": 8,
   "has_error": false,
   "error": null,
   "warning": null
