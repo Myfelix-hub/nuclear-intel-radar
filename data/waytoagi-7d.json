@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-16T19:40:24.680510+00:00",
+  "generated_at": "2026-10-16T22:43:41.721017+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-16",
+      "title": "Advanced nuclear reactors to test on-site processing for critical materials in US",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7tyco/advanced_nuclear_reactors_to_test_onsite/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Adding Philippine natural zeolite to concrete increases its strength and radiation-shielding ab…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7sk4f/adding_philippine_natural_zeolite_to_concrete/"
+    },
     {
       "date": "2026-10-16",
       "title": "Energy Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
@@ -50,11 +60,6 @@
     },
     {
       "date": "2026-10-15",
-      "title": "NRC Updates AP1000 Design Certification, Streamlines Future Reactor Licensing",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6u2dn/nrc_updates_ap1000_design_certification/"
-    },
-    {
-      "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     },
@@ -65,6 +70,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-16",
+      "title": "Advanced nuclear reactors to test on-site processing for critical materials in US",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7tyco/advanced_nuclear_reactors_to_test_onsite/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Adding Philippine natural zeolite to concrete increases its strength and radiation-shielding ab…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7sk4f/adding_philippine_natural_zeolite_to_concrete/"
+    },
     {
       "date": "2026-10-16",
       "title": "Energy Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
@@ -92,8 +107,8 @@
     }
   ],
   "latest_date": "2026-10-16",
-  "count_7d": 12,
-  "count_today": 5,
+  "count_7d": 13,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
