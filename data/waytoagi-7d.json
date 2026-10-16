@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-16T16:28:05.654692+00:00",
+  "generated_at": "2026-10-16T19:40:24.680510+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-16",
+      "title": "Energy Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7nfbx/energy_advanced_robotics_propels_nuclear_reactor/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "US is reviving shuttered nuclear plants for (possibly) data centers demand",
+      "url": "https://www.usnews.com/news/best-states/iowa/articles/2026-10-16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers"
+    },
     {
       "date": "2026-10-16",
       "title": "Free directory of who owns, operates, supplies and buys power from US nuclear plants, with a so…",
@@ -49,17 +59,22 @@
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     },
     {
-      "date": "2026-10-14",
-      "title": "US Approves Funding For Final Stage Of Molten Chloride Reactor Experiment",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x5y87k/us_approves_funding_for_final_stage_of_molten/"
-    },
-    {
       "date": "2026-10-10",
       "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
       "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-16",
+      "title": "Energy Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7nfbx/energy_advanced_robotics_propels_nuclear_reactor/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "US is reviving shuttered nuclear plants for (possibly) data centers demand",
+      "url": "https://www.usnews.com/news/best-states/iowa/articles/2026-10-16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers"
+    },
     {
       "date": "2026-10-16",
       "title": "Free directory of who owns, operates, supplies and buys power from US nuclear plants, with a so…",
@@ -77,8 +92,8 @@
     }
   ],
   "latest_date": "2026-10-16",
-  "count_7d": 11,
-  "count_today": 3,
+  "count_7d": 12,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:28:05.654692+00:00",
+  "generated_at": "2026-10-16T19:40:24.680510+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -35,21 +35,6 @@
       "score": 5.4
     },
     {
-      "story_id": "story-a6db1fdbf885a891",
-      "title": "NRC Updates AP1000 Reactor Design Certification",
-      "representative_url": "https://www.powermag.com/nrc-updates-ap1000-reactor-design-certification/",
-      "first_published_at": "2026-10-16T14:41:13+00:00",
-      "sources": [
-        "powermag"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.05,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "tech",
-      "score": 5.25
-    },
-    {
       "story_id": "story-14f9a39036478744",
       "title": "US DOE Funding to Accelerate Molten Salt Reactor Development",
       "representative_url": "https://world-nuclear-news.org/articles/us-doe-funding-to-accelerate-molten-chloride-reactor-development",
@@ -65,6 +50,21 @@
       "source_tier_rank": 3,
       "primary_section": "tech",
       "score": 5.036669492803464
+    },
+    {
+      "story_id": "story-c2379d40afa5128f",
+      "title": "Energy Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x7nfbx/energy_advanced_robotics_propels_nuclear_reactor/",
+      "first_published_at": "2026-10-16T18:06:28+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 4.199999999999999
     },
     {
       "story_id": "story-c2765f857a7cd36b",
@@ -102,7 +102,7 @@
       "story_id": "story-310f6d1902c3ffb5",
       "title": "Nuclear Startup Kairos Power Secures $643M for Tennessee Reactor",
       "representative_url": "https://constructionreviewonline.com/hermes-2-reactor-kairos-power-secures-643m-for-tennessee-project/",
-      "first_published_at": "2026-10-16T16:28:05.654692+00:00",
+      "first_published_at": "2026-10-16T19:40:24.680510+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -117,7 +117,7 @@
       "story_id": "story-84ae54c30bff09a9",
       "title": "Google Signed a Deal for Existing Reactors. So Why Did Oklo and NuScale Jump on the Constellati…",
       "representative_url": "https://finance.yahoo.com/energy/articles/google-signed-deal-existing-reactors-100900112.html",
-      "first_published_at": "2026-10-16T16:28:05.654692+00:00",
+      "first_published_at": "2026-10-16T19:40:24.680510+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -132,7 +132,7 @@
       "story_id": "story-bf856372f627a179",
       "title": "How America’s Tritium Shortage Threatens Fusion Power and Its Nuclear Arsenal",
       "representative_url": "https://nationalinterest.org/blog/energy-world/how-americas-tritium-shortage-threatens-fusion-power-and-its-nuclear-arsenal",
-      "first_published_at": "2026-10-16T16:28:05.654692+00:00",
+      "first_published_at": "2026-10-16T19:40:24.680510+00:00",
       "sources": [
         "nucleartownhall"
       ],
