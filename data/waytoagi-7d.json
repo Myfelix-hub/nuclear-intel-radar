@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-16T06:16:17.335302+00:00",
+  "generated_at": "2026-10-16T11:48:54.446478+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-16",
+      "title": "When you're far right but also you have 56 nuclear reactors and want to troll your neighbor acr…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7az7c/when_youre_far_right_but_also_you_have_56_nuclear/"
+    },
     {
       "date": "2026-10-15",
       "title": "US DOE funding to accelerate molten salt reactor development",
@@ -56,44 +61,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-15",
-      "title": "US DOE funding to accelerate molten salt reactor development",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6xyw7/us_doe_funding_to_accelerate_molten_salt_reactor/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "US Floating Nuclear Startup Buys Uranium For Its First Maritime Reactor System Stored At The La…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6wgyb/us_floating_nuclear_startup_buys_uranium_for_its/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Slovakia Connects New Nuclear Reactor at Mochovce",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6vxos/slovakia_connects_new_nuclear_reactor_at_mochovce/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "France Explores Nuclear Microreactors to Power Military Bases and Field Operations",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6urzt/france_explores_nuclear_microreactors_to_power/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "NRC Updates AP1000 Design Certification, Streamlines Future Reactor Licensing",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6u2dn/nrc_updates_ap1000_design_certification/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "How much more can nuclear power plants give?",
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "UK Energy establishes strategic nuclear, hydrogen collaboration",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6e3js/uk_energy_establishes_strategic_nuclear_hydrogen/"
+      "date": "2026-10-16",
+      "title": "When you're far right but also you have 56 nuclear reactors and want to troll your neighbor acr…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7az7c/when_youre_far_right_but_also_you_have_56_nuclear/"
     }
   ],
-  "latest_date": "2026-10-15",
-  "count_7d": 10,
-  "count_today": 7,
+  "latest_date": "2026-10-16",
+  "count_7d": 11,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
