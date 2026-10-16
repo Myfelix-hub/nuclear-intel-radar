@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-16T11:48:54.446478+00:00",
+  "generated_at": "2026-10-16T16:28:05.654692+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-16",
+      "title": "Free directory of who owns, operates, supplies and buys power from US nuclear plants, with a so…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7k6fg/free_directory_of_who_owns_operates_supplies_and/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Russia Signs Agreement With Indonesia For Floating Nuclear Power Plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7j57k/russia_signs_agreement_with_indonesia_for/"
+    },
     {
       "date": "2026-10-16",
       "title": "When you're far right but also you have 56 nuclear reactors and want to troll your neighbor acr…",
@@ -39,16 +49,6 @@
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     },
     {
-      "date": "2026-10-15",
-      "title": "UK Energy establishes strategic nuclear, hydrogen collaboration",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6e3js/uk_energy_establishes_strategic_nuclear_hydrogen/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Kairos Power Raises $643 Million for Tennessee Advanced Reactor Project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x64iwo/kairos_power_raises_643_million_for_tennessee/"
-    },
-    {
       "date": "2026-10-14",
       "title": "US Approves Funding For Final Stage Of Molten Chloride Reactor Experiment",
       "url": "https://www.reddit.com/r/nuclear/comments/1x5y87k/us_approves_funding_for_final_stage_of_molten/"
@@ -62,13 +62,23 @@
   "updates_today": [
     {
       "date": "2026-10-16",
+      "title": "Free directory of who owns, operates, supplies and buys power from US nuclear plants, with a so…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7k6fg/free_directory_of_who_owns_operates_supplies_and/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Russia Signs Agreement With Indonesia For Floating Nuclear Power Plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x7j57k/russia_signs_agreement_with_indonesia_for/"
+    },
+    {
+      "date": "2026-10-16",
       "title": "When you're far right but also you have 56 nuclear reactors and want to troll your neighbor acr…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x7az7c/when_youre_far_right_but_also_you_have_56_nuclear/"
     }
   ],
   "latest_date": "2026-10-16",
   "count_7d": 11,
-  "count_today": 1,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null

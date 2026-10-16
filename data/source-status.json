@@ -19,10 +19,19 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 20,
+      "item_count": 4,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
+      "ok": true,
+      "item_count": 5,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -41,15 +50,6 @@
       "site_name": "ANS Newswire",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 5,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -145,19 +145,10 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
-      "item_count": 4,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": true,
-      "item_count": 6,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -172,10 +163,10 @@
       "warning": null
     },
     {
-      "site_id": "wnn",
-      "site_name": "World Nuclear News",
+      "site_id": "nucnet",
+      "site_name": "NucNet",
       "ok": true,
-      "item_count": 20,
+      "item_count": 7,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -190,13 +181,13 @@
       "warning": null
     },
     {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
+      "site_id": "wnn",
+      "site_name": "World Nuclear News",
       "ok": true,
-      "item_count": 0,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "warning": null
     },
     {
       "site_id": "eurofusion",
@@ -206,6 +197,15 @@
       "duration_ms": 0,
       "error": null,
       "warning": null
+    },
+    {
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "nucleartownhall",
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 2996,
+      "duration_ms": 3969,
       "error": null,
       "warning": null
     },
@@ -302,7 +302,7 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 5798,
+      "duration_ms": 5500,
       "error": null,
       "warning": null
     }
@@ -319,8 +319,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 357,
-  "items_before_topic_filter": 357,
+  "fetched_raw_items": 358,
+  "items_before_topic_filter": 358,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
