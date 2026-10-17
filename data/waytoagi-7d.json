@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-17T06:01:32.600632+00:00",
+  "generated_at": "2026-10-17T11:05:27.608103+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-17",
+      "title": "South Africa signs nuclear-fuel venture with US company as Bill Gates’s TerraPower prepares to …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x8456j/south_africa_signs_nuclearfuel_venture_with_us/"
+    },
     {
       "date": "2026-10-16",
       "title": "Advanced nuclear reactors to test on-site processing for critical materials in US",
@@ -12,6 +17,11 @@
       "date": "2026-10-16",
       "title": "Adding Philippine natural zeolite to concrete increases its strength and radiation-shielding ab…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x7sk4f/adding_philippine_natural_zeolite_to_concrete/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Palisades nuclear reactor restart continues despite work environment safety findings",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x7nhoo/palisades_nuclear_reactor_restart_continues/"
     },
     {
       "date": "2026-10-16",
@@ -37,6 +47,16 @@
       "date": "2026-10-16",
       "title": "When you're far right but also you have 56 nuclear reactors and want to troll your neighbor acr…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x7az7c/when_youre_far_right_but_also_you_have_56_nuclear/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "\"Nuclear energy is never profitable\", study slams nuclear power business case - The (weighted) …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x7avf5/nuclear_energy_is_never_profitable_study_slams/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Nuclear Trivia Thursday?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x70lhd/nuclear_trivia_thursday/"
     },
     {
       "date": "2026-10-15",
@@ -62,48 +82,33 @@
       "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x6fxwb/solar_surpasses_nuclear_power_globally_for_first/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5yo4f/nuclearpowered_data_centers_its_a_tough_sell_in/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Romania’s SMR project with NuScale hits deadlock as 80% of conditions are not met",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5qjp0/romanias_smr_project_with_nuscale_hits_deadlock/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-10-16",
-      "title": "Advanced nuclear reactors to test on-site processing for critical materials in US",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7tyco/advanced_nuclear_reactors_to_test_onsite/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Adding Philippine natural zeolite to concrete increases its strength and radiation-shielding ab…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7sk4f/adding_philippine_natural_zeolite_to_concrete/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Energy Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7nfbx/energy_advanced_robotics_propels_nuclear_reactor/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "US is reviving shuttered nuclear plants for (possibly) data centers demand",
-      "url": "https://www.usnews.com/news/best-states/iowa/articles/2026-10-16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Free directory of who owns, operates, supplies and buys power from US nuclear plants, with a so…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7k6fg/free_directory_of_who_owns_operates_supplies_and/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Russia Signs Agreement With Indonesia For Floating Nuclear Power Plants",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7j57k/russia_signs_agreement_with_indonesia_for/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "When you're far right but also you have 56 nuclear reactors and want to troll your neighbor acr…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7az7c/when_youre_far_right_but_also_you_have_56_nuclear/"
+      "date": "2026-10-17",
+      "title": "South Africa signs nuclear-fuel venture with US company as Bill Gates’s TerraPower prepares to …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x8456j/south_africa_signs_nuclearfuel_venture_with_us/"
     }
   ],
-  "latest_date": "2026-10-16",
-  "count_7d": 12,
-  "count_today": 7,
+  "latest_date": "2026-10-17",
+  "count_7d": 19,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
