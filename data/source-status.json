@@ -10,24 +10,6 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
       "site_id": "powermag",
       "site_name": "POWER Magazine",
       "ok": true,
@@ -46,8 +28,17 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "ans_newswire",
+      "site_name": "ANS Newswire",
       "ok": true,
       "item_count": 20,
       "duration_ms": 0,
@@ -55,8 +46,17 @@
       "warning": null
     },
     {
-      "site_id": "ans_newswire",
-      "site_name": "ANS Newswire",
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
       "ok": true,
       "item_count": 20,
       "duration_ms": 0,
@@ -154,10 +154,10 @@
       "warning": null
     },
     {
-      "site_id": "iter_org",
-      "site_name": "ITER",
+      "site_id": "nucnet",
+      "site_name": "NucNet",
       "ok": true,
-      "item_count": 2,
+      "item_count": 7,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -172,13 +172,22 @@
       "warning": null
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
+      "site_id": "iter_org",
+      "site_name": "ITER",
       "ok": true,
-      "item_count": 7,
+      "item_count": 2,
       "duration_ms": 0,
       "error": null,
       "warning": null
+    },
+    {
+      "site_id": "us_nrc",
+      "site_name": "US NRC News",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "wnn",
@@ -199,22 +208,13 @@
       "warning": null
     },
     {
-      "site_id": "us_nrc",
-      "site_name": "US NRC News",
+      "site_id": "nucleartownhall",
+      "site_name": "Nuclear Town Hall",
       "ok": true,
       "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "nucleartownhall",
-      "site_name": "Nuclear Town Hall",
-      "ok": true,
-      "item_count": 144,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
     },
     {
       "site_id": "nei_magazine",
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 2859,
+      "duration_ms": 3133,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 5957,
+      "item_count": 15,
+      "duration_ms": 3283,
       "error": null,
       "warning": null
     }
@@ -319,8 +319,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 336,
-  "items_before_topic_filter": 336,
+  "fetched_raw_items": 197,
+  "items_before_topic_filter": 197,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},

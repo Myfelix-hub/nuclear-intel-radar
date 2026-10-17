@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-17T19:40:31.559330+00:00",
+  "generated_at": "2026-10-17T22:08:27.836455+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-17",
+      "title": "Any nuclear fusion projects I could do as a high schooler?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x8ay5d/any_nuclear_fusion_projects_i_could_do_as_a_high/"
+    },
     {
       "date": "2026-10-17",
       "title": "South Africa signs nuclear-fuel venture with US company as Bill Gates’s TerraPower prepares to …",
@@ -17,6 +22,11 @@
       "date": "2026-10-16",
       "title": "Adding Philippine natural zeolite to concrete increases its strength and radiation-shielding ab…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x7sk4f/adding_philippine_natural_zeolite_to_concrete/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Palisades nuclear reactor restart continues despite work environment safety findings",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x7nhoo/palisades_nuclear_reactor_restart_continues/"
     },
     {
       "date": "2026-10-16",
@@ -44,6 +54,16 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1x7az7c/when_youre_far_right_but_also_you_have_56_nuclear/"
     },
     {
+      "date": "2026-10-16",
+      "title": "\"Nuclear energy is never profitable\", study slams nuclear power business case - The (weighted) …",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x7avf5/nuclear_energy_is_never_profitable_study_slams/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Nuclear Trivia Thursday?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x70lhd/nuclear_trivia_thursday/"
+    },
+    {
       "date": "2026-10-15",
       "title": "US DOE funding to accelerate molten salt reactor development",
       "url": "https://www.reddit.com/r/nuclear/comments/1x6xyw7/us_doe_funding_to_accelerate_molten_salt_reactor/"
@@ -62,9 +82,19 @@
       "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x6fxwb/solar_surpasses_nuclear_power_globally_for_first/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-17",
+      "title": "Any nuclear fusion projects I could do as a high schooler?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x8ay5d/any_nuclear_fusion_projects_i_could_do_as_a_high/"
+    },
     {
       "date": "2026-10-17",
       "title": "South Africa signs nuclear-fuel venture with US company as Bill Gates’s TerraPower prepares to …",
@@ -72,8 +102,8 @@
     }
   ],
   "latest_date": "2026-10-17",
-  "count_7d": 12,
-  "count_today": 1,
+  "count_7d": 17,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
