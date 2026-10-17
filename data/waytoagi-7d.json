@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:12:49.542059+00:00",
+  "generated_at": "2026-10-17T06:01:32.600632+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -62,11 +62,6 @@
       "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
-      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
     }
   ],
   "updates_today": [
@@ -107,7 +102,7 @@
     }
   ],
   "latest_date": "2026-10-16",
-  "count_7d": 13,
+  "count_7d": 12,
   "count_today": 7,
   "has_error": false,
   "error": null,
