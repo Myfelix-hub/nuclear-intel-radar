@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:05:27.608103+00:00",
+  "generated_at": "2026-10-17T14:20:49.864938+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -17,11 +17,6 @@
       "date": "2026-10-16",
       "title": "Adding Philippine natural zeolite to concrete increases its strength and radiation-shielding ab…",
       "url": "https://www.reddit.com/r/nuclear/comments/1x7sk4f/adding_philippine_natural_zeolite_to_concrete/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Palisades nuclear reactor restart continues despite work environment safety findings",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1x7nhoo/palisades_nuclear_reactor_restart_continues/"
     },
     {
       "date": "2026-10-16",
@@ -49,24 +44,9 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1x7az7c/when_youre_far_right_but_also_you_have_56_nuclear/"
     },
     {
-      "date": "2026-10-16",
-      "title": "\"Nuclear energy is never profitable\", study slams nuclear power business case - The (weighted) …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1x7avf5/nuclear_energy_is_never_profitable_study_slams/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Nuclear Trivia Thursday?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1x70lhd/nuclear_trivia_thursday/"
-    },
-    {
       "date": "2026-10-15",
       "title": "US DOE funding to accelerate molten salt reactor development",
       "url": "https://www.reddit.com/r/nuclear/comments/1x6xyw7/us_doe_funding_to_accelerate_molten_salt_reactor/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "US Floating Nuclear Startup Buys Uranium For Its First Maritime Reactor System Stored At The La…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6wgyb/us_floating_nuclear_startup_buys_uranium_for_its/"
     },
     {
       "date": "2026-10-15",
@@ -82,21 +62,6 @@
       "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Solar surpasses nuclear power globally for first time",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1x6fxwb/solar_surpasses_nuclear_power_globally_for_first/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5yo4f/nuclearpowered_data_centers_its_a_tough_sell_in/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Romania’s SMR project with NuScale hits deadlock as 80% of conditions are not met",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1x5qjp0/romanias_smr_project_with_nuscale_hits_deadlock/"
     }
   ],
   "updates_today": [
@@ -107,7 +72,7 @@
     }
   ],
   "latest_date": "2026-10-17",
-  "count_7d": 19,
+  "count_7d": 12,
   "count_today": 1,
   "has_error": false,
   "error": null,
