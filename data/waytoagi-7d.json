@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-18T09:48:58.715500+00:00",
+  "generated_at": "2026-10-18T13:52:53.747923+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-18",
+      "title": "465 Small Modular Reactors in Utah for AI (project beehive)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x93i4m/465_small_modular_reactors_in_utah_for_ai_project/"
+    },
     {
       "date": "2026-10-17",
       "title": "South Africa signs nuclear-fuel venture with US company as Bill Gates’s TerraPower prepares to …",
@@ -50,23 +55,18 @@
     },
     {
       "date": "2026-10-15",
-      "title": "Slovakia Connects New Nuclear Reactor at Mochovce",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6vxos/slovakia_connects_new_nuclear_reactor_at_mochovce/"
-    },
-    {
-      "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-10-17",
-      "title": "South Africa signs nuclear-fuel venture with US company as Bill Gates’s TerraPower prepares to …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x8456j/south_africa_signs_nuclearfuel_venture_with_us/"
+      "date": "2026-10-18",
+      "title": "465 Small Modular Reactors in Utah for AI (project beehive)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x93i4m/465_small_modular_reactors_in_utah_for_ai_project/"
     }
   ],
-  "latest_date": "2026-10-17",
+  "latest_date": "2026-10-18",
   "count_7d": 11,
   "count_today": 1,
   "has_error": false,
