@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:12:39.883998+00:00",
+  "generated_at": "2026-10-18T05:00:49.369858+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -55,11 +55,6 @@
     },
     {
       "date": "2026-10-15",
-      "title": "France Explores Nuclear Microreactors to Power Military Bases and Field Operations",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6urzt/france_explores_nuclear_microreactors_to_power/"
-    },
-    {
-      "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     }
@@ -72,7 +67,7 @@
     }
   ],
   "latest_date": "2026-10-17",
-  "count_7d": 12,
+  "count_7d": 11,
   "count_today": 1,
   "has_error": false,
   "error": null,
