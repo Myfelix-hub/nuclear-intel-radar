@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-18T13:52:53.747923+00:00",
+  "generated_at": "2026-10-18T17:12:41.054343+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-18",
+      "title": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x974i0/us_nuclear_fusion_reactor_to_test_custom_exhaust/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "What American Nuclear Could Cost",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x965dm/what_american_nuclear_could_cost/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "3D-printed forms speed nuclear construction, earn CAMX Award",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x95vto/3dprinted_forms_speed_nuclear_construction_earn/"
+    },
     {
       "date": "2026-10-18",
       "title": "465 Small Modular Reactors in Utah for AI (project beehive)",
@@ -35,11 +50,6 @@
     },
     {
       "date": "2026-10-16",
-      "title": "Free directory of who owns, operates, supplies and buys power from US nuclear plants, with a so…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7k6fg/free_directory_of_who_owns_operates_supplies_and/"
-    },
-    {
-      "date": "2026-10-16",
       "title": "Russia Signs Agreement With Indonesia For Floating Nuclear Power Plants",
       "url": "https://www.reddit.com/r/nuclear/comments/1x7j57k/russia_signs_agreement_with_indonesia_for/"
     },
@@ -50,11 +60,6 @@
     },
     {
       "date": "2026-10-15",
-      "title": "US DOE funding to accelerate molten salt reactor development",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x6xyw7/us_doe_funding_to_accelerate_molten_salt_reactor/"
-    },
-    {
-      "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     }
@@ -62,13 +67,28 @@
   "updates_today": [
     {
       "date": "2026-10-18",
+      "title": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x974i0/us_nuclear_fusion_reactor_to_test_custom_exhaust/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "What American Nuclear Could Cost",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x965dm/what_american_nuclear_could_cost/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "3D-printed forms speed nuclear construction, earn CAMX Award",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x95vto/3dprinted_forms_speed_nuclear_construction_earn/"
+    },
+    {
+      "date": "2026-10-18",
       "title": "465 Small Modular Reactors in Utah for AI (project beehive)",
       "url": "https://www.reddit.com/r/nuclear/comments/1x93i4m/465_small_modular_reactors_in_utah_for_ai_project/"
     }
   ],
   "latest_date": "2026-10-18",
-  "count_7d": 11,
-  "count_today": 1,
+  "count_7d": 12,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
