@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-10-17T22:08:27.836455+00:00",
+  "generated_at": "2026-10-18T00:12:39.883998+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-eeb0ea3b051cb1fd",
-      "title": "US DOE funding to accelerate molten salt reactor development",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x6xyw7/us_doe_funding_to_accelerate_molten_salt_reactor/",
+      "story_id": "story-14f9a39036478744",
+      "title": "US DOE Funding to Accelerate Molten Salt Reactor Development",
+      "representative_url": "https://world-nuclear-news.org/articles/us-doe-funding-to-accelerate-molten-chloride-reactor-development",
       "first_published_at": "2026-10-15T13:13:36+00:00",
       "sources": [
+        "nucleartownhall",
         "reddit_nuclear",
         "wnn"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 3,
       "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "tech",
-      "score": 6.095329850015803
+      "score": 5.036669492803464
     },
     {
       "story_id": "story-c2379d40afa5128f",
@@ -35,34 +36,112 @@
       "score": 4.199999999999999
     },
     {
-      "story_id": "story-1ed22ec97fea66fe",
-      "title": "Any nuclear fusion projects I could do as a high schooler?",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1x8ay5d/any_nuclear_fusion_projects_i_could_do_as_a_high/",
-      "first_published_at": "2026-10-17T13:59:33+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-05ddeb0343553b3a",
-      "title": "South Africa signs nuclear-fuel venture with US company as Bill Gates’s TerraPower prepares to …",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x8456j/south_africa_signs_nuclearfuel_venture_with_us/",
+      "story_id": "story-ffc2fb695be36877",
+      "title": "South Africa Signs Nuclear-Fuel Venture with US Company as Bill Gates’s TerraPower Prepares to …",
+      "representative_url": "https://africa.businessinsider.com/local/markets/south-africa-signs-nuclear-fuel-venture-with-us-company-as-bill-gatess-terrapower/hc3ke4m",
       "first_published_at": "2026-10-17T07:34:27+00:00",
       "sources": [
+        "nucleartownhall",
         "reddit_nuclear"
       ],
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
       "primary_section": "fuel",
-      "score": 3.5999999999999996
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-c2765f857a7cd36b",
+      "title": "France Explores Nuclear Microreactors to Power Military Bases and Field Operations",
+      "representative_url": "https://united24media.com/world/france-explores-nuclear-microreactors-to-power-military-bases-and-field-operations-23390",
+      "first_published_at": "2026-10-15T19:15:29+00:00",
+      "sources": [
+        "nucleartownhall",
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-291eb9d3502f4bf9",
+      "title": "SARAH GIBBONEY, NEUTRON BYTES: Institutional, Not Neutronic — Why Advanced Reactors Actually Ge…",
+      "representative_url": "https://neutronbytes.com/2026/10/15/institutional-not-neutronic-why-advanced-reactors-actually-get-built-or-dont/",
+      "first_published_at": "2026-10-15T15:10:30+00:00",
+      "sources": [
+        "nucleartownhall",
+        "neutronbytes"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-310f6d1902c3ffb5",
+      "title": "Nuclear Startup Kairos Power Secures $643M for Tennessee Reactor",
+      "representative_url": "https://constructionreviewonline.com/hermes-2-reactor-kairos-power-secures-643m-for-tennessee-project/",
+      "first_published_at": "2026-10-18T00:12:39.883998+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-84ae54c30bff09a9",
+      "title": "Google Signed a Deal for Existing Reactors. So Why Did Oklo and NuScale Jump on the Constellati…",
+      "representative_url": "https://finance.yahoo.com/energy/articles/google-signed-deal-existing-reactors-100900112.html",
+      "first_published_at": "2026-10-18T00:12:39.883998+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-bf856372f627a179",
+      "title": "How America’s Tritium Shortage Threatens Fusion Power and Its Nuclear Arsenal",
+      "representative_url": "https://nationalinterest.org/blog/energy-world/how-americas-tritium-shortage-threatens-fusion-power-and-its-nuclear-arsenal",
+      "first_published_at": "2026-10-18T00:12:39.883998+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-654dab762b65fec8",
+      "title": "NRC Updates AP1000 Design Certification, Streamlines Future Reactor Licensing",
+      "representative_url": "https://www.nrc.gov/about-nrc/news-releases/2026/26-080",
+      "first_published_at": "2026-10-18T00:12:39.883998+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 3.6
     },
     {
       "story_id": "story-6f870cd1e7982ac3",
@@ -78,81 +157,6 @@
       "source_tier_rank": 5,
       "primary_section": "community",
       "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-e5ff96550ff56730",
-      "title": "Palisades nuclear reactor restart continues despite work environment safety findings",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1x7nhoo/palisades_nuclear_reactor_restart_continues/",
-      "first_published_at": "2026-10-16T18:08:51+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-7ec35f3ef4646a04",
-      "title": "When you're far right but also you have 56 nuclear reactors and want to troll your neighbor acr…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x7az7c/when_youre_far_right_but_also_you_have_56_nuclear/",
-      "first_published_at": "2026-10-16T08:46:11+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-7e15f27df3248fa4",
-      "title": "Slovakia Connects New Nuclear Reactor at Mochovce",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x6vxos/slovakia_connects_new_nuclear_reactor_at_mochovce/",
-      "first_published_at": "2026-10-15T20:00:16+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-468d458b25ee051d",
-      "title": "France Explores Nuclear Microreactors to Power Military Bases and Field Operations",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1x6urzt/france_explores_nuclear_microreactors_to_power/",
-      "first_published_at": "2026-10-15T19:15:29+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "newbuild",
-      "score": 3.5999999999999996
-    },
-    {
-      "story_id": "story-364bd136cb58d653",
-      "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
-      "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-17T22:08:27.836455+00:00",
-      "sources": [
-        "oklo"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 3.0
     }
   ]
 }
