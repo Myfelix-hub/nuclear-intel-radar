@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-19T11:07:53.813065+00:00",
+  "generated_at": "2026-10-19T17:41:37.471957+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-19",
+      "title": "AEP, X-energy Eye 960-MW Nuclear Plant at Retired Indiana Coal Site, Backed by Amazon",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xa0gdx/aep_xenergy_eye_960mw_nuclear_plant_at_retired/"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "3 shuttered nuclear plants could soon power homes, AI data centers",
+      "url": "https://www.msn.com/en-us/money/general/three-shuttered-nuclear-plants-could-soon-power-millions-of-homes-and-ai-data-centers/ar-AA2eolqr"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "AEP, X-Energy and Amazon Partner to Explore Constructing Nuclear Energy Project in Indiana",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x9x6i1/aep_xenergy_and_amazon_partner_to_explore/"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Mapped: Who’s building nuclear SMRs?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x9vxrd/mapped_whos_building_nuclear_smrs/"
+    },
     {
       "date": "2026-10-18",
       "title": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma",
@@ -35,53 +55,33 @@
     },
     {
       "date": "2026-10-16",
-      "title": "Adding Philippine natural zeolite to concrete increases its strength and radiation-shielding ab…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7sk4f/adding_philippine_natural_zeolite_to_concrete/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Energy Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7nfbx/energy_advanced_robotics_propels_nuclear_reactor/"
-    },
-    {
-      "date": "2026-10-16",
       "title": "US is reviving shuttered nuclear plants for (possibly) data centers demand",
       "url": "https://www.usnews.com/news/best-states/iowa/articles/2026-10-16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Russia Signs Agreement With Indonesia For Floating Nuclear Power Plants",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7j57k/russia_signs_agreement_with_indonesia_for/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "How much more can nuclear power plants give?",
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-10-18",
-      "title": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x974i0/us_nuclear_fusion_reactor_to_test_custom_exhaust/"
+      "date": "2026-10-19",
+      "title": "AEP, X-energy Eye 960-MW Nuclear Plant at Retired Indiana Coal Site, Backed by Amazon",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xa0gdx/aep_xenergy_eye_960mw_nuclear_plant_at_retired/"
     },
     {
-      "date": "2026-10-18",
-      "title": "What American Nuclear Could Cost",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x965dm/what_american_nuclear_could_cost/"
+      "date": "2026-10-19",
+      "title": "3 shuttered nuclear plants could soon power homes, AI data centers",
+      "url": "https://www.msn.com/en-us/money/general/three-shuttered-nuclear-plants-could-soon-power-millions-of-homes-and-ai-data-centers/ar-AA2eolqr"
     },
     {
-      "date": "2026-10-18",
-      "title": "3D-printed forms speed nuclear construction, earn CAMX Award",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x95vto/3dprinted_forms_speed_nuclear_construction_earn/"
+      "date": "2026-10-19",
+      "title": "AEP, X-Energy and Amazon Partner to Explore Constructing Nuclear Energy Project in Indiana",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x9x6i1/aep_xenergy_and_amazon_partner_to_explore/"
     },
     {
-      "date": "2026-10-18",
-      "title": "465 Small Modular Reactors in Utah for AI (project beehive)",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x93i4m/465_small_modular_reactors_in_utah_for_ai_project/"
+      "date": "2026-10-19",
+      "title": "Mapped: Who’s building nuclear SMRs?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1x9vxrd/mapped_whos_building_nuclear_smrs/"
     }
   ],
-  "latest_date": "2026-10-18",
+  "latest_date": "2026-10-19",
   "count_7d": 11,
   "count_today": 4,
   "has_error": false,
