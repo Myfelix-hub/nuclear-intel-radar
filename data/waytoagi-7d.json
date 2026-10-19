@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:09:33.592665+00:00",
+  "generated_at": "2026-10-19T11:07:53.813065+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -54,11 +54,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1x7j57k/russia_signs_agreement_with_indonesia_for/"
     },
     {
-      "date": "2026-10-16",
-      "title": "When you're far right but also you have 56 nuclear reactors and want to troll your neighbor acr…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x7az7c/when_youre_far_right_but_also_you_have_56_nuclear/"
-    },
-    {
       "date": "2026-10-15",
       "title": "How much more can nuclear power plants give?",
       "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
@@ -87,7 +82,7 @@
     }
   ],
   "latest_date": "2026-10-18",
-  "count_7d": 12,
+  "count_7d": 11,
   "count_today": 4,
   "has_error": false,
   "error": null,
