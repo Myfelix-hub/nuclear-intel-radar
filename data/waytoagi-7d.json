@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-20T17:26:56.113084+00:00",
+  "generated_at": "2026-10-20T20:48:25.651472+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-20",
+      "title": "ORNL will put a nuclear reactor ....... ON THE MOOOOOOOOON!!!!",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xb0qse/ornl_will_put_a_nuclear_reactor_on_the_mooooooooon/"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "The push to clear nuclear power’s waste-disposal hurdle | Nature - Aug 2026",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xaz1jb/the_push_to_clear_nuclear_powers_wastedisposal/"
+    },
     {
       "date": "2026-10-20",
       "title": "Indiana considering 6 GW Candu nuclear project",
@@ -72,14 +82,19 @@
       "date": "2026-10-16",
       "title": "US is reviving shuttered nuclear plants for (possibly) data centers demand",
       "url": "https://www.usnews.com/news/best-states/iowa/articles/2026-10-16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "How much more can nuclear power plants give?",
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-20",
+      "title": "ORNL will put a nuclear reactor ....... ON THE MOOOOOOOOON!!!!",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xb0qse/ornl_will_put_a_nuclear_reactor_on_the_mooooooooon/"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "The push to clear nuclear power’s waste-disposal hurdle | Nature - Aug 2026",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xaz1jb/the_push_to_clear_nuclear_powers_wastedisposal/"
+    },
     {
       "date": "2026-10-20",
       "title": "Indiana considering 6 GW Candu nuclear project",
@@ -107,8 +122,8 @@
     }
   ],
   "latest_date": "2026-10-20",
-  "count_7d": 15,
-  "count_today": 5,
+  "count_7d": 16,
+  "count_today": 7,
   "has_error": false,
   "error": null,
   "warning": null
