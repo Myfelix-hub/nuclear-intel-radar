@@ -1,17 +1,42 @@
 {
-  "generated_at": "2026-10-20T06:28:03.095986+00:00",
+  "generated_at": "2026-10-20T12:01:09.186631+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-20",
+      "title": "RBMK vibes",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xaq3mz/rbmk_vibes/"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant\\",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
+    },
     {
       "date": "2026-10-20",
       "title": "Tanzania Nuclear Power Sought Within 7 Years",
       "url": "https://www.reddit.com/r/nuclear/comments/1xajlmv/tanzania_nuclear_power_sought_within_7_years/"
     },
     {
+      "date": "2026-10-20",
+      "title": "What would happen to nuclear reactors and power plants during a mass extinction event?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xaj0fq/what_would_happen_to_nuclear_reactors_and_power/"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "As Utah pushes nuclear power, some environmental and tribal groups push back",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xa2k1i/as_utah_pushes_nuclear_power_some_environmental/"
+    },
+    {
       "date": "2026-10-19",
       "title": "AEP, X-energy Eye 960-MW Nuclear Plant at Retired Indiana Coal Site, Backed by Amazon",
       "url": "https://www.reddit.com/r/nuclear/comments/1xa0gdx/aep_xenergy_eye_960mw_nuclear_plant_at_retired/"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Energia nuclear",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x9zydk/energia_nuclear/"
     },
     {
       "date": "2026-10-19",
@@ -27,6 +52,21 @@
       "date": "2026-10-19",
       "title": "Mapped: Who’s building nuclear SMRs?",
       "url": "https://www.reddit.com/r/nuclear/comments/1x9vxrd/mapped_whos_building_nuclear_smrs/"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Mapped: Who’s building nuclear SMRs?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x9vxns/mapped_whos_building_nuclear_smrs/"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "What the Hell Do You Do With Nuclear Waste? (The U.S. has 95,000 metric tons of it and still no…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x9v5qn/what_the_hell_do_you_do_with_nuclear_waste_the_us/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Building a nuclear fusor, high school hobby project",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x9fkp2/building_a_nuclear_fusor_high_school_hobby_project/"
     },
     {
       "date": "2026-10-18",
@@ -50,25 +90,45 @@
     },
     {
       "date": "2026-10-17",
-      "title": "South Africa signs nuclear-fuel venture with US company as Bill Gates’s TerraPower prepares to …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x8456j/south_africa_signs_nuclearfuel_venture_with_us/"
+      "title": "Any nuclear fusion projects I could do as a high schooler?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1x8ay5d/any_nuclear_fusion_projects_i_could_do_as_a_high/"
     },
     {
       "date": "2026-10-16",
       "title": "US is reviving shuttered nuclear plants for (possibly) data centers demand",
       "url": "https://www.usnews.com/news/best-states/iowa/articles/2026-10-16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     }
   ],
   "updates_today": [
     {
       "date": "2026-10-20",
+      "title": "RBMK vibes",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xaq3mz/rbmk_vibes/"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant\\",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
+    },
+    {
+      "date": "2026-10-20",
       "title": "Tanzania Nuclear Power Sought Within 7 Years",
       "url": "https://www.reddit.com/r/nuclear/comments/1xajlmv/tanzania_nuclear_power_sought_within_7_years/"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "What would happen to nuclear reactors and power plants during a mass extinction event?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xaj0fq/what_would_happen_to_nuclear_reactors_and_power/"
     }
   ],
   "latest_date": "2026-10-20",
-  "count_7d": 11,
-  "count_today": 1,
+  "count_7d": 20,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
