@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-21T04:19:41.031096+00:00",
+  "generated_at": "2026-10-21T09:31:13.807619+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-21",
+      "title": "New 3D-printing method could help build advanced nuclear reactors faster",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xbfjdx/new_3dprinting_method_could_help_build_advanced/"
+    },
     {
       "date": "2026-10-20",
       "title": "ORNL will put a nuclear reactor ....... ON THE MOOOOOOOOON!!!!",
@@ -70,11 +75,6 @@
     },
     {
       "date": "2026-10-18",
-      "title": "3D-printed forms speed nuclear construction, earn CAMX Award",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x95vto/3dprinted_forms_speed_nuclear_construction_earn/"
-    },
-    {
-      "date": "2026-10-18",
       "title": "465 Small Modular Reactors in Utah for AI (project beehive)",
       "url": "https://www.reddit.com/r/nuclear/comments/1x93i4m/465_small_modular_reactors_in_utah_for_ai_project/"
     },
@@ -86,44 +86,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-20",
-      "title": "ORNL will put a nuclear reactor ....... ON THE MOOOOOOOOON!!!!",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xb0qse/ornl_will_put_a_nuclear_reactor_on_the_mooooooooon/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "The push to clear nuclear power’s waste-disposal hurdle | Nature - Aug 2026",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xaz1jb/the_push_to_clear_nuclear_powers_wastedisposal/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Indiana considering 6 GW Candu nuclear project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xawmfs/indiana_considering_6_gw_candu_nuclear_project/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "AEP, X-energy Eye 960-MW Nuclear Plant at Retired Indiana Coal Site, Backed by Amazon",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xawgkn/aep_xenergy_eye_960mw_nuclear_plant_at_retired/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Gemini Argon shatters 59-year-old nuclear fusion conjecture in just a few hours",
-      "url": "https://www.techradar.com/pro/its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-just-a-few-hours"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant\\",
-      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Tanzania Nuclear Power Sought Within 7 Years",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xajlmv/tanzania_nuclear_power_sought_within_7_years/"
+      "date": "2026-10-21",
+      "title": "New 3D-printing method could help build advanced nuclear reactors faster",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xbfjdx/new_3dprinting_method_could_help_build_advanced/"
     }
   ],
-  "latest_date": "2026-10-20",
+  "latest_date": "2026-10-21",
   "count_7d": 16,
-  "count_today": 7,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
