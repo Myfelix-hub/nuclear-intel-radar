@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-21T15:00:01.337418+00:00",
+  "generated_at": "2026-10-21T19:15:20.299049+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-21",
+      "title": "Nuclear power now has bipartisan support",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xbvljj/nuclear_power_now_has_bipartisan_support/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Proposed Kansas nuclear reactor stock drops 50% after critical report calls it a 'money pit' • …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xbv2l9/proposed_kansas_nuclear_reactor_stock_drops_50/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xbr4vt/the_nuclear_company_proposes_66gw_ap1000_nuclear/"
+    },
     {
       "date": "2026-10-21",
       "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear R…",
@@ -109,29 +124,9 @@
       "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
     },
     {
-      "date": "2026-10-20",
-      "title": "Tanzania Nuclear Power Sought Within 7 Years",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xajlmv/tanzania_nuclear_power_sought_within_7_years/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "What would happen to nuclear reactors and power plants during a mass extinction event?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xaj0fq/what_would_happen_to_nuclear_reactors_and_power/"
-    },
-    {
-      "date": "2026-10-19",
-      "title": "AEP, X-energy Eye 960-MW Nuclear Plant at Retired Indiana Coal Site, Backed by Amazon",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xa0gdx/aep_xenergy_eye_960mw_nuclear_plant_at_retired/"
-    },
-    {
       "date": "2026-10-19",
       "title": "3 shuttered nuclear plants could soon power homes, AI data centers",
       "url": "https://www.msn.com/en-us/money/general/three-shuttered-nuclear-plants-could-soon-power-millions-of-homes-and-ai-data-centers/ar-AA2eolqr"
-    },
-    {
-      "date": "2026-10-19",
-      "title": "AEP, X-Energy and Amazon Partner to Explore Constructing Nuclear Energy Project in Indiana",
-      "url": "https://www.reddit.com/r/nuclear/comments/1x9x6i1/aep_xenergy_and_amazon_partner_to_explore/"
     },
     {
       "date": "2026-10-19",
@@ -145,6 +140,21 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-21",
+      "title": "Nuclear power now has bipartisan support",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xbvljj/nuclear_power_now_has_bipartisan_support/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Proposed Kansas nuclear reactor stock drops 50% after critical report calls it a 'money pit' • …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xbv2l9/proposed_kansas_nuclear_reactor_stock_drops_50/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xbr4vt/the_nuclear_company_proposes_66gw_ap1000_nuclear/"
+    },
     {
       "date": "2026-10-21",
       "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear R…",
@@ -187,8 +197,8 @@
     }
   ],
   "latest_date": "2026-10-21",
-  "count_7d": 28,
-  "count_today": 8,
+  "count_7d": 27,
+  "count_today": 11,
   "has_error": false,
   "error": null,
   "warning": null
