@@ -1,24 +1,8 @@
 {
-  "generated_at": "2026-10-22T06:30:19.977642+00:00",
+  "generated_at": "2026-10-22T12:53:19.874750+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
-    {
-      "story_id": "story-ae41af588aaa2cfd",
-      "title": "AEP, X-energy Eye 960-MW Nuclear Plant at Retired Indiana Coal Site, Backed by Amazon",
-      "representative_url": "https://www.powermag.com/aep-x-energy-eye-960-mw-nuclear-plant-at-retired-indiana-coal-site-backed-by-amazon/",
-      "first_published_at": "2026-10-19T13:59:58+00:00",
-      "sources": [
-        "powermag",
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 3,
-      "nuclear_score": 0.85,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "tech",
-      "score": 8.919102226839467
-    },
     {
       "story_id": "story-c012171d8da1ab43",
       "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
@@ -37,7 +21,7 @@
       "score": 7.869796082505412
     },
     {
-      "story_id": "story-d94724b39e781933",
+      "story_id": "story-564bf1d11d05cf39",
       "title": "Indiana Considering 6 GW CANDU Nuclear Project",
       "representative_url": "https://world-nuclear-news.org/articles/indiana-considering-6-gw-candu-nuclear-project",
       "first_published_at": "2026-10-20T13:54:28+00:00",
@@ -46,12 +30,28 @@
         "reddit_nuclear",
         "wnn"
       ],
-      "duplicate_count": 4,
+      "duplicate_count": 3,
       "nuclear_score": 0.6,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "community",
-      "score": 5.727106466687737
+      "score": 5.036669492803464
+    },
+    {
+      "story_id": "story-c1c57e447f9b2b5f",
+      "title": "DOE’s Latest Genesis Mission Awards Include Fusion and Radiation Technology Projects",
+      "representative_url": "https://www.ans.org/news/2026-10-21/article-8506/second-round-of-genesis-mission-selections-includes-12-phase-ii-awards/",
+      "first_published_at": "2026-10-21T14:28:03+00:00",
+      "sources": [
+        "nucleartownhall",
+        "ans_newswire"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "safety",
+      "score": 4.063553233343868
     },
     {
       "story_id": "story-ecf1efc9aa1c0f6e",
@@ -70,26 +70,10 @@
       "score": 4.063553233343868
     },
     {
-      "story_id": "story-b89966bb26cd2584",
-      "title": "Austrian Start-Up Pitches Container-Sized Thorium Reactor, With Storage Coming First",
-      "representative_url": "https://www.powermag.com/austrian-start-up-pitches-container-sized-thorium-reactor-with-storage-coming-first/",
-      "first_published_at": "2026-10-20T13:29:18+00:00",
-      "sources": [
-        "powermag",
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.45,
-      "source_tier": "general_media",
-      "source_tier_rank": 4,
-      "primary_section": "hot",
-      "score": 3.809581156259877
-    },
-    {
       "story_id": "story-fc46b4467ea6ea12",
       "title": "ROSS MATZKIN-BRIDGER, THE NATIONAL INTEREST: Why Spent Nuclear Fuel Reprocessing Is Recycling i…",
       "representative_url": "https://nationalinterest.org/blog/energy-world/why-spent-nuclear-fuel-reprocessing-is-recycling-in-name-only",
-      "first_published_at": "2026-10-22T06:30:19.977642+00:00",
+      "first_published_at": "2026-10-22T12:53:19.874750+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -104,7 +88,7 @@
       "story_id": "story-6ea9f35595d241f1",
       "title": "Global Nuclear Expansion Faces Uranium Supply Challenge as Existing Mines Decline: IAEA",
       "representative_url": "https://www.aninews.in/news/business/global-nuclear-expansion-faces-uranium-supply-challenge-as-existing-mines-decline-iaea20261018163620/",
-      "first_published_at": "2026-10-22T06:30:19.977642+00:00",
+      "first_published_at": "2026-10-22T12:53:19.874750+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -114,21 +98,6 @@
       "source_tier_rank": 3,
       "primary_section": "safety",
       "score": 3.6
-    },
-    {
-      "story_id": "story-8b522de79e12b82d",
-      "title": "Engineer at PWR vs. BWR",
-      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1xbyckd/engineer_at_pwr_vs_bwr/",
-      "first_published_at": "2026-10-21T20:23:45+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
     },
     {
       "story_id": "story-e6c8a71479af9114",
@@ -150,6 +119,36 @@
       "title": "Deep Fission signs 25-year power deal for planned Kansas nuclear project",
       "representative_url": "https://www.msn.com/en-us/money/general/deep-fission-signs-25-year-power-deal-for-planned-kansas-nuclear-project/ar-AA2fEDTy",
       "first_published_at": "2026-10-21T12:30:54+00:00",
+      "sources": [
+        "hn_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-9a41637a2d42389b",
+      "title": "New 3D-printing method could help build advanced nuclear reactors faster",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1xbfjdx/new_3dprinting_method_could_help_build_advanced/",
+      "first_published_at": "2026-10-21T06:21:46+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
+    },
+    {
+      "story_id": "story-4b1d4bbb8ebb6e89",
+      "title": "Gemini Argon shatters 59-year-old nuclear fusion conjecture in just a few hours",
+      "representative_url": "https://www.techradar.com/pro/its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-just-a-few-hours",
+      "first_published_at": "2026-10-20T13:00:20+00:00",
       "sources": [
         "hn_nuclear"
       ],

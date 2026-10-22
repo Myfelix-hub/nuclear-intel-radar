@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:30:19.977642+00:00",
+  "generated_at": "2026-10-22T12:53:19.874750+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -10,11 +10,6 @@
     },
     {
       "date": "2026-10-22",
-      "title": "200 militares de la UME ensayan una emergencia extrema en la central nuclear Vandellòs II",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xc95vz/200_militares_de_la_ume_ensayan_una_emergencia/"
-    },
-    {
-      "date": "2026-10-22",
       "title": "Gillette Targeted For Massive $575 Million Uranium Processing Plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1xc621g/gillette_targeted_for_massive_575_million_uranium/"
     },
@@ -22,11 +17,6 @@
       "date": "2026-10-21",
       "title": "New polling reveals majority of Australians support nuclear energy",
       "url": "https://www.reddit.com/r/nuclear/comments/1xc2ke7/new_polling_reveals_majority_of_australians/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Engineer at PWR vs. BWR",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xbyckd/engineer_at_pwr_vs_bwr/"
     },
     {
       "date": "2026-10-21",
@@ -55,11 +45,6 @@
     },
     {
       "date": "2026-10-21",
-      "title": "INVAP designed 4 of the 16 research reactors under construction worldwide",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xbnj81/invap_designed_4_of_the_16_research_reactors/"
-    },
-    {
-      "date": "2026-10-21",
       "title": "Will Uzbekistan’s Uranium Ambitions Pass the Acid Test?",
       "url": "https://www.reddit.com/r/nuclear/comments/1xbng3e/will_uzbekistans_uranium_ambitions_pass_the_acid/"
     },
@@ -75,18 +60,8 @@
     },
     {
       "date": "2026-10-21",
-      "title": "A recruiter from Constellation reached out for their trainee position 3 weeks ago, forwarded my…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xbl55p/a_recruiter_from_constellation_reached_out_for/"
-    },
-    {
-      "date": "2026-10-21",
       "title": "New 3D-printing method could help build advanced nuclear reactors faster",
       "url": "https://www.reddit.com/r/nuclear/comments/1xbfjdx/new_3dprinting_method_could_help_build_advanced/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Civil Discussion Please: Is Nuclear Operations a dead-end career?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xb69wl/civil_discussion_please_is_nuclear_operations_a/"
     },
     {
       "date": "2026-10-20",
@@ -95,33 +70,13 @@
     },
     {
       "date": "2026-10-20",
-      "title": "Indiana considering 6 GW Candu nuclear project",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xawmac/indiana_considering_6_gw_candu_nuclear_project/"
-    },
-    {
-      "date": "2026-10-20",
       "title": "AEP, X-energy Eye 960-MW Nuclear Plant at Retired Indiana Coal Site, Backed by Amazon",
       "url": "https://www.reddit.com/r/nuclear/comments/1xawgkn/aep_xenergy_eye_960mw_nuclear_plant_at_retired/"
     },
     {
       "date": "2026-10-20",
-      "title": "AEP, X-energy Eye 960-MW Nuclear Plant at Retired Indiana Coal Site, Backed by Amazon",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xawgg7/aep_xenergy_eye_960mw_nuclear_plant_at_retired/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Austrian Start-Up Pitches Container-Sized Thorium Reactor, With Storage Coming First",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xawcmb/austrian_startup_pitches_containersized_thorium/"
-    },
-    {
-      "date": "2026-10-20",
       "title": "Gemini Argon shatters 59-year-old nuclear fusion conjecture in just a few hours",
       "url": "https://www.techradar.com/pro/its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-just-a-few-hours"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "RBMK vibes",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xaq3mz/rbmk_vibes/"
     },
     {
       "date": "2026-10-20",
@@ -147,18 +102,13 @@
     },
     {
       "date": "2026-10-22",
-      "title": "200 militares de la UME ensayan una emergencia extrema en la central nuclear Vandellòs II",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xc95vz/200_militares_de_la_ume_ensayan_una_emergencia/"
-    },
-    {
-      "date": "2026-10-22",
       "title": "Gillette Targeted For Massive $575 Million Uranium Processing Plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1xc621g/gillette_targeted_for_massive_575_million_uranium/"
     }
   ],
   "latest_date": "2026-10-22",
-  "count_7d": 27,
-  "count_today": 3,
+  "count_7d": 18,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
