@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-21T22:37:38.759285+00:00",
+  "generated_at": "2026-10-22T01:23:56.732516+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-21",
+      "title": "New polling reveals majority of Australians support nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xc2ke7/new_polling_reveals_majority_of_australians/"
+    },
     {
       "date": "2026-10-21",
       "title": "Nuclear power now has bipartisan support",
@@ -87,9 +92,19 @@
       "date": "2026-10-16",
       "title": "US is reviving shuttered nuclear plants for (possibly) data centers demand",
       "url": "https://www.usnews.com/news/best-states/iowa/articles/2026-10-16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-21",
+      "title": "New polling reveals majority of Australians support nuclear energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xc2ke7/new_polling_reveals_majority_of_australians/"
+    },
     {
       "date": "2026-10-21",
       "title": "Nuclear power now has bipartisan support",
@@ -137,8 +152,8 @@
     }
   ],
   "latest_date": "2026-10-21",
-  "count_7d": 17,
-  "count_today": 9,
+  "count_7d": 19,
+  "count_today": 10,
   "has_error": false,
   "error": null,
   "warning": null
