@@ -19,19 +19,19 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 10,
+      "item_count": 11,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 12,
+      "item_count": 11,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -55,13 +55,13 @@
       "warning": null
     },
     {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
       "ok": true,
-      "item_count": 0,
+      "item_count": 3,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "warning": null
     },
     {
       "site_id": "wechat_cnnp",
@@ -154,10 +154,19 @@
       "warning": null
     },
     {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
-      "item_count": 3,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": true,
+      "item_count": 7,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -167,15 +176,6 @@
       "site_name": "ITER",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": true,
-      "item_count": 7,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -211,10 +211,10 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 0,
+      "item_count": 148,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
+      "warning": null
     },
     {
       "site_id": "nei_magazine",
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 2819,
+      "duration_ms": 3797,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 13,
-      "duration_ms": 5913,
+      "item_count": 22,
+      "duration_ms": 6200,
       "error": null,
       "warning": null
     }
@@ -328,8 +328,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 238,
-  "items_before_topic_filter": 238,
+  "fetched_raw_items": 395,
+  "items_before_topic_filter": 395,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},
