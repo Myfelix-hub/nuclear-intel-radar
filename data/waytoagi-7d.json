@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-22T17:54:55.383885+00:00",
+  "generated_at": "2026-10-22T21:25:04.089745+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-22",
+      "title": "Cassini (2012) took this photo using nuclear energy, while in Saturn's shadow for 12 hours",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xcrvkx/cassini_2012_took_this_photo_using_nuclear_energy/"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Worlds first licensed repository for spent nuclear fuel: Posiva - Finnish Government grants ope…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xcqxb0/worlds_first_licensed_repository_for_spent/"
+    },
     {
       "date": "2026-10-22",
       "title": "Damaged nuclear fuel assembly removed from Palisades reactor",
@@ -45,11 +55,6 @@
     },
     {
       "date": "2026-10-21",
-      "title": "INVAP designed 4 of the 16 research reactors under construction worldwide",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xbnkct/invap_designed_4_of_the_16_research_reactors/"
-    },
-    {
-      "date": "2026-10-21",
       "title": "Will Uzbekistan’s Uranium Ambitions Pass the Acid Test?",
       "url": "https://www.reddit.com/r/nuclear/comments/1xbng3e/will_uzbekistans_uranium_ambitions_pass_the_acid/"
     },
@@ -67,11 +72,6 @@
       "date": "2026-10-21",
       "title": "New 3D-printing method could help build advanced nuclear reactors faster",
       "url": "https://www.reddit.com/r/nuclear/comments/1xbfjdx/new_3dprinting_method_could_help_build_advanced/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Indiana considering 6 GW Candu nuclear project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xawmfs/indiana_considering_6_gw_candu_nuclear_project/"
     },
     {
       "date": "2026-10-20",
@@ -97,6 +97,16 @@
   "updates_today": [
     {
       "date": "2026-10-22",
+      "title": "Cassini (2012) took this photo using nuclear energy, while in Saturn's shadow for 12 hours",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xcrvkx/cassini_2012_took_this_photo_using_nuclear_energy/"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Worlds first licensed repository for spent nuclear fuel: Posiva - Finnish Government grants ope…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xcqxb0/worlds_first_licensed_repository_for_spent/"
+    },
+    {
+      "date": "2026-10-22",
       "title": "Damaged nuclear fuel assembly removed from Palisades reactor",
       "url": "https://www.reddit.com/r/nuclear/comments/1xcnq3n/damaged_nuclear_fuel_assembly_removed_from/"
     },
@@ -113,7 +123,7 @@
   ],
   "latest_date": "2026-10-22",
   "count_7d": 18,
-  "count_today": 3,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
