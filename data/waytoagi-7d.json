@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-22T21:25:04.089745+00:00",
+  "generated_at": "2026-10-23T00:06:10.937815+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-22",
+      "title": "US defense agency backs autonomously-controlled nuclear reactors for space missions",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xcxjyg/us_defense_agency_backs_autonomouslycontrolled/"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
+      "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Energy Westinghouse to build first nuclear fuel plant in 50 years to boost US reactor output",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xcx8d7/energy_westinghouse_to_build_first_nuclear_fuel/"
+    },
     {
       "date": "2026-10-22",
       "title": "Cassini (2012) took this photo using nuclear energy, while in Saturn's shadow for 12 hours",
@@ -50,11 +65,6 @@
     },
     {
       "date": "2026-10-21",
-      "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear R…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xbowdk/space_nuclear_power_corporation_awarded_darpa/"
-    },
-    {
-      "date": "2026-10-21",
       "title": "Will Uzbekistan’s Uranium Ambitions Pass the Acid Test?",
       "url": "https://www.reddit.com/r/nuclear/comments/1xbng3e/will_uzbekistans_uranium_ambitions_pass_the_acid/"
     },
@@ -67,11 +77,6 @@
       "date": "2026-10-21",
       "title": "Deep Fission signs 25-year power deal for planned Kansas nuclear project",
       "url": "https://www.msn.com/en-us/money/general/deep-fission-signs-25-year-power-deal-for-planned-kansas-nuclear-project/ar-AA2fEDTy"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "New 3D-printing method could help build advanced nuclear reactors faster",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xbfjdx/new_3dprinting_method_could_help_build_advanced/"
     },
     {
       "date": "2026-10-20",
@@ -95,6 +100,21 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-22",
+      "title": "US defense agency backs autonomously-controlled nuclear reactors for space missions",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xcxjyg/us_defense_agency_backs_autonomouslycontrolled/"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
+      "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Energy Westinghouse to build first nuclear fuel plant in 50 years to boost US reactor output",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xcx8d7/energy_westinghouse_to_build_first_nuclear_fuel/"
+    },
     {
       "date": "2026-10-22",
       "title": "Cassini (2012) took this photo using nuclear energy, while in Saturn's shadow for 12 hours",
@@ -122,8 +142,8 @@
     }
   ],
   "latest_date": "2026-10-22",
-  "count_7d": 18,
-  "count_today": 5,
+  "count_7d": 19,
+  "count_today": 8,
   "has_error": false,
   "error": null,
   "warning": null
