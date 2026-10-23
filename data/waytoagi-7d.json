@@ -1,77 +1,12 @@
 {
-  "generated_at": "2026-10-23T10:25:53.103510+00:00",
+  "generated_at": "2026-10-23T15:24:18.790120+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-10-23",
-      "title": "OPG firm joins UK BWRX-300 project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xczc3c/opg_firm_joins_uk_bwrx300_project/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "US defense agency backs autonomously-controlled nuclear reactors for space missions",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcxjyg/us_defense_agency_backs_autonomouslycontrolled/"
-    },
-    {
       "date": "2026-10-22",
       "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
       "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Energy Westinghouse to build first nuclear fuel plant in 50 years to boost US reactor output",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcx8d7/energy_westinghouse_to_build_first_nuclear_fuel/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Cassini (2012) took this photo using nuclear energy, while in Saturn's shadow for 12 hours",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcrvkx/cassini_2012_took_this_photo_using_nuclear_energy/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Worlds first licensed repository for spent nuclear fuel: Posiva - Finnish Government grants ope…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcqxb0/worlds_first_licensed_repository_for_spent/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Damaged nuclear fuel assembly removed from Palisades reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcnq3n/damaged_nuclear_fuel_assembly_removed_from/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Nuclear developments in Wyoming, Kentucky, and Louisiana",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcathh/nuclear_developments_in_wyoming_kentucky_and/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Gillette Targeted For Massive $575 Million Uranium Processing Plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xc621g/gillette_targeted_for_massive_575_million_uranium/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "New polling reveals majority of Australians support nuclear energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xc2ke7/new_polling_reveals_majority_of_australians/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Nuclear power now has bipartisan support",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xbvljj/nuclear_power_now_has_bipartisan_support/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Proposed Kansas nuclear reactor stock drops 50% after critical report calls it a 'money pit' • …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xbv2l9/proposed_kansas_nuclear_reactor_stock_drops_50/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xbr4vt/the_nuclear_company_proposes_66gw_ap1000_nuclear/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Britain was once the world’s leading nuclear power generator",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xbnc5p/britain_was_once_the_worlds_leading_nuclear_power/"
     },
     {
       "date": "2026-10-21",
@@ -101,13 +36,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-23",
-      "title": "OPG firm joins UK BWRX-300 project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xczc3c/opg_firm_joins_uk_bwrx300_project/"
+      "date": "2026-10-22",
+      "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
+      "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
     }
   ],
-  "latest_date": "2026-10-23",
-  "count_7d": 19,
+  "latest_date": "2026-10-22",
+  "count_7d": 6,
   "count_today": 1,
   "has_error": false,
   "error": null,
