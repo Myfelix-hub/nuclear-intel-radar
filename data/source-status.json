@@ -1,19 +1,10 @@
 {
   "sites": [
     {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
+      "site_id": "powermag",
+      "site_name": "POWER Magazine",
       "ok": true,
-      "item_count": 4,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
-      "ok": true,
-      "item_count": 4,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -37,10 +28,28 @@
       "warning": null
     },
     {
-      "site_id": "powermag",
-      "site_name": "POWER Magazine",
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
       "ok": true,
-      "item_count": 10,
+      "item_count": 4,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
+      "ok": true,
+      "item_count": 4,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -53,15 +62,6 @@
       "duration_ms": 0,
       "error": null,
       "warning": null
-    },
-    {
-      "site_id": "doe_ne",
-      "site_name": "US DOE Nuclear Energy",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "wechat_cnnp",
@@ -145,13 +145,13 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "doe_ne",
+      "site_name": "US DOE Nuclear Energy",
       "ok": true,
-      "item_count": 20,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "edf_nuclear",
@@ -211,10 +211,10 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 0,
+      "item_count": 146,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
+      "warning": null
     },
     {
       "site_id": "nei_magazine",
@@ -271,15 +271,6 @@
       "warning": null
     },
     {
-      "site_id": "rosatom",
-      "site_name": "Rosatom",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
-      "warning": null
-    },
-    {
       "site_id": "nuclear_net_cn",
       "site_name": "中国核网",
       "ok": true,
@@ -289,11 +280,20 @@
       "warning": null
     },
     {
+      "site_id": "rosatom",
+      "site_name": "Rosatom",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": "rosatom: all start_urls + Jina failed — https://en.rosatom.ru/news/: ConnectionError: HTTPSConnectionPool(host='en.rosatom.ru', port=443): Max retries exceeded with u || https://en.rosatom.ru/press-ce",
+      "warning": null
+    },
+    {
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 5,
-      "duration_ms": 3126,
+      "duration_ms": 2977,
       "error": null,
       "warning": null
     },
@@ -301,8 +301,8 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 19,
-      "duration_ms": 6485,
+      "item_count": 13,
+      "duration_ms": 6505,
       "error": null,
       "warning": null
     }
@@ -328,8 +328,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 232,
-  "items_before_topic_filter": 232,
+  "fetched_raw_items": 372,
+  "items_before_topic_filter": 372,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},

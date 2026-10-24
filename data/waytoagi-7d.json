@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:35:19.376124+00:00",
+  "generated_at": "2026-10-24T01:27:54.425514+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,11 +7,6 @@
       "date": "2026-10-23",
       "title": "Simulation of a Person Standing Next to an Old Spent Nuclear Fuel Assembly",
       "url": "https://www.reddit.com/r/nuclear/comments/1xdbkz8/simulation_of_a_person_standing_next_to_an_old/"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "More Nuclear Trivia Thursday",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xd0abn/more_nuclear_trivia_thursday/"
     },
     {
       "date": "2026-10-23",
@@ -45,18 +40,8 @@
     },
     {
       "date": "2026-10-22",
-      "title": "Damaged nuclear fuel assembly retrieved but criticism of Palisades restart plan escalates",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xcoz29/damaged_nuclear_fuel_assembly_retrieved_but/"
-    },
-    {
-      "date": "2026-10-22",
       "title": "Damaged nuclear fuel assembly removed from Palisades reactor",
       "url": "https://www.reddit.com/r/nuclear/comments/1xcnq3n/damaged_nuclear_fuel_assembly_removed_from/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Proposed Kansas nuclear reactor stock drops 50% after critical report calls it a ‘money pit’",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xci8di/proposed_kansas_nuclear_reactor_stock_drops_50/"
     },
     {
       "date": "2026-10-22",
@@ -75,11 +60,6 @@
     },
     {
       "date": "2026-10-21",
-      "title": "Engineer at PWR vs. BWR",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xbyckd/engineer_at_pwr_vs_bwr/"
-    },
-    {
-      "date": "2026-10-21",
       "title": "Nuclear power now has bipartisan support",
       "url": "https://www.reddit.com/r/nuclear/comments/1xbvljj/nuclear_power_now_has_bipartisan_support/"
     },
@@ -95,18 +75,8 @@
     },
     {
       "date": "2026-10-21",
-      "title": "INVAP designed 4 of the 16 research reactors under construction worldwide",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xbnj81/invap_designed_4_of_the_16_research_reactors/"
-    },
-    {
-      "date": "2026-10-21",
       "title": "Deep Fission signs 25-year power deal for planned Kansas nuclear project",
       "url": "https://www.msn.com/en-us/money/general/deep-fission-signs-25-year-power-deal-for-planned-kansas-nuclear-project/ar-AA2fEDTy"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "A recruiter from Constellation reached out for their trainee position 3 weeks ago, forwarded my…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xbl55p/a_recruiter_from_constellation_reached_out_for/"
     },
     {
       "date": "2026-10-20",
@@ -132,18 +102,13 @@
     },
     {
       "date": "2026-10-23",
-      "title": "More Nuclear Trivia Thursday",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xd0abn/more_nuclear_trivia_thursday/"
-    },
-    {
-      "date": "2026-10-23",
       "title": "OPG firm joins UK BWRX-300 project",
       "url": "https://www.reddit.com/r/nuclear/comments/1xczc3c/opg_firm_joins_uk_bwrx300_project/"
     }
   ],
   "latest_date": "2026-10-23",
-  "count_7d": 24,
-  "count_today": 3,
+  "count_7d": 18,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
