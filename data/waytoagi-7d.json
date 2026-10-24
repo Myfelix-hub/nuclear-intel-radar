@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-24T11:28:12.360557+00:00",
+  "generated_at": "2026-10-24T14:48:52.626677+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-24",
+      "title": "The solution to our HALEU supply is recycling naval used nuclear fuel",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xe6wmc/the_solution_to_our_haleu_supply_is_recycling/"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "The world is getting more of its electricity from renewables but less from nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xe6m9p/the_world_is_getting_more_of_its_electricity_from/"
+    },
     {
       "date": "2026-10-24",
       "title": "Nuclear Power Could More Than Triple by 2060, UN Agency Says",
@@ -54,11 +64,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xcathh/nuclear_developments_in_wyoming_kentucky_and/"
     },
     {
-      "date": "2026-10-22",
-      "title": "Gillette Targeted For Massive $575 Million Uranium Processing Plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xc621g/gillette_targeted_for_massive_575_million_uranium/"
-    },
-    {
       "date": "2026-10-21",
       "title": "New polling reveals majority of Australians support nuclear energy",
       "url": "https://www.reddit.com/r/nuclear/comments/1xc2ke7/new_polling_reveals_majority_of_australians/"
@@ -67,11 +72,6 @@
       "date": "2026-10-21",
       "title": "Nuclear power now has bipartisan support",
       "url": "https://www.reddit.com/r/nuclear/comments/1xbvljj/nuclear_power_now_has_bipartisan_support/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xbr4vt/the_nuclear_company_proposes_66gw_ap1000_nuclear/"
     },
     {
       "date": "2026-10-21",
@@ -97,13 +97,23 @@
   "updates_today": [
     {
       "date": "2026-10-24",
+      "title": "The solution to our HALEU supply is recycling naval used nuclear fuel",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xe6wmc/the_solution_to_our_haleu_supply_is_recycling/"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "The world is getting more of its electricity from renewables but less from nuclear power",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xe6m9p/the_world_is_getting_more_of_its_electricity_from/"
+    },
+    {
+      "date": "2026-10-24",
       "title": "Nuclear Power Could More Than Triple by 2060, UN Agency Says",
       "url": "https://www.reddit.com/r/nuclear/comments/1xdz3tv/nuclear_power_could_more_than_triple_by_2060_un/"
     }
   ],
   "latest_date": "2026-10-24",
   "count_7d": 18,
-  "count_today": 1,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
