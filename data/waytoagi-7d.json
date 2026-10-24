@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-24T01:27:54.425514+00:00",
+  "generated_at": "2026-10-24T06:23:05.606531+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-24",
+      "title": "Nuclear Power Could More Than Triple by 2060, UN Agency Says",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xdz3tv/nuclear_power_could_more_than_triple_by_2060_un/"
+    },
     {
       "date": "2026-10-23",
       "title": "Simulation of a Person Standing Next to an Old Spent Nuclear Fuel Assembly",
@@ -65,11 +70,6 @@
     },
     {
       "date": "2026-10-21",
-      "title": "Proposed Kansas nuclear reactor stock drops 50% after critical report calls it a 'money pit' • …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xbv2l9/proposed_kansas_nuclear_reactor_stock_drops_50/"
-    },
-    {
-      "date": "2026-10-21",
       "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
       "url": "https://www.reddit.com/r/nuclear/comments/1xbr4vt/the_nuclear_company_proposes_66gw_ap1000_nuclear/"
     },
@@ -96,19 +96,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-23",
-      "title": "Simulation of a Person Standing Next to an Old Spent Nuclear Fuel Assembly",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xdbkz8/simulation_of_a_person_standing_next_to_an_old/"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "OPG firm joins UK BWRX-300 project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xczc3c/opg_firm_joins_uk_bwrx300_project/"
+      "date": "2026-10-24",
+      "title": "Nuclear Power Could More Than Triple by 2060, UN Agency Says",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xdz3tv/nuclear_power_could_more_than_triple_by_2060_un/"
     }
   ],
-  "latest_date": "2026-10-23",
+  "latest_date": "2026-10-24",
   "count_7d": 18,
-  "count_today": 2,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
