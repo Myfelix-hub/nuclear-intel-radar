@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-10-24T23:34:21.508677+00:00",
+  "generated_at": "2026-10-25T04:17:16.359686+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-10-24",
-      "title": "Returning to Nuclear Power",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xekigg/returning_to_nuclear_power/"
-    },
-    {
-      "date": "2026-10-24",
       "title": "14,000 tonnes of radioactive metal to be mined in South Africa for new nuclear power stations",
       "url": "https://www.reddit.com/r/nuclear/comments/1xeg1pm/14000_tonnes_of_radioactive_metal_to_be_mined_in/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "🇮🇳 Bharat Ki Nuclear Energy Mein Badi Chhalang! PFBR Reactor Kya Hai? 🔥 ...",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xe9p9u/bharat_ki_nuclear_energy_mein_badi_chhalang_pfbr/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Exploring Career Opportunities in Nuclear",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xe9d7j/exploring_career_opportunities_in_nuclear/"
     },
     {
       "date": "2026-10-24",
@@ -37,11 +22,6 @@
       "date": "2026-10-23",
       "title": "Simulation of a Person Standing Next to an Old Spent Nuclear Fuel Assembly",
       "url": "https://www.reddit.com/r/nuclear/comments/1xdbkz8/simulation_of_a_person_standing_next_to_an_old/"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "More Nuclear Trivia Thursday",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xd0abn/more_nuclear_trivia_thursday/"
     },
     {
       "date": "2026-10-23",
@@ -75,23 +55,8 @@
     },
     {
       "date": "2026-10-22",
-      "title": "Damaged nuclear fuel assembly retrieved but criticism of Palisades restart plan escalates",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xcoz29/damaged_nuclear_fuel_assembly_retrieved_but/"
-    },
-    {
-      "date": "2026-10-22",
       "title": "Damaged nuclear fuel assembly removed from Palisades reactor",
       "url": "https://www.reddit.com/r/nuclear/comments/1xcnq3n/damaged_nuclear_fuel_assembly_removed_from/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Proposed Kansas nuclear reactor stock drops 50% after critical report calls it a ‘money pit’",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xci8di/proposed_kansas_nuclear_reactor_stock_drops_50/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Gillette Targeted For Massive $575 Million Uranium Processing Plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xc621g/gillette_targeted_for_massive_575_million_uranium/"
     },
     {
       "date": "2026-10-21",
@@ -117,23 +82,8 @@
   "updates_today": [
     {
       "date": "2026-10-24",
-      "title": "Returning to Nuclear Power",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xekigg/returning_to_nuclear_power/"
-    },
-    {
-      "date": "2026-10-24",
       "title": "14,000 tonnes of radioactive metal to be mined in South Africa for new nuclear power stations",
       "url": "https://www.reddit.com/r/nuclear/comments/1xeg1pm/14000_tonnes_of_radioactive_metal_to_be_mined_in/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "🇮🇳 Bharat Ki Nuclear Energy Mein Badi Chhalang! PFBR Reactor Kya Hai? 🔥 ...",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xe9p9u/bharat_ki_nuclear_energy_mein_badi_chhalang_pfbr/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Exploring Career Opportunities in Nuclear",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xe9d7j/exploring_career_opportunities_in_nuclear/"
     },
     {
       "date": "2026-10-24",
@@ -147,8 +97,8 @@
     }
   ],
   "latest_date": "2026-10-24",
-  "count_7d": 22,
-  "count_today": 6,
+  "count_7d": 15,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
