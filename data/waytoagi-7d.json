@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-25T17:32:29.440193+00:00",
+  "generated_at": "2026-10-25T20:41:28.203276+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-25",
+      "title": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xf976a/the_us_military_and_nasa_have_power_problems/"
+    },
     {
       "date": "2026-10-25",
       "title": "The Navy is putting a 70-ton reactor that ships in a 35-foot container and runs five years on o…",
@@ -49,16 +54,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xcx8d7/energy_westinghouse_to_build_first_nuclear_fuel/"
     },
     {
-      "date": "2026-10-22",
-      "title": "Cassini (2012) took this photo using nuclear energy, while in Saturn's shadow for 12 hours",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcrvkx/cassini_2012_took_this_photo_using_nuclear_energy/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Worlds first licensed repository for spent nuclear fuel: Posiva - Finnish Government grants ope…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcqxb0/worlds_first_licensed_repository_for_spent/"
-    },
-    {
       "date": "2026-10-21",
       "title": "Deep Fission signs 25-year power deal for planned Kansas nuclear project",
       "url": "https://www.msn.com/en-us/money/general/deep-fission-signs-25-year-power-deal-for-planned-kansas-nuclear-project/ar-AA2fEDTy"
@@ -82,13 +77,18 @@
   "updates_today": [
     {
       "date": "2026-10-25",
+      "title": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xf976a/the_us_military_and_nasa_have_power_problems/"
+    },
+    {
+      "date": "2026-10-25",
       "title": "The Navy is putting a 70-ton reactor that ships in a 35-foot container and runs five years on o…",
       "url": "https://www.reddit.com/r/nuclear/comments/1xetv1k/the_navy_is_putting_a_70ton_reactor_that_ships_in/"
     }
   ],
   "latest_date": "2026-10-25",
-  "count_7d": 15,
-  "count_today": 1,
+  "count_7d": 14,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
