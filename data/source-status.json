@@ -1,31 +1,13 @@
 {
   "sites": [
     {
-      "site_id": "arxiv_insdet",
-      "site_name": "arXiv ins-det",
+      "site_id": "neutronbytes",
+      "site_name": "Neutron Bytes",
       "ok": true,
-      "item_count": 0,
+      "item_count": 4,
       "duration_ms": 0,
       "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "arxiv_nuclex",
-      "site_name": "arXiv nucl-ex",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
-    },
-    {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": null,
-      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+      "warning": null
     },
     {
       "site_id": "powermag",
@@ -46,13 +28,31 @@
       "warning": null
     },
     {
-      "site_id": "iaea_news",
-      "site_name": "IAEA News",
+      "site_id": "arxiv_nuclex",
+      "site_name": "arXiv nucl-ex",
       "ok": true,
-      "item_count": 20,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_insdet",
+      "site_name": "arXiv ins-det",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
+    },
+    {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 0,
+      "error": null,
+      "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
       "site_id": "doe_ne",
@@ -145,10 +145,37 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
+      "site_id": "iaea_news",
+      "site_name": "IAEA News",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "edf_nuclear",
       "site_name": "EDF",
       "ok": true,
       "item_count": 4,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "wnn",
+      "site_name": "World Nuclear News",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
+      "site_id": "nucnet",
+      "site_name": "NucNet",
+      "ok": true,
+      "item_count": 9,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -172,33 +199,6 @@
       "warning": "fetched ok but 0 items (silent zero — feed empty, all entries filtered, or no XML body parsed)"
     },
     {
-      "site_id": "nucnet",
-      "site_name": "NucNet",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "wnn",
-      "site_name": "World Nuclear News",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "neutronbytes: RSS fetch failed — RetryError: HTTPSConnectionPool(host='neutronbytes.com', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error responses'))",
-      "warning": null
-    },
-    {
       "site_id": "eurofusion",
       "site_name": "EUROfusion",
       "ok": false,
@@ -211,10 +211,10 @@
       "site_id": "nucleartownhall",
       "site_name": "Nuclear Town Hall",
       "ok": true,
-      "item_count": 146,
+      "item_count": 0,
       "duration_ms": 0,
       "error": null,
-      "warning": null
+      "warning": "fetched ok but 0 items (silent zero — page parsed but no links matched selector)"
     },
     {
       "site_id": "nei_magazine",
@@ -293,7 +293,7 @@
       "site_name": "HN Nuclear",
       "ok": true,
       "item_count": 5,
-      "duration_ms": 3130,
+      "duration_ms": 2820,
       "error": null,
       "warning": null
     },
@@ -301,23 +301,14 @@
       "site_id": "reddit_nuclear",
       "site_name": "Reddit Nuclear",
       "ok": true,
-      "item_count": 11,
-      "duration_ms": 6715,
+      "item_count": 10,
+      "duration_ms": 5602,
       "error": null,
       "warning": null
     }
   ],
-  "successful_sites": 31,
+  "successful_sites": 32,
   "failed_sites": [
-    {
-      "site_id": "neutronbytes",
-      "site_name": "Neutron Bytes",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 0,
-      "error": "neutronbytes: RSS fetch failed — RetryError: HTTPSConnectionPool(host='neutronbytes.com', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error responses'))",
-      "warning": null
-    },
     {
       "site_id": "eurofusion",
       "site_name": "EUROfusion",
@@ -337,8 +328,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 335,
-  "items_before_topic_filter": 335,
+  "fetched_raw_items": 192,
+  "items_before_topic_filter": 192,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},

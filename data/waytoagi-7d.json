@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:52:13.099028+00:00",
+  "generated_at": "2026-10-25T17:32:29.440193+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -59,11 +59,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xcqxb0/worlds_first_licensed_repository_for_spent/"
     },
     {
-      "date": "2026-10-22",
-      "title": "Damaged nuclear fuel assembly removed from Palisades reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcnq3n/damaged_nuclear_fuel_assembly_removed_from/"
-    },
-    {
       "date": "2026-10-21",
       "title": "Deep Fission signs 25-year power deal for planned Kansas nuclear project",
       "url": "https://www.msn.com/en-us/money/general/deep-fission-signs-25-year-power-deal-for-planned-kansas-nuclear-project/ar-AA2fEDTy"
@@ -92,7 +87,7 @@
     }
   ],
   "latest_date": "2026-10-25",
-  "count_7d": 16,
+  "count_7d": 15,
   "count_today": 1,
   "has_error": false,
   "error": null,
