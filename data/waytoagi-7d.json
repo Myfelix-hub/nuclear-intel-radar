@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-25T04:17:16.359686+00:00",
+  "generated_at": "2026-10-25T09:19:08.999181+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-25",
+      "title": "The Navy is putting a 70-ton reactor that ships in a 35-foot container and runs five years on o…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xetv1k/the_navy_is_putting_a_70ton_reactor_that_ships_in/"
+    },
     {
       "date": "2026-10-24",
       "title": "14,000 tonnes of radioactive metal to be mined in South Africa for new nuclear power stations",
@@ -81,24 +86,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-24",
-      "title": "14,000 tonnes of radioactive metal to be mined in South Africa for new nuclear power stations",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xeg1pm/14000_tonnes_of_radioactive_metal_to_be_mined_in/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "The solution to our HALEU supply is recycling naval used nuclear fuel",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xe6wmc/the_solution_to_our_haleu_supply_is_recycling/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "The world is getting more of its electricity from renewables but less from nuclear power",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xe6m9p/the_world_is_getting_more_of_its_electricity_from/"
+      "date": "2026-10-25",
+      "title": "The Navy is putting a 70-ton reactor that ships in a 35-foot container and runs five years on o…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xetv1k/the_navy_is_putting_a_70ton_reactor_that_ships_in/"
     }
   ],
-  "latest_date": "2026-10-24",
-  "count_7d": 15,
-  "count_today": 3,
+  "latest_date": "2026-10-25",
+  "count_7d": 16,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
