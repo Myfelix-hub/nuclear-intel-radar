@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:41:28.203276+00:00",
+  "generated_at": "2026-10-25T23:07:40.196954+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -40,18 +40,8 @@
     },
     {
       "date": "2026-10-22",
-      "title": "US defense agency backs autonomously-controlled nuclear reactors for space missions",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcxjyg/us_defense_agency_backs_autonomouslycontrolled/"
-    },
-    {
-      "date": "2026-10-22",
       "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
       "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Energy Westinghouse to build first nuclear fuel plant in 50 years to boost US reactor output",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xcx8d7/energy_westinghouse_to_build_first_nuclear_fuel/"
     },
     {
       "date": "2026-10-21",
@@ -87,7 +77,7 @@
     }
   ],
   "latest_date": "2026-10-25",
-  "count_7d": 14,
+  "count_7d": 12,
   "count_today": 2,
   "has_error": false,
   "error": null,
