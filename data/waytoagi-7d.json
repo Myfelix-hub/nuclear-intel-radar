@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:40:02.165989+00:00",
+  "generated_at": "2026-10-26T15:04:14.968920+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -34,11 +34,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xe6m9p/the_world_is_getting_more_of_its_electricity_from/"
     },
     {
-      "date": "2026-10-23",
-      "title": "Simulation of a Person Standing Next to an Old Spent Nuclear Fuel Assembly",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xdbkz8/simulation_of_a_person_standing_next_to_an_old/"
-    },
-    {
       "date": "2026-10-22",
       "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
       "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
@@ -57,11 +52,6 @@
       "date": "2026-10-20",
       "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant\\",
       "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
-    },
-    {
-      "date": "2026-10-19",
-      "title": "3 shuttered nuclear plants could soon power homes, AI data centers",
-      "url": "https://www.msn.com/en-us/money/general/three-shuttered-nuclear-plants-could-soon-power-millions-of-homes-and-ai-data-centers/ar-AA2eolqr"
     }
   ],
   "updates_today": [
@@ -72,7 +62,7 @@
     }
   ],
   "latest_date": "2026-10-26",
-  "count_7d": 12,
+  "count_7d": 10,
   "count_today": 1,
   "has_error": false,
   "error": null,

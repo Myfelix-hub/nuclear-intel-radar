@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:40:02.165989+00:00",
+  "generated_at": "2026-10-26T15:04:14.968920+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -7,7 +7,7 @@
       "story_id": "story-19301121fcaa751b",
       "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
       "representative_url": "https://www.powermag.com/the-nuclear-company-proposes-6-6-gw-ap1000-nuclear-campus-in-kentucky/",
-      "first_published_at": "2026-10-26T07:40:02.165989+00:00",
+      "first_published_at": "2026-10-26T15:04:14.968920+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -19,25 +19,42 @@
       "score": 4.063553233343868
     },
     {
-      "story_id": "story-fc46b4467ea6ea12",
-      "title": "ROSS MATZKIN-BRIDGER, THE NATIONAL INTEREST: Why Spent Nuclear Fuel Reprocessing Is Recycling i…",
-      "representative_url": "https://nationalinterest.org/blog/energy-world/why-spent-nuclear-fuel-reprocessing-is-recycling-in-name-only",
-      "first_published_at": "2026-10-26T07:40:02.165989+00:00",
+      "story_id": "story-04ccacf38ee6f213",
+      "title": "Nuclear Developers Pursue Reactor Sites and Customers in Indiana and Kentucky",
+      "representative_url": "https://neutronbytes.com/2026/10/24/nuclear-reactor-developers-target-indiana-kentucky-for-sites-and-customers/",
+      "first_published_at": "2026-10-24T19:46:27+00:00",
       "sources": [
-        "nucleartownhall"
+        "nucleartownhall",
+        "neutronbytes"
       ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 3.6
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-34183405c5dfadf6",
+      "title": "NRC and FERC Discuss Nuclear Restarts, Grid Reliability and Rising Power Demand",
+      "representative_url": "https://www.ans.org/news/2026-10-23/article-8516/nrc-hosts-ferc-for-joint-meeting-on-nuclear-generation-grid-reliability/",
+      "first_published_at": "2026-10-23T20:09:18+00:00",
+      "sources": [
+        "nucleartownhall",
+        "ans_newswire"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
     },
     {
       "story_id": "story-a5bfe82faebcc821",
       "title": "Dairyland Power Cooperative Evaluates Nuclear Return to Genoa Site with Small Modular Reactor A…",
       "representative_url": "https://vernonreporter.com/dairyland-power-cooperative-evaluates-nuclear-return-to-genoa-site-with-small-modular-reactor-agreement/",
-      "first_published_at": "2026-10-26T07:40:02.165989+00:00",
+      "first_published_at": "2026-10-26T15:04:14.968920+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -52,7 +69,7 @@
       "story_id": "story-dc5a665be7a43653",
       "title": "Vermont Considers Small Modular Reactor at Former Vermont Yankee Nuclear Plant Site",
       "representative_url": "https://vtdigger.org/2026/10/22/could-nuclear-power-return-to-vernon/",
-      "first_published_at": "2026-10-26T07:40:02.165989+00:00",
+      "first_published_at": "2026-10-26T15:04:14.968920+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -61,21 +78,6 @@
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "tech",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-6ea9f35595d241f1",
-      "title": "Global Nuclear Expansion Faces Uranium Supply Challenge as Existing Mines Decline: IAEA",
-      "representative_url": "https://www.aninews.in/news/business/global-nuclear-expansion-faces-uranium-supply-challenge-as-existing-mines-decline-iaea20261018163620/",
-      "first_published_at": "2026-10-26T07:40:02.165989+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "safety",
       "score": 3.6
     },
     {
@@ -142,7 +144,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-26T07:40:02.165989+00:00",
+      "first_published_at": "2026-10-26T15:04:14.968920+00:00",
       "sources": [
         "oklo"
       ],
