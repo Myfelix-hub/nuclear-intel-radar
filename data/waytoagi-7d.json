@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:32:33.264282+00:00",
+  "generated_at": "2026-10-26T07:40:02.165989+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,11 +7,6 @@
       "date": "2026-10-26",
       "title": "Scientists Discover a Surprising Shortcut to Nuclear Fusion",
       "url": "https://scitechdaily.com/scientists-discover-a-surprising-shortcut-to-nuclear-fusion/"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Nuclear Investing Podcast #28: Who's Most Exposed in the Nuclear Sell-Off?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xfi7h5/nuclear_investing_podcast_28_whos_most_exposed_in/"
     },
     {
       "date": "2026-10-25",
@@ -74,16 +69,11 @@
       "date": "2026-10-26",
       "title": "Scientists Discover a Surprising Shortcut to Nuclear Fusion",
       "url": "https://scitechdaily.com/scientists-discover-a-surprising-shortcut-to-nuclear-fusion/"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Nuclear Investing Podcast #28: Who's Most Exposed in the Nuclear Sell-Off?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xfi7h5/nuclear_investing_podcast_28_whos_most_exposed_in/"
     }
   ],
   "latest_date": "2026-10-26",
-  "count_7d": 13,
-  "count_today": 2,
+  "count_7d": 12,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
