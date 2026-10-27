@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-10-26T20:41:38.687117+00:00",
+  "generated_at": "2026-10-27T00:19:13.997089+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-19301121fcaa751b",
+      "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
+      "representative_url": "https://www.powermag.com/the-nuclear-company-proposes-6-6-gw-ap1000-nuclear-campus-in-kentucky/",
+      "first_published_at": "2026-10-27T00:19:13.997089+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-04ccacf38ee6f213",
+      "title": "Nuclear Developers Pursue Reactor Sites and Customers in Indiana and Kentucky",
+      "representative_url": "https://neutronbytes.com/2026/10/24/nuclear-reactor-developers-target-indiana-kentucky-for-sites-and-customers/",
+      "first_published_at": "2026-10-24T19:46:27+00:00",
+      "sources": [
+        "nucleartownhall",
+        "neutronbytes"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-a5bfe82faebcc821",
+      "title": "Dairyland Power Cooperative Evaluates Nuclear Return to Genoa Site with Small Modular Reactor A…",
+      "representative_url": "https://vernonreporter.com/dairyland-power-cooperative-evaluates-nuclear-return-to-genoa-site-with-small-modular-reactor-agreement/",
+      "first_published_at": "2026-10-27T00:19:13.997089+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-dc5a665be7a43653",
+      "title": "Vermont Considers Small Modular Reactor at Former Vermont Yankee Nuclear Plant Site",
+      "representative_url": "https://vtdigger.org/2026/10/22/could-nuclear-power-return-to-vernon/",
+      "first_published_at": "2026-10-27T00:19:13.997089+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
+      "score": 3.6
+    },
     {
       "story_id": "story-775dd78b707209db",
       "title": "Scientists Discover a Surprising Shortcut to Nuclear Fusion",
@@ -67,7 +128,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-26T20:41:38.687117+00:00",
+      "first_published_at": "2026-10-27T00:19:13.997089+00:00",
       "sources": [
         "oklo"
       ],
@@ -79,79 +140,19 @@
       "score": 3.0
     },
     {
-      "story_id": "story-4eb0bc894c8c487d",
-      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
-      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-10-26T20:41:38.687117+00:00",
+      "story_id": "story-d371ed6c7950257b",
+      "title": "NRC, FERC Commissioners to Meet Oct. 22 to Discuss Grid Reliability, Nuclear Power Plants, and …",
+      "representative_url": "https://content.govdelivery.com/accounts/USNRC/bulletins/42fd94c",
+      "first_published_at": "2026-10-27T00:19:13.997089+00:00",
       "sources": [
-        "oklo"
+        "nucleartownhall"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "hot",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-e8d9b69bff65b6d5",
-      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
-      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-10-26T20:41:38.687117+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-683c02d9e8a3afb3",
-      "title": "Producing a 1960s Molten Salt Coolant for 21st Century Reactors",
-      "representative_url": "https://www.kairospower.com/updates/producing-a-1960s-molten-salt-coolant-for-21st-century-reactors",
-      "first_published_at": "2026-10-26T20:41:38.687117+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-4cac66c6fef215a4",
-      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
-      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-10-26T20:41:38.687117+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-ec275d024c79f1bd",
-      "title": "中核集团人事密集调整！涉及江苏核电等！",
-      "representative_url": "http://www.nuclear.net.cn/portal.php?mod=view&aid=17540",
-      "first_published_at": "2026-10-26T20:41:38.687117+00:00",
-      "sources": [
-        "nuclear_net_cn"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
+      "nuclear_score": 0.7,
       "source_tier": "aggregator",
       "source_tier_rank": 3,
-      "primary_section": "china",
-      "score": 2.4
+      "primary_section": "community",
+      "score": 2.8
     }
   ]
 }
