@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-27T00:19:13.997089+00:00",
+  "generated_at": "2026-10-27T05:27:57.642099+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-27",
+      "title": "Steps in Nuclear Power.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xgdy25/steps_in_nuclear_power/"
+    },
     {
       "date": "2026-10-26",
       "title": "Nuclear Science & Engineering Network [NSEN]",
@@ -66,24 +71,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-26",
-      "title": "Nuclear Science & Engineering Network [NSEN]",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xg8l44/nuclear_science_engineering_network_nsen/"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Regulatory milestone for US laser enrichment plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xg6mof/regulatory_milestone_for_us_laser_enrichment_plant/"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Scientists Discover a Surprising Shortcut to Nuclear Fusion",
-      "url": "https://scitechdaily.com/scientists-discover-a-surprising-shortcut-to-nuclear-fusion/"
+      "date": "2026-10-27",
+      "title": "Steps in Nuclear Power.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xgdy25/steps_in_nuclear_power/"
     }
   ],
-  "latest_date": "2026-10-26",
-  "count_7d": 12,
-  "count_today": 3,
+  "latest_date": "2026-10-27",
+  "count_7d": 13,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
