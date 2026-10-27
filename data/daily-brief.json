@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-27T05:27:57.642099+00:00",
+  "generated_at": "2026-10-27T10:52:20.418933+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
+      "story_id": "story-dc60b112416de95d",
+      "title": "🇮🇳 Bharat Ki Nuclear Energy Mein Badi Chhalang! PFBR Reactor Kya Hai? 🔥 ...",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1xe9p9u/bharat_ki_nuclear_energy_mein_badi_chhalang_pfbr/",
+      "first_published_at": "2026-10-24T14:11:58+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 4.199999999999999
+    },
+    {
       "story_id": "story-19301121fcaa751b",
       "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
       "representative_url": "https://www.powermag.com/the-nuclear-company-proposes-6-6-gw-ap1000-nuclear-campus-in-kentucky/",
-      "first_published_at": "2026-10-27T05:27:57.642099+00:00",
+      "first_published_at": "2026-10-27T10:52:20.418933+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -38,7 +53,7 @@
       "story_id": "story-a5bfe82faebcc821",
       "title": "Dairyland Power Cooperative Evaluates Nuclear Return to Genoa Site with Small Modular Reactor A…",
       "representative_url": "https://vernonreporter.com/dairyland-power-cooperative-evaluates-nuclear-return-to-genoa-site-with-small-modular-reactor-agreement/",
-      "first_published_at": "2026-10-27T05:27:57.642099+00:00",
+      "first_published_at": "2026-10-27T10:52:20.418933+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -53,7 +68,7 @@
       "story_id": "story-dc5a665be7a43653",
       "title": "Vermont Considers Small Modular Reactor at Former Vermont Yankee Nuclear Plant Site",
       "representative_url": "https://vtdigger.org/2026/10/22/could-nuclear-power-return-to-vernon/",
-      "first_published_at": "2026-10-27T05:27:57.642099+00:00",
+      "first_published_at": "2026-10-27T10:52:20.418933+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -128,7 +143,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-10-27T05:27:57.642099+00:00",
+      "first_published_at": "2026-10-27T10:52:20.418933+00:00",
       "sources": [
         "oklo"
       ],
@@ -138,21 +153,6 @@
       "source_tier_rank": 2,
       "primary_section": "tech",
       "score": 3.0
-    },
-    {
-      "story_id": "story-d371ed6c7950257b",
-      "title": "NRC, FERC Commissioners to Meet Oct. 22 to Discuss Grid Reliability, Nuclear Power Plants, and …",
-      "representative_url": "https://content.govdelivery.com/accounts/USNRC/bulletins/42fd94c",
-      "first_published_at": "2026-10-27T05:27:57.642099+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 2.8
     }
   ]
 }
