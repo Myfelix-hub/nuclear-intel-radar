@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-27T20:53:04.995049+00:00",
+  "generated_at": "2026-10-28T00:22:58.085635+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-27",
+      "title": "Constellation Secures Conditional DOE Loan Commitment of up to $5 Billion to Expand Nuclear Out…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xh87vl/constellation_secures_conditional_doe_loan/"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "What are some books, websites, question papers for a person wanting to study university level o…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xh6acz/what_are_some_books_websites_question_papers_for/"
+    },
     {
       "date": "2026-10-27",
       "title": "The reactor meant to showcase nuclear's comeback keeps hitting problems",
@@ -57,6 +67,16 @@
   "updates_today": [
     {
       "date": "2026-10-27",
+      "title": "Constellation Secures Conditional DOE Loan Commitment of up to $5 Billion to Expand Nuclear Out…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xh87vl/constellation_secures_conditional_doe_loan/"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "What are some books, websites, question papers for a person wanting to study university level o…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xh6acz/what_are_some_books_websites_question_papers_for/"
+    },
+    {
+      "date": "2026-10-27",
       "title": "The reactor meant to showcase nuclear's comeback keeps hitting problems",
       "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
     },
@@ -72,8 +92,8 @@
     }
   ],
   "latest_date": "2026-10-27",
-  "count_7d": 10,
-  "count_today": 3,
+  "count_7d": 12,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
