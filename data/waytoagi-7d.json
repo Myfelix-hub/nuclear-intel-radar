@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-28T19:02:37.930466+00:00",
+  "generated_at": "2026-10-28T23:26:45.706251+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-28",
+      "title": "US screens 724 metal mixtures to develop new nuclear reactor alloy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhzg22/us_screens_724_metal_mixtures_to_develop_new/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Schwab | Zook: Today \"Best Opportunity\" for Energy, Names OKLO & SPCX Top Stock Picks",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhxsal/schwab_zook_today_best_opportunity_for_energy/"
+    },
     {
       "date": "2026-10-28",
       "title": "The AI Power Paradox: Why Big Tech Is Reopening Dead Nuclear Plants and Buying Up Geothermal St…",
@@ -50,11 +60,6 @@
     },
     {
       "date": "2026-10-26",
-      "title": "Nuclear Science & Engineering Network [NSEN]",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xg8l44/nuclear_science_engineering_network_nsen/"
-    },
-    {
-      "date": "2026-10-26",
       "title": "Regulatory milestone for US laser enrichment plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1xg6mof/regulatory_milestone_for_us_laser_enrichment_plant/"
     },
@@ -70,6 +75,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-10-28",
+      "title": "US screens 724 metal mixtures to develop new nuclear reactor alloy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhzg22/us_screens_724_metal_mixtures_to_develop_new/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Schwab | Zook: Today \"Best Opportunity\" for Energy, Names OKLO & SPCX Top Stock Picks",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhxsal/schwab_zook_today_best_opportunity_for_energy/"
+    },
     {
       "date": "2026-10-28",
       "title": "The AI Power Paradox: Why Big Tech Is Reopening Dead Nuclear Plants and Buying Up Geothermal St…",
@@ -92,8 +107,8 @@
     }
   ],
   "latest_date": "2026-10-28",
-  "count_7d": 13,
-  "count_today": 4,
+  "count_7d": 14,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
