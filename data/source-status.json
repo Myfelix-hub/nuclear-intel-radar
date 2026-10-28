@@ -19,15 +19,6 @@
       "warning": null
     },
     {
-      "site_id": "arxiv_nuclth",
-      "site_name": "arXiv nucl-th",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 0,
-      "error": null,
-      "warning": null
-    },
-    {
       "site_id": "arxiv_insdet",
       "site_name": "arXiv ins-det",
       "ok": true,
@@ -55,10 +46,19 @@
       "warning": null
     },
     {
+      "site_id": "arxiv_nuclth",
+      "site_name": "arXiv nucl-th",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null,
+      "warning": null
+    },
+    {
       "site_id": "iaea_news",
       "site_name": "IAEA News",
       "ok": true,
-      "item_count": 17,
+      "item_count": 16,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -172,19 +172,19 @@
       "warning": null
     },
     {
-      "site_id": "wnn",
-      "site_name": "World Nuclear News",
+      "site_id": "edf_nuclear",
+      "site_name": "EDF",
       "ok": true,
-      "item_count": 20,
+      "item_count": 5,
       "duration_ms": 0,
       "error": null,
       "warning": null
     },
     {
-      "site_id": "edf_nuclear",
-      "site_name": "EDF",
+      "site_id": "wnn",
+      "site_name": "World Nuclear News",
       "ok": true,
-      "item_count": 4,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null,
       "warning": null
@@ -292,8 +292,8 @@
       "site_id": "hn_nuclear",
       "site_name": "HN Nuclear",
       "ok": true,
-      "item_count": 4,
-      "duration_ms": 7847,
+      "item_count": 3,
+      "duration_ms": 2835,
       "error": null,
       "warning": null
     },
@@ -302,7 +302,7 @@
       "site_name": "Reddit Nuclear",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 5793,
+      "duration_ms": 5980,
       "error": null,
       "warning": null
     }
@@ -328,8 +328,8 @@
       "warning": null
     }
   ],
-  "fetched_raw_items": 374,
-  "items_before_topic_filter": 374,
+  "fetched_raw_items": 373,
+  "items_before_topic_filter": 373,
   "rss_opml": {},
   "agentmail": {},
   "x_api": {},

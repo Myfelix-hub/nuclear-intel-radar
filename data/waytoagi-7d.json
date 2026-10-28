@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:09:32.883971+00:00",
+  "generated_at": "2026-10-28T13:26:25.657365+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -52,11 +52,6 @@
       "date": "2026-10-22",
       "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
       "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Deep Fission signs 25-year power deal for planned Kansas nuclear project",
-      "url": "https://www.msn.com/en-us/money/general/deep-fission-signs-25-year-power-deal-for-planned-kansas-nuclear-project/ar-AA2fEDTy"
     }
   ],
   "updates_today": [
@@ -87,7 +82,7 @@
     }
   ],
   "latest_date": "2026-10-27",
-  "count_7d": 11,
+  "count_7d": 10,
   "count_today": 5,
   "has_error": false,
   "error": null,
