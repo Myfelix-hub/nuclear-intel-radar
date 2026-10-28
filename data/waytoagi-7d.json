@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T00:22:58.085635+00:00",
+  "generated_at": "2026-10-28T06:09:32.883971+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -49,11 +49,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xf976a/the_us_military_and_nasa_have_power_problems/"
     },
     {
-      "date": "2026-10-25",
-      "title": "The Navy is putting a 70-ton reactor that ships in a 35-foot container and runs five years on o…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xetv1k/the_navy_is_putting_a_70ton_reactor_that_ships_in/"
-    },
-    {
       "date": "2026-10-22",
       "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
       "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
@@ -92,7 +87,7 @@
     }
   ],
   "latest_date": "2026-10-27",
-  "count_7d": 12,
+  "count_7d": 11,
   "count_today": 5,
   "has_error": false,
   "error": null,
