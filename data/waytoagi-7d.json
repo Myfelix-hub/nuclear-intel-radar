@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-28T13:26:25.657365+00:00",
+  "generated_at": "2026-10-28T19:02:37.930466+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-28",
+      "title": "The AI Power Paradox: Why Big Tech Is Reopening Dead Nuclear Plants and Buying Up Geothermal St…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhvn4f/the_ai_power_paradox_why_big_tech_is_reopening/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Former AppHarvest CEO behind massive Kentucky nuclear power project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhuij7/former_appharvest_ceo_behind_massive_kentucky/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "5-MW swappable nuclear reactor prepares for offshore ship integration",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhsitw/5mw_swappable_nuclear_reactor_prepares_for/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Only 5 countries have connected their first nuclear reactor to the grid since 1990; 4 more are …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhok6h/only_5_countries_have_connected_their_first/"
+    },
     {
       "date": "2026-10-27",
       "title": "Constellation Secures Conditional DOE Loan Commitment of up to $5 Billion to Expand Nuclear Out…",
@@ -44,11 +64,6 @@
       "url": "https://scitechdaily.com/scientists-discover-a-surprising-shortcut-to-nuclear-fusion/"
     },
     {
-      "date": "2026-10-25",
-      "title": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xf976a/the_us_military_and_nasa_have_power_problems/"
-    },
-    {
       "date": "2026-10-22",
       "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
       "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
@@ -56,34 +71,29 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-27",
-      "title": "Constellation Secures Conditional DOE Loan Commitment of up to $5 Billion to Expand Nuclear Out…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xh87vl/constellation_secures_conditional_doe_loan/"
+      "date": "2026-10-28",
+      "title": "The AI Power Paradox: Why Big Tech Is Reopening Dead Nuclear Plants and Buying Up Geothermal St…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhvn4f/the_ai_power_paradox_why_big_tech_is_reopening/"
     },
     {
-      "date": "2026-10-27",
-      "title": "What are some books, websites, question papers for a person wanting to study university level o…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xh6acz/what_are_some_books_websites_question_papers_for/"
+      "date": "2026-10-28",
+      "title": "Former AppHarvest CEO behind massive Kentucky nuclear power project",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhuij7/former_appharvest_ceo_behind_massive_kentucky/"
     },
     {
-      "date": "2026-10-27",
-      "title": "The reactor meant to showcase nuclear's comeback keeps hitting problems",
-      "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
+      "date": "2026-10-28",
+      "title": "5-MW swappable nuclear reactor prepares for offshore ship integration",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhsitw/5mw_swappable_nuclear_reactor_prepares_for/"
     },
     {
-      "date": "2026-10-27",
-      "title": "New Polling Reveals Majority Of Australians Support Nuclear Energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xgkvmt/new_polling_reveals_majority_of_australians/"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Steps in Nuclear Power.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xgdy25/steps_in_nuclear_power/"
+      "date": "2026-10-28",
+      "title": "Only 5 countries have connected their first nuclear reactor to the grid since 1990; 4 more are …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xhok6h/only_5_countries_have_connected_their_first/"
     }
   ],
-  "latest_date": "2026-10-27",
-  "count_7d": 10,
-  "count_today": 5,
+  "latest_date": "2026-10-28",
+  "count_7d": 13,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
