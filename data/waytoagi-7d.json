@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-29T09:43:50.244870+00:00",
+  "generated_at": "2026-10-29T16:49:15.155915+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-29",
+      "title": "Westinghouse to conduct key study for AP1000 in Slovakia",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xioupr/westinghouse_to_conduct_key_study_for_ap1000_in/"
+    },
     {
       "date": "2026-10-29",
       "title": "Say what you will about slopmaxing, but it was surprisingly easy to re-create Kirk Sorensen's o…",
@@ -55,11 +60,6 @@
     },
     {
       "date": "2026-10-27",
-      "title": "New Polling Reveals Majority Of Australians Support Nuclear Energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xgkvmt/new_polling_reveals_majority_of_australians/"
-    },
-    {
-      "date": "2026-10-27",
       "title": "Steps in Nuclear Power.",
       "url": "https://www.reddit.com/r/nuclear/comments/1xgdy25/steps_in_nuclear_power/"
     },
@@ -77,13 +77,18 @@
   "updates_today": [
     {
       "date": "2026-10-29",
+      "title": "Westinghouse to conduct key study for AP1000 in Slovakia",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xioupr/westinghouse_to_conduct_key_study_for_ap1000_in/"
+    },
+    {
+      "date": "2026-10-29",
       "title": "Say what you will about slopmaxing, but it was surprisingly easy to re-create Kirk Sorensen's o…",
       "url": "https://www.reddit.com/r/nuclear/comments/1xi6ks7/say_what_you_will_about_slopmaxing_but_it_was/"
     }
   ],
   "latest_date": "2026-10-29",
   "count_7d": 14,
-  "count_today": 1,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
