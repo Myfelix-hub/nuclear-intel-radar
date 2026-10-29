@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-28T23:26:45.706251+00:00",
+  "generated_at": "2026-10-29T02:44:27.704844+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-29",
+      "title": "Say what you will about slopmaxing, but it was surprisingly easy to re-create Kirk Sorensen's o…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xi6ks7/say_what_you_will_about_slopmaxing_but_it_was/"
+    },
     {
       "date": "2026-10-28",
       "title": "US screens 724 metal mixtures to develop new nuclear reactor alloy",
@@ -60,11 +65,6 @@
     },
     {
       "date": "2026-10-26",
-      "title": "Regulatory milestone for US laser enrichment plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xg6mof/regulatory_milestone_for_us_laser_enrichment_plant/"
-    },
-    {
-      "date": "2026-10-26",
       "title": "Scientists Discover a Surprising Shortcut to Nuclear Fusion",
       "url": "https://scitechdaily.com/scientists-discover-a-surprising-shortcut-to-nuclear-fusion/"
     },
@@ -76,39 +76,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-28",
-      "title": "US screens 724 metal mixtures to develop new nuclear reactor alloy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhzg22/us_screens_724_metal_mixtures_to_develop_new/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Schwab | Zook: Today \"Best Opportunity\" for Energy, Names OKLO & SPCX Top Stock Picks",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhxsal/schwab_zook_today_best_opportunity_for_energy/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "The AI Power Paradox: Why Big Tech Is Reopening Dead Nuclear Plants and Buying Up Geothermal St…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhvn4f/the_ai_power_paradox_why_big_tech_is_reopening/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Former AppHarvest CEO behind massive Kentucky nuclear power project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhuij7/former_appharvest_ceo_behind_massive_kentucky/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "5-MW swappable nuclear reactor prepares for offshore ship integration",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhsitw/5mw_swappable_nuclear_reactor_prepares_for/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Only 5 countries have connected their first nuclear reactor to the grid since 1990; 4 more are …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhok6h/only_5_countries_have_connected_their_first/"
+      "date": "2026-10-29",
+      "title": "Say what you will about slopmaxing, but it was surprisingly easy to re-create Kirk Sorensen's o…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xi6ks7/say_what_you_will_about_slopmaxing_but_it_was/"
     }
   ],
-  "latest_date": "2026-10-28",
+  "latest_date": "2026-10-29",
   "count_7d": 14,
-  "count_today": 6,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
