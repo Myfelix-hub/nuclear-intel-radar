@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T20:02:57.634518+00:00",
+  "generated_at": "2026-10-30T23:59:12.236075+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -60,11 +60,6 @@
     },
     {
       "date": "2026-10-27",
-      "title": "Constellation Secures Conditional DOE Loan Commitment of up to $5 Billion to Expand Nuclear Out…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xh87vl/constellation_secures_conditional_doe_loan/"
-    },
-    {
-      "date": "2026-10-27",
       "title": "The reactor meant to showcase nuclear's comeback keeps hitting problems",
       "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
     },
@@ -97,7 +92,7 @@
     }
   ],
   "latest_date": "2026-10-30",
-  "count_7d": 14,
+  "count_7d": 13,
   "count_today": 4,
   "has_error": false,
   "error": null,
