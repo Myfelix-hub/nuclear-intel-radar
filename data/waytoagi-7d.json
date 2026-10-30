@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-30T01:47:26.271475+00:00",
+  "generated_at": "2026-10-30T08:26:07.840821+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-30",
+      "title": "Interactive nuclear/solar/wind power density comparison based on an old photo I posted here (AI…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xj3srd/interactive_nuclearsolarwind_power_density/"
+    },
     {
       "date": "2026-10-30",
       "title": "Quantified Carbon Report Finds Nuclear in Denmark Can Reduce System, Import and Grid Costs",
@@ -72,6 +77,11 @@
   "updates_today": [
     {
       "date": "2026-10-30",
+      "title": "Interactive nuclear/solar/wind power density comparison based on an old photo I posted here (AI…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xj3srd/interactive_nuclearsolarwind_power_density/"
+    },
+    {
+      "date": "2026-10-30",
       "title": "Quantified Carbon Report Finds Nuclear in Denmark Can Reduce System, Import and Grid Costs",
       "url": "https://www.reddit.com/r/nuclear/comments/1xj2d3g/quantified_carbon_report_finds_nuclear_in_denmark/"
     },
@@ -82,8 +92,8 @@
     }
   ],
   "latest_date": "2026-10-30",
-  "count_7d": 13,
-  "count_today": 2,
+  "count_7d": 14,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
