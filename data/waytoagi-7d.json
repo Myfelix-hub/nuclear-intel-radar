@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-30T15:14:55.450169+00:00",
+  "generated_at": "2026-10-30T20:02:57.634518+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-30",
+      "title": "The trouble with small nuclear reactors",
+      "url": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448"
+    },
     {
       "date": "2026-10-30",
       "title": "Interactive nuclear/solar/wind power density comparison based on an old photo I posted here (AI…",
@@ -32,11 +37,6 @@
       "date": "2026-10-28",
       "title": "US screens 724 metal mixtures to develop new nuclear reactor alloy",
       "url": "https://www.reddit.com/r/nuclear/comments/1xhzg22/us_screens_724_metal_mixtures_to_develop_new/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Schwab | Zook: Today \"Best Opportunity\" for Energy, Names OKLO & SPCX Top Stock Picks",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhxsal/schwab_zook_today_best_opportunity_for_energy/"
     },
     {
       "date": "2026-10-28",
@@ -77,6 +77,11 @@
   "updates_today": [
     {
       "date": "2026-10-30",
+      "title": "The trouble with small nuclear reactors",
+      "url": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448"
+    },
+    {
+      "date": "2026-10-30",
       "title": "Interactive nuclear/solar/wind power density comparison based on an old photo I posted here (AI…",
       "url": "https://www.reddit.com/r/nuclear/comments/1xj3srd/interactive_nuclearsolarwind_power_density/"
     },
@@ -93,7 +98,7 @@
   ],
   "latest_date": "2026-10-30",
   "count_7d": 14,
-  "count_today": 3,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null
