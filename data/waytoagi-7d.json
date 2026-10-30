@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-10-29T21:42:17.556984+00:00",
+  "generated_at": "2026-10-30T01:47:26.271475+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
-      "date": "2026-10-29",
-      "title": "Palisades nuclear plant will restart before end of year, Chris Wright says during visit",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xiuvuy/palisades_nuclear_plant_will_restart_before_end/"
+      "date": "2026-10-30",
+      "title": "Quantified Carbon Report Finds Nuclear in Denmark Can Reduce System, Import and Grid Costs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xj2d3g/quantified_carbon_report_finds_nuclear_in_denmark/"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Belgium prepares forced nationalisation of nuclear plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xj256a/belgium_prepares_forced_nationalisation_of/"
     },
     {
       "date": "2026-10-29",
@@ -49,39 +54,9 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xhok6h/only_5_countries_have_connected_their_first/"
     },
     {
-      "date": "2026-10-28",
-      "title": "Only 5 countries have connected their first nuclear reactor to the grid since 1990; 4 more are …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xhojjr/only_5_countries_have_connected_their_first/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Plan for multibillion-pound Sizewell nuclear plant a ‘terrible deal’ for UK taxpayers, MPs say …",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xhiq1u/plan_for_multibillionpound_sizewell_nuclear_plant/"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Why can't we turn our nuclear weapons into clean safe nearly free energy, how do I put my tax d…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xh8op6/why_cant_we_turn_our_nuclear_weapons_into_clean/"
-    },
-    {
       "date": "2026-10-27",
       "title": "Constellation Secures Conditional DOE Loan Commitment of up to $5 Billion to Expand Nuclear Out…",
       "url": "https://www.reddit.com/r/nuclear/comments/1xh87vl/constellation_secures_conditional_doe_loan/"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "What are some books, websites, question papers for a person wanting to study university level o…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xh6acz/what_are_some_books_websites_question_papers_for/"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Three of Four British Nuclear-Powered Submarines Out at Sea",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xh5km5/three_of_four_british_nuclearpowered_submarines/"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Hungary considers replacing Russia's Rosatom in nuclear project - The project, awarded by Vikto…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xgtlni/hungary_considers_replacing_russias_rosatom_in/"
     },
     {
       "date": "2026-10-27",
@@ -89,41 +64,26 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
     },
     {
-      "date": "2026-10-27",
-      "title": "Steps in Nuclear Power.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xgdy25/steps_in_nuclear_power/"
-    },
-    {
       "date": "2026-10-26",
       "title": "Scientists Discover a Surprising Shortcut to Nuclear Fusion",
       "url": "https://scitechdaily.com/scientists-discover-a-surprising-shortcut-to-nuclear-fusion/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
-      "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-10-29",
-      "title": "Palisades nuclear plant will restart before end of year, Chris Wright says during visit",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xiuvuy/palisades_nuclear_plant_will_restart_before_end/"
+      "date": "2026-10-30",
+      "title": "Quantified Carbon Report Finds Nuclear in Denmark Can Reduce System, Import and Grid Costs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xj2d3g/quantified_carbon_report_finds_nuclear_in_denmark/"
     },
     {
-      "date": "2026-10-29",
-      "title": "Westinghouse to conduct key study for AP1000 in Slovakia",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xioupr/westinghouse_to_conduct_key_study_for_ap1000_in/"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "Say what you will about slopmaxing, but it was surprisingly easy to re-create Kirk Sorensen's o…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xi6ks7/say_what_you_will_about_slopmaxing_but_it_was/"
+      "date": "2026-10-30",
+      "title": "Belgium prepares forced nationalisation of nuclear plants",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xj256a/belgium_prepares_forced_nationalisation_of/"
     }
   ],
-  "latest_date": "2026-10-29",
-  "count_7d": 20,
-  "count_today": 3,
+  "latest_date": "2026-10-30",
+  "count_7d": 13,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
