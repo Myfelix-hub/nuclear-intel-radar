@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-31T20:13:29.782497+00:00",
+  "generated_at": "2026-10-31T23:36:19.893193+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-31",
+      "title": "The Game of Isotopes: Jaime Lannister from \"Game of Thrones\" visited the Chernobyl Nuclear Powe…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xkl28c/the_game_of_isotopes_jaime_lannister_from_game_of/"
+    },
     {
       "date": "2026-10-31",
       "title": "Westinghouse Awarded ARPA-E Funding to Accelerate PowerBlock™ Nuclear Fuel Technology",
@@ -39,11 +44,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xioupr/westinghouse_to_conduct_key_study_for_ap1000_in/"
     },
     {
-      "date": "2026-10-28",
-      "title": "US screens 724 metal mixtures to develop new nuclear reactor alloy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhzg22/us_screens_724_metal_mixtures_to_develop_new/"
-    },
-    {
       "date": "2026-10-27",
       "title": "The reactor meant to showcase nuclear's comeback keeps hitting problems",
       "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
@@ -57,6 +57,11 @@
   "updates_today": [
     {
       "date": "2026-10-31",
+      "title": "The Game of Isotopes: Jaime Lannister from \"Game of Thrones\" visited the Chernobyl Nuclear Powe…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xkl28c/the_game_of_isotopes_jaime_lannister_from_game_of/"
+    },
+    {
+      "date": "2026-10-31",
       "title": "Westinghouse Awarded ARPA-E Funding to Accelerate PowerBlock™ Nuclear Fuel Technology",
       "url": "https://www.reddit.com/r/nuclear/comments/1xkj5co/westinghouse_awarded_arpae_funding_to_accelerate/"
     },
@@ -68,7 +73,7 @@
   ],
   "latest_date": "2026-10-31",
   "count_7d": 10,
-  "count_today": 2,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
