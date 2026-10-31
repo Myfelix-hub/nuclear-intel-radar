@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:07:23.602447+00:00",
+  "generated_at": "2026-10-31T16:16:06.335765+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -49,16 +49,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xhuij7/former_appharvest_ceo_behind_massive_kentucky/"
     },
     {
-      "date": "2026-10-28",
-      "title": "5-MW swappable nuclear reactor prepares for offshore ship integration",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhsitw/5mw_swappable_nuclear_reactor_prepares_for/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Only 5 countries have connected their first nuclear reactor to the grid since 1990; 4 more are …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhok6h/only_5_countries_have_connected_their_first/"
-    },
-    {
       "date": "2026-10-27",
       "title": "The reactor meant to showcase nuclear's comeback keeps hitting problems",
       "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
@@ -92,7 +82,7 @@
     }
   ],
   "latest_date": "2026-10-30",
-  "count_7d": 13,
+  "count_7d": 11,
   "count_today": 4,
   "has_error": false,
   "error": null,
