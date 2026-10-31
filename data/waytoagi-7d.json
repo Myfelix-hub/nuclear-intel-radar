@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-31T16:16:06.335765+00:00",
+  "generated_at": "2026-10-31T20:13:29.782497+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-10-31",
+      "title": "Westinghouse Awarded ARPA-E Funding to Accelerate PowerBlock™ Nuclear Fuel Technology",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xkj5co/westinghouse_awarded_arpae_funding_to_accelerate/"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xkiqqf/why_are_us_russia_and_china_racing_to_put_nuclear/"
+    },
     {
       "date": "2026-10-30",
       "title": "The trouble with small nuclear reactors",
@@ -29,24 +39,9 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xioupr/westinghouse_to_conduct_key_study_for_ap1000_in/"
     },
     {
-      "date": "2026-10-29",
-      "title": "Say what you will about slopmaxing, but it was surprisingly easy to re-create Kirk Sorensen's o…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xi6ks7/say_what_you_will_about_slopmaxing_but_it_was/"
-    },
-    {
       "date": "2026-10-28",
       "title": "US screens 724 metal mixtures to develop new nuclear reactor alloy",
       "url": "https://www.reddit.com/r/nuclear/comments/1xhzg22/us_screens_724_metal_mixtures_to_develop_new/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "The AI Power Paradox: Why Big Tech Is Reopening Dead Nuclear Plants and Buying Up Geothermal St…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhvn4f/the_ai_power_paradox_why_big_tech_is_reopening/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Former AppHarvest CEO behind massive Kentucky nuclear power project",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xhuij7/former_appharvest_ceo_behind_massive_kentucky/"
     },
     {
       "date": "2026-10-27",
@@ -61,29 +56,19 @@
   ],
   "updates_today": [
     {
-      "date": "2026-10-30",
-      "title": "The trouble with small nuclear reactors",
-      "url": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448"
+      "date": "2026-10-31",
+      "title": "Westinghouse Awarded ARPA-E Funding to Accelerate PowerBlock™ Nuclear Fuel Technology",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xkj5co/westinghouse_awarded_arpae_funding_to_accelerate/"
     },
     {
-      "date": "2026-10-30",
-      "title": "Interactive nuclear/solar/wind power density comparison based on an old photo I posted here (AI…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xj3srd/interactive_nuclearsolarwind_power_density/"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Quantified Carbon Report Finds Nuclear in Denmark Can Reduce System, Import and Grid Costs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xj2d3g/quantified_carbon_report_finds_nuclear_in_denmark/"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Belgium prepares forced nationalisation of nuclear plants",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xj256a/belgium_prepares_forced_nationalisation_of/"
+      "date": "2026-10-31",
+      "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xkiqqf/why_are_us_russia_and_china_racing_to_put_nuclear/"
     }
   ],
-  "latest_date": "2026-10-30",
-  "count_7d": 11,
-  "count_today": 4,
+  "latest_date": "2026-10-31",
+  "count_7d": 10,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
