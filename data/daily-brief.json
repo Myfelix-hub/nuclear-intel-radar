@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-11-01T13:03:35.342981+00:00",
+  "generated_at": "2026-11-01T18:29:50.573240+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-b448046fb483a890",
-      "title": "NuScale and Doosan Sign Contract to Manufacture Reactor Coolant System Components",
-      "representative_url": "https://www.nuscalepower.com/press-releases/2026/nuscale-power-and-doosan-enerbility-sign-agreement-for-manufacturing-of-nuscale-power-module",
-      "first_published_at": "2026-11-01T13:03:35.342981+00:00",
+      "story_id": "story-0f8e762ef72e97a7",
+      "title": "Made this nuclear reactor concept w or l",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1xl7t67/made_this_nuclear_reactor_concept_w_or_l/",
+      "first_published_at": "2026-11-01T16:45:14+00:00",
       "sources": [
-        "nucleartownhall"
+        "reddit_nuclear"
       ],
       "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "safety",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-42ede96ae92b8c14",
-      "title": "NRC Begins Review of General Matter’s Paducah Uranium Enrichment License Application",
-      "representative_url": "https://www.wpsdlocal6.com/news/nuclear-regulatory-commission-accepts-general-matters-first-license-application-review-phase-begins/article_8fde46bf-5978-426c-a97d-4e17b1afaef2.html",
-      "first_published_at": "2026-11-01T13:03:35.342981+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 3.5999999999999996
     },
     {
       "story_id": "story-14cf4d5d1cca5830",
@@ -67,7 +52,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-11-01T13:03:35.342981+00:00",
+      "first_published_at": "2026-11-01T18:29:50.573240+00:00",
       "sources": [
         "oklo"
       ],
@@ -79,25 +64,10 @@
       "score": 3.0
     },
     {
-      "story_id": "story-9440edb59acded1f",
-      "title": "Deep Fission Signs First Energy Agreement for Southeast Kansas Nuclear Project",
-      "representative_url": "https://www.adastraradio.com/adastra-news/deep-fission-signs-first-energy-agreement-for-southeast-kansas-nuclear-project/",
-      "first_published_at": "2026-11-01T13:03:35.342981+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 2.8
-    },
-    {
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-11-01T13:03:35.342981+00:00",
+      "first_published_at": "2026-11-01T18:29:50.573240+00:00",
       "sources": [
         "oklo"
       ],
@@ -112,7 +82,7 @@
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-11-01T13:03:35.342981+00:00",
+      "first_published_at": "2026-11-01T18:29:50.573240+00:00",
       "sources": [
         "kairos"
       ],
@@ -127,7 +97,7 @@
       "story_id": "story-683c02d9e8a3afb3",
       "title": "Producing a 1960s Molten Salt Coolant for 21st Century Reactors",
       "representative_url": "https://www.kairospower.com/updates/producing-a-1960s-molten-salt-coolant-for-21st-century-reactors",
-      "first_published_at": "2026-11-01T13:03:35.342981+00:00",
+      "first_published_at": "2026-11-01T18:29:50.573240+00:00",
       "sources": [
         "kairos"
       ],
@@ -142,7 +112,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-11-01T13:03:35.342981+00:00",
+      "first_published_at": "2026-11-01T18:29:50.573240+00:00",
       "sources": [
         "kairos"
       ],
@@ -152,6 +122,36 @@
       "source_tier_rank": 2,
       "primary_section": "safety",
       "score": 2.7
+    },
+    {
+      "story_id": "story-1b068eab06ee9eb0",
+      "title": "A little infographic on lifetimes after nuclear power plant recommissioning",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1xl3l0r/a_little_infographic_on_lifetimes_after_nuclear/",
+      "first_published_at": "2026-11-01T13:51:56+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "newbuild",
+      "score": 2.4000000000000004
+    },
+    {
+      "story_id": "story-4dc6e457f5a523da",
+      "title": "Got two mechanical engineering offers one with X-energy and one Naval nuclear lab .",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1xjentc/got_two_mechanical_engineering_offers_one_with/",
+      "first_published_at": "2026-10-30T12:57:26+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.4,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "community",
+      "score": 2.4000000000000004
     }
   ]
 }
