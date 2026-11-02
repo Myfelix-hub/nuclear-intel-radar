@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-11-02T01:43:55.203942+00:00",
+  "generated_at": "2026-11-02T09:14:21.967677+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-11-01",
+      "title": "Made this nuclear reactor concept w or l",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xl7t67/made_this_nuclear_reactor_concept_w_or_l/"
+    },
+    {
+      "date": "2026-11-01",
       "title": "A little infographic on lifetimes after nuclear power plant recommissioning",
       "url": "https://www.reddit.com/r/nuclear/comments/1xl3l0r/a_little_infographic_on_lifetimes_after_nuclear/"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Proposed nuclear site voted down by county commission",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xkky44/proposed_nuclear_site_voted_down_by_county/"
     },
     {
       "date": "2026-10-31",
@@ -20,13 +30,18 @@
     },
     {
       "date": "2026-10-30",
+      "title": "The DOE announces $5B loan to Constellation for nuclear uprates",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xjmo3b/the_doe_announces_5b_loan_to_constellation_for/"
+    },
+    {
+      "date": "2026-10-30",
       "title": "The trouble with small nuclear reactors",
       "url": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448"
     },
     {
       "date": "2026-10-30",
-      "title": "Interactive nuclear/solar/wind power density comparison based on an old photo I posted here (AI…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xj3srd/interactive_nuclearsolarwind_power_density/"
+      "title": "Got two mechanical engineering offers one with X-energy and one Naval nuclear lab .",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xjentc/got_two_mechanical_engineering_offers_one_with/"
     },
     {
       "date": "2026-10-27",
@@ -37,13 +52,18 @@
   "updates_today": [
     {
       "date": "2026-11-01",
+      "title": "Made this nuclear reactor concept w or l",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xl7t67/made_this_nuclear_reactor_concept_w_or_l/"
+    },
+    {
+      "date": "2026-11-01",
       "title": "A little infographic on lifetimes after nuclear power plant recommissioning",
       "url": "https://www.reddit.com/r/nuclear/comments/1xl3l0r/a_little_infographic_on_lifetimes_after_nuclear/"
     }
   ],
   "latest_date": "2026-11-01",
-  "count_7d": 6,
-  "count_today": 1,
+  "count_7d": 9,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
