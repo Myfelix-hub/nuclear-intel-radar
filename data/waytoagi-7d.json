@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T22:20:37.914599+00:00",
+  "generated_at": "2026-11-02T01:43:55.203942+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -29,24 +29,9 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xj3srd/interactive_nuclearsolarwind_power_density/"
     },
     {
-      "date": "2026-10-30",
-      "title": "Quantified Carbon Report Finds Nuclear in Denmark Can Reduce System, Import and Grid Costs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xj2d3g/quantified_carbon_report_finds_nuclear_in_denmark/"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Belgium prepares forced nationalisation of nuclear plants",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xj256a/belgium_prepares_forced_nationalisation_of/"
-    },
-    {
       "date": "2026-10-27",
       "title": "The reactor meant to showcase nuclear's comeback keeps hitting problems",
       "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Scientists Discover a Surprising Shortcut to Nuclear Fusion",
-      "url": "https://scitechdaily.com/scientists-discover-a-surprising-shortcut-to-nuclear-fusion/"
     }
   ],
   "updates_today": [
@@ -57,7 +42,7 @@
     }
   ],
   "latest_date": "2026-11-01",
-  "count_7d": 9,
+  "count_7d": 6,
   "count_today": 1,
   "has_error": false,
   "error": null,
