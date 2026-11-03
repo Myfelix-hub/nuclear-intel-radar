@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-03T02:08:33.103347+00:00",
+  "generated_at": "2026-11-03T09:56:10.876194+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
+    {
+      "story_id": "story-956a08228348b1b3",
+      "title": "New Fast Reactor Runs on Nuclear Waste",
+      "representative_url": "https://engineerine.com/nuclear-waste-fuel-reactor/",
+      "first_published_at": "2026-11-03T03:42:32+00:00",
+      "sources": [
+        "hn_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 5.4
+    },
     {
       "story_id": "story-6ad52824d7a3ee62",
       "title": "Why Are U.S., Russia and China Racing to Put Nuclear Reactors on the Moon?",
@@ -23,7 +38,7 @@
       "story_id": "story-1432da649f20b972",
       "title": "Doosan to Manufacture Upper Reactor Vessel for NuScale SMR",
       "representative_url": "https://world-nuclear-news.org/articles/doosan-to-manufacture-upper-reactor-vessel-for-nuscale-smr",
-      "first_published_at": "2026-11-03T02:08:33.103347+00:00",
+      "first_published_at": "2026-11-03T09:56:10.876194+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -38,7 +53,7 @@
       "story_id": "story-d1f51704d521c323",
       "title": "NRC Develops Oversight Framework for Advanced Reactors",
       "representative_url": "https://www.ans.org/news/2026-10-30/article-8542/nrc-eyes-advanced-reactor-oversight-program-for-new-reactors/",
-      "first_published_at": "2026-11-03T02:08:33.103347+00:00",
+      "first_published_at": "2026-11-03T09:56:10.876194+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -53,7 +68,7 @@
       "story_id": "story-b448046fb483a890",
       "title": "NuScale and Doosan Sign Contract to Manufacture Reactor Coolant System Components",
       "representative_url": "https://www.nuscalepower.com/press-releases/2026/nuscale-power-and-doosan-enerbility-sign-agreement-for-manufacturing-of-nuscale-power-module",
-      "first_published_at": "2026-11-03T02:08:33.103347+00:00",
+      "first_published_at": "2026-11-03T09:56:10.876194+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -68,7 +83,7 @@
       "story_id": "story-42ede96ae92b8c14",
       "title": "NRC Begins Review of General Matter’s Paducah Uranium Enrichment License Application",
       "representative_url": "https://www.wpsdlocal6.com/news/nuclear-regulatory-commission-accepts-general-matters-first-license-application-review-phase-begins/article_8fde46bf-5978-426c-a97d-4e17b1afaef2.html",
-      "first_published_at": "2026-11-03T02:08:33.103347+00:00",
+      "first_published_at": "2026-11-03T09:56:10.876194+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -99,7 +114,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-11-03T02:08:33.103347+00:00",
+      "first_published_at": "2026-11-03T09:56:10.876194+00:00",
       "sources": [
         "oklo"
       ],
@@ -114,7 +129,7 @@
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-11-03T02:08:33.103347+00:00",
+      "first_published_at": "2026-11-03T09:56:10.876194+00:00",
       "sources": [
         "oklo"
       ],
@@ -129,7 +144,7 @@
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-11-03T02:08:33.103347+00:00",
+      "first_published_at": "2026-11-03T09:56:10.876194+00:00",
       "sources": [
         "kairos"
       ],
@@ -138,21 +153,6 @@
       "source_tier": "industry",
       "source_tier_rank": 2,
       "primary_section": "tech",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-683c02d9e8a3afb3",
-      "title": "Producing a 1960s Molten Salt Coolant for 21st Century Reactors",
-      "representative_url": "https://www.kairospower.com/updates/producing-a-1960s-molten-salt-coolant-for-21st-century-reactors",
-      "first_published_at": "2026-11-03T02:08:33.103347+00:00",
-      "sources": [
-        "kairos"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "industry",
-      "source_tier_rank": 2,
-      "primary_section": "safety",
       "score": 2.7
     }
   ]
