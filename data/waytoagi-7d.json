@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-02T19:42:05.870373+00:00",
+  "generated_at": "2026-11-03T02:08:33.103347+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-03",
+      "title": "Looking for Nuclear Power Plant Operator to Interview for this week.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xmfena/looking_for_nuclear_power_plant_operator_to/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Student Research: Looking into Distrust of Nuclear Energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xm889i/student_research_looking_into_distrust_of_nuclear/"
+    },
     {
       "date": "2026-11-02",
       "title": "Texas SMR plant moves to final permitting stage",
@@ -46,24 +56,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-11-02",
-      "title": "Texas SMR plant moves to final permitting stage",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xm3ldq/texas_smr_plant_moves_to_final_permitting_stage/"
-    },
-    {
-      "date": "2026-11-02",
-      "title": "Morgan Stanley’s Data Center Power Forecast Has Nearly Doubled. The Power Gap Is Now 70GW.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xm2f6z/morgan_stanleys_data_center_power_forecast_has/"
-    },
-    {
-      "date": "2026-11-02",
-      "title": "Nuclear Power is the Next Step for the Philippines",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xm1mcn/nuclear_power_is_the_next_step_for_the_philippines/"
+      "date": "2026-11-03",
+      "title": "Looking for Nuclear Power Plant Operator to Interview for this week.",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xmfena/looking_for_nuclear_power_plant_operator_to/"
     }
   ],
-  "latest_date": "2026-11-02",
-  "count_7d": 8,
-  "count_today": 3,
+  "latest_date": "2026-11-03",
+  "count_7d": 10,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
