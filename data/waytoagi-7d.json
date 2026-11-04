@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-03T23:07:46.029258+00:00",
+  "generated_at": "2026-11-04T03:08:06.336831+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-04",
+      "title": "Fission cross sections for various uranium materials",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xncoy8/fission_cross_sections_for_various_uranium/"
+    },
     {
       "date": "2026-11-03",
       "title": "Nuclear is the foundation for America’s clean, reliable energy future, but we need the right po…",
@@ -49,11 +54,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xm3ldq/texas_smr_plant_moves_to_final_permitting_stage/"
     },
     {
-      "date": "2026-11-02",
-      "title": "Nuclear Power is the Next Step for the Philippines",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xm1mcn/nuclear_power_is_the_next_step_for_the_philippines/"
-    },
-    {
       "date": "2026-10-30",
       "title": "The trouble with small nuclear reactors",
       "url": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448"
@@ -61,44 +61,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-11-03",
-      "title": "Nuclear is the foundation for America’s clean, reliable energy future, but we need the right po…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xn3hl4/nuclear_is_the_foundation_for_americas_clean/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "Ontario nuclear plant operator faces federal charges after millions of fish die in 2025 | CBC N…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xmzs8t/ontario_nuclear_plant_operator_faces_federal/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "The energy crisis and Putin's invasion led to a reversal of most nuclear exit decisions",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xmutf7/the_energy_crisis_and_putins_invasion_led_to_a/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "A pebble bed nuclear reactor can produce continuous electricity without needing to stop and rep…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xmut5j/a_pebble_bed_nuclear_reactor_can_produce/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "Countries with nuclear power represent 3/4ths of world GDP",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xmoyoh/countries_with_nuclear_power_represent_34ths_of/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "New Fast Reactor Runs on Nuclear Waste",
-      "url": "https://engineerine.com/nuclear-waste-fuel-reactor/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "Looking for Nuclear Power Plant Operator to Interview for this week.",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xmfena/looking_for_nuclear_power_plant_operator_to/"
+      "date": "2026-11-04",
+      "title": "Fission cross sections for various uranium materials",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xncoy8/fission_cross_sections_for_various_uranium/"
     }
   ],
-  "latest_date": "2026-11-03",
+  "latest_date": "2026-11-04",
   "count_7d": 11,
-  "count_today": 7,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
