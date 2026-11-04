@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-04T11:27:35.175239+00:00",
+  "generated_at": "2026-11-04T18:49:24.874788+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-04",
+      "title": "Helsinki launches environmental assessment for a district heat smr or a CHP nuclear plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xnqzy5/helsinki_launches_environmental_assessment_for_a/"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Does anyone else really dislike the new IAEA PRIS Web site?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xnqslp/does_anyone_else_really_dislike_the_new_iaea_pris/"
+    },
     {
       "date": "2026-11-04",
       "title": "Fission cross sections for various uranium materials",
@@ -26,7 +36,22 @@
     {
       "date": "2026-11-03",
       "title": "A pebble bed nuclear reactor can produce continuous electricity without needing to stop and rep…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xmutbq/a_pebble_bed_nuclear_reactor_can_produce/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "A pebble bed nuclear reactor can produce continuous electricity without needing to stop and rep…",
       "url": "https://www.reddit.com/r/nuclear/comments/1xmut5j/a_pebble_bed_nuclear_reactor_can_produce/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Chernobyl: How Did the World's Worst Nuclear Disaster Actually Unfold?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xmthoe/chernobyl_how_did_the_worlds_worst_nuclear/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Ontario nuclear plant operator faces federal charges after millions of fish die in 2025 | CBC N…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xmszx3/ontario_nuclear_plant_operator_faces_federal/"
     },
     {
       "date": "2026-11-03",
@@ -41,12 +66,22 @@
     {
       "date": "2026-11-03",
       "title": "Looking for Nuclear Power Plant Operator to Interview for this week.",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xmff1q/looking_for_nuclear_power_plant_operator_to/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Looking for Nuclear Power Plant Operator to Interview for this week.",
       "url": "https://www.reddit.com/r/nuclear/comments/1xmfena/looking_for_nuclear_power_plant_operator_to/"
     },
     {
       "date": "2026-11-02",
-      "title": "Student Research: Looking into Distrust of Nuclear Energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xm889i/student_research_looking_into_distrust_of_nuclear/"
+      "title": "What books are recommended to learn nuclear physics and engineering?",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xm9fsv/what_books_are_recommended_to_learn_nuclear/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "GAO’s fuel report shows why conventional reactor fuel and HALEU need different planning assumpt…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xm6rin/gaos_fuel_report_shows_why_conventional_reactor/"
     },
     {
       "date": "2026-11-02",
@@ -62,13 +97,23 @@
   "updates_today": [
     {
       "date": "2026-11-04",
+      "title": "Helsinki launches environmental assessment for a district heat smr or a CHP nuclear plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xnqzy5/helsinki_launches_environmental_assessment_for_a/"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Does anyone else really dislike the new IAEA PRIS Web site?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xnqslp/does_anyone_else_really_dislike_the_new_iaea_pris/"
+    },
+    {
+      "date": "2026-11-04",
       "title": "Fission cross sections for various uranium materials",
       "url": "https://www.reddit.com/r/nuclear/comments/1xncoy8/fission_cross_sections_for_various_uranium/"
     }
   ],
   "latest_date": "2026-11-04",
-  "count_7d": 11,
-  "count_today": 1,
+  "count_7d": 18,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
