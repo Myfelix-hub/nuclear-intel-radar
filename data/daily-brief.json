@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T03:08:06.336831+00:00",
+  "generated_at": "2026-11-04T11:27:35.175239+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -34,81 +34,6 @@
       "score": 5.4
     },
     {
-      "story_id": "story-b4f09bbadfda5e8b",
-      "title": "U.S., China Expand Uranium Enrichment to Meet Nuclear Energy Demands",
-      "representative_url": "https://www.armscontrol.org/act/2026-11/news/us-china-expand-uranium-enrichment",
-      "first_published_at": "2026-11-04T03:08:06.336831+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 4.0
-    },
-    {
-      "story_id": "story-1432da649f20b972",
-      "title": "Doosan to Manufacture Upper Reactor Vessel for NuScale SMR",
-      "representative_url": "https://world-nuclear-news.org/articles/doosan-to-manufacture-upper-reactor-vessel-for-nuscale-smr",
-      "first_published_at": "2026-11-04T03:08:06.336831+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-d1f51704d521c323",
-      "title": "NRC Develops Oversight Framework for Advanced Reactors",
-      "representative_url": "https://www.ans.org/news/2026-10-30/article-8542/nrc-eyes-advanced-reactor-oversight-program-for-new-reactors/",
-      "first_published_at": "2026-11-04T03:08:06.336831+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-b448046fb483a890",
-      "title": "NuScale and Doosan Sign Contract to Manufacture Reactor Coolant System Components",
-      "representative_url": "https://www.nuscalepower.com/press-releases/2026/nuscale-power-and-doosan-enerbility-sign-agreement-for-manufacturing-of-nuscale-power-module",
-      "first_published_at": "2026-11-04T03:08:06.336831+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "safety",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-42ede96ae92b8c14",
-      "title": "NRC Begins Review of General Matter’s Paducah Uranium Enrichment License Application",
-      "representative_url": "https://www.wpsdlocal6.com/news/nuclear-regulatory-commission-accepts-general-matters-first-license-application-review-phase-begins/article_8fde46bf-5978-426c-a97d-4e17b1afaef2.html",
-      "first_published_at": "2026-11-04T03:08:06.336831+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
       "story_id": "story-2565108f9c5b5456",
       "title": "Fission cross sections for various uranium materials",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1xncoy8/fission_cross_sections_for_various_uranium/",
@@ -139,10 +64,26 @@
       "score": 3.5999999999999996
     },
     {
+      "story_id": "story-1259bfe6c064d117",
+      "title": "Texas SMR plant moves to final permitting stage",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1xm3ldq/texas_smr_plant_moves_to_final_permitting_stage/",
+      "first_published_at": "2026-11-02T14:18:54+00:00",
+      "sources": [
+        "reddit_nuclear",
+        "wnn"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.3,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "policy",
+      "score": 3.0476649250079015
+    },
+    {
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-11-04T03:08:06.336831+00:00",
+      "first_published_at": "2026-11-04T11:27:35.175239+00:00",
       "sources": [
         "oklo"
       ],
@@ -152,6 +93,66 @@
       "source_tier_rank": 2,
       "primary_section": "tech",
       "score": 3.0
+    },
+    {
+      "story_id": "story-4eb0bc894c8c487d",
+      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
+      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
+      "first_published_at": "2026-11-04T11:27:35.175239+00:00",
+      "sources": [
+        "oklo"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "hot",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-e8d9b69bff65b6d5",
+      "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
+      "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
+      "first_published_at": "2026-11-04T11:27:35.175239+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "tech",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-683c02d9e8a3afb3",
+      "title": "Producing a 1960s Molten Salt Coolant for 21st Century Reactors",
+      "representative_url": "https://www.kairospower.com/updates/producing-a-1960s-molten-salt-coolant-for-21st-century-reactors",
+      "first_published_at": "2026-11-04T11:27:35.175239+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
+    },
+    {
+      "story_id": "story-4cac66c6fef215a4",
+      "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
+      "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
+      "first_published_at": "2026-11-04T11:27:35.175239+00:00",
+      "sources": [
+        "kairos"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "safety",
+      "score": 2.7
     }
   ]
 }
