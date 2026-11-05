@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-05T00:15:36.943030+00:00",
+  "generated_at": "2026-11-05T07:14:25.014411+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-df7acf43aadfeeed",
+      "story_id": "story-00bde9c85185f4f8",
       "title": "A pebble bed nuclear reactor can produce continuous electricity without needing to stop and rep…",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1xmut5j/a_pebble_bed_nuclear_reactor_can_produce/",
+      "representative_url": "https://www.reddit.com/r/NuclearPower/comments/1xmutbq/a_pebble_bed_nuclear_reactor_can_produce/",
       "first_published_at": "2026-11-03T14:44:48+00:00",
       "sources": [
         "reddit_nuclear"
       ],
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "nuclear_score": 0.9,
       "source_tier": "community",
       "source_tier_rank": 5,
       "primary_section": "tech",
-      "score": 5.4
+      "score": 9.142994775023706
     },
     {
       "story_id": "story-956a08228348b1b3",
@@ -37,7 +37,7 @@
       "story_id": "story-b4f09bbadfda5e8b",
       "title": "U.S., China Expand Uranium Enrichment to Meet Nuclear Energy Demands",
       "representative_url": "https://www.armscontrol.org/act/2026-11/news/us-china-expand-uranium-enrichment",
-      "first_published_at": "2026-11-05T00:15:36.943030+00:00",
+      "first_published_at": "2026-11-05T07:14:25.014411+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -52,7 +52,7 @@
       "story_id": "story-1432da649f20b972",
       "title": "Doosan to Manufacture Upper Reactor Vessel for NuScale SMR",
       "representative_url": "https://world-nuclear-news.org/articles/doosan-to-manufacture-upper-reactor-vessel-for-nuscale-smr",
-      "first_published_at": "2026-11-05T00:15:36.943030+00:00",
+      "first_published_at": "2026-11-05T07:14:25.014411+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -67,7 +67,7 @@
       "story_id": "story-d1f51704d521c323",
       "title": "NRC Develops Oversight Framework for Advanced Reactors",
       "representative_url": "https://www.ans.org/news/2026-10-30/article-8542/nrc-eyes-advanced-reactor-oversight-program-for-new-reactors/",
-      "first_published_at": "2026-11-05T00:15:36.943030+00:00",
+      "first_published_at": "2026-11-05T07:14:25.014411+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -82,7 +82,7 @@
       "story_id": "story-42ede96ae92b8c14",
       "title": "NRC Begins Review of General Matter’s Paducah Uranium Enrichment License Application",
       "representative_url": "https://www.wpsdlocal6.com/news/nuclear-regulatory-commission-accepts-general-matters-first-license-application-review-phase-begins/article_8fde46bf-5978-426c-a97d-4e17b1afaef2.html",
-      "first_published_at": "2026-11-05T00:15:36.943030+00:00",
+      "first_published_at": "2026-11-05T07:14:25.014411+00:00",
       "sources": [
         "nucleartownhall"
       ],
