@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-05T21:52:38.128056+00:00",
+  "generated_at": "2026-11-06T02:09:21.137903+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-05",
+      "title": "Interviewing at TerraPower - Engineering",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xoxwk2/interviewing_at_terrapower_engineering/"
+    },
     {
       "date": "2026-11-05",
       "title": "IHI to supply components for first Polish AP1000",
@@ -72,6 +77,11 @@
   "updates_today": [
     {
       "date": "2026-11-05",
+      "title": "Interviewing at TerraPower - Engineering",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xoxwk2/interviewing_at_terrapower_engineering/"
+    },
+    {
+      "date": "2026-11-05",
       "title": "IHI to supply components for first Polish AP1000",
       "url": "https://www.reddit.com/r/nuclear/comments/1xouyu1/ihi_to_supply_components_for_first_polish_ap1000/"
     },
@@ -82,8 +92,8 @@
     }
   ],
   "latest_date": "2026-11-05",
-  "count_7d": 13,
-  "count_today": 2,
+  "count_7d": 14,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
