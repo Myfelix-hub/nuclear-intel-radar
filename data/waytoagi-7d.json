@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:19:19.107564+00:00",
+  "generated_at": "2026-11-06T22:17:35.917346+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -45,23 +45,8 @@
     },
     {
       "date": "2026-11-03",
-      "title": "Nuclear is the foundation for America’s clean, reliable energy future, but we need the right po…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xn3hl4/nuclear_is_the_foundation_for_americas_clean/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "Ontario nuclear plant operator faces federal charges after millions of fish die in 2025 | CBC N…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xmzs8t/ontario_nuclear_plant_operator_faces_federal/"
-    },
-    {
-      "date": "2026-11-03",
       "title": "New Fast Reactor Runs on Nuclear Waste",
       "url": "https://engineerine.com/nuclear-waste-fuel-reactor/"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "The trouble with small nuclear reactors",
-      "url": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448"
     }
   ],
   "updates_today": [
@@ -72,7 +57,7 @@
     }
   ],
   "latest_date": "2026-11-06",
-  "count_7d": 12,
+  "count_7d": 9,
   "count_today": 1,
   "has_error": false,
   "error": null,
