@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-06T09:44:44.668104+00:00",
+  "generated_at": "2026-11-06T17:19:19.107564+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-06",
+      "title": "Construction of Chinese HTGR begins",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xpfnjl/construction_of_chinese_htgr_begins/"
+    },
     {
       "date": "2026-11-05",
       "title": "Interviewing at TerraPower - Engineering",
@@ -50,21 +55,6 @@
     },
     {
       "date": "2026-11-03",
-      "title": "The energy crisis and Putin's invasion led to a reversal of most nuclear exit decisions",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xmutf7/the_energy_crisis_and_putins_invasion_led_to_a/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "A pebble bed nuclear reactor can produce continuous electricity without needing to stop and rep…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xmut5j/a_pebble_bed_nuclear_reactor_can_produce/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "Countries with nuclear power represent 3/4ths of world GDP",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xmoyoh/countries_with_nuclear_power_represent_34ths_of/"
-    },
-    {
-      "date": "2026-11-03",
       "title": "New Fast Reactor Runs on Nuclear Waste",
       "url": "https://engineerine.com/nuclear-waste-fuel-reactor/"
     },
@@ -76,24 +66,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-11-05",
-      "title": "Interviewing at TerraPower - Engineering",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xoxwk2/interviewing_at_terrapower_engineering/"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "IHI to supply components for first Polish AP1000",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xouyu1/ihi_to_supply_components_for_first_polish_ap1000/"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "The first European Commission funding for a potential commercial smr reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xorujq/the_first_european_commission_funding_for_a/"
+      "date": "2026-11-06",
+      "title": "Construction of Chinese HTGR begins",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xpfnjl/construction_of_chinese_htgr_begins/"
     }
   ],
-  "latest_date": "2026-11-05",
-  "count_7d": 14,
-  "count_today": 3,
+  "latest_date": "2026-11-06",
+  "count_7d": 12,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
