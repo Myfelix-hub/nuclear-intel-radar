@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:16:58.637367+00:00",
+  "generated_at": "2026-11-07T09:07:50.329588+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -44,11 +44,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xnqslp/does_anyone_else_really_dislike_the_new_iaea_pris/"
     },
     {
-      "date": "2026-11-04",
-      "title": "Fission cross sections for various uranium materials",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xncoy8/fission_cross_sections_for_various_uranium/"
-    },
-    {
       "date": "2026-11-03",
       "title": "New Fast Reactor Runs on Nuclear Waste",
       "url": "https://engineerine.com/nuclear-waste-fuel-reactor/"
@@ -62,7 +57,7 @@
     }
   ],
   "latest_date": "2026-11-07",
-  "count_7d": 10,
+  "count_7d": 9,
   "count_today": 1,
   "has_error": false,
   "error": null,
