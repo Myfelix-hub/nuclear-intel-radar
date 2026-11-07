@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:05:29.388064+00:00",
+  "generated_at": "2026-11-07T23:51:16.613087+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -34,11 +34,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xorujq/the_first_european_commission_funding_for_a/"
     },
     {
-      "date": "2026-11-04",
-      "title": "BWR Reactor — AntraSIM-0170 Online Simulator",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xo1bxo/bwr_reactor_antrasim0170_online_simulator/"
-    },
-    {
       "date": "2026-11-03",
       "title": "New Fast Reactor Runs on Nuclear Waste",
       "url": "https://engineerine.com/nuclear-waste-fuel-reactor/"
@@ -57,7 +52,7 @@
     }
   ],
   "latest_date": "2026-11-07",
-  "count_7d": 8,
+  "count_7d": 7,
   "count_today": 2,
   "has_error": false,
   "error": null,
