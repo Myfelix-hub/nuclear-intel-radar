@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:07:50.329588+00:00",
+  "generated_at": "2026-11-07T15:51:40.906312+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -20,26 +20,10 @@
       "score": 4.063553233343868
     },
     {
-      "story_id": "story-eb6d2110525f4e59",
-      "title": "PNNL Develops Method to Screen Alloys for Advanced Reactors",
-      "representative_url": "https://www.ans.org/news/2026-11-04/article-8554/pnnl-is-developing-a-new-approach-for-creating-alloys/",
-      "first_published_at": "2026-11-04T14:01:21+00:00",
-      "sources": [
-        "nucleartownhall",
-        "ans_newswire"
-      ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.6,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 4.063553233343868
-    },
-    {
       "story_id": "story-960781150bcd0d78",
       "title": "US Nuclear Fusion Reactor Push to Deploy Advanced Plasma Technology, Hardware in New Pact",
       "representative_url": "https://interestingengineering.com/energy/nuclear-fusion-reactor-deploy-advanced-plasma",
-      "first_published_at": "2026-11-07T09:07:50.329588+00:00",
+      "first_published_at": "2026-11-07T15:51:40.906312+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -54,7 +38,7 @@
       "story_id": "story-af950cb5ff66eed5",
       "title": "Regulators Weigh Stricter Nuclear Fuel Reprocessing Safeguard Rules",
       "representative_url": "https://legis1.com/news/reprocessing-plant-exemption-nrc-seeks-comment",
-      "first_published_at": "2026-11-07T09:07:50.329588+00:00",
+      "first_published_at": "2026-11-07T15:51:40.906312+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -69,7 +53,7 @@
       "story_id": "story-b02e3057c7ade03f",
       "title": "PNNL Spectrometer Nearly Halves Uranium and Plutonium Analysis Time",
       "representative_url": "https://www.pnnl.gov/news-media/sapphire-pipe-dream-becomes-reality",
-      "first_published_at": "2026-11-07T09:07:50.329588+00:00",
+      "first_published_at": "2026-11-07T15:51:40.906312+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -79,6 +63,21 @@
       "source_tier_rank": 3,
       "primary_section": "fuel",
       "score": 3.6
+    },
+    {
+      "story_id": "story-1f0311706ad77efa",
+      "title": "South Korea to develop a molten salt reactor (MSR) technology for maritime use",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1xq2qgp/south_korea_to_develop_a_molten_salt_reactor_msr/",
+      "first_published_at": "2026-11-07T09:52:45+00:00",
+      "sources": [
+        "reddit_nuclear"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.6,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "tech",
+      "score": 3.5999999999999996
     },
     {
       "story_id": "story-601909c6965dc82b",
@@ -111,21 +110,6 @@
       "score": 3.5999999999999996
     },
     {
-      "story_id": "story-376cc1a259c7b778",
-      "title": "Helsinki launches environmental assessment for a district heat smr or a CHP nuclear plant",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1xnqzy5/helsinki_launches_environmental_assessment_for_a/",
-      "first_published_at": "2026-11-04T15:24:29+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 3.5999999999999996
-    },
-    {
       "story_id": "story-aff58e64e2f933fa",
       "title": "IHI to supply components for first Polish AP1000",
       "representative_url": "https://www.reddit.com/r/nuclear/comments/1xouyu1/ihi_to_supply_components_for_first_polish_ap1000/",
@@ -145,7 +129,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-11-07T09:07:50.329588+00:00",
+      "first_published_at": "2026-11-07T15:51:40.906312+00:00",
       "sources": [
         "oklo"
       ],
@@ -155,6 +139,21 @@
       "source_tier_rank": 2,
       "primary_section": "tech",
       "score": 3.0
+    },
+    {
+      "story_id": "story-190a69bf5bebbfdc",
+      "title": "Department of Energy and Purdue Partner to Improve Nuclear Reactor Construction",
+      "representative_url": "https://inl.gov/news-release/department-of-energy-and-purdue-partner-to-improve-nuclear-reactor-construction/",
+      "first_published_at": "2026-11-07T15:51:40.906312+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.7,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "newbuild",
+      "score": 2.8
     }
   ]
 }
