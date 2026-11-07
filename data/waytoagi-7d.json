@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-06T22:17:35.917346+00:00",
+  "generated_at": "2026-11-07T02:16:58.637367+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-07",
+      "title": "America's Nuclear Revival Is Running Into a Fuel Supply Wall",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xpurue/americas_nuclear_revival_is_running_into_a_fuel/"
+    },
     {
       "date": "2026-11-06",
       "title": "Construction of Chinese HTGR begins",
@@ -51,13 +56,13 @@
   ],
   "updates_today": [
     {
-      "date": "2026-11-06",
-      "title": "Construction of Chinese HTGR begins",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xpfnjl/construction_of_chinese_htgr_begins/"
+      "date": "2026-11-07",
+      "title": "America's Nuclear Revival Is Running Into a Fuel Supply Wall",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xpurue/americas_nuclear_revival_is_running_into_a_fuel/"
     }
   ],
-  "latest_date": "2026-11-06",
-  "count_7d": 9,
+  "latest_date": "2026-11-07",
+  "count_7d": 10,
   "count_today": 1,
   "has_error": false,
   "error": null,
