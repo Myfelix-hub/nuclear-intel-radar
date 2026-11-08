@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:26:57.975806+00:00",
+  "generated_at": "2026-11-08T22:24:28.312158+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -29,16 +29,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xoxwk2/interviewing_at_terrapower_engineering/"
     },
     {
-      "date": "2026-11-05",
-      "title": "IHI to supply components for first Polish AP1000",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xouyu1/ihi_to_supply_components_for_first_polish_ap1000/"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "The first European Commission funding for a potential commercial smr reactor",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xorujq/the_first_european_commission_funding_for_a/"
-    },
-    {
       "date": "2026-11-03",
       "title": "New Fast Reactor Runs on Nuclear Waste",
       "url": "https://engineerine.com/nuclear-waste-fuel-reactor/"
@@ -52,7 +42,7 @@
     }
   ],
   "latest_date": "2026-11-08",
-  "count_7d": 8,
+  "count_7d": 6,
   "count_today": 1,
   "has_error": false,
   "error": null,
