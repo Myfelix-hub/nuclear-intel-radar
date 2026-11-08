@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:40:47.728142+00:00",
+  "generated_at": "2026-11-08T13:08:22.530329+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -7,7 +7,7 @@
       "story_id": "story-960781150bcd0d78",
       "title": "US Nuclear Fusion Reactor Push to Deploy Advanced Plasma Technology, Hardware in New Pact",
       "representative_url": "https://interestingengineering.com/energy/nuclear-fusion-reactor-deploy-advanced-plasma",
-      "first_published_at": "2026-11-08T05:40:47.728142+00:00",
+      "first_published_at": "2026-11-08T13:08:22.530329+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -22,7 +22,7 @@
       "story_id": "story-af950cb5ff66eed5",
       "title": "Regulators Weigh Stricter Nuclear Fuel Reprocessing Safeguard Rules",
       "representative_url": "https://legis1.com/news/reprocessing-plant-exemption-nrc-seeks-comment",
-      "first_published_at": "2026-11-08T05:40:47.728142+00:00",
+      "first_published_at": "2026-11-08T13:08:22.530329+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -37,7 +37,7 @@
       "story_id": "story-b02e3057c7ade03f",
       "title": "PNNL Spectrometer Nearly Halves Uranium and Plutonium Analysis Time",
       "representative_url": "https://www.pnnl.gov/news-media/sapphire-pipe-dream-becomes-reality",
-      "first_published_at": "2026-11-08T05:40:47.728142+00:00",
+      "first_published_at": "2026-11-08T13:08:22.530329+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -98,7 +98,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-11-08T05:40:47.728142+00:00",
+      "first_published_at": "2026-11-08T13:08:22.530329+00:00",
       "sources": [
         "oklo"
       ],
@@ -113,7 +113,7 @@
       "story_id": "story-190a69bf5bebbfdc",
       "title": "Department of Energy and Purdue Partner to Improve Nuclear Reactor Construction",
       "representative_url": "https://inl.gov/news-release/department-of-energy-and-purdue-partner-to-improve-nuclear-reactor-construction/",
-      "first_published_at": "2026-11-08T05:40:47.728142+00:00",
+      "first_published_at": "2026-11-08T13:08:22.530329+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -128,7 +128,7 @@
       "story_id": "story-72ad931876d0d35b",
       "title": "Eagle Nuclear Energy to Acquire Noble Plains Uranium",
       "representative_url": "https://www.mining.com/eagle-nuclear-energy-to-acquire-noble-plains-uranium/",
-      "first_published_at": "2026-11-08T05:40:47.728142+00:00",
+      "first_published_at": "2026-11-08T13:08:22.530329+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -140,20 +140,19 @@
       "score": 2.8
     },
     {
-      "story_id": "story-69ac14686297b4fe",
-      "title": "MARK TODD PETERS, POWER MAG: A Syzygy in Nuclear Energy",
-      "representative_url": "https://www.powermag.com/a-syzygy-in-nuclear-energy/",
-      "first_published_at": "2026-11-05T12:42:48+00:00",
+      "story_id": "story-4eb0bc894c8c487d",
+      "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
+      "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
+      "first_published_at": "2026-11-08T13:08:22.530329+00:00",
       "sources": [
-        "nucleartownhall",
-        "powermag"
+        "oklo"
       ],
-      "duplicate_count": 2,
-      "nuclear_score": 0.4,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "community",
-      "score": 2.7090354888959127
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "industry",
+      "source_tier_rank": 2,
+      "primary_section": "hot",
+      "score": 2.7
     }
   ]
 }
