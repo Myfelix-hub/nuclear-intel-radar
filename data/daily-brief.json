@@ -1,13 +1,44 @@
 {
-  "generated_at": "2026-11-09T09:33:26.156700+00:00",
+  "generated_at": "2026-11-09T20:36:36.018846+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
+      "story_id": "story-a6c8f63799370bd5",
+      "title": "Nuclear Stocks Surge as Oklo Results Spark Rally for Reactors, Uranium Suppliers",
+      "representative_url": "https://www.tradingview.com/news/seekingalpha:1cf8b3351094b:0-nuclear-stocks-surge-as-oklo-results-spark-rally-for-reactors-uranium-suppliers/",
+      "first_published_at": "2026-11-09T20:36:36.018846+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 4.8
+    },
+    {
+      "story_id": "story-c499fdfaeed55466",
+      "title": "Oklo Reserves U.S. Forging Capacity for Aurora Reactor Components",
+      "representative_url": "https://oklo.com/newsroom/oklo-u-s-forged-rings-partner-to-advance-domestic-manufacturing-for-future-aurora-powerhouse-dep",
+      "first_published_at": "2026-11-09T20:36:36.018846+00:00",
+      "sources": [
+        "nucleartownhall",
+        "oklo"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 4.063553233343868
+    },
+    {
       "story_id": "story-960781150bcd0d78",
       "title": "US Nuclear Fusion Reactor Push to Deploy Advanced Plasma Technology, Hardware in New Pact",
       "representative_url": "https://interestingengineering.com/energy/nuclear-fusion-reactor-deploy-advanced-plasma",
-      "first_published_at": "2026-11-09T09:33:26.156700+00:00",
+      "first_published_at": "2026-11-09T20:36:36.018846+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -22,7 +53,7 @@
       "story_id": "story-af950cb5ff66eed5",
       "title": "Regulators Weigh Stricter Nuclear Fuel Reprocessing Safeguard Rules",
       "representative_url": "https://legis1.com/news/reprocessing-plant-exemption-nrc-seeks-comment",
-      "first_published_at": "2026-11-09T09:33:26.156700+00:00",
+      "first_published_at": "2026-11-09T20:36:36.018846+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -37,7 +68,7 @@
       "story_id": "story-491d18c03b4df729",
       "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Sa…",
       "representative_url": "https://www.iaea.org/newscenter/pressreleases/iaea-mission-reviews-the-russian-federations-regulatory-framework-for-nuclear-and-radiation-safety",
-      "first_published_at": "2026-11-09T09:33:26.156700+00:00",
+      "first_published_at": "2026-11-09T20:36:36.018846+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -52,7 +83,7 @@
       "story_id": "story-b02e3057c7ade03f",
       "title": "PNNL Spectrometer Nearly Halves Uranium and Plutonium Analysis Time",
       "representative_url": "https://www.pnnl.gov/news-media/sapphire-pipe-dream-becomes-reality",
-      "first_published_at": "2026-11-09T09:33:26.156700+00:00",
+      "first_published_at": "2026-11-09T20:36:36.018846+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -112,7 +143,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-11-09T09:33:26.156700+00:00",
+      "first_published_at": "2026-11-09T20:36:36.018846+00:00",
       "sources": [
         "oklo"
       ],
@@ -122,36 +153,6 @@
       "source_tier_rank": 2,
       "primary_section": "tech",
       "score": 3.0
-    },
-    {
-      "story_id": "story-190a69bf5bebbfdc",
-      "title": "Department of Energy and Purdue Partner to Improve Nuclear Reactor Construction",
-      "representative_url": "https://inl.gov/news-release/department-of-energy-and-purdue-partner-to-improve-nuclear-reactor-construction/",
-      "first_published_at": "2026-11-09T09:33:26.156700+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "newbuild",
-      "score": 2.8
-    },
-    {
-      "story_id": "story-72ad931876d0d35b",
-      "title": "Eagle Nuclear Energy to Acquire Noble Plains Uranium",
-      "representative_url": "https://www.mining.com/eagle-nuclear-energy-to-acquire-noble-plains-uranium/",
-      "first_published_at": "2026-11-09T09:33:26.156700+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.7,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "fuel",
-      "score": 2.8
     }
   ]
 }

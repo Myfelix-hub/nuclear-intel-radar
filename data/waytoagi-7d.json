@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-09T09:33:26.156700+00:00",
+  "generated_at": "2026-11-09T20:36:36.018846+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-09",
+      "title": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xrv08t/zaporizhzhia_nuclear_plant_relying_on_generators/"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Estonia narrows search for nuclear power plant location",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xruopr/estonia_narrows_search_for_nuclear_power_plant/"
+    },
     {
       "date": "2026-11-09",
       "title": "Uranium-233 canisters stored for decades in the world's oldest operating nuclear building are b…",
@@ -29,11 +39,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xpurue/americas_nuclear_revival_is_running_into_a_fuel/"
     },
     {
-      "date": "2026-11-06",
-      "title": "Construction of Chinese HTGR begins",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xpfnjl/construction_of_chinese_htgr_begins/"
-    },
-    {
       "date": "2026-11-03",
       "title": "New Fast Reactor Runs on Nuclear Waste",
       "url": "https://engineerine.com/nuclear-waste-fuel-reactor/"
@@ -42,13 +47,23 @@
   "updates_today": [
     {
       "date": "2026-11-09",
+      "title": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xrv08t/zaporizhzhia_nuclear_plant_relying_on_generators/"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Estonia narrows search for nuclear power plant location",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xruopr/estonia_narrows_search_for_nuclear_power_plant/"
+    },
+    {
+      "date": "2026-11-09",
       "title": "Uranium-233 canisters stored for decades in the world's oldest operating nuclear building are b…",
       "url": "https://www.reddit.com/r/nuclear/comments/1xrmj31/uranium233_canisters_stored_for_decades_in_the/"
     }
   ],
   "latest_date": "2026-11-09",
-  "count_7d": 7,
-  "count_today": 1,
+  "count_7d": 8,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
