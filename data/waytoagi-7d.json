@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-10T03:22:14.592201+00:00",
+  "generated_at": "2026-11-10T11:38:03.570754+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-10",
+      "title": "Project Omega Raises $80M to Turn Nuclear Waste Into the Pentagon's Next Power Supply",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsgkgb/project_omega_raises_80m_to_turn_nuclear_waste/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "50 MW molten salt reactor design could turn nuclear waste into energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsej2s/50_mw_molten_salt_reactor_design_could_turn/"
+    },
     {
       "date": "2026-11-09",
       "title": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
@@ -29,36 +39,26 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xr0u0c/i_listened_to_the_people_and_made_a_lot_of/"
     },
     {
-      "date": "2026-11-07",
-      "title": "South Korea to develop a molten salt reactor (MSR) technology for maritime use",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xq2qgp/south_korea_to_develop_a_molten_salt_reactor_msr/"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "New Fast Reactor Runs on Nuclear Waste",
-      "url": "https://engineerine.com/nuclear-waste-fuel-reactor/"
+      "date": "2026-11-05",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-11-09",
-      "title": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xrv08t/zaporizhzhia_nuclear_plant_relying_on_generators/"
+      "date": "2026-11-10",
+      "title": "Project Omega Raises $80M to Turn Nuclear Waste Into the Pentagon's Next Power Supply",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsgkgb/project_omega_raises_80m_to_turn_nuclear_waste/"
     },
     {
-      "date": "2026-11-09",
-      "title": "Estonia narrows search for nuclear power plant location",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xruopr/estonia_narrows_search_for_nuclear_power_plant/"
-    },
-    {
-      "date": "2026-11-09",
-      "title": "Uranium-233 canisters stored for decades in the world's oldest operating nuclear building are b…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xrmj31/uranium233_canisters_stored_for_decades_in_the/"
+      "date": "2026-11-10",
+      "title": "50 MW molten salt reactor design could turn nuclear waste into energy",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsej2s/50_mw_molten_salt_reactor_design_could_turn/"
     }
   ],
-  "latest_date": "2026-11-09",
-  "count_7d": 7,
-  "count_today": 3,
+  "latest_date": "2026-11-10",
+  "count_7d": 8,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
