@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:36:36.018846+00:00",
+  "generated_at": "2026-11-10T03:22:14.592201+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -34,11 +34,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xq2qgp/south_korea_to_develop_a_molten_salt_reactor_msr/"
     },
     {
-      "date": "2026-11-07",
-      "title": "America's Nuclear Revival Is Running Into a Fuel Supply Wall",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xpurue/americas_nuclear_revival_is_running_into_a_fuel/"
-    },
-    {
       "date": "2026-11-03",
       "title": "New Fast Reactor Runs on Nuclear Waste",
       "url": "https://engineerine.com/nuclear-waste-fuel-reactor/"
@@ -62,7 +57,7 @@
     }
   ],
   "latest_date": "2026-11-09",
-  "count_7d": 8,
+  "count_7d": 7,
   "count_today": 3,
   "has_error": false,
   "error": null,
