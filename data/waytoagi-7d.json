@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-11-10T11:38:03.570754+00:00",
+  "generated_at": "2026-11-10T19:34:46.239830+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-10",
+      "title": "Fourth Hualong One under construction at San'ao site",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xss636/fourth_hualong_one_under_construction_at_sanao/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Anti nuclear boomer activists are trying to sabotage the creation of Nuclear Lifecycle Innovati…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsrwvi/anti_nuclear_boomer_activists_are_trying_to/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "US issues landmark construction permit for Texas SMR plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsqofs/us_issues_landmark_construction_permit_for_texas/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "US approves construction of its first high-temperature gas-cooled reactor project in nearly 60 …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsp5np/us_approves_construction_of_its_first/"
+    },
     {
       "date": "2026-11-10",
       "title": "Project Omega Raises $80M to Turn Nuclear Waste Into the Pentagon's Next Power Supply",
@@ -47,6 +67,26 @@
   "updates_today": [
     {
       "date": "2026-11-10",
+      "title": "Fourth Hualong One under construction at San'ao site",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xss636/fourth_hualong_one_under_construction_at_sanao/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Anti nuclear boomer activists are trying to sabotage the creation of Nuclear Lifecycle Innovati…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsrwvi/anti_nuclear_boomer_activists_are_trying_to/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "US issues landmark construction permit for Texas SMR plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsqofs/us_issues_landmark_construction_permit_for_texas/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "US approves construction of its first high-temperature gas-cooled reactor project in nearly 60 …",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsp5np/us_approves_construction_of_its_first/"
+    },
+    {
+      "date": "2026-11-10",
       "title": "Project Omega Raises $80M to Turn Nuclear Waste Into the Pentagon's Next Power Supply",
       "url": "https://www.reddit.com/r/nuclear/comments/1xsgkgb/project_omega_raises_80m_to_turn_nuclear_waste/"
     },
@@ -57,8 +97,8 @@
     }
   ],
   "latest_date": "2026-11-10",
-  "count_7d": 8,
-  "count_today": 2,
+  "count_7d": 12,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
