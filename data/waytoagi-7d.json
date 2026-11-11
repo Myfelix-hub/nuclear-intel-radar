@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-10T19:34:46.239830+00:00",
+  "generated_at": "2026-11-11T00:31:28.807380+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-11",
+      "title": "“Chapelcross — Scotland’s First Nuclear Power Station” (1959)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xt2tyd/chapelcross_scotlands_first_nuclear_power_station/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "US issues landmark construction permit for Texas SMR plant",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xt1tfj/us_issues_landmark_construction_permit_for_texas/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Should Germany bring back Nuclear energy to become more Independent energetically?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xsxwbk/should_germany_bring_back_nuclear_energy_to/"
+    },
     {
       "date": "2026-11-10",
       "title": "Fourth Hualong One under construction at San'ao site",
@@ -44,19 +59,9 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xruopr/estonia_narrows_search_for_nuclear_power_plant/"
     },
     {
-      "date": "2026-11-09",
-      "title": "Uranium-233 canisters stored for decades in the world's oldest operating nuclear building are b…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xrmj31/uranium233_canisters_stored_for_decades_in_the/"
-    },
-    {
       "date": "2026-11-08",
       "title": "Nuclear is safe: Arkansas reactor auto-scrammed after losing cooling pumps to lightning",
       "url": "https://www.reddit.com/r/nuclear/comments/1xrbc0n/nuclear_is_safe_arkansas_reactor_autoscrammed/"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "I listened to the people and made a lot of changes and added more nuclear topics! Still 100% fr…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xr0u0c/i_listened_to_the_people_and_made_a_lot_of/"
     },
     {
       "date": "2026-11-05",
@@ -66,39 +71,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-11-10",
-      "title": "Fourth Hualong One under construction at San'ao site",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xss636/fourth_hualong_one_under_construction_at_sanao/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Anti nuclear boomer activists are trying to sabotage the creation of Nuclear Lifecycle Innovati…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsrwvi/anti_nuclear_boomer_activists_are_trying_to/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "US issues landmark construction permit for Texas SMR plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsqofs/us_issues_landmark_construction_permit_for_texas/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "US approves construction of its first high-temperature gas-cooled reactor project in nearly 60 …",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsp5np/us_approves_construction_of_its_first/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Project Omega Raises $80M to Turn Nuclear Waste Into the Pentagon's Next Power Supply",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsgkgb/project_omega_raises_80m_to_turn_nuclear_waste/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "50 MW molten salt reactor design could turn nuclear waste into energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsej2s/50_mw_molten_salt_reactor_design_could_turn/"
+      "date": "2026-11-11",
+      "title": "“Chapelcross — Scotland’s First Nuclear Power Station” (1959)",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xt2tyd/chapelcross_scotlands_first_nuclear_power_station/"
     }
   ],
-  "latest_date": "2026-11-10",
-  "count_7d": 12,
-  "count_today": 6,
+  "latest_date": "2026-11-11",
+  "count_7d": 13,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
