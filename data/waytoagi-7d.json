@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-11T07:39:03.536467+00:00",
+  "generated_at": "2026-11-11T16:00:03.074465+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-11",
+      "title": "80 reactors under construction in 18 countries, 79.9 GW net; China accounts for 35 units",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xti8i7/80_reactors_under_construction_in_18_countries/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Ontario Power Generation first Darlington small modular reactor will miss its 2030 date and its…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xtcr1x/ontario_power_generation_first_darlington_small/"
+    },
     {
       "date": "2026-11-11",
       "title": "This Nuclear Reactor Runs on Thorium and Could Be Cheaper Than Coal?",
@@ -45,23 +55,8 @@
     },
     {
       "date": "2026-11-10",
-      "title": "Project Omega Raises $80M to Turn Nuclear Waste Into the Pentagon's Next Power Supply",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsgkgb/project_omega_raises_80m_to_turn_nuclear_waste/"
-    },
-    {
-      "date": "2026-11-10",
       "title": "50 MW molten salt reactor design could turn nuclear waste into energy",
       "url": "https://www.reddit.com/r/nuclear/comments/1xsej2s/50_mw_molten_salt_reactor_design_could_turn/"
-    },
-    {
-      "date": "2026-11-09",
-      "title": "Estonia narrows search for nuclear power plant location",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xruopr/estonia_narrows_search_for_nuclear_power_plant/"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "Nuclear is safe: Arkansas reactor auto-scrammed after losing cooling pumps to lightning",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xrbc0n/nuclear_is_safe_arkansas_reactor_autoscrammed/"
     },
     {
       "date": "2026-11-05",
@@ -70,6 +65,16 @@
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-11-11",
+      "title": "80 reactors under construction in 18 countries, 79.9 GW net; China accounts for 35 units",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xti8i7/80_reactors_under_construction_in_18_countries/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Ontario Power Generation first Darlington small modular reactor will miss its 2030 date and its…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xtcr1x/ontario_power_generation_first_darlington_small/"
+    },
     {
       "date": "2026-11-11",
       "title": "This Nuclear Reactor Runs on Thorium and Could Be Cheaper Than Coal?",
@@ -82,8 +87,8 @@
     }
   ],
   "latest_date": "2026-11-11",
-  "count_7d": 13,
-  "count_today": 2,
+  "count_7d": 12,
+  "count_today": 4,
   "has_error": false,
   "error": null,
   "warning": null

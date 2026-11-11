@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T07:39:03.536467+00:00",
+  "generated_at": "2026-11-11T16:00:03.074465+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
@@ -22,7 +22,7 @@
       "story_id": "story-a6c8f63799370bd5",
       "title": "Nuclear Stocks Surge as Oklo Results Spark Rally for Reactors, Uranium Suppliers",
       "representative_url": "https://www.tradingview.com/news/seekingalpha:1cf8b3351094b:0-nuclear-stocks-surge-as-oklo-results-spark-rally-for-reactors-uranium-suppliers/",
-      "first_published_at": "2026-11-11T07:39:03.536467+00:00",
+      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -52,7 +52,7 @@
       "story_id": "story-c499fdfaeed55466",
       "title": "Oklo Reserves U.S. Forging Capacity for Aurora Reactor Components",
       "representative_url": "https://oklo.com/newsroom/oklo-u-s-forged-rings-partner-to-advance-domestic-manufacturing-for-future-aurora-powerhouse-dep",
-      "first_published_at": "2026-11-11T07:39:03.536467+00:00",
+      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
       "sources": [
         "nucleartownhall",
         "oklo"
@@ -65,10 +65,42 @@
       "score": 4.063553233343868
     },
     {
+      "story_id": "story-de32d95e10c76a38",
+      "title": "CRAIG PIERCY, NUCLEAR NEWS: Springtime for the Full Nuclear Fuel Cycle",
+      "representative_url": "https://www.ans.org/news/2026-11-10/article-8535/springtime-for-the-full-nuclear-fuel-cycle/",
+      "first_published_at": "2026-11-10T17:32:30+00:00",
+      "sources": [
+        "nucleartownhall",
+        "ans_newswire"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "fuel",
+      "score": 4.063553233343868
+    },
+    {
+      "story_id": "story-d8fff7ac3ad5abe6",
+      "title": "Deep Fission Makes the Case for Risk-Informed, Performance-Based Reactor Regulation",
+      "representative_url": "https://www.ans.org/news/2026-11-10/article-8570/cop-webinar-explores-reactor-developers-perspective-on-ripb-regulation/",
+      "first_published_at": "2026-11-10T13:12:45+00:00",
+      "sources": [
+        "nucleartownhall",
+        "ans_newswire"
+      ],
+      "duplicate_count": 2,
+      "nuclear_score": 0.6,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "policy",
+      "score": 4.063553233343868
+    },
+    {
       "story_id": "story-8f432c6fc9e3bc76",
       "title": "NRC Issues Construction Permit for X-energy’s Advanced Reactor Project in Texas",
       "representative_url": "https://thebreakthrough.org/press/release-nrc-issues-construction-permit-for-x-energys-advanced-reactor-project-in-texas",
-      "first_published_at": "2026-11-11T07:39:03.536467+00:00",
+      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -80,10 +112,41 @@
       "score": 4.0
     },
     {
+      "story_id": "story-0fd62b9aef7a9cb7",
+      "title": "US issues landmark construction permit for Texas SMR plant",
+      "representative_url": "https://www.reddit.com/r/nuclear/comments/1xsqofs/us_issues_landmark_construction_permit_for_texas/",
+      "first_published_at": "2026-11-10T16:02:20+00:00",
+      "sources": [
+        "reddit_nuclear",
+        "nucleartownhall"
+      ],
+      "duplicate_count": 3,
+      "nuclear_score": 0.3,
+      "source_tier": "community",
+      "source_tier_rank": 5,
+      "primary_section": "policy",
+      "score": 3.7775021196025977
+    },
+    {
+      "story_id": "story-f9b86bd78ab2e27c",
+      "title": "Indiana Approves $20 Million Land Purchase for Oklo Isotope Project Amid Nuclear Power Questions",
+      "representative_url": "https://indianacapitalchronicle.com/2026/11/10/leap-district-land-purchase-faces-pushback-over-companys-ties-to-nuclear-power-development/",
+      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "community",
+      "score": 3.6
+    },
+    {
       "story_id": "story-af950cb5ff66eed5",
       "title": "Regulators Weigh Stricter Nuclear Fuel Reprocessing Safeguard Rules",
       "representative_url": "https://legis1.com/news/reprocessing-plant-exemption-nrc-seeks-comment",
-      "first_published_at": "2026-11-11T07:39:03.536467+00:00",
+      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -93,66 +156,6 @@
       "source_tier_rank": 3,
       "primary_section": "fuel",
       "score": 3.6
-    },
-    {
-      "story_id": "story-491d18c03b4df729",
-      "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Sa…",
-      "representative_url": "https://www.iaea.org/newscenter/pressreleases/iaea-mission-reviews-the-russian-federations-regulatory-framework-for-nuclear-and-radiation-safety",
-      "first_published_at": "2026-11-11T07:39:03.536467+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-905ee3b014fe9f27",
-      "title": "Thailand and US Eye Concrete SMR Partnership as 2037 Nuclear Goal Nears",
-      "representative_url": "https://www.nationthailand.com/sustaination/40073307",
-      "first_published_at": "2026-11-11T07:39:03.536467+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "tech",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-26ab723514d5d481",
-      "title": "NRC Issues First Construction Permit in Nearly 60 Years for High-Temperature Gas-Cooled Reactor",
-      "representative_url": "https://www.nrc.gov/about-nrc/news-releases/2026/26-083",
-      "first_published_at": "2026-11-11T07:39:03.536467+00:00",
-      "sources": [
-        "nucleartownhall"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "aggregator",
-      "source_tier_rank": 3,
-      "primary_section": "policy",
-      "score": 3.6
-    },
-    {
-      "story_id": "story-98bcd0d34f2820ef",
-      "title": "This Nuclear Reactor Runs on Thorium and Could Be Cheaper Than Coal?",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1xt60cf/this_nuclear_reactor_runs_on_thorium_and_could_be/",
-      "first_published_at": "2026-11-11T02:26:35+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.6,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "community",
-      "score": 3.5999999999999996
     }
   ]
 }
