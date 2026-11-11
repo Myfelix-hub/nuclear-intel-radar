@@ -1,28 +1,13 @@
 {
-  "generated_at": "2026-11-11T16:00:03.074465+00:00",
+  "generated_at": "2026-11-11T22:38:07.522432+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
-      "story_id": "story-a213f7c49547d026",
-      "title": "50 MW molten salt reactor design could turn nuclear waste into energy",
-      "representative_url": "https://www.reddit.com/r/nuclear/comments/1xsej2s/50_mw_molten_salt_reactor_design_could_turn/",
-      "first_published_at": "2026-11-10T05:17:31+00:00",
-      "sources": [
-        "reddit_nuclear"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 1.0,
-      "source_tier": "community",
-      "source_tier_rank": 5,
-      "primary_section": "tech",
-      "score": 6.0
-    },
-    {
       "story_id": "story-a6c8f63799370bd5",
       "title": "Nuclear Stocks Surge as Oklo Results Spark Rally for Reactors, Uranium Suppliers",
       "representative_url": "https://www.tradingview.com/news/seekingalpha:1cf8b3351094b:0-nuclear-stocks-surge-as-oklo-results-spark-rally-for-reactors-uranium-suppliers/",
-      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
+      "first_published_at": "2026-11-11T22:38:07.522432+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -52,7 +37,7 @@
       "story_id": "story-c499fdfaeed55466",
       "title": "Oklo Reserves U.S. Forging Capacity for Aurora Reactor Components",
       "representative_url": "https://oklo.com/newsroom/oklo-u-s-forged-rings-partner-to-advance-domestic-manufacturing-for-future-aurora-powerhouse-dep",
-      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
+      "first_published_at": "2026-11-11T22:38:07.522432+00:00",
       "sources": [
         "nucleartownhall",
         "oklo"
@@ -100,7 +85,7 @@
       "story_id": "story-8f432c6fc9e3bc76",
       "title": "NRC Issues Construction Permit for X-energy’s Advanced Reactor Project in Texas",
       "representative_url": "https://thebreakthrough.org/press/release-nrc-issues-construction-permit-for-x-energys-advanced-reactor-project-in-texas",
-      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
+      "first_published_at": "2026-11-11T22:38:07.522432+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -131,7 +116,7 @@
       "story_id": "story-f9b86bd78ab2e27c",
       "title": "Indiana Approves $20 Million Land Purchase for Oklo Isotope Project Amid Nuclear Power Questions",
       "representative_url": "https://indianacapitalchronicle.com/2026/11/10/leap-district-land-purchase-faces-pushback-over-companys-ties-to-nuclear-power-development/",
-      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
+      "first_published_at": "2026-11-11T22:38:07.522432+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -146,7 +131,7 @@
       "story_id": "story-af950cb5ff66eed5",
       "title": "Regulators Weigh Stricter Nuclear Fuel Reprocessing Safeguard Rules",
       "representative_url": "https://legis1.com/news/reprocessing-plant-exemption-nrc-seeks-comment",
-      "first_published_at": "2026-11-11T16:00:03.074465+00:00",
+      "first_published_at": "2026-11-11T22:38:07.522432+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -155,6 +140,21 @@
       "source_tier": "aggregator",
       "source_tier_rank": 3,
       "primary_section": "fuel",
+      "score": 3.6
+    },
+    {
+      "story_id": "story-905ee3b014fe9f27",
+      "title": "Thailand and US Eye Concrete SMR Partnership as 2037 Nuclear Goal Nears",
+      "representative_url": "https://www.nationthailand.com/sustaination/40073307",
+      "first_published_at": "2026-11-11T22:38:07.522432+00:00",
+      "sources": [
+        "nucleartownhall"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 0.9,
+      "source_tier": "aggregator",
+      "source_tier_rank": 3,
+      "primary_section": "tech",
       "score": 3.6
     }
   ]

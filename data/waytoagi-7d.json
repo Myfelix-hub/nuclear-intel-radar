@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-11T16:00:03.074465+00:00",
+  "generated_at": "2026-11-11T22:38:07.522432+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-11",
+      "title": "Thorium Nuclear Reactor Explanation [video]",
+      "url": "https://www.youtube.com/watch?v=f-0Vs3D2a9g"
+    },
     {
       "date": "2026-11-11",
       "title": "80 reactors under construction in 18 countries, 79.9 GW net; China accounts for 35 units",
@@ -35,11 +40,6 @@
     },
     {
       "date": "2026-11-10",
-      "title": "Fourth Hualong One under construction at San'ao site",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xss636/fourth_hualong_one_under_construction_at_sanao/"
-    },
-    {
-      "date": "2026-11-10",
       "title": "Anti nuclear boomer activists are trying to sabotage the creation of Nuclear Lifecycle Innovati…",
       "url": "https://www.reddit.com/r/nuclear/comments/1xsrwvi/anti_nuclear_boomer_activists_are_trying_to/"
     },
@@ -54,17 +54,17 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xsp5np/us_approves_construction_of_its_first/"
     },
     {
-      "date": "2026-11-10",
-      "title": "50 MW molten salt reactor design could turn nuclear waste into energy",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsej2s/50_mw_molten_salt_reactor_design_could_turn/"
-    },
-    {
       "date": "2026-11-05",
       "title": "Uranium cubes reveal why the German nuclear project failed",
       "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-11-11",
+      "title": "Thorium Nuclear Reactor Explanation [video]",
+      "url": "https://www.youtube.com/watch?v=f-0Vs3D2a9g"
+    },
     {
       "date": "2026-11-11",
       "title": "80 reactors under construction in 18 countries, 79.9 GW net; China accounts for 35 units",
@@ -87,8 +87,8 @@
     }
   ],
   "latest_date": "2026-11-11",
-  "count_7d": 12,
-  "count_today": 4,
+  "count_7d": 11,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
