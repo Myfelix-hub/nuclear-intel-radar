@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-11T00:31:28.807380+00:00",
+  "generated_at": "2026-11-11T07:39:03.536467+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-11",
+      "title": "This Nuclear Reactor Runs on Thorium and Could Be Cheaper Than Coal?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xt60cf/this_nuclear_reactor_runs_on_thorium_and_could_be/"
+    },
     {
       "date": "2026-11-11",
       "title": "“Chapelcross — Scotland’s First Nuclear Power Station” (1959)",
@@ -50,11 +55,6 @@
     },
     {
       "date": "2026-11-09",
-      "title": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xrv08t/zaporizhzhia_nuclear_plant_relying_on_generators/"
-    },
-    {
-      "date": "2026-11-09",
       "title": "Estonia narrows search for nuclear power plant location",
       "url": "https://www.reddit.com/r/nuclear/comments/1xruopr/estonia_narrows_search_for_nuclear_power_plant/"
     },
@@ -72,13 +72,18 @@
   "updates_today": [
     {
       "date": "2026-11-11",
+      "title": "This Nuclear Reactor Runs on Thorium and Could Be Cheaper Than Coal?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xt60cf/this_nuclear_reactor_runs_on_thorium_and_could_be/"
+    },
+    {
+      "date": "2026-11-11",
       "title": "“Chapelcross — Scotland’s First Nuclear Power Station” (1959)",
       "url": "https://www.reddit.com/r/nuclear/comments/1xt2tyd/chapelcross_scotlands_first_nuclear_power_station/"
     }
   ],
   "latest_date": "2026-11-11",
   "count_7d": 13,
-  "count_today": 1,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
