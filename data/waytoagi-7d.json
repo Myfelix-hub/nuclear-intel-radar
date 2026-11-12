@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:42:44.879751+00:00",
+  "generated_at": "2026-11-12T12:27:12.076827+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -52,11 +52,6 @@
       "date": "2026-11-10",
       "title": "US issues landmark construction permit for Texas SMR plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1xsqofs/us_issues_landmark_construction_permit_for_texas/"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
     }
   ],
   "updates_today": [
@@ -92,7 +87,7 @@
     }
   ],
   "latest_date": "2026-11-11",
-  "count_7d": 11,
+  "count_7d": 10,
   "count_today": 6,
   "has_error": false,
   "error": null,
