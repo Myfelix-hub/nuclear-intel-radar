@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-12T12:27:12.076827+00:00",
+  "generated_at": "2026-11-12T20:20:46.279769+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-12",
+      "title": "Ontario SMR Nuclear Projects Face Delays and Overruns",
+      "url": "https://www.nucnet.org/news/opg-begins-comprehensive-assessment-as-canada-smr-project-faces-delays-and-budget-overruns-11-4-2026"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Oklo and Centrus Sign Definitive HALEU Supply Agreements for Up to Five Aurora Powerhouses",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xugjcz/oklo_and_centrus_sign_definitive_haleu_supply/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "China has more than 20 small nuclear reactor start-ups. Should the US worry? | South China Morn…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xugde1/china_has_more_than_20_small_nuclear_reactor/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xugcgz/opg_begins_comprehensive_assessment_as_canada_smr/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "OPG set to revise timeline and cost of first SMR unit",
+      "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit"
+    },
     {
       "date": "2026-11-11",
       "title": "US pitches 3,000 acres at Cold War-era nuclear site for energy hub",
@@ -27,16 +52,6 @@
       "date": "2026-11-11",
       "title": "This Nuclear Reactor Runs on Thorium and Could Be Cheaper Than Coal?",
       "url": "https://www.reddit.com/r/nuclear/comments/1xt60cf/this_nuclear_reactor_runs_on_thorium_and_could_be/"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "“Chapelcross — Scotland’s First Nuclear Power Station” (1959)",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xt2tyd/chapelcross_scotlands_first_nuclear_power_station/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "US issues landmark construction permit for Texas SMR plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xt1tfj/us_issues_landmark_construction_permit_for_texas/"
     },
     {
       "date": "2026-11-10",
@@ -56,39 +71,34 @@
   ],
   "updates_today": [
     {
-      "date": "2026-11-11",
-      "title": "US pitches 3,000 acres at Cold War-era nuclear site for energy hub",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xtw9w0/us_pitches_3000_acres_at_cold_warera_nuclear_site/"
+      "date": "2026-11-12",
+      "title": "Ontario SMR Nuclear Projects Face Delays and Overruns",
+      "url": "https://www.nucnet.org/news/opg-begins-comprehensive-assessment-as-canada-smr-project-faces-delays-and-budget-overruns-11-4-2026"
     },
     {
-      "date": "2026-11-11",
-      "title": "Thorium Nuclear Reactor Explanation [video]",
-      "url": "https://www.youtube.com/watch?v=f-0Vs3D2a9g"
+      "date": "2026-11-12",
+      "title": "Oklo and Centrus Sign Definitive HALEU Supply Agreements for Up to Five Aurora Powerhouses",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xugjcz/oklo_and_centrus_sign_definitive_haleu_supply/"
     },
     {
-      "date": "2026-11-11",
-      "title": "80 reactors under construction in 18 countries, 79.9 GW net; China accounts for 35 units",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xti8i7/80_reactors_under_construction_in_18_countries/"
+      "date": "2026-11-12",
+      "title": "China has more than 20 small nuclear reactor start-ups. Should the US worry? | South China Morn…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xugde1/china_has_more_than_20_small_nuclear_reactor/"
     },
     {
-      "date": "2026-11-11",
-      "title": "Ontario Power Generation first Darlington small modular reactor will miss its 2030 date and its…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xtcr1x/ontario_power_generation_first_darlington_small/"
+      "date": "2026-11-12",
+      "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xugcgz/opg_begins_comprehensive_assessment_as_canada_smr/"
     },
     {
-      "date": "2026-11-11",
-      "title": "This Nuclear Reactor Runs on Thorium and Could Be Cheaper Than Coal?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xt60cf/this_nuclear_reactor_runs_on_thorium_and_could_be/"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "“Chapelcross — Scotland’s First Nuclear Power Station” (1959)",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xt2tyd/chapelcross_scotlands_first_nuclear_power_station/"
+      "date": "2026-11-12",
+      "title": "OPG set to revise timeline and cost of first SMR unit",
+      "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit"
     }
   ],
-  "latest_date": "2026-11-11",
-  "count_7d": 10,
-  "count_today": 6,
+  "latest_date": "2026-11-12",
+  "count_7d": 13,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
