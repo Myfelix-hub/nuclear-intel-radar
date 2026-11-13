@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-13T01:24:30.314177+00:00",
+  "generated_at": "2026-11-13T08:39:36.910895+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-13",
+      "title": "Making nuclear fusion in your kitchen",
+      "url": "https://hudzah.substack.com/p/making-nuclear-fusion-in-your-kitchen"
+    },
     {
       "date": "2026-11-12",
       "title": "Ontario SMR Nuclear Projects Face Delays and Overruns",
@@ -21,22 +26,12 @@
     {
       "date": "2026-11-12",
       "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xugddn/opg_begins_comprehensive_assessment_as_canada_smr/"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
       "url": "https://www.reddit.com/r/nuclear/comments/1xugcgz/opg_begins_comprehensive_assessment_as_canada_smr/"
     },
     {
       "date": "2026-11-12",
       "title": "OPG set to revise timeline and cost of first SMR unit",
       "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "How Long Could I Survive Extremely High Radiation In A Tungsten Hazmat Suit?(Full Question Belo…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xu9k6r/how_long_could_i_survive_extremely_high_radiation/"
     },
     {
       "date": "2026-11-11",
@@ -50,28 +45,8 @@
     },
     {
       "date": "2026-11-11",
-      "title": "Pickering refurbishment project ahead of schedule, Darlington SMR no longer expected to hit 203…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xtnp0z/pickering_refurbishment_project_ahead_of_schedule/"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "For MSRs, are materials and salt chemistry the bigger challenge than reactor physics?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xtldhr/for_msrs_are_materials_and_salt_chemistry_the/"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "I made a free fission news site that links the original NRC/SEC document behind every story",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xtjszd/i_made_a_free_fission_news_site_that_links_the/"
-    },
-    {
-      "date": "2026-11-11",
       "title": "80 reactors under construction in 18 countries, 79.9 GW net; China accounts for 35 units",
       "url": "https://www.reddit.com/r/nuclear/comments/1xti8i7/80_reactors_under_construction_in_18_countries/"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "80 reactors under construction in 18 countries, 79.9 GW net; China accounts for 35 units",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xti83r/80_reactors_under_construction_in_18_countries/"
     },
     {
       "date": "2026-11-11",
@@ -95,55 +70,20 @@
     },
     {
       "date": "2026-11-10",
-      "title": "RBMK vs Western Reactor: Why One Could Run Away",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xsre09/rbmk_vs_western_reactor_why_one_could_run_away/"
-    },
-    {
-      "date": "2026-11-10",
       "title": "US issues landmark construction permit for Texas SMR plant",
       "url": "https://www.reddit.com/r/nuclear/comments/1xsqofs/us_issues_landmark_construction_permit_for_texas/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-11-12",
-      "title": "Ontario SMR Nuclear Projects Face Delays and Overruns",
-      "url": "https://www.nucnet.org/news/opg-begins-comprehensive-assessment-as-canada-smr-project-faces-delays-and-budget-overruns-11-4-2026"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Oklo and Centrus Sign Definitive HALEU Supply Agreements for Up to Five Aurora Powerhouses",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xugjcz/oklo_and_centrus_sign_definitive_haleu_supply/"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "China has more than 20 small nuclear reactor start-ups. Should the US worry? | South China Morn…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xugde1/china_has_more_than_20_small_nuclear_reactor/"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xugddn/opg_begins_comprehensive_assessment_as_canada_smr/"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xugcgz/opg_begins_comprehensive_assessment_as_canada_smr/"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "OPG set to revise timeline and cost of first SMR unit",
-      "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "How Long Could I Survive Extremely High Radiation In A Tungsten Hazmat Suit?(Full Question Belo…",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xu9k6r/how_long_could_i_survive_extremely_high_radiation/"
+      "date": "2026-11-13",
+      "title": "Making nuclear fusion in your kitchen",
+      "url": "https://hudzah.substack.com/p/making-nuclear-fusion-in-your-kitchen"
     }
   ],
-  "latest_date": "2026-11-12",
-  "count_7d": 20,
-  "count_today": 7,
+  "latest_date": "2026-11-13",
+  "count_7d": 14,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
