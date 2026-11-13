@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-13T17:05:15.514665+00:00",
+  "generated_at": "2026-11-13T22:47:53.307230+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-13",
+      "title": "Good week for Oklo",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xvkw8x/good_week_for_oklo/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Why are some SMR designed to use HALEU fuel instead of low enriched uranium?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xvkuw2/why_are_some_smr_designed_to_use_haleu_fuel/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
+      "url": "https://mastodon.social/@UP8/117598191421119710"
+    },
     {
       "date": "2026-11-13",
       "title": "39 Countries Now Back Tripling Global Nuclear Capacity by 2050",
@@ -62,14 +77,24 @@
       "date": "2026-11-11",
       "title": "Ontario Power Generation first Darlington small modular reactor will miss its 2030 date and its…",
       "url": "https://www.reddit.com/r/nuclear/comments/1xtcr1x/ontario_power_generation_first_darlington_small/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Should Germany bring back Nuclear energy to become more Independent energetically?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsxwbk/should_germany_bring_back_nuclear_energy_to/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-11-13",
+      "title": "Good week for Oklo",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xvkw8x/good_week_for_oklo/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Why are some SMR designed to use HALEU fuel instead of low enriched uranium?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xvkuw2/why_are_some_smr_designed_to_use_haleu_fuel/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
+      "url": "https://mastodon.social/@UP8/117598191421119710"
+    },
     {
       "date": "2026-11-13",
       "title": "39 Countries Now Back Tripling Global Nuclear Capacity by 2050",
@@ -87,8 +112,8 @@
     }
   ],
   "latest_date": "2026-11-13",
-  "count_7d": 13,
-  "count_today": 3,
+  "count_7d": 15,
+  "count_today": 6,
   "has_error": false,
   "error": null,
   "warning": null
