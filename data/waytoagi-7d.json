@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-13T08:39:36.910895+00:00",
+  "generated_at": "2026-11-13T17:05:15.514665+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-13",
+      "title": "39 Countries Now Back Tripling Global Nuclear Capacity by 2050",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xv94qe/39_countries_now_back_tripling_global_nuclear/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "US test reactor cleared for operations",
+      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations"
+    },
     {
       "date": "2026-11-13",
       "title": "Making nuclear fusion in your kitchen",
@@ -54,27 +64,22 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xtcr1x/ontario_power_generation_first_darlington_small/"
     },
     {
-      "date": "2026-11-11",
-      "title": "This Nuclear Reactor Runs on Thorium and Could Be Cheaper Than Coal?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xt60cf/this_nuclear_reactor_runs_on_thorium_and_could_be/"
-    },
-    {
       "date": "2026-11-10",
       "title": "Should Germany bring back Nuclear energy to become more Independent energetically?",
       "url": "https://www.reddit.com/r/nuclear/comments/1xsxwbk/should_germany_bring_back_nuclear_energy_to/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Anti nuclear boomer activists are trying to sabotage the creation of Nuclear Lifecycle Innovati…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsrwvi/anti_nuclear_boomer_activists_are_trying_to/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "US issues landmark construction permit for Texas SMR plant",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xsqofs/us_issues_landmark_construction_permit_for_texas/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-11-13",
+      "title": "39 Countries Now Back Tripling Global Nuclear Capacity by 2050",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xv94qe/39_countries_now_back_tripling_global_nuclear/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "US test reactor cleared for operations",
+      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations"
+    },
     {
       "date": "2026-11-13",
       "title": "Making nuclear fusion in your kitchen",
@@ -82,8 +87,8 @@
     }
   ],
   "latest_date": "2026-11-13",
-  "count_7d": 14,
-  "count_today": 1,
+  "count_7d": 13,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
