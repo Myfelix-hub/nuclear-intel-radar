@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-14T02:59:17.051198+00:00",
+  "generated_at": "2026-11-14T10:09:17.448816+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-14",
+      "title": "No doubt that those representatives can make informed decisions on nuclear power at an internat…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xvywsv/no_doubt_that_those_representatives_can_make/"
+    },
     {
       "date": "2026-11-13",
       "title": "Good week for Oklo",
@@ -72,48 +77,18 @@
       "date": "2026-11-11",
       "title": "80 reactors under construction in 18 countries, 79.9 GW net; China accounts for 35 units",
       "url": "https://www.reddit.com/r/nuclear/comments/1xti8i7/80_reactors_under_construction_in_18_countries/"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "Ontario Power Generation first Darlington small modular reactor will miss its 2030 date and its…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xtcr1x/ontario_power_generation_first_darlington_small/"
     }
   ],
   "updates_today": [
     {
-      "date": "2026-11-13",
-      "title": "Good week for Oklo",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xvkw8x/good_week_for_oklo/"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Why are some SMR designed to use HALEU fuel instead of low enriched uranium?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xvkuw2/why_are_some_smr_designed_to_use_haleu_fuel/"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
-      "url": "https://mastodon.social/@UP8/117598191421119710"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "39 Countries Now Back Tripling Global Nuclear Capacity by 2050",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xv94qe/39_countries_now_back_tripling_global_nuclear/"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "US test reactor cleared for operations",
-      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Making nuclear fusion in your kitchen",
-      "url": "https://hudzah.substack.com/p/making-nuclear-fusion-in-your-kitchen"
+      "date": "2026-11-14",
+      "title": "No doubt that those representatives can make informed decisions on nuclear power at an internat…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xvywsv/no_doubt_that_those_representatives_can_make/"
     }
   ],
-  "latest_date": "2026-11-13",
+  "latest_date": "2026-11-14",
   "count_7d": 15,
-  "count_today": 6,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
