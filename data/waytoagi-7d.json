@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-14T10:09:17.448816+00:00",
+  "generated_at": "2026-11-14T16:41:23.125679+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-14",
+      "title": "Interesting video about OKLO and their SMRs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xw36xd/interesting_video_about_oklo_and_their_smrs/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Interesting video about OKLO and their SMRs",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xw36f6/interesting_video_about_oklo_and_their_smrs/"
+    },
     {
       "date": "2026-11-14",
       "title": "No doubt that those representatives can make informed decisions on nuclear power at an internat…",
@@ -35,6 +45,11 @@
     },
     {
       "date": "2026-11-13",
+      "title": "Ifsfi nuclear plant CT through Allied",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xv400c/ifsfi_nuclear_plant_ct_through_allied/"
+    },
+    {
+      "date": "2026-11-13",
       "title": "Making nuclear fusion in your kitchen",
       "url": "https://hudzah.substack.com/p/making-nuclear-fusion-in-your-kitchen"
     },
@@ -64,6 +79,11 @@
       "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit"
     },
     {
+      "date": "2026-11-12",
+      "title": "How Long Could I Survive Extremely High Radiation In A Tungsten Hazmat Suit?(Full Question Belo…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xu9k6r/how_long_could_i_survive_extremely_high_radiation/"
+    },
+    {
       "date": "2026-11-11",
       "title": "US pitches 3,000 acres at Cold War-era nuclear site for energy hub",
       "url": "https://www.reddit.com/r/nuclear/comments/1xtw9w0/us_pitches_3000_acres_at_cold_warera_nuclear_site/"
@@ -75,11 +95,21 @@
     },
     {
       "date": "2026-11-11",
-      "title": "80 reactors under construction in 18 countries, 79.9 GW net; China accounts for 35 units",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xti8i7/80_reactors_under_construction_in_18_countries/"
+      "title": "Pickering refurbishment project ahead of schedule, Darlington SMR no longer expected to hit 203…",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xtnp0z/pickering_refurbishment_project_ahead_of_schedule/"
     }
   ],
   "updates_today": [
+    {
+      "date": "2026-11-14",
+      "title": "Interesting video about OKLO and their SMRs",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xw36xd/interesting_video_about_oklo_and_their_smrs/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Interesting video about OKLO and their SMRs",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1xw36f6/interesting_video_about_oklo_and_their_smrs/"
+    },
     {
       "date": "2026-11-14",
       "title": "No doubt that those representatives can make informed decisions on nuclear power at an internat…",
@@ -87,8 +117,8 @@
     }
   ],
   "latest_date": "2026-11-14",
-  "count_7d": 15,
-  "count_today": 1,
+  "count_7d": 19,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
