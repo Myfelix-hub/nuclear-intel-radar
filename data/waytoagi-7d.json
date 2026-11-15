@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:16:10.965216+00:00",
+  "generated_at": "2026-11-15T01:13:44.285902+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -70,11 +70,6 @@
     },
     {
       "date": "2026-11-11",
-      "title": "US pitches 3,000 acres at Cold War-era nuclear site for energy hub",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xtw9w0/us_pitches_3000_acres_at_cold_warera_nuclear_site/"
-    },
-    {
-      "date": "2026-11-11",
       "title": "Thorium Nuclear Reactor Explanation [video]",
       "url": "https://www.youtube.com/watch?v=f-0Vs3D2a9g"
     }
@@ -92,7 +87,7 @@
     }
   ],
   "latest_date": "2026-11-14",
-  "count_7d": 15,
+  "count_7d": 14,
   "count_today": 2,
   "has_error": false,
   "error": null,
