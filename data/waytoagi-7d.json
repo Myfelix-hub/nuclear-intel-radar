@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-15T15:49:06.033270+00:00",
+  "generated_at": "2026-11-15T20:57:02.365487+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-15",
+      "title": "The challenge of securing uranium from seawater - podcast",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xx2aa8/the_challenge_of_securing_uranium_from_seawater/"
+    },
     {
       "date": "2026-11-14",
       "title": "Interesting video about OKLO and their SMRs",
@@ -50,21 +55,6 @@
     },
     {
       "date": "2026-11-12",
-      "title": "Oklo and Centrus Sign Definitive HALEU Supply Agreements for Up to Five Aurora Powerhouses",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xugjcz/oklo_and_centrus_sign_definitive_haleu_supply/"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "China has more than 20 small nuclear reactor start-ups. Should the US worry? | South China Morn…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xugde1/china_has_more_than_20_small_nuclear_reactor/"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xugcgz/opg_begins_comprehensive_assessment_as_canada_smr/"
-    },
-    {
-      "date": "2026-11-12",
       "title": "OPG set to revise timeline and cost of first SMR unit",
       "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit"
     },
@@ -76,19 +66,14 @@
   ],
   "updates_today": [
     {
-      "date": "2026-11-14",
-      "title": "Interesting video about OKLO and their SMRs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xw36xd/interesting_video_about_oklo_and_their_smrs/"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "No doubt that those representatives can make informed decisions on nuclear power at an internat…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xvywsv/no_doubt_that_those_representatives_can_make/"
+      "date": "2026-11-15",
+      "title": "The challenge of securing uranium from seawater - podcast",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xx2aa8/the_challenge_of_securing_uranium_from_seawater/"
     }
   ],
-  "latest_date": "2026-11-14",
-  "count_7d": 14,
-  "count_today": 2,
+  "latest_date": "2026-11-15",
+  "count_7d": 12,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
