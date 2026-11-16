@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-11-15T20:57:02.365487+00:00",
+  "generated_at": "2026-11-16T00:55:07.386651+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-15",
+      "title": "Asia Is Building 73% of the World's New Nuclear Capacity",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xx9ley/asia_is_building_73_of_the_worlds_new_nuclear/"
+    },
     {
       "date": "2026-11-15",
       "title": "The challenge of securing uranium from seawater - podcast",
@@ -67,13 +72,18 @@
   "updates_today": [
     {
       "date": "2026-11-15",
+      "title": "Asia Is Building 73% of the World's New Nuclear Capacity",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xx9ley/asia_is_building_73_of_the_worlds_new_nuclear/"
+    },
+    {
+      "date": "2026-11-15",
       "title": "The challenge of securing uranium from seawater - podcast",
       "url": "https://www.reddit.com/r/nuclear/comments/1xx2aa8/the_challenge_of_securing_uranium_from_seawater/"
     }
   ],
   "latest_date": "2026-11-15",
-  "count_7d": 12,
-  "count_today": 1,
+  "count_7d": 13,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
