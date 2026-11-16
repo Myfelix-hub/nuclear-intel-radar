@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-11-16T07:49:20.514557+00:00",
+  "generated_at": "2026-11-16T18:16:11.591579+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
     {
       "date": "2026-11-16",
-      "title": "Why do people say nuclear reactors are dangerously radioactive when they aren’t melting down",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xxdp0e/why_do_people_say_nuclear_reactors_are/"
+      "title": "Türkiye eyes CANDU Reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxw74g/türkiye_eyes_candu_reactors/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Steps to become a Nuclear Engineer in UK?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxsewk/steps_to_become_a_nuclear_engineer_in_uk/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "First HALEU enrichment agreement for a commercial lead-cooled reactor signed",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxqelb/first_haleu_enrichment_agreement_for_a_commercial/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxoxoi/exclusive_risk_of_nuclear_accident_in_ukraine/"
     },
     {
       "date": "2026-11-16",
@@ -20,38 +35,13 @@
     },
     {
       "date": "2026-11-15",
-      "title": "Are there any Point Lepreau or Cernavoda control room operators on Reddit?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xx4uit/are_there_any_point_lepreau_or_cernavoda_control/"
-    },
-    {
-      "date": "2026-11-15",
       "title": "The challenge of securing uranium from seawater - podcast",
       "url": "https://www.reddit.com/r/nuclear/comments/1xx2aa8/the_challenge_of_securing_uranium_from_seawater/"
-    },
-    {
-      "date": "2026-11-15",
-      "title": "How much does standardization matter for the economics of advanced reactors?",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xww6uu/how_much_does_standardization_matter_for_the/"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "Request for Survey Participation – High School Research Project on Nuclear Energy",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xwb06p/request_for_survey_participation_high_school/"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "Nuclear Industry Professionals – University Research on Radiological Protection & Containment",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xwa46v/nuclear_industry_professionals_university/"
     },
     {
       "date": "2026-11-14",
       "title": "Interesting video about OKLO and their SMRs",
       "url": "https://www.reddit.com/r/nuclear/comments/1xw36xd/interesting_video_about_oklo_and_their_smrs/"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "Interesting video about OKLO and their SMRs",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xw36f6/interesting_video_about_oklo_and_their_smrs/"
     },
     {
       "date": "2026-11-14",
@@ -72,11 +62,6 @@
       "date": "2026-11-13",
       "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
       "url": "https://mastodon.social/@UP8/117598191421119710"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "39 Countries Now Back Tripling Global Nuclear Capacity by 2050",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xv94qe/39_countries_now_back_tripling_global_nuclear/"
     },
     {
       "date": "2026-11-13",
@@ -107,8 +92,23 @@
   "updates_today": [
     {
       "date": "2026-11-16",
-      "title": "Why do people say nuclear reactors are dangerously radioactive when they aren’t melting down",
-      "url": "https://www.reddit.com/r/NuclearPower/comments/1xxdp0e/why_do_people_say_nuclear_reactors_are/"
+      "title": "Türkiye eyes CANDU Reactors",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxw74g/türkiye_eyes_candu_reactors/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Steps to become a Nuclear Engineer in UK?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxsewk/steps_to_become_a_nuclear_engineer_in_uk/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "First HALEU enrichment agreement for a commercial lead-cooled reactor signed",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxqelb/first_haleu_enrichment_agreement_for_a_commercial/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators…",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxoxoi/exclusive_risk_of_nuclear_accident_in_ukraine/"
     },
     {
       "date": "2026-11-16",
@@ -117,8 +117,8 @@
     }
   ],
   "latest_date": "2026-11-16",
-  "count_7d": 20,
-  "count_today": 2,
+  "count_7d": 17,
+  "count_today": 5,
   "has_error": false,
   "error": null,
   "warning": null
