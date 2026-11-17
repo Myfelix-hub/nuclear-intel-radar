@@ -1,63 +1,8 @@
 {
-  "generated_at": "2026-11-17T10:34:50.229036+00:00",
+  "generated_at": "2026-11-17T19:43:11.569787+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
-    {
-      "date": "2026-11-17",
-      "title": "Nuscale is in trouble",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xygn4t/nuscale_is_in_trouble/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "What It Takes to Succeed: Commercial Nuclear Delivered at Scale",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xy4kk5/what_it_takes_to_succeed_commercial_nuclear/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Is it plausible to pursue Nuclear as a master degree?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xy2sao/is_it_plausible_to_pursue_nuclear_as_a_master/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Low electricity prices could impact EPR2 programme funding, auditor warns",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xxyjnz/low_electricity_prices_could_impact_epr2/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Newcleo, Curio team up for recycled nuclear fuel supply",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xxyhb3/newcleo_curio_team_up_for_recycled_nuclear_fuel/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Türkiye eyes CANDU Reactors",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xxw74g/türkiye_eyes_candu_reactors/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Steps to become a Nuclear Engineer in UK?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xxsewk/steps_to_become_a_nuclear_engineer_in_uk/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "First HALEU enrichment agreement for a commercial lead-cooled reactor signed",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xxqelb/first_haleu_enrichment_agreement_for_a_commercial/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xxoxoi/exclusive_risk_of_nuclear_accident_in_ukraine/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Iran to launch first fully indigenous nuclear fusion system",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xxcndo/iran_to_launch_first_fully_indigenous_nuclear/"
-    },
-    {
-      "date": "2026-11-15",
-      "title": "Asia Is Building 73% of the World's New Nuclear Capacity",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xx9ley/asia_is_building_73_of_the_worlds_new_nuclear/"
-    },
     {
       "date": "2026-11-13",
       "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
@@ -91,14 +36,24 @@
   ],
   "updates_today": [
     {
-      "date": "2026-11-17",
-      "title": "Nuscale is in trouble",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xygn4t/nuscale_is_in_trouble/"
+      "date": "2026-11-13",
+      "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
+      "url": "https://mastodon.social/@UP8/117598191421119710"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "US test reactor cleared for operations",
+      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Making nuclear fusion in your kitchen",
+      "url": "https://hudzah.substack.com/p/making-nuclear-fusion-in-your-kitchen"
     }
   ],
-  "latest_date": "2026-11-17",
-  "count_7d": 17,
-  "count_today": 1,
+  "latest_date": "2026-11-13",
+  "count_7d": 6,
+  "count_today": 3,
   "has_error": false,
   "error": null,
   "warning": null
