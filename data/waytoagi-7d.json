@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-11-16T18:16:11.591579+00:00",
+  "generated_at": "2026-11-17T01:59:35.193326+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
+    {
+      "date": "2026-11-16",
+      "title": "What It Takes to Succeed: Commercial Nuclear Delivered at Scale",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xy4kk5/what_it_takes_to_succeed_commercial_nuclear/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Is it plausible to pursue Nuclear as a master degree?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xy2sao/is_it_plausible_to_pursue_nuclear_as_a_master/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Low electricity prices could impact EPR2 programme funding, auditor warns",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxyjnz/low_electricity_prices_could_impact_epr2/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Newcleo, Curio team up for recycled nuclear fuel supply",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxyhb3/newcleo_curio_team_up_for_recycled_nuclear_fuel/"
+    },
     {
       "date": "2026-11-16",
       "title": "Türkiye eyes CANDU Reactors",
@@ -39,26 +59,6 @@
       "url": "https://www.reddit.com/r/nuclear/comments/1xx2aa8/the_challenge_of_securing_uranium_from_seawater/"
     },
     {
-      "date": "2026-11-14",
-      "title": "Interesting video about OKLO and their SMRs",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xw36xd/interesting_video_about_oklo_and_their_smrs/"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "No doubt that those representatives can make informed decisions on nuclear power at an internat…",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xvywsv/no_doubt_that_those_representatives_can_make/"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Good week for Oklo",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xvkw8x/good_week_for_oklo/"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Why are some SMR designed to use HALEU fuel instead of low enriched uranium?",
-      "url": "https://www.reddit.com/r/nuclear/comments/1xvkuw2/why_are_some_smr_designed_to_use_haleu_fuel/"
-    },
-    {
       "date": "2026-11-13",
       "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
       "url": "https://mastodon.social/@UP8/117598191421119710"
@@ -92,6 +92,26 @@
   "updates_today": [
     {
       "date": "2026-11-16",
+      "title": "What It Takes to Succeed: Commercial Nuclear Delivered at Scale",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xy4kk5/what_it_takes_to_succeed_commercial_nuclear/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Is it plausible to pursue Nuclear as a master degree?",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xy2sao/is_it_plausible_to_pursue_nuclear_as_a_master/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Low electricity prices could impact EPR2 programme funding, auditor warns",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxyjnz/low_electricity_prices_could_impact_epr2/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Newcleo, Curio team up for recycled nuclear fuel supply",
+      "url": "https://www.reddit.com/r/nuclear/comments/1xxyhb3/newcleo_curio_team_up_for_recycled_nuclear_fuel/"
+    },
+    {
+      "date": "2026-11-16",
       "title": "Türkiye eyes CANDU Reactors",
       "url": "https://www.reddit.com/r/nuclear/comments/1xxw74g/türkiye_eyes_candu_reactors/"
     },
@@ -118,7 +138,7 @@
   ],
   "latest_date": "2026-11-16",
   "count_7d": 17,
-  "count_today": 5,
+  "count_today": 9,
   "has_error": false,
   "error": null,
   "warning": null
