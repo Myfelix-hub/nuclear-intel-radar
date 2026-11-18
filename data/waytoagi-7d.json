@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:35:45.655431+00:00",
+  "generated_at": "2026-11-18T19:19:25.781162+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -27,11 +27,6 @@
       "date": "2026-11-12",
       "title": "OPG set to revise timeline and cost of first SMR unit",
       "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "Thorium Nuclear Reactor Explanation [video]",
-      "url": "https://www.youtube.com/watch?v=f-0Vs3D2a9g"
     }
   ],
   "updates_today": [
@@ -52,7 +47,7 @@
     }
   ],
   "latest_date": "2026-11-13",
-  "count_7d": 6,
+  "count_7d": 5,
   "count_today": 3,
   "has_error": false,
   "error": null,
