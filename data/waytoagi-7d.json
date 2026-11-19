@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:20:55.451114+00:00",
+  "generated_at": "2026-11-19T18:34:05.226775+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -17,16 +17,6 @@
       "date": "2026-11-13",
       "title": "Making nuclear fusion in your kitchen",
       "url": "https://hudzah.substack.com/p/making-nuclear-fusion-in-your-kitchen"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Ontario SMR Nuclear Projects Face Delays and Overruns",
-      "url": "https://www.nucnet.org/news/opg-begins-comprehensive-assessment-as-canada-smr-project-faces-delays-and-budget-overruns-11-4-2026"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "OPG set to revise timeline and cost of first SMR unit",
-      "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit"
     }
   ],
   "updates_today": [
@@ -47,7 +37,7 @@
     }
   ],
   "latest_date": "2026-11-13",
-  "count_7d": 5,
+  "count_7d": 3,
   "count_today": 3,
   "has_error": false,
   "error": null,
