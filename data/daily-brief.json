@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-11-19T18:34:05.226775+00:00",
+  "generated_at": "2026-11-20T01:08:33.714967+00:00",
   "window_hours": 72,
   "total_items": 10,
   "items": [
     {
+      "story_id": "story-188b537af56a1c6d",
+      "title": "Blykalla Secures World’s First HALEU Enrichment Contract for a Commercial Lead-Cooled Reactor",
+      "representative_url": "https://www.powermag.com/blykalla-secures-worlds-first-haleu-enrichment-contract-for-a-commercial-lead-cooled-reactor/",
+      "first_published_at": "2026-11-19T21:50:24+00:00",
+      "sources": [
+        "powermag"
+      ],
+      "duplicate_count": 1,
+      "nuclear_score": 1.2,
+      "source_tier": "general_media",
+      "source_tier_rank": 4,
+      "primary_section": "fuel",
+      "score": 6.0
+    },
+    {
       "story_id": "story-dbad245fb0d5c54f",
       "title": "NRC Advisory Committee on Reactor Safeguards to Focus More on Newer Tech",
       "representative_url": "https://www.exchangemonitor.com/nrc-advisory-committee-on-reactor-safeguards-to-focus-more-on-newer-tech/",
-      "first_published_at": "2026-11-19T18:34:05.226775+00:00",
+      "first_published_at": "2026-11-20T01:08:33.714967+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -22,7 +37,7 @@
       "story_id": "story-364bd136cb58d653",
       "title": "U.S. Department of Energy Approves Final Safety Analysis for Oklo's Groves Isotope Test Reactor…",
       "representative_url": "https://oklo.com/newsroom/u-s-department-of-energy-approves-final-safety-analysis-for-oklos-groves-isotope-test-reactor-ad",
-      "first_published_at": "2026-11-19T18:34:05.226775+00:00",
+      "first_published_at": "2026-11-20T01:08:33.714967+00:00",
       "sources": [
         "oklo"
       ],
@@ -37,7 +52,7 @@
       "story_id": "story-7438c185ec148b78",
       "title": "Nuclear Energy Coalition Urges Congress to Advance Spent Fuel Management",
       "representative_url": "https://thebreakthrough.org/issues/nuclear-energy-innovation/nuclear-energy-coalition-urges-congress-to-advance-spent-fuel-management",
-      "first_published_at": "2026-11-19T18:34:05.226775+00:00",
+      "first_published_at": "2026-11-20T01:08:33.714967+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -52,7 +67,7 @@
       "story_id": "story-5a886c9cf4bcd0dd",
       "title": "US Energy Chief Joins Nearly 30 Nations in Warsaw for Talks on LNG and Nuclear Power",
       "representative_url": "https://tvpworld.com/96548487/warsaw-energy-summit-us-and-europe-discuss-lng-and-nuclear-power",
-      "first_published_at": "2026-11-19T18:34:05.226775+00:00",
+      "first_published_at": "2026-11-20T01:08:33.714967+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -67,7 +82,7 @@
       "story_id": "story-a0a7394149760128",
       "title": "NRC Accepts Blue Energy’s Partial Gas-to-Nuclear Plant Application for Review",
       "representative_url": "https://www.exchangemonitor.com/nrc-accepts-blue-energys-partial-gas-to-nuclear-plant-application-for-review/",
-      "first_published_at": "2026-11-19T18:34:05.226775+00:00",
+      "first_published_at": "2026-11-20T01:08:33.714967+00:00",
       "sources": [
         "nucleartownhall"
       ],
@@ -82,7 +97,7 @@
       "story_id": "story-4eb0bc894c8c487d",
       "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
       "representative_url": "https://oklo.com/newsroom/oklos-groves-reactor-achieves-first-criticality-in-under-a-year",
-      "first_published_at": "2026-11-19T18:34:05.226775+00:00",
+      "first_published_at": "2026-11-20T01:08:33.714967+00:00",
       "sources": [
         "oklo"
       ],
@@ -97,7 +112,7 @@
       "story_id": "story-e8d9b69bff65b6d5",
       "title": "How Kairos Power is Putting “Modular” into its Small Modular Reactors",
       "representative_url": "https://www.kairospower.com/updates/how-kairos-power-is-putting-modular-into-its-small-modular-reactors",
-      "first_published_at": "2026-11-19T18:34:05.226775+00:00",
+      "first_published_at": "2026-11-20T01:08:33.714967+00:00",
       "sources": [
         "kairos"
       ],
@@ -112,7 +127,7 @@
       "story_id": "story-683c02d9e8a3afb3",
       "title": "Producing a 1960s Molten Salt Coolant for 21st Century Reactors",
       "representative_url": "https://www.kairospower.com/updates/producing-a-1960s-molten-salt-coolant-for-21st-century-reactors",
-      "first_published_at": "2026-11-19T18:34:05.226775+00:00",
+      "first_published_at": "2026-11-20T01:08:33.714967+00:00",
       "sources": [
         "kairos"
       ],
@@ -127,7 +142,7 @@
       "story_id": "story-4cac66c6fef215a4",
       "title": "What is Flibe? Five Fast Facts About Kairos Power's Molten Salt Coolant",
       "representative_url": "https://www.kairospower.com/updates/what-is-flibe-five-fast-facts-about-kairos-powers-molten-salt-coolant",
-      "first_published_at": "2026-11-19T18:34:05.226775+00:00",
+      "first_published_at": "2026-11-20T01:08:33.714967+00:00",
       "sources": [
         "kairos"
       ],
@@ -136,21 +151,6 @@
       "source_tier": "industry",
       "source_tier_rank": 2,
       "primary_section": "safety",
-      "score": 2.7
-    },
-    {
-      "story_id": "story-dc60bbe7418f4bff",
-      "title": "Radii of Sn Isotopes near the Proton Dripline from Nuclear Lattice Effective Field Theory",
-      "representative_url": "https://arxiv.org/abs/2611.24572",
-      "first_published_at": "2026-11-19T05:00:00+00:00",
-      "sources": [
-        "arxiv_nuclth"
-      ],
-      "duplicate_count": 1,
-      "nuclear_score": 0.9,
-      "source_tier": "research",
-      "source_tier_rank": 2,
-      "primary_section": "research",
       "score": 2.7
     }
   ]
