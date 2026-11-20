@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:03:27.768765+00:00",
+  "generated_at": "2026-11-20T17:57:07.481067+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -7,11 +7,6 @@
       "date": "2026-11-13",
       "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
       "url": "https://mastodon.social/@UP8/117598191421119710"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "US test reactor cleared for operations",
-      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations"
     }
   ],
   "updates_today": [
@@ -19,16 +14,11 @@
       "date": "2026-11-13",
       "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
       "url": "https://mastodon.social/@UP8/117598191421119710"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "US test reactor cleared for operations",
-      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations"
     }
   ],
   "latest_date": "2026-11-13",
-  "count_7d": 2,
-  "count_today": 2,
+  "count_7d": 1,
+  "count_today": 1,
   "has_error": false,
   "error": null,
   "warning": null
