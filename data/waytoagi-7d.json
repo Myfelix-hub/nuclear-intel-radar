@@ -1,25 +1,13 @@
 {
-  "generated_at": "2026-11-20T17:57:07.481067+00:00",
+  "generated_at": "2026-11-20T23:55:40.854881+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
-  "updates_7d": [
-    {
-      "date": "2026-11-13",
-      "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
-      "url": "https://mastodon.social/@UP8/117598191421119710"
-    }
-  ],
-  "updates_today": [
-    {
-      "date": "2026-11-13",
-      "title": "This space used to contain a nuclear reactor but it is becoming a space lab",
-      "url": "https://mastodon.social/@UP8/117598191421119710"
-    }
-  ],
-  "latest_date": "2026-11-13",
-  "count_7d": 1,
-  "count_today": 1,
+  "updates_7d": [],
+  "updates_today": [],
+  "latest_date": "",
+  "count_7d": 0,
+  "count_today": 0,
   "has_error": false,
   "error": null,
-  "warning": null
+  "warning": "本周暂无 HN / Reddit r/nuclear 更新"
 }
