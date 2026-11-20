@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:08:33.714967+00:00",
+  "generated_at": "2026-11-20T09:03:27.768765+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
   "updates_7d": [
@@ -12,11 +12,6 @@
       "date": "2026-11-13",
       "title": "US test reactor cleared for operations",
       "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Making nuclear fusion in your kitchen",
-      "url": "https://hudzah.substack.com/p/making-nuclear-fusion-in-your-kitchen"
     }
   ],
   "updates_today": [
@@ -29,16 +24,11 @@
       "date": "2026-11-13",
       "title": "US test reactor cleared for operations",
       "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Making nuclear fusion in your kitchen",
-      "url": "https://hudzah.substack.com/p/making-nuclear-fusion-in-your-kitchen"
     }
   ],
   "latest_date": "2026-11-13",
-  "count_7d": 3,
-  "count_today": 3,
+  "count_7d": 2,
+  "count_today": 2,
   "has_error": false,
   "error": null,
   "warning": null
