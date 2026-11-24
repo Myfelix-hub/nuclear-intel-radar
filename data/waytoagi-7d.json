@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-11-23T14:18:05.384042+00:00",
+  "generated_at": "2026-11-24T01:49:57.347404+00:00",
   "root_url": "https://news.ycombinator.com/",
   "history_url": "https://www.reddit.com/r/nuclear/",
-  "updates_7d": [],
-  "updates_today": [],
-  "latest_date": "",
-  "count_7d": 0,
-  "count_today": 0,
+  "updates_7d": [
+    {
+      "date": "2026-11-23",
+      "title": "Pacific Fusion secures key licence for New Mexico campus",
+      "url": "https://world-nuclear-news.org/articles/pacific-fusion-secures-key-licence-for-new-mexico-campus"
+    }
+  ],
+  "updates_today": [
+    {
+      "date": "2026-11-23",
+      "title": "Pacific Fusion secures key licence for New Mexico campus",
+      "url": "https://world-nuclear-news.org/articles/pacific-fusion-secures-key-licence-for-new-mexico-campus"
+    }
+  ],
+  "latest_date": "2026-11-23",
+  "count_7d": 1,
+  "count_today": 1,
   "has_error": false,
   "error": null,
-  "warning": "本周暂无 HN / Reddit r/nuclear 更新"
+  "warning": null
 }
